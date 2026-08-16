@@ -1,0 +1,2746 @@
+{
+  "stories": [
+    {
+      "id": "fn-1",
+      "section": "finance",
+      "headline": "Shoppers spent less, so markets now bet the Fed will wait",
+      "dek": "July U.S. retail sales fell more than expected, and traders now think the U.S. central bank is less likely to raise interest rates in September.",
+      "caveman": "Imagine the United States as a giant store. Last month, people bought less stuff than experts thought they would. That is called retail sales. The number dropped 0.6 percent in July. People also said they feel worse about money. A survey of how Americans feel about the economy fell to 51, which is a gloomy score. Why does a shop matter to the whole world? Because the U.S. has a group of officials who set the price of borrowing money. That group is the Federal Reserve, often just called the Fed. When the Fed raises interest rates, loans, houses, and credit cards get more expensive. That can slow price rises, but it can also hurt jobs. Before this week, many traders thought the Fed would raise rates again in mid-September. After the weak shopping numbers, most now think the Fed will hold still. Stocks had just hit a record high, then slipped a little on Friday. Gold went up. The U.S. dollar went down a bit. The story is simple: people are spending less, so the money bosses may stop tightening the screws.",
+      "why_it_matters": "About seven-tenths of the U.S. economy is people buying things. If they keep pulling back, companies make less money and stock markets can fall. But if weaker shopping also cools inflation, the Fed can leave rates alone, which many investors like. The catch is that prices are still rising faster than the Fed wants, and oil from the Iran war could push them up again.",
+      "camps": "Investors who own stocks mostly want the Fed to pause, because cheap borrowing helps share prices. Some economists warn that wishing for weak shopping is dangerous: if people stop buying for too long, profits and jobs suffer. Fed Chair Kevin Warsh has not said what he will do next. The White House wants cheaper living costs for voters before November elections. Critics say the Fed should stay independent and follow the data, not politics.",
+      "source_name": "Reuters (via LSE / American Banker)",
+      "source_url": "https://www.lse.co.uk/news/global-markets-oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-q8vpdfxuzb30mkv.html",
+      "published": "2026-08-14",
+      "category": "economy",
+      "terms": [
+        {
+          "term": "retail sales",
+          "aliases": [
+            "shopping numbers"
+          ],
+          "explain": "A monthly count of how much money people in a country spend in stores and online. If the number falls, it often means households are nervous or poorer."
+        },
+        {
+          "term": "Federal Reserve",
+          "aliases": [
+            "the Fed",
+            "U.S. central bank"
+          ],
+          "explain": "The main bank of the United States. It does not serve regular customers. Its job is to keep prices from rising too fast and to keep as many people working as it can."
+        },
+        {
+          "term": "interest rate",
+          "aliases": [
+            "borrowing cost",
+            "rate hike"
+          ],
+          "explain": "The extra money you pay to borrow. If the Fed raises this rate, mortgages, car loans, and credit cards get more expensive."
+        },
+        {
+          "term": "inflation",
+          "aliases": [
+            "rising prices",
+            "cost of living",
+            "high prices in Iran"
+          ],
+          "explain": "When the same basket of food, rent, and fuel costs more than it did last year. A little inflation is normal. A lot of it hurts people who live on wages."
+        },
+        {
+          "term": "consumer sentiment",
+          "aliases": [
+            "consumer confidence",
+            "University of Michigan survey"
+          ],
+          "explain": "A poll that asks regular people how they feel about their money and the future. A falling score means people are worried."
+        },
+        {
+          "term": "S&P 500",
+          "aliases": [
+            "stock index"
+          ],
+          "explain": "A list of 500 big U.S. companies. When people say 'the market hit a record,' they often mean this list went higher than ever."
+        },
+        {
+          "term": "Treasury yield",
+          "aliases": [
+            "bond yield",
+            "10-year yield"
+          ],
+          "explain": "The return you get for lending money to the U.S. government. When yields rise, borrowing gets costlier for everyone."
+        },
+        {
+          "term": "dollar index",
+          "aliases": [
+            "U.S. dollar"
+          ],
+          "explain": "A score that shows whether the U.S. dollar is strong or weak against other currencies. A weaker dollar can make imports cost more."
+        },
+        {
+          "term": "gold",
+          "aliases": [
+            "safe haven"
+          ],
+          "explain": "A metal people buy when they are scared of war, inflation, or messy politics. Its price often rises when other assets look risky."
+        },
+        {
+          "term": "Jackson Hole",
+          "aliases": [
+            "Jackson Hole symposium"
+          ],
+          "explain": "A yearly meeting of central bankers in Wyoming, U.S. The Fed chair often gives a speech there that moves markets. This year's meeting is August 27 to 29."
+        },
+        {
+          "term": "Kevin Warsh",
+          "aliases": [
+            "Fed Chair"
+          ],
+          "explain": "The current head of the Federal Reserve. He has not clearly said whether rates will go up in September."
+        },
+        {
+          "term": "core inflation",
+          "aliases": [
+            "core CPI"
+          ],
+          "explain": "Price rises after you take out food and energy, which jump around a lot. The Fed watches this to see the deeper trend."
+        },
+        {
+          "term": "GDP",
+          "aliases": [
+            "gross domestic product"
+          ],
+          "explain": "A huge adding-up of everything a country makes and sells in a year. If GDP shrinks, that is a recession."
+        },
+        {
+          "term": "basis point",
+          "aliases": [
+            "bp"
+          ],
+          "explain": "One-hundredth of 1 percent. If a bond yield rises 5 basis points, it went from, say, 4.68 percent to 4.73 percent."
+        },
+        {
+          "term": "producer price index",
+          "aliases": [
+            "PPI",
+            "wholesale prices"
+          ],
+          "explain": "A measure of what companies pay for goods before they sell them to you. If this jumps, store prices often follow."
+        }
+      ]
+    },
+    {
+      "id": "fn-2",
+      "section": "finance",
+      "headline": "Oil jumps again as the Hormuz bottleneck stays almost shut",
+      "dek": "Brent crude rose above $88 a barrel on Friday, U.S. gasoline is about 29 percent more expensive than a year ago, and almost no oil tankers are getting through the Strait of Hormuz.",
+      "caveman": "A huge share of the world's oil used to squeeze through a narrow sea lane between Iran and Oman. That lane is the Strait of Hormuz. Think of it as a one-lane bridge that most of the neighborhood must cross to get fuel. Since the United States and Israel started a war with Iran in late February, that bridge has been almost closed. On Friday, ship-trackers saw only two vessels go through. In peacetime, more than 130 ships a day used it. Because less oil is moving, the price of a barrel of Brent crude, a world oil benchmark, settled at $88.52, up more than a dollar on the day. In the United States, a gallon of gasoline averaged about $4.08, up 29 percent from a year earlier. President Donald Trump told a crowd that paying 'a tiny little bit more' at the pump is the cost of stopping Iran from getting a nuclear bomb. Iran says it, not America, will decide when the strait opens. A tanker owned by Abu Dhabi's oil company was hit in the waterway on Friday. Nobody on board was hurt. Households from Taipei to Texas feel this as higher fuel, food shipping, and airfares.",
+      "why_it_matters": "Energy is in almost everything you buy. When oil stays high, inflation stays sticky, and central banks find it harder to cut or even hold rates. East Asia, including Taiwan, imports most of its fuel, so a long Hormuz squeeze hits factory costs and household bills. Saudi Aramco has said the world has already lost a huge amount of oil supply since the war began.",
+      "camps": "Trump and his Treasury secretary say higher U.S. gas prices are worth it to crush Iran's economy and block a nuclear weapon. Vice President JD Vance has also said cheap oil for Americans is goal number one, which is a slightly different pitch. Iran says the U.S. has already lost and must accept defeat. Oil-importing countries in Asia and Europe want the strait reopened for trade. Climate and left-leaning critics say a fossil-fuel war is making living costs worse for ordinary people while oil companies profit.",
+      "source_name": "Reuters / NBC News",
+      "source_url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
+      "published": "2026-08-15",
+      "category": "economy",
+      "terms": [
+        {
+          "term": "Strait of Hormuz",
+          "aliases": [
+            "Hormuz",
+            "Hormuz Strait"
+          ],
+          "explain": "A narrow sea passage at the mouth of the Persian Gulf. Before the war, about one-fifth of the world's seaborne oil and a lot of gas went through it."
+        },
+        {
+          "term": "Brent crude",
+          "aliases": [
+            "Brent",
+            "oil benchmark"
+          ],
+          "explain": "A standard type of oil used to set world prices. When people say 'oil is at $88,' they often mean Brent."
+        },
+        {
+          "term": "West Texas Intermediate",
+          "aliases": [
+            "WTI",
+            "U.S. crude"
+          ],
+          "explain": "The main U.S. oil price marker. It usually sits a few dollars below Brent."
+        },
+        {
+          "term": "barrel",
+          "aliases": [
+            "oil barrel"
+          ],
+          "explain": "The unit used to sell oil. One barrel is 42 U.S. gallons, or about 159 liters."
+        },
+        {
+          "term": "gasoline",
+          "aliases": [
+            "gas",
+            "petrol"
+          ],
+          "explain": "The fuel most U.S. cars burn. Americans talk about the price per gallon the way others talk about the price of rice."
+        },
+        {
+          "term": "tanker",
+          "aliases": [
+            "oil tanker",
+            "bulk carrier"
+          ],
+          "explain": "A giant ship built to carry oil or other bulk goods. Hitting one can spill fuel and scare other ships away."
+        },
+        {
+          "term": "ADNOC",
+          "aliases": [
+            "Abu Dhabi National Oil Company"
+          ],
+          "explain": "The state oil company of Abu Dhabi in the United Arab Emirates. One of its tankers was attacked in Hormuz on Friday."
+        },
+        {
+          "term": "blockade",
+          "aliases": [
+            "naval blockade",
+            "U.S. blockade of Iranian ports"
+          ],
+          "explain": "When ships or missiles stop other ships from going in or out of a port or sea lane. It is a way to choke an enemy's trade without occupying the land."
+        },
+        {
+          "term": "nuclear weapon",
+          "aliases": [
+            "nuclear bomb"
+          ],
+          "explain": "A bomb that uses splitting or fusing atoms. It can destroy a city. The U.S. says it went to war to stop Iran from building one. Iran says it does not want one."
+        },
+        {
+          "term": "memorandum of understanding",
+          "aliases": [
+            "MoU",
+            "June deal",
+            "June understanding"
+          ],
+          "explain": "A written promise that is not quite a full treaty. The U.S. and Iran signed one in June. A 60-day talk window from that deal ends Monday with little progress."
+        },
+        {
+          "term": "transponder",
+          "aliases": [
+            "AIS"
+          ],
+          "explain": "A radio box on a ship that tells the world where it is. Some ships turn it off to sneak through dangerous waters."
+        },
+        {
+          "term": "Kpler",
+          "aliases": [
+            "ship-tracking firm"
+          ],
+          "explain": "A company that watches oil ships from space and port data. Analysts use it to see if oil is actually moving."
+        },
+        {
+          "term": "inflation",
+          "aliases": [
+            "cost of living"
+          ],
+          "explain": "When everyday prices rise. Fuel is a big part of that, because trucks, ships, and farms all burn it."
+        },
+        {
+          "term": "Scott Bessent",
+          "aliases": [
+            "U.S. Treasury secretary"
+          ],
+          "explain": "The U.S. official in charge of government money and many sanctions. He has promised new financial pressure on Iran."
+        },
+        {
+          "term": "JD Vance",
+          "aliases": [
+            "U.S. vice president"
+          ],
+          "explain": "The number-two person in the U.S. government. He has been told to lead talks to end the Iran war and has said cheap oil is his top goal."
+        }
+      ]
+    },
+    {
+      "id": "fn-3",
+      "section": "finance",
+      "headline": "Japan's central bank looks ready to raise rates in September",
+      "dek": "Three people familiar with the Bank of Japan's thinking told Reuters it may hike as soon as mid-September and then raise rates faster than twice a year.",
+      "caveman": "Japan is a rich country that, for a long time, kept the cost of borrowing almost at zero so people and companies would spend. That extra-easy money made the Japanese yen cheap. A cheap yen means Japanese goods are bargains abroad, but it also makes oil, food, and imported parts expensive at home. Last month Japan and the United States even teamed up to buy yen, hoping to stop it from falling. It did not fix the problem. The yen is still near 160 per dollar, a level that often scares Tokyo. So Japan's central bank, the Bank of Japan, is now thinking about charging more for money. Sources told Reuters a hike could come at the September 17–18 meeting. The bank already lifted its main rate to 1 percent in June, the highest in 31 years. Markets now put the chance of another September hike around 76 to 80 percent. If Japan keeps raising rates, money that had been borrowed cheaply in yen and invested elsewhere may flow home. That can shake stocks, bonds, and currencies worldwide, including in Asia.",
+      "why_it_matters": "Japan is the world's fourth-largest economy and a huge lender. When it raises rates, global investors often sell other assets to pay back cheap yen loans. Taiwan and other Asian exporters watch the yen because a stronger yen can change who wins in electronics and cars. Faster Japanese hikes also signal that war-driven oil and AI-driven demand are pushing prices up even in a country famous for cheap money.",
+      "camps": "The Bank of Japan says it must look at inflation risks, a weak yen, and very easy financial conditions. Some Japanese households want a stronger yen so imports cost less. Exporters and the old cheap-money camp worry that faster hikes could hurt growth. U.S. Treasury Secretary Scott Bessent has nudged Tokyo to do more, which some Japanese officials resent as outside pressure. Markets have already priced in a September move, so a delay could look like a broken promise.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/boj-eyeing-september-rate-hike-faster-pace-tightening-sources-say-2026-08-14/",
+      "published": "2026-08-14",
+      "category": "economy",
+      "terms": [
+        {
+          "term": "Bank of Japan",
+          "aliases": [
+            "BOJ",
+            "BoJ"
+          ],
+          "explain": "Japan's central bank. It sets the country's main interest rate, the way the Fed does in the United States."
+        },
+        {
+          "term": "interest rate hike",
+          "aliases": [
+            "rate increase",
+            "tightening"
+          ],
+          "explain": "When a central bank makes borrowing more expensive on purpose, to cool prices or support its currency."
+        },
+        {
+          "term": "yen",
+          "aliases": [
+            "Japanese yen",
+            "JPY"
+          ],
+          "explain": "Japan's money. If it takes more yen to buy one U.S. dollar, the yen is weak. A weak yen makes foreign goods cost more in Japan."
+        },
+        {
+          "term": "currency intervention",
+          "aliases": [
+            "yen-buying",
+            "joint intervention"
+          ],
+          "explain": "When a government spends huge sums to buy or sell its own money, hoping to change the exchange rate. Japan and the U.S. did this together last month."
+        },
+        {
+          "term": "Kazuo Ueda",
+          "aliases": [
+            "BOJ governor"
+          ],
+          "explain": "The head of the Bank of Japan. He has said the bank might speed up rate rises if money is still too easy."
+        },
+        {
+          "term": "neutral rate",
+          "aliases": [
+            "r-star"
+          ],
+          "explain": "The Goldilocks interest rate that neither heats up nor cools down the economy. Japan's officials think theirs sits somewhere between about 1.1 and 2.5 percent."
+        },
+        {
+          "term": "stimulus",
+          "aliases": [
+            "easy money",
+            "quantitative easing"
+          ],
+          "explain": "Extra-cheap or extra-plentiful money that a central bank pumps out to get people spending. Japan ran a huge version of this for about a decade and started exiting in 2024."
+        },
+        {
+          "term": "producer prices",
+          "aliases": [
+            "wholesale inflation"
+          ],
+          "explain": "What factories pay for inputs. Japan is watching these, plus what people expect future prices to do."
+        },
+        {
+          "term": "carry trade",
+          "aliases": [
+            "yen carry trade"
+          ],
+          "explain": "Borrowing cheap yen and investing the money in higher-paying assets elsewhere. When Japan raises rates, this trade can unwind fast and shake markets."
+        },
+        {
+          "term": "Scott Bessent",
+          "aliases": [
+            "U.S. Treasury secretary"
+          ],
+          "explain": "America's top finance official. He has publicly pushed Japan to do more about the weak yen."
+        },
+        {
+          "term": "basis point",
+          "aliases": [
+            "bp"
+          ],
+          "explain": "One-hundredth of a percent. Traders use it when talking about small rate moves."
+        },
+        {
+          "term": "5-year yield",
+          "aliases": [
+            "Japanese government bond yield"
+          ],
+          "explain": "The return on lending to Japan's government for five years. It has jumped as people bet on rate hikes."
+        },
+        {
+          "term": "exchange rate",
+          "aliases": [
+            "USD/JPY",
+            "160 yen"
+          ],
+          "explain": "How many yen one dollar buys. Near 160, many traders expect Tokyo to step in again."
+        },
+        {
+          "term": "inflation expectations",
+          "aliases": [
+            "expected inflation"
+          ],
+          "explain": "What people think prices will do next year. If they expect more inflation, they may demand higher wages, which can make inflation real."
+        }
+      ]
+    },
+    {
+      "id": "tc-1",
+      "section": "tech",
+      "headline": "Apple wants a 15 percent cut even when you pay outside the App Store",
+      "dek": "After the U.S. Supreme Court refused to pause the case, Apple told a California court it still wants a fee on purchases that start in an iPhone app but finish on the web.",
+      "caveman": "If you have an iPhone, you usually buy extra lives, songs, or subscriptions through Apple's shop, the App Store. Apple has long taken a big slice of that money, often 15 or 30 percent. A game company called Epic Games, which makes Fortnite, sued. It said Apple was using its power over the iPhone to block cheaper ways to pay. A judge later said Apple had to let apps link out to the regular internet so people could pay there. Apple then tried to charge 27 percent on those outside payments and made the links hard to use. The judge was not happy. On Thursday the Supreme Court, America's highest court, refused Apple's request to freeze the fight. So Apple had to show its new plan. It now proposes a 15 percent cut on standard apps, 10 percent for some partner programs and subscription renewals, and 5 percent for small developers. Apple says it built the phones and the tools, so it deserves a fee. Epic and many app makers say a tax on a link is still a tax. Google's Android shop charges similar outside-link fees, which Apple pointed to as proof its plan is normal.",
+      "why_it_matters": "This is about who controls the door to a billion phones. If Apple keeps a cut on web payments, prices for apps, news, and games stay higher. If the court forces a real opening, smaller companies and users may pay less, and Apple's very profitable services business could shrink. The case also shows how U.S. courts, not just Congress, are rewriting Big Tech rules.",
+      "camps": "Apple says the fee pays for security, privacy tools, and the cost of running iOS. Epic and many developers say Apple is a gatekeeper that should not charge for a sale it did not process. The Trump administration has mixed feelings about Big Tech: it likes U.S. champions abroad but also likes to look tough on coastal corporations. Consumer advocates and the left generally want lower fees and more competition. Some conservatives care more about speech on the App Store than about the percentage cut.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "published": "2026-08-14",
+      "category": "tech",
+      "terms": [
+        {
+          "term": "App Store",
+          "aliases": [
+            "Apple's shop",
+            "iOS store"
+          ],
+          "explain": "The only official place to download apps on an iPhone. Apple sets the rules and usually takes a cut of sales."
+        },
+        {
+          "term": "commission",
+          "aliases": [
+            "cut",
+            "fee",
+            "link-out fee"
+          ],
+          "explain": "The slice of money Apple wants from a sale. Fifteen percent means Apple keeps $15 of every $100 you spend."
+        },
+        {
+          "term": "Epic Games",
+          "aliases": [
+            "Epic",
+            "Fortnite maker"
+          ],
+          "explain": "A U.S. game company that sued Apple. It wanted players to pay Epic directly instead of through Apple."
+        },
+        {
+          "term": "anti-competitive",
+          "aliases": [
+            "monopoly behavior"
+          ],
+          "explain": "When a powerful company uses its position to block rivals, not just to make a better product. That can be illegal under U.S. law."
+        },
+        {
+          "term": "external link",
+          "aliases": [
+            "link-out",
+            "web payment"
+          ],
+          "explain": "A button inside an app that sends you to a website to pay. Apple used to ban these. A court said it cannot."
+        },
+        {
+          "term": "Supreme Court",
+          "aliases": [
+            "U.S. Supreme Court"
+          ],
+          "explain": "The highest court in the United States. Its nine justices can stop or allow lower-court fights. On Thursday it refused to pause this one."
+        },
+        {
+          "term": "contempt of court",
+          "aliases": [
+            "defying a judge"
+          ],
+          "explain": "When someone ignores a judge's order. Epic says Apple did this with the 27 percent fee and harsh link rules. That question is still alive."
+        },
+        {
+          "term": "U.S. District Court of Northern California",
+          "aliases": [
+            "lower court",
+            "Judge's court"
+          ],
+          "explain": "The trial court in San Francisco's region that has been hearing the Epic case for years."
+        },
+        {
+          "term": "small business program",
+          "aliases": [
+            "small developer"
+          ],
+          "explain": "Apple's cheaper track for smaller app makers. Under the new plan they would pay 5 percent on outside-link sales."
+        },
+        {
+          "term": "subscription renewal",
+          "aliases": [
+            "auto-renew"
+          ],
+          "explain": "When a monthly or yearly payment rolls over. Apple now says it would take 10 percent on those if you pay off-store."
+        },
+        {
+          "term": "Google Play",
+          "aliases": [
+            "Android store"
+          ],
+          "explain": "Google's app shop for Android phones. It also charges for some outside-link sales, which Apple used as a comparison."
+        },
+        {
+          "term": "iOS",
+          "aliases": [
+            "iPhone software",
+            "iPhone software update"
+          ],
+          "explain": "The operating system that runs iPhones and iPads. Apple controls it tightly."
+        },
+        {
+          "term": "in-app purchase",
+          "aliases": [
+            "IAP"
+          ],
+          "explain": "Buying something while you are already inside an app, like extra storage or a magazine month."
+        },
+        {
+          "term": "services business",
+          "aliases": [
+            "Apple Services"
+          ],
+          "explain": "The part of Apple that makes money from the App Store, iCloud, Apple Music, and similar, not from selling hardware."
+        },
+        {
+          "term": "developer",
+          "aliases": [
+            "app maker"
+          ],
+          "explain": "A person or company that writes apps. They have long complained that Apple's cut is too high."
+        }
+      ]
+    },
+    {
+      "id": "tc-2",
+      "section": "tech",
+      "headline": "Apple trained its own China AI with Alibaba's help",
+      "dek": "Reuters reports Apple built a China-only large language model with Alibaba, after Beijing registered Apple as the first foreign firm allowed to offer its own generative AI to mainland users.",
+      "caveman": "Apple wants the same smart writing and voice tricks on iPhones in China that it already sells in the U.S. Those tricks are called Apple Intelligence. They run on a large language model, which is a computer program trained on huge piles of text so it can chat, summarize, and write. China does not allow U.S. models like ChatGPT to serve the public. Every AI that talks to Chinese users must be registered with a government internet office and pass a content check. Until this summer, every approved model was Chinese. Reuters now says Apple secretly trained its own China model with help from Alibaba, a giant Chinese tech firm. Apple had already planned to plug in Alibaba's Qwen model and some Baidu tech. Building its own model would give Apple more control. The service is expected to reach Chinese iPhones in the coming months after a software update. Apple and Alibaba did not comment. Critics will ask what the model is forbidden to say. Supporters will say this is the only way a U.S. phone company can compete in China at all.",
+      "why_it_matters": "China is still one of Apple's biggest markets. If Siri and writing tools feel dumb there while Huawei and others ship local AI, Apple loses sales. The deal also shows how U.S. tech now splits in two: one product for most of the world, another that must obey Beijing's speech rules. For Taiwan and other Asian users, it is a reminder that the AI race is also a political filter.",
+      "camps": "Apple presents this as following local law so customers get features. U.S. hawks say helping train a model under Chinese censorship hands Beijing leverage and normalizes two internets. China says every country regulates AI and that foreign firms must follow Chinese rules, just as Chinese apps must follow U.S. rules. Privacy advocates worry users will not know which political answers were blocked. Investors mostly care whether Apple Intelligence finally ships in China and stops the sales slide.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+      "published": "2026-08-14",
+      "category": "tech",
+      "terms": [
+        {
+          "term": "large language model",
+          "aliases": [
+            "LLM",
+            "AI model"
+          ],
+          "explain": "A computer program trained on enormous amounts of text so it can write, translate, and answer questions in human-like language."
+        },
+        {
+          "term": "Apple Intelligence",
+          "aliases": [
+            "Apple's AI suite"
+          ],
+          "explain": "Apple's brand name for on-phone AI features such as writing tools and a smarter Siri."
+        },
+        {
+          "term": "Alibaba",
+          "aliases": [
+            "Alibaba Group"
+          ],
+          "explain": "A huge Chinese internet company, a bit like Amazon plus a cloud-computing firm. Its AI family is called Qwen."
+        },
+        {
+          "term": "Qwen",
+          "aliases": [
+            "Alibaba Qwen"
+          ],
+          "explain": "Alibaba's public AI model. Apple had already said it would use Qwen inside China-version Apple Intelligence."
+        },
+        {
+          "term": "Baidu",
+          "aliases": [],
+          "explain": "Another big Chinese tech company, best known for search. Reuters has said some of its technology may also sit inside Apple's China AI."
+        },
+        {
+          "term": "Cyberspace Administration of China",
+          "aliases": [
+            "CAC",
+            "China's internet watchdog"
+          ],
+          "explain": "The government office that decides which AI chatbots may go live in China. It registered Apple's service in July."
+        },
+        {
+          "term": "generative AI",
+          "aliases": [
+            "gen AI"
+          ],
+          "explain": "Software that creates new text, pictures, or code instead of just finding old files. ChatGPT is the famous example."
+        },
+        {
+          "term": "content compliance review",
+          "aliases": [
+            "censorship filter",
+            "content check"
+          ],
+          "explain": "A required test in China. The model must refuse or reframe answers the state does not want, for example on politics or history."
+        },
+        {
+          "term": "proprietary model",
+          "aliases": [
+            "in-house model"
+          ],
+          "explain": "An AI a company owns and trains itself, rather than renting someone else's. Apple is the first foreign firm China has cleared to offer one."
+        },
+        {
+          "term": "on-device",
+          "aliases": [
+            "on-phone AI"
+          ],
+          "explain": "When the AI runs on your phone instead of a faraway server. Apple likes this for privacy. In China, the exact setup is not fully public."
+        },
+        {
+          "term": "OpenAI",
+          "aliases": [
+            "ChatGPT",
+            "ChatGPT company"
+          ],
+          "explain": "The U.S. company behind ChatGPT. Its models are not allowed as a public service in mainland China."
+        },
+        {
+          "term": "Siri",
+          "aliases": [
+            "Apple voice assistant"
+          ],
+          "explain": "The voice helper on iPhones. Apple Intelligence is meant to make it much smarter."
+        },
+        {
+          "term": "iOS",
+          "aliases": [
+            "iPhone software update"
+          ],
+          "explain": "Apple's phone software. The China AI features are expected after a future iOS update, not necessarily today."
+        },
+        {
+          "term": "dual-track strategy",
+          "aliases": [
+            "two-track AI"
+          ],
+          "explain": "Using both Apple's own model and Chinese partner models at once, so Apple can pass rules and still keep some control."
+        },
+        {
+          "term": "Joe Tsai",
+          "aliases": [
+            "Alibaba chairman"
+          ],
+          "explain": "Alibaba's chairman. In 2025 he said Apple chose Alibaba after talking to several Chinese firms."
+        }
+      ]
+    },
+    {
+      "id": "po-1",
+      "section": "politics",
+      "headline": "Trump opens his war chest as Republicans fear losing Congress",
+      "dek": "CNN reports the U.S. president has approved millions from his personal political fund for vulnerable Republicans, with one figure of about $30 million discussed, three months before midterm elections.",
+      "caveman": "In the United States, voters pick a president every four years. In the years in between, they pick the people who write laws. Those in-between votes are midterm elections. This November, Americans will decide who controls the two houses of Congress, the House and the Senate. If Democrats win either house, they can block President Donald Trump's plans and investigate him. Trump's own party, the Republicans, now worry they are losing. Gas is expensive. A war with Iran that Trump once said would last weeks is still going. His approval ratings are low. Advisers told CNN he has finally said yes to spending millions from his personal PAC, a big pile of campaign money, on shaky Republican races. One person mentioned $30 million as a first batch. The White House says Trump is fully committed. Trump himself recently said, 'I won. I'm not campaigning.' His team wants him to hold rallies every week in close districts, especially in Michigan, Ohio, and North Carolina, to pull out fans who vote for him but often skip midterms. They are not counting on winning over many independents.",
+      "why_it_matters": "Control of Congress decides whether the next two years are investigations and gridlock or a clear path for Trump's agenda, including the Iran war and spending. Republicans have also redrawn some voting maps and won a Supreme Court fight that lets party committees spend more on candidates. Democrats smell a chance if prices and the war stay ugly.",
+      "camps": "Republican officials say Trump is the party's leader and that border, tax-cut, and crime numbers will save them if he shows up. They also argue new district maps and extra campaign-cash rules help. Democrats say voters are angry about prices and an unpopular war, and that pouring MAGA money into base turnout is a sign the party cannot win the middle. Some Republican lawmakers privately say Trump waited too long. Trump's circle says he will not waste endorsements on 'losers.'",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/15/politics/trump-midterms-campaign-strategy",
+      "published": "2026-08-15",
+      "category": "politics",
+      "terms": [
+        {
+          "term": "midterm elections",
+          "aliases": [
+            "midterms"
+          ],
+          "explain": "U.S. elections halfway through a president's four-year term. The whole House and about one-third of the Senate are on the ballot. The president's party often loses seats."
+        },
+        {
+          "term": "Congress",
+          "aliases": [
+            "House and Senate"
+          ],
+          "explain": "The U.S. law-making body. The House has 435 voting members. The Senate has 100. If the other party wins either one, the president cannot pass most laws alone."
+        },
+        {
+          "term": "PAC",
+          "aliases": [
+            "political action committee",
+            "personal PAC"
+          ],
+          "explain": "A legal pot of money used to help candidates. Trump has a large one from his own political brand."
+        },
+        {
+          "term": "House of Representatives",
+          "aliases": [
+            "the House"
+          ],
+          "explain": "The larger, more local half of Congress. Every seat is up this November. It can start tax bills and impeachment."
+        },
+        {
+          "term": "Senate",
+          "aliases": [],
+          "explain": "The smaller half of Congress. Senators serve six years. It confirms judges and can block almost any bill."
+        },
+        {
+          "term": "MAGA",
+          "aliases": [
+            "Make America Great Again",
+            "Trump base"
+          ],
+          "explain": "The nickname for Trump's most loyal voters. Republican strategy now is to get these people to show up, not to win many swing voters."
+        },
+        {
+          "term": "independent voter",
+          "aliases": [
+            "swing voter"
+          ],
+          "explain": "A person who does not always vote for the same party. Trump's team thinks few of them will come back this year."
+        },
+        {
+          "term": "redistricting",
+          "aliases": [
+            "redrawing maps",
+            "gerrymandering"
+          ],
+          "explain": "Changing the lines of voting districts. The party that draws friendly lines can win more seats with the same number of votes. Trump pushed Republicans to do this in several states."
+        },
+        {
+          "term": "approval rating",
+          "aliases": [
+            "popularity score"
+          ],
+          "explain": "The share of people who say the president is doing a good job. Low scores make midterms harder for his party."
+        },
+        {
+          "term": "endorsement",
+          "aliases": [
+            "Trump endorsement"
+          ],
+          "explain": "A public blessing. In the GOP, Trump's endorsement can make or break a candidate. Advisers say he will not back people he thinks will lose."
+        },
+        {
+          "term": "impeachment",
+          "aliases": [
+            "impeachment trial"
+          ],
+          "explain": "A Congress process that can charge and, if the Senate agrees, remove a president. Trump faced it twice in his first term and does not want a hostile Congress again."
+        },
+        {
+          "term": "voter ID",
+          "aliases": [
+            "SAVE America Act",
+            "elections bill"
+          ],
+          "explain": "Rules that make people show identification to vote. Republicans in Congress fought over a Trump-backed bill on this and did not pass it."
+        },
+        {
+          "term": "battleground",
+          "aliases": [
+            "swing district",
+            "tossup"
+          ],
+          "explain": "A place where both parties have a real chance. Michigan, Ohio, and North Carolina are examples this year."
+        },
+        {
+          "term": "Olivia Wales",
+          "aliases": [
+            "White House spokeswoman"
+          ],
+          "explain": "A White House spokesperson who told CNN Trump is committed to keeping the Republican majority."
+        },
+        {
+          "term": "Susie Wiles",
+          "aliases": [
+            "White House chief of staff"
+          ],
+          "explain": "Trump's top White House aide. She also helps run the midterm political operation."
+        },
+        {
+          "term": "Karoline Leavitt",
+          "aliases": [
+            "press secretary"
+          ],
+          "explain": "The White House press secretary, who speaks to reporters for the president. She said she is leaving at the end of August, two months before the vote."
+        }
+      ]
+    },
+    {
+      "id": "po-2",
+      "section": "politics",
+      "headline": "Iran says no new U.S. talks as Trump claims he will take Hormuz",
+      "dek": "Iran's foreign minister said Saturday there is no decision to restart negotiations, a day after President Trump said he would 'pretty soon' declare the Strait of Hormuz U.S. territory.",
+      "caveman": "The United States and Israel began bombing Iran on February 28. They said they wanted to stop a nuclear bomb and, at times, to topple Iran's leaders. The war is now in a second phase. A paper promise signed in June was supposed to lead to 60 days of talks. That window ends Monday. Almost no real talks happened. On Friday, Trump told a New York crowd that Iran is being 'very badly defeated' and that after the win he will declare the Strait of Hormuz, the oil sea lane, a territory of the United States. That would be like one country planting a flag on a busy international highway. Iran's deputy foreign minister called the idea a delusion and said the strait opens and closes only under Iran's command. Foreign Minister Abbas Araghchi said Qatar and Pakistan are passing messages, but that is not negotiation, and Tehran has not decided to sit down again. He blames Washington for breaking the June understanding. Meanwhile Israel struck southern Lebanon, and a tanker was hit in the strait. Ordinary Iranians are also paying: President Masoud Pezeshkian blamed a U.S. port blockade and lost oil sales for high inflation at home.",
+      "why_it_matters": "If talks stay dead, the oil chokepoint stays shut, prices stay high, and the U.S. midterms get harder for Trump's party. A claim that Hormuz is U.S. land also alarms countries that treat it as an international waterway. For East Asia, this is a politics story with a direct bill: fuel, shipping insurance, and the risk that a wider war pulls in more navies.",
+      "camps": "Trump says Iran is evil, is losing, and must never get a nuclear weapon, and that Americans should accept higher gas as the price. Iran says the U.S. failed to overthrow it, must accept defeat, and that Hormuz cannot be seized by a speech. Gulf Arab states want ships to move and have accused Iran of hitting tankers. European and Asian importers want a ceasefire and an open strait. Anti-war voices in the U.S. and on the left say the war has already missed its political goals and is punishing civilians and global consumers.",
+      "source_name": "Associated Press / NBC News",
+      "source_url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
+      "published": "2026-08-15",
+      "category": "politics",
+      "terms": [
+        {
+          "term": "Strait of Hormuz",
+          "aliases": [
+            "Hormuz Strait"
+          ],
+          "explain": "The narrow sea door of the Persian Gulf. It is not any one country's private driveway under normal international rules."
+        },
+        {
+          "term": "ceasefire",
+          "aliases": [
+            "truce",
+            "pause in fighting"
+          ],
+          "explain": "An agreement to stop shooting, at least for a while. It is not the same as a peace treaty, which ends a war for good."
+        },
+        {
+          "term": "memorandum of understanding",
+          "aliases": [
+            "MoU",
+            "June understanding"
+          ],
+          "explain": "A written political promise, weaker than a treaty. The U.S. and Iran signed one in June. Each side now says the other broke it."
+        },
+        {
+          "term": "negotiation",
+          "aliases": [
+            "talks",
+            "peace talks"
+          ],
+          "explain": "Sitting down to bargain. Iran says passing notes through Qatar and Pakistan does not count as real talks with Washington."
+        },
+        {
+          "term": "Abbas Araghchi",
+          "aliases": [
+            "Iranian foreign minister"
+          ],
+          "explain": "Iran's top diplomat. On Saturday he said Tehran has not decided to restart talks with the United States."
+        },
+        {
+          "term": "Kazem Gharibabadi",
+          "aliases": [
+            "Iranian deputy foreign minister"
+          ],
+          "explain": "The Iranian official who said Hormuz 'cannot be seized with a tweet' and that Iran will keep the string closed until the U.S. accepts defeat."
+        },
+        {
+          "term": "Masoud Pezeshkian",
+          "aliases": [
+            "Iranian president"
+          ],
+          "explain": "Iran's president. He has blamed the U.S. blockade of Iranian ports, and lost oil income, for high inflation at home."
+        },
+        {
+          "term": "international waterway",
+          "aliases": [
+            "international waters"
+          ],
+          "explain": "A sea lane that ships of all countries are supposed to be able to use. Trump calling Hormuz U.S. territory clashes with that idea."
+        },
+        {
+          "term": "blockade",
+          "aliases": [
+            "U.S. blockade of Iranian ports"
+          ],
+          "explain": "Using ships and pressure to stop goods going in or out. The U.S. is squeezing Iran's ports. Iran is squeezing the strait."
+        },
+        {
+          "term": "Qatar",
+          "aliases": [],
+          "explain": "A small Gulf country that hosts a big U.S. base and is trying to pass messages between Washington and Tehran. Iran also claims Qatar is holding three Iranian pilots. Qatar denies it."
+        },
+        {
+          "term": "Pakistan",
+          "aliases": [],
+          "explain": "Iran's neighbor, which helped with the June understanding and is still carrying messages."
+        },
+        {
+          "term": "Hezbollah",
+          "aliases": [],
+          "explain": "An armed political group in Lebanon, backed by Iran. Israel says it is still fighting it in the south despite a June framework deal."
+        },
+        {
+          "term": "framework agreement",
+          "aliases": [
+            "June Lebanon deal"
+          ],
+          "explain": "A sketch of a deal, not the final contract. In June, Israel and Lebanon's government outlined Israeli withdrawal in exchange for Hezbollah disarming. Hezbollah did not join the talks."
+        },
+        {
+          "term": "territory",
+          "aliases": [
+            "U.S. territory"
+          ],
+          "explain": "Land or water a country claims as its own. Declaring Hormuz U.S. territory would be an enormous legal and military step, not a slogan with force by itself."
+        },
+        {
+          "term": "inflation",
+          "aliases": [
+            "high prices in Iran"
+          ],
+          "explain": "Rising prices. Iran's president says the war and blockade are driving this inside Iran, just as Americans complain about gasoline."
+        }
+      ]
+    },
+    {
+      "id": "po-3",
+      "section": "politics",
+      "headline": "Washington drafts a letter: pick America's AI club or China's",
+      "dek": "A U.S. State Department draft reviewed by Reuters would tell 35 countries they cannot stay in a U.S. AI coalition if they also join Beijing's rival group.",
+      "caveman": "The United States and China are in a race to build the smartest computers. That race needs three things: the AI programs themselves, the special chips that run them, and the rare rocks used to make those chips. Last year Washington started a club called Pax Silica to lock those three things among friends. About two dozen countries have joined, including Japan, Australia, South Korea, and Kazakhstan. In July, Chinese President Xi Jinping launched his own club, the World Artificial Intelligence Cooperation Organization, and pushed China's free-to-download AI models. Kazakhstan, which has important minerals, joined both. That rang alarms in Washington. Reuters saw a draft U.S. letter to 35 countries that signed a looser June 'AI Opportunity Statement.' The letter says being part of everything is being part of nothing, and that Pax Silica is a commitment, not a gym membership. It does not name China, but a U.S. official said you cannot have it both ways. The State Department would not comment on a leaked draft. It is not clear when, or if, the letter will be sent. For places like Taiwan, Japan, and Korea, this is the newest version of an old demand: choose a camp.",
+      "why_it_matters": "If the letter goes out, middle countries that want Chinese trade and U.S. chips will be squeezed. The U.S. hopes to starve China of minerals and partners. China will call it bloc politics. Open Chinese AI models are already popular with developers worldwide, so a hard split could also split the internet of models, not just of websites.",
+      "camps": "U.S. officials say a country cannot be a trusted partner in one tech system while joining a Chinese project built to compete with it. China says it is offering open cooperation and that Washington is forcing an either-or Cold War. Allies such as Japan, Australia, and South Korea are already in the U.S. club. Countries that sell minerals or want both markets, Kazakhstan first among them, will try to stall. Some U.S. companies want open Chinese models available; others want a hard wall. Left-liberal critics worry that 'choose a side' talk turns a public technology into a military alliance and ignores how concentrated power already is in a few U.S. firms.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+      "published": "2026-08-14",
+      "category": "politics",
+      "terms": [
+        {
+          "term": "Pax Silica",
+          "aliases": [
+            "U.S. AI coalition"
+          ],
+          "explain": "A U.S.-led club launched last year to share work on AI, computer chips, and the minerals those chips need, and to keep those supplies away from rivals."
+        },
+        {
+          "term": "World Artificial Intelligence Cooperation Organization",
+          "aliases": [
+            "China's AI club",
+            "WAICO"
+          ],
+          "explain": "A Chinese-led group Xi Jinping launched in July. It promotes China's open AI models as a different path from U.S. control."
+        },
+        {
+          "term": "AI Opportunity Statement",
+          "aliases": [
+            "June statement"
+          ],
+          "explain": "A softer U.S. paper that 35 countries signed in June, saying they share a vision on AI. The draft letter goes to this larger group, not only full Pax Silica members."
+        },
+        {
+          "term": "State Department",
+          "aliases": [
+            "U.S. State Department"
+          ],
+          "explain": "The U.S. foreign ministry. It writes letters to other countries and runs embassies."
+        },
+        {
+          "term": "semiconductor",
+          "aliases": [
+            "chip",
+            "AI chip"
+          ],
+          "explain": "A tiny electronic brain. Modern AI needs advanced chips, many of them designed in the U.S. and made in East Asia, including Taiwan."
+        },
+        {
+          "term": "critical minerals",
+          "aliases": [
+            "rare rocks",
+            "rare earths"
+          ],
+          "explain": "Metals and minerals that high-tech industry cannot easily replace. China has a tight grip on many of them and has used that grip in trade fights."
+        },
+        {
+          "term": "open-weight model",
+          "aliases": [
+            "open model",
+            "open-source AI"
+          ],
+          "explain": "An AI whose inner numbers are published so others can download, run, and change it. Chinese firms have been strong in this category."
+        },
+        {
+          "term": "export control",
+          "aliases": [
+            "chip ban"
+          ],
+          "explain": "A government rule that says you may not sell certain goods, such as advanced chips, to certain countries."
+        },
+        {
+          "term": "Kazakhstan",
+          "aliases": [],
+          "explain": "A Central Asian country with lots of useful minerals. It is the only country known to have joined both the U.S. and Chinese AI clubs."
+        },
+        {
+          "term": "Xi Jinping",
+          "aliases": [
+            "Chinese president"
+          ],
+          "explain": "China's top leader. He is using AI diplomacy to offer an alternative to U.S. rules."
+        },
+        {
+          "term": "supply chain",
+          "aliases": [
+            "supply lines"
+          ],
+          "explain": "The path a product takes from mine to factory to phone. Whoever controls the path can squeeze everyone else."
+        },
+        {
+          "term": "OpenAI",
+          "aliases": [
+            "ChatGPT company"
+          ],
+          "explain": "A leading U.S. AI firm. Chinese open models have been catching up with its closed systems, which worries Washington."
+        },
+        {
+          "term": "Anthropic",
+          "aliases": [],
+          "explain": "Another top U.S. AI company. Together with OpenAI it stands for the closed, tightly held American model."
+        },
+        {
+          "term": "bloc politics",
+          "aliases": [
+            "choose a side",
+            "camp politics"
+          ],
+          "explain": "When big powers force smaller countries to join one team and shun the other, the way the U.S. and Soviet Union once did."
+        },
+        {
+          "term": "Cold War",
+          "aliases": [],
+          "explain": "The long U.S.–Soviet standoff after World War II. People use the phrase now when Washington and Beijing split the world into two systems."
+        }
+      ]
+    },
+    {
+      "id": "lt-1",
+      "section": "literature",
+      "headline": "A big American fiction week: Lee, Obreht, and Russo's first thriller",
+      "dek": "Lit Hub's Friday review roundup put Chang-rae Lee and Téa Obreht at the top of the pile, while Pulitzer winner Richard Russo is out with his first thriller and talking it up this weekend.",
+      "caveman": "Every few weeks, American book culture has a 'new books Tuesday.' This one was heavy. Chang-rae Lee, a Korean American novelist known for careful, sad, beautiful books, published A Tender Age. It follows a 10-year-old boy through a charged summer at a Korean church camp and draws on Lee's own childhood. Reviewers this week mostly raved. Téa Obreht, who became famous young for The Tiger's Wife, published Sunrise, a layered story that plays with Old West myths, gender, and the wrecking of wild land. Critics called it riveting; one review panned it. Richard Russo, who won a Pulitzer Prize years ago for Empire Falls, a novel about a fading mill town, did something new: a thriller called Under the Falls. A thriller is a tense plot book, more 'what happens next' than 'how does this sentence feel.' Reviewers were split — some loved the mood, some did not. Russo told a public-radio interviewer on Saturday that fans of his quieter books should still give it a chance. Also in the same pile: Claire Carusillo's The Responsible Party, which the New York Times Book Review praised as comic and sharp. If you woke up from a cave, the simple map is this: the 'serious fiction' shelf is busy, and a beloved old-school realist just tried on a crime-novel coat.",
+      "why_it_matters": "U.S. literary fame still runs through a few review pages, public radio, and prize circuits. A week when Lee, Obreht, and Russo land together tells you who the establishment is betting on for fall conversations, book-club lists, and, later, awards. It also shows a trend: even prize-winning realists are borrowing thriller engines to keep readers.",
+      "camps": "This is not a left-right fight. It is a taste fight. Literary reviewers reward language, ambiguity, and social history. Thriller readers want pace. Russo is crossing that line, so some fans will follow and some will sniff. Lee and Obreht sit in the high-prestige lane that the New York Times, Booklist, and Lit Hub still anoint. Commercial romantasy, which is outselling almost all of this, lives on another planet — see the next story.",
+      "source_name": "Literary Hub / KMUW",
+      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-8-13-2026/",
+      "published": "2026-08-14",
+      "category": "literature",
+      "terms": [
+        {
+          "term": "Chang-rae Lee",
+          "aliases": [
+            "Chang-Rae Lee"
+          ],
+          "explain": "A Korean American novelist. His new book A Tender Age is getting some of the strongest U.S. reviews this week."
+        },
+        {
+          "term": "A Tender Age",
+          "aliases": [],
+          "explain": "Lee's new novel about a Korean American boy at a church camp. Published by Riverhead. Critics this week called it luminous."
+        },
+        {
+          "term": "Téa Obreht",
+          "aliases": [
+            "Tea Obreht"
+          ],
+          "explain": "A novelist who won huge praise for The Tiger's Wife more than a decade ago. Her new novel is Sunrise."
+        },
+        {
+          "term": "Sunrise",
+          "aliases": [],
+          "explain": "Obreht's new book. Reviewers say it uses and twists Old West adventure stories and talks about gender, forbidden love, and ruined wilderness."
+        },
+        {
+          "term": "Richard Russo",
+          "aliases": [],
+          "explain": "An American novelist famous for small-town stories. He won the Pulitzer Prize for Empire Falls. Under the Falls is his first thriller."
+        },
+        {
+          "term": "Under the Falls",
+          "aliases": [],
+          "explain": "Russo's new Knopf novel. It is darker and more plot-driven than his usual work. Reviews are mixed."
+        },
+        {
+          "term": "thriller",
+          "aliases": [
+            "suspense novel"
+          ],
+          "explain": "A story built to make you anxious about what happens next, often with danger or a crime. It is a genre, like romance or science fiction."
+        },
+        {
+          "term": "Pulitzer Prize",
+          "aliases": [
+            "Pulitzer"
+          ],
+          "explain": "A set of top U.S. prizes for books, plays, and journalism. Winning one for fiction can define a career."
+        },
+        {
+          "term": "Empire Falls",
+          "aliases": [],
+          "explain": "Russo's 2001 novel about a dying New England mill town. It is the book that made him famous."
+        },
+        {
+          "term": "Claire Carusillo",
+          "aliases": [],
+          "explain": "Author of The Responsible Party, a new novel the New York Times Book Review praised this month as funny and stylish."
+        },
+        {
+          "term": "Literary Hub",
+          "aliases": [
+            "Lit Hub",
+            "Book Marks"
+          ],
+          "explain": "A U.S. books website that collects reviews and sets a lot of literary-internet conversation. Its Friday 'best reviewed' list is a status marker."
+        },
+        {
+          "term": "rave",
+          "aliases": [
+            "rave review"
+          ],
+          "explain": "A review that loves the book. Lit Hub tallies raves versus pans so you can see the critical weather at a glance."
+        },
+        {
+          "term": "pan",
+          "aliases": [
+            "negative review"
+          ],
+          "explain": "A review that dislikes the book. Obreht and Russo each got at least one this week."
+        },
+        {
+          "term": "New York Times Book Review",
+          "aliases": [
+            "NYTBR"
+          ],
+          "explain": "The most powerful U.S. book-review section. A good notice there can move sales and prizes."
+        },
+        {
+          "term": "Riverhead",
+          "aliases": [
+            "Riverhead Books"
+          ],
+          "explain": "A prestige imprint, meaning a named line inside a big publisher, known for literary fiction. It published Lee's new novel."
+        },
+        {
+          "term": "Knopf",
+          "aliases": [
+            "Alfred A. Knopf"
+          ],
+          "explain": "Another high-status U.S. publisher. It published Russo's thriller."
+        },
+        {
+          "term": "realist",
+          "aliases": [
+            "literary realism"
+          ],
+          "explain": "A writer who aims at everyday life and ordinary speech rather than magic or extreme plot twists. Russo built his name as one."
+        },
+        {
+          "term": "book-club list",
+          "aliases": [
+            "fall books"
+          ],
+          "explain": "The informal set of novels groups of readers pick after Labor Day. A strong August review week is how books get on those lists."
+        }
+      ]
+    },
+    {
+      "id": "lt-2",
+      "section": "literature",
+      "headline": "TikTok romantasy still rules the charts as D.C. prepares a literary festival",
+      "dek": "Publishers Weekly said Hannah Nicole Maehrer's fourth Evie Sage book is the top-selling title in the U.S., while the National Book Festival on August 22 will crown Ann Patchett and host a long prestige lineup.",
+      "caveman": "There are two American book countries right now, and they barely share a subway line. In one country, a TikTok-famous series about a young woman tangled up with a villain is eating the sales chart. Hannah Nicole Maehrer's new paperback, Adversary to the Villain, is number one in the whole country, Publishers Weekly said on August 14. That is her second book in a row to do that. The style is romantasy: romance plus fantasy, heavy on feelings, banter, and special-world rules. Riley Sager's island mystery The Unknown and Chris Bohjalian's suburban thriller The Amateur also hit the hardcover list, helped in Bohjalian's case by a Bookstagram star who also buys books for a Hollywood studio. In the other country, the Library of Congress will throw its National Book Festival in Washington on August 22. Ann Patchett, author of Bel Canto, The Dutch House, and this summer's Whistler, will receive the Library's Prize for American Fiction, a lifetime-style honor that has gone to Toni Morrison and Louise Erdrich. Patchett also owns an independent bookstore in Nashville and has become a mascot for indie shops. Whistler has lived on the New York Times bestseller list since June. So: online romantasy is who is commercially hottest. Patchett is who the official culture still taps as the American novelist of the moment.",
+      "why_it_matters": "Sales decide which writers get the next contract and which stories fill airport racks. Festivals and library prizes decide who gets taught, quoted, and remembered. The split explains why a reader can feel that 'nobody reads literary novels' and also that 'serious books are everywhere' — both are true in different rooms. Hollywood is watching both rooms: a Universal executive's book club just boosted Bohjalian.",
+      "camps": "Not a party fight, but a class-and-platform fight. Romantasy fans, many of them young and online, say gatekeepers ignored them until the money became impossible to deny. Literary institutions say a prize like the Library of Congress award is about a whole career, not one viral month. Some critics sneer at TikTok books as junk food. Some TikTok readers sneer at prize fiction as homework. A fair reading is that U.S. publishing now runs on two hit machines at once, and both are real.",
+      "source_name": "Publishers Weekly / Kirkus / Library of Congress",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101055-this-week-s-bestsellers-august-10-2026.html",
+      "published": "2026-08-14",
+      "category": "literature",
+      "terms": [
+        {
+          "term": "romantasy",
+          "aliases": [
+            "romance fantasy"
+          ],
+          "explain": "A mash-up of love story and magic-world fantasy. It is the hottest commercial genre in the U.S. right now, especially on TikTok."
+        },
+        {
+          "term": "Hannah Nicole Maehrer",
+          "aliases": [
+            "Evie Sage series"
+          ],
+          "explain": "A U.S. author whose villain-romance series is a TikTok smash. Her fourth book, Adversary to the Villain, is the country's top seller this week."
+        },
+        {
+          "term": "Adversary to the Villain",
+          "aliases": [],
+          "explain": "The new paperback in Maehrer's series. Evie Sage has gone from assistant to adversary. A fifth book is already being guessed at."
+        },
+        {
+          "term": "Publishers Weekly",
+          "aliases": [
+            "PW"
+          ],
+          "explain": "The U.S. book trade's main magazine. Its weekly bestseller list is what bookstores and editors mean by 'number one in the country.'"
+        },
+        {
+          "term": "trade paperback",
+          "aliases": [
+            "paperback list"
+          ],
+          "explain": "A larger, nicer paperback than a cheap mass-market one. Many romantasy hits launch in this format."
+        },
+        {
+          "term": "Riley Sager",
+          "aliases": [
+            "Todd Ritter"
+          ],
+          "explain": "A pen name for a U.S. thriller writer. His tenth novel, The Unknown, is a closed-circle mystery on a New England island and is high on the hardcover list."
+        },
+        {
+          "term": "Chris Bohjalian",
+          "aliases": [],
+          "explain": "A long-running U.S. novelist. His new book The Amateur, about a life-changing accident at a golf club, debuted on the hardcover fiction list."
+        },
+        {
+          "term": "Bookstagram",
+          "aliases": [
+            "book Instagram"
+          ],
+          "explain": "The corner of Instagram where people pose and praise books. A big account can now move hardcover sales the way a newspaper review once did."
+        },
+        {
+          "term": "National Book Festival",
+          "aliases": [
+            "Library of Congress festival"
+          ],
+          "explain": "A free, huge public book fair in Washington, D.C., run by the Library of Congress. This year's is Saturday, August 22."
+        },
+        {
+          "term": "Ann Patchett",
+          "aliases": [],
+          "explain": "A bestselling U.S. novelist and independent bookseller. She will receive the 2026 Library of Congress Prize for American Fiction at the festival."
+        },
+        {
+          "term": "Library of Congress Prize for American Fiction",
+          "aliases": [
+            "LoC fiction prize"
+          ],
+          "explain": "A career prize, not a prize for one book. Past winners include Toni Morrison, Don DeLillo, Louise Erdrich, and Jesmyn Ward."
+        },
+        {
+          "term": "Whistler",
+          "aliases": [],
+          "explain": "Patchett's latest novel, out this summer. A woman reconnects with her stepfather. It debuted at number one on the New York Times list and is still there."
+        },
+        {
+          "term": "independent bookstore",
+          "aliases": [
+            "indie shop",
+            "Parnassus Books"
+          ],
+          "explain": "A bookshop not owned by a chain. Patchett co-owns Parnassus in Nashville and often speaks up for these stores."
+        },
+        {
+          "term": "New York Times bestseller list",
+          "aliases": [
+            "NYT list"
+          ],
+          "explain": "The most famous U.S. sales ranking. Being on it, especially at number one, is a career event."
+        },
+        {
+          "term": "Library of Congress",
+          "aliases": [
+            "America's library"
+          ],
+          "explain": "The U.S. national library, in Washington. It also names a poet laureate and hands out this fiction prize."
+        },
+        {
+          "term": "Toni Morrison",
+          "aliases": [],
+          "explain": "The late Nobel Prize-winning American novelist. Naming her as a past winner is how the Library tells you this prize is meant to be canonical."
+        },
+        {
+          "term": "gatekeeper",
+          "aliases": [
+            "literary gatekeeper"
+          ],
+          "explain": "An editor, critic, or prize jury who decides what counts as serious. Romantasy readers say these people missed the actual audience."
+        },
+        {
+          "term": "hardcover",
+          "aliases": [
+            "hardback"
+          ],
+          "explain": "The stiff-cover first edition. Hitting this list still signals prestige, even when paperbacks sell more copies."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "5-year yield",
+      "aliases": [
+        "Japanese government bond yield"
+      ],
+      "explain": "The return on lending to Japan's government for five years. It has jumped as people bet on rate hikes.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "A Tender Age",
+      "aliases": [],
+      "explain": "Lee's new novel about a Korean American boy at a church camp. Published by Riverhead. Critics this week called it luminous.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Abbas Araghchi",
+      "aliases": [
+        "Iranian foreign minister"
+      ],
+      "explain": "Iran's top diplomat. On Saturday he said Tehran has not decided to restart talks with the United States.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "ADNOC",
+      "aliases": [
+        "Abu Dhabi National Oil Company"
+      ],
+      "explain": "The state oil company of Abu Dhabi in the United Arab Emirates. One of its tankers was attacked in Hormuz on Friday.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "Adversary to the Villain",
+      "aliases": [],
+      "explain": "The new paperback in Maehrer's series. Evie Sage has gone from assistant to adversary. A fifth book is already being guessed at.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "AI Opportunity Statement",
+      "aliases": [
+        "June statement"
+      ],
+      "explain": "A softer U.S. paper that 35 countries signed in June, saying they share a vision on AI. The draft letter goes to this larger group, not only full Pax Silica members.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "Alibaba",
+      "aliases": [
+        "Alibaba Group"
+      ],
+      "explain": "A huge Chinese internet company, a bit like Amazon plus a cloud-computing firm. Its AI family is called Qwen.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Ann Patchett",
+      "aliases": [],
+      "explain": "A bestselling U.S. novelist and independent bookseller. She will receive the 2026 Library of Congress Prize for American Fiction at the festival.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Anthropic",
+      "aliases": [],
+      "explain": "Another top U.S. AI company. Together with OpenAI it stands for the closed, tightly held American model.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "anti-competitive",
+      "aliases": [
+        "monopoly behavior"
+      ],
+      "explain": "When a powerful company uses its position to block rivals, not just to make a better product. That can be illegal under U.S. law.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "App Store",
+      "aliases": [
+        "Apple's shop",
+        "iOS store"
+      ],
+      "explain": "The only official place to download apps on an iPhone. Apple sets the rules and usually takes a cut of sales.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Apple Intelligence",
+      "aliases": [
+        "Apple's AI suite"
+      ],
+      "explain": "Apple's brand name for on-phone AI features such as writing tools and a smarter Siri.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "approval rating",
+      "aliases": [
+        "popularity score"
+      ],
+      "explain": "The share of people who say the president is doing a good job. Low scores make midterms harder for his party.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "Baidu",
+      "aliases": [],
+      "explain": "Another big Chinese tech company, best known for search. Reuters has said some of its technology may also sit inside Apple's China AI.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Bank of Japan",
+      "aliases": [
+        "BOJ",
+        "BoJ"
+      ],
+      "explain": "Japan's central bank. It sets the country's main interest rate, the way the Fed does in the United States.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "barrel",
+      "aliases": [
+        "oil barrel"
+      ],
+      "explain": "The unit used to sell oil. One barrel is 42 U.S. gallons, or about 159 liters.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "basis point",
+      "aliases": [
+        "bp"
+      ],
+      "explain": "One-hundredth of 1 percent. If a bond yield rises 5 basis points, it went from, say, 4.68 percent to 4.73 percent.",
+      "stories": [
+        "fn-1",
+        "fn-3"
+      ]
+    },
+    {
+      "term": "battleground",
+      "aliases": [
+        "swing district",
+        "tossup"
+      ],
+      "explain": "A place where both parties have a real chance. Michigan, Ohio, and North Carolina are examples this year.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "bloc politics",
+      "aliases": [
+        "choose a side",
+        "camp politics"
+      ],
+      "explain": "When big powers force smaller countries to join one team and shun the other, the way the U.S. and Soviet Union once did.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "blockade",
+      "aliases": [
+        "naval blockade",
+        "U.S. blockade of Iranian ports"
+      ],
+      "explain": "When ships or missiles stop other ships from going in or out of a port or sea lane. It is a way to choke an enemy's trade without occupying the land.",
+      "stories": [
+        "fn-2",
+        "po-2"
+      ]
+    },
+    {
+      "term": "book-club list",
+      "aliases": [
+        "fall books"
+      ],
+      "explain": "The informal set of novels groups of readers pick after Labor Day. A strong August review week is how books get on those lists.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Bookstagram",
+      "aliases": [
+        "book Instagram"
+      ],
+      "explain": "The corner of Instagram where people pose and praise books. A big account can now move hardcover sales the way a newspaper review once did.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Brent crude",
+      "aliases": [
+        "Brent",
+        "oil benchmark"
+      ],
+      "explain": "A standard type of oil used to set world prices. When people say 'oil is at $88,' they often mean Brent.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "carry trade",
+      "aliases": [
+        "yen carry trade"
+      ],
+      "explain": "Borrowing cheap yen and investing the money in higher-paying assets elsewhere. When Japan raises rates, this trade can unwind fast and shake markets.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "ceasefire",
+      "aliases": [
+        "truce",
+        "pause in fighting"
+      ],
+      "explain": "An agreement to stop shooting, at least for a while. It is not the same as a peace treaty, which ends a war for good.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "Chang-rae Lee",
+      "aliases": [
+        "Chang-Rae Lee"
+      ],
+      "explain": "A Korean American novelist. His new book A Tender Age is getting some of the strongest U.S. reviews this week.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Chris Bohjalian",
+      "aliases": [],
+      "explain": "A long-running U.S. novelist. His new book The Amateur, about a life-changing accident at a golf club, debuted on the hardcover fiction list.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Claire Carusillo",
+      "aliases": [],
+      "explain": "Author of The Responsible Party, a new novel the New York Times Book Review praised this month as funny and stylish.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Cold War",
+      "aliases": [],
+      "explain": "The long U.S.–Soviet standoff after World War II. People use the phrase now when Washington and Beijing split the world into two systems.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "commission",
+      "aliases": [
+        "cut",
+        "fee",
+        "link-out fee"
+      ],
+      "explain": "The slice of money Apple wants from a sale. Fifteen percent means Apple keeps $15 of every $100 you spend.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Congress",
+      "aliases": [
+        "House and Senate"
+      ],
+      "explain": "The U.S. law-making body. The House has 435 voting members. The Senate has 100. If the other party wins either one, the president cannot pass most laws alone.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "consumer sentiment",
+      "aliases": [
+        "consumer confidence",
+        "University of Michigan survey"
+      ],
+      "explain": "A poll that asks regular people how they feel about their money and the future. A falling score means people are worried.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "contempt of court",
+      "aliases": [
+        "defying a judge"
+      ],
+      "explain": "When someone ignores a judge's order. Epic says Apple did this with the 27 percent fee and harsh link rules. That question is still alive.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "content compliance review",
+      "aliases": [
+        "censorship filter",
+        "content check"
+      ],
+      "explain": "A required test in China. The model must refuse or reframe answers the state does not want, for example on politics or history.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "core inflation",
+      "aliases": [
+        "core CPI"
+      ],
+      "explain": "Price rises after you take out food and energy, which jump around a lot. The Fed watches this to see the deeper trend.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "critical minerals",
+      "aliases": [
+        "rare rocks",
+        "rare earths"
+      ],
+      "explain": "Metals and minerals that high-tech industry cannot easily replace. China has a tight grip on many of them and has used that grip in trade fights.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "currency intervention",
+      "aliases": [
+        "yen-buying",
+        "joint intervention"
+      ],
+      "explain": "When a government spends huge sums to buy or sell its own money, hoping to change the exchange rate. Japan and the U.S. did this together last month.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "Cyberspace Administration of China",
+      "aliases": [
+        "CAC",
+        "China's internet watchdog"
+      ],
+      "explain": "The government office that decides which AI chatbots may go live in China. It registered Apple's service in July.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "developer",
+      "aliases": [
+        "app maker"
+      ],
+      "explain": "A person or company that writes apps. They have long complained that Apple's cut is too high.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "dollar index",
+      "aliases": [
+        "U.S. dollar"
+      ],
+      "explain": "A score that shows whether the U.S. dollar is strong or weak against other currencies. A weaker dollar can make imports cost more.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "dual-track strategy",
+      "aliases": [
+        "two-track AI"
+      ],
+      "explain": "Using both Apple's own model and Chinese partner models at once, so Apple can pass rules and still keep some control.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Empire Falls",
+      "aliases": [],
+      "explain": "Russo's 2001 novel about a dying New England mill town. It is the book that made him famous.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "endorsement",
+      "aliases": [
+        "Trump endorsement"
+      ],
+      "explain": "A public blessing. In the GOP, Trump's endorsement can make or break a candidate. Advisers say he will not back people he thinks will lose.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "Epic Games",
+      "aliases": [
+        "Epic",
+        "Fortnite maker"
+      ],
+      "explain": "A U.S. game company that sued Apple. It wanted players to pay Epic directly instead of through Apple.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "exchange rate",
+      "aliases": [
+        "USD/JPY",
+        "160 yen"
+      ],
+      "explain": "How many yen one dollar buys. Near 160, many traders expect Tokyo to step in again.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "export control",
+      "aliases": [
+        "chip ban"
+      ],
+      "explain": "A government rule that says you may not sell certain goods, such as advanced chips, to certain countries.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "external link",
+      "aliases": [
+        "link-out",
+        "web payment"
+      ],
+      "explain": "A button inside an app that sends you to a website to pay. Apple used to ban these. A court said it cannot.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Federal Reserve",
+      "aliases": [
+        "the Fed",
+        "U.S. central bank"
+      ],
+      "explain": "The main bank of the United States. It does not serve regular customers. Its job is to keep prices from rising too fast and to keep as many people working as it can.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "framework agreement",
+      "aliases": [
+        "June Lebanon deal"
+      ],
+      "explain": "A sketch of a deal, not the final contract. In June, Israel and Lebanon's government outlined Israeli withdrawal in exchange for Hezbollah disarming. Hezbollah did not join the talks.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "gasoline",
+      "aliases": [
+        "gas",
+        "petrol"
+      ],
+      "explain": "The fuel most U.S. cars burn. Americans talk about the price per gallon the way others talk about the price of rice.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "gatekeeper",
+      "aliases": [
+        "literary gatekeeper"
+      ],
+      "explain": "An editor, critic, or prize jury who decides what counts as serious. Romantasy readers say these people missed the actual audience.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "GDP",
+      "aliases": [
+        "gross domestic product"
+      ],
+      "explain": "A huge adding-up of everything a country makes and sells in a year. If GDP shrinks, that is a recession.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "generative AI",
+      "aliases": [
+        "gen AI"
+      ],
+      "explain": "Software that creates new text, pictures, or code instead of just finding old files. ChatGPT is the famous example.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "gold",
+      "aliases": [
+        "safe haven"
+      ],
+      "explain": "A metal people buy when they are scared of war, inflation, or messy politics. Its price often rises when other assets look risky.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "Google Play",
+      "aliases": [
+        "Android store"
+      ],
+      "explain": "Google's app shop for Android phones. It also charges for some outside-link sales, which Apple used as a comparison.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Hannah Nicole Maehrer",
+      "aliases": [
+        "Evie Sage series"
+      ],
+      "explain": "A U.S. author whose villain-romance series is a TikTok smash. Her fourth book, Adversary to the Villain, is the country's top seller this week.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "hardcover",
+      "aliases": [
+        "hardback"
+      ],
+      "explain": "The stiff-cover first edition. Hitting this list still signals prestige, even when paperbacks sell more copies.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Hezbollah",
+      "aliases": [],
+      "explain": "An armed political group in Lebanon, backed by Iran. Israel says it is still fighting it in the south despite a June framework deal.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "House of Representatives",
+      "aliases": [
+        "the House"
+      ],
+      "explain": "The larger, more local half of Congress. Every seat is up this November. It can start tax bills and impeachment.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "impeachment",
+      "aliases": [
+        "impeachment trial"
+      ],
+      "explain": "A Congress process that can charge and, if the Senate agrees, remove a president. Trump faced it twice in his first term and does not want a hostile Congress again.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "in-app purchase",
+      "aliases": [
+        "IAP"
+      ],
+      "explain": "Buying something while you are already inside an app, like extra storage or a magazine month.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "independent bookstore",
+      "aliases": [
+        "indie shop",
+        "Parnassus Books"
+      ],
+      "explain": "A bookshop not owned by a chain. Patchett co-owns Parnassus in Nashville and often speaks up for these stores.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "independent voter",
+      "aliases": [
+        "swing voter"
+      ],
+      "explain": "A person who does not always vote for the same party. Trump's team thinks few of them will come back this year.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "inflation",
+      "aliases": [
+        "rising prices",
+        "cost of living",
+        "high prices in Iran"
+      ],
+      "explain": "When the same basket of food, rent, and fuel costs more than it did last year. A little inflation is normal. A lot of it hurts people who live on wages.",
+      "stories": [
+        "fn-1",
+        "fn-2",
+        "po-2"
+      ]
+    },
+    {
+      "term": "inflation expectations",
+      "aliases": [
+        "expected inflation"
+      ],
+      "explain": "What people think prices will do next year. If they expect more inflation, they may demand higher wages, which can make inflation real.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "interest rate",
+      "aliases": [
+        "borrowing cost",
+        "rate hike"
+      ],
+      "explain": "The extra money you pay to borrow. If the Fed raises this rate, mortgages, car loans, and credit cards get more expensive.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "interest rate hike",
+      "aliases": [
+        "rate increase",
+        "tightening"
+      ],
+      "explain": "When a central bank makes borrowing more expensive on purpose, to cool prices or support its currency.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "international waterway",
+      "aliases": [
+        "international waters"
+      ],
+      "explain": "A sea lane that ships of all countries are supposed to be able to use. Trump calling Hormuz U.S. territory clashes with that idea.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "iOS",
+      "aliases": [
+        "iPhone software",
+        "iPhone software update"
+      ],
+      "explain": "The operating system that runs iPhones and iPads. Apple controls it tightly.",
+      "stories": [
+        "tc-1",
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Jackson Hole",
+      "aliases": [
+        "Jackson Hole symposium"
+      ],
+      "explain": "A yearly meeting of central bankers in Wyoming, U.S. The Fed chair often gives a speech there that moves markets. This year's meeting is August 27 to 29.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "JD Vance",
+      "aliases": [
+        "U.S. vice president"
+      ],
+      "explain": "The number-two person in the U.S. government. He has been told to lead talks to end the Iran war and has said cheap oil is his top goal.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "Joe Tsai",
+      "aliases": [
+        "Alibaba chairman"
+      ],
+      "explain": "Alibaba's chairman. In 2025 he said Apple chose Alibaba after talking to several Chinese firms.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Karoline Leavitt",
+      "aliases": [
+        "press secretary"
+      ],
+      "explain": "The White House press secretary, who speaks to reporters for the president. She said she is leaving at the end of August, two months before the vote.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "Kazakhstan",
+      "aliases": [],
+      "explain": "A Central Asian country with lots of useful minerals. It is the only country known to have joined both the U.S. and Chinese AI clubs.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "Kazem Gharibabadi",
+      "aliases": [
+        "Iranian deputy foreign minister"
+      ],
+      "explain": "The Iranian official who said Hormuz 'cannot be seized with a tweet' and that Iran will keep the string closed until the U.S. accepts defeat.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "Kazuo Ueda",
+      "aliases": [
+        "BOJ governor"
+      ],
+      "explain": "The head of the Bank of Japan. He has said the bank might speed up rate rises if money is still too easy.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "Kevin Warsh",
+      "aliases": [
+        "Fed Chair"
+      ],
+      "explain": "The current head of the Federal Reserve. He has not clearly said whether rates will go up in September.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "Knopf",
+      "aliases": [
+        "Alfred A. Knopf"
+      ],
+      "explain": "Another high-status U.S. publisher. It published Russo's thriller.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Kpler",
+      "aliases": [
+        "ship-tracking firm"
+      ],
+      "explain": "A company that watches oil ships from space and port data. Analysts use it to see if oil is actually moving.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "large language model",
+      "aliases": [
+        "LLM",
+        "AI model"
+      ],
+      "explain": "A computer program trained on enormous amounts of text so it can write, translate, and answer questions in human-like language.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Library of Congress",
+      "aliases": [
+        "America's library"
+      ],
+      "explain": "The U.S. national library, in Washington. It also names a poet laureate and hands out this fiction prize.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Library of Congress Prize for American Fiction",
+      "aliases": [
+        "LoC fiction prize"
+      ],
+      "explain": "A career prize, not a prize for one book. Past winners include Toni Morrison, Don DeLillo, Louise Erdrich, and Jesmyn Ward.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Literary Hub",
+      "aliases": [
+        "Lit Hub",
+        "Book Marks"
+      ],
+      "explain": "A U.S. books website that collects reviews and sets a lot of literary-internet conversation. Its Friday 'best reviewed' list is a status marker.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "MAGA",
+      "aliases": [
+        "Make America Great Again",
+        "Trump base"
+      ],
+      "explain": "The nickname for Trump's most loyal voters. Republican strategy now is to get these people to show up, not to win many swing voters.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "Masoud Pezeshkian",
+      "aliases": [
+        "Iranian president"
+      ],
+      "explain": "Iran's president. He has blamed the U.S. blockade of Iranian ports, and lost oil income, for high inflation at home.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "memorandum of understanding",
+      "aliases": [
+        "MoU",
+        "June deal",
+        "June understanding"
+      ],
+      "explain": "A written promise that is not quite a full treaty. The U.S. and Iran signed one in June. A 60-day talk window from that deal ends Monday with little progress.",
+      "stories": [
+        "fn-2",
+        "po-2"
+      ]
+    },
+    {
+      "term": "midterm elections",
+      "aliases": [
+        "midterms"
+      ],
+      "explain": "U.S. elections halfway through a president's four-year term. The whole House and about one-third of the Senate are on the ballot. The president's party often loses seats.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "National Book Festival",
+      "aliases": [
+        "Library of Congress festival"
+      ],
+      "explain": "A free, huge public book fair in Washington, D.C., run by the Library of Congress. This year's is Saturday, August 22.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "negotiation",
+      "aliases": [
+        "talks",
+        "peace talks"
+      ],
+      "explain": "Sitting down to bargain. Iran says passing notes through Qatar and Pakistan does not count as real talks with Washington.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "neutral rate",
+      "aliases": [
+        "r-star"
+      ],
+      "explain": "The Goldilocks interest rate that neither heats up nor cools down the economy. Japan's officials think theirs sits somewhere between about 1.1 and 2.5 percent.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "New York Times bestseller list",
+      "aliases": [
+        "NYT list"
+      ],
+      "explain": "The most famous U.S. sales ranking. Being on it, especially at number one, is a career event.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "New York Times Book Review",
+      "aliases": [
+        "NYTBR"
+      ],
+      "explain": "The most powerful U.S. book-review section. A good notice there can move sales and prizes.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "nuclear weapon",
+      "aliases": [
+        "nuclear bomb"
+      ],
+      "explain": "A bomb that uses splitting or fusing atoms. It can destroy a city. The U.S. says it went to war to stop Iran from building one. Iran says it does not want one.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "Olivia Wales",
+      "aliases": [
+        "White House spokeswoman"
+      ],
+      "explain": "A White House spokesperson who told CNN Trump is committed to keeping the Republican majority.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "on-device",
+      "aliases": [
+        "on-phone AI"
+      ],
+      "explain": "When the AI runs on your phone instead of a faraway server. Apple likes this for privacy. In China, the exact setup is not fully public.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "open-weight model",
+      "aliases": [
+        "open model",
+        "open-source AI"
+      ],
+      "explain": "An AI whose inner numbers are published so others can download, run, and change it. Chinese firms have been strong in this category.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "OpenAI",
+      "aliases": [
+        "ChatGPT",
+        "ChatGPT company"
+      ],
+      "explain": "The U.S. company behind ChatGPT. Its models are not allowed as a public service in mainland China.",
+      "stories": [
+        "tc-2",
+        "po-3"
+      ]
+    },
+    {
+      "term": "PAC",
+      "aliases": [
+        "political action committee",
+        "personal PAC"
+      ],
+      "explain": "A legal pot of money used to help candidates. Trump has a large one from his own political brand.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "Pakistan",
+      "aliases": [],
+      "explain": "Iran's neighbor, which helped with the June understanding and is still carrying messages.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "pan",
+      "aliases": [
+        "negative review"
+      ],
+      "explain": "A review that dislikes the book. Obreht and Russo each got at least one this week.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Pax Silica",
+      "aliases": [
+        "U.S. AI coalition"
+      ],
+      "explain": "A U.S.-led club launched last year to share work on AI, computer chips, and the minerals those chips need, and to keep those supplies away from rivals.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "producer price index",
+      "aliases": [
+        "PPI",
+        "wholesale prices"
+      ],
+      "explain": "A measure of what companies pay for goods before they sell them to you. If this jumps, store prices often follow.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "producer prices",
+      "aliases": [
+        "wholesale inflation"
+      ],
+      "explain": "What factories pay for inputs. Japan is watching these, plus what people expect future prices to do.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "proprietary model",
+      "aliases": [
+        "in-house model"
+      ],
+      "explain": "An AI a company owns and trains itself, rather than renting someone else's. Apple is the first foreign firm China has cleared to offer one.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "Publishers Weekly",
+      "aliases": [
+        "PW"
+      ],
+      "explain": "The U.S. book trade's main magazine. Its weekly bestseller list is what bookstores and editors mean by 'number one in the country.'",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Pulitzer Prize",
+      "aliases": [
+        "Pulitzer"
+      ],
+      "explain": "A set of top U.S. prizes for books, plays, and journalism. Winning one for fiction can define a career.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Qatar",
+      "aliases": [],
+      "explain": "A small Gulf country that hosts a big U.S. base and is trying to pass messages between Washington and Tehran. Iran also claims Qatar is holding three Iranian pilots. Qatar denies it.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "Qwen",
+      "aliases": [
+        "Alibaba Qwen"
+      ],
+      "explain": "Alibaba's public AI model. Apple had already said it would use Qwen inside China-version Apple Intelligence.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "rave",
+      "aliases": [
+        "rave review"
+      ],
+      "explain": "A review that loves the book. Lit Hub tallies raves versus pans so you can see the critical weather at a glance.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "realist",
+      "aliases": [
+        "literary realism"
+      ],
+      "explain": "A writer who aims at everyday life and ordinary speech rather than magic or extreme plot twists. Russo built his name as one.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "redistricting",
+      "aliases": [
+        "redrawing maps",
+        "gerrymandering"
+      ],
+      "explain": "Changing the lines of voting districts. The party that draws friendly lines can win more seats with the same number of votes. Trump pushed Republicans to do this in several states.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "retail sales",
+      "aliases": [
+        "shopping numbers"
+      ],
+      "explain": "A monthly count of how much money people in a country spend in stores and online. If the number falls, it often means households are nervous or poorer.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "Richard Russo",
+      "aliases": [],
+      "explain": "An American novelist famous for small-town stories. He won the Pulitzer Prize for Empire Falls. Under the Falls is his first thriller.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Riley Sager",
+      "aliases": [
+        "Todd Ritter"
+      ],
+      "explain": "A pen name for a U.S. thriller writer. His tenth novel, The Unknown, is a closed-circle mystery on a New England island and is high on the hardcover list.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "Riverhead",
+      "aliases": [
+        "Riverhead Books"
+      ],
+      "explain": "A prestige imprint, meaning a named line inside a big publisher, known for literary fiction. It published Lee's new novel.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "romantasy",
+      "aliases": [
+        "romance fantasy"
+      ],
+      "explain": "A mash-up of love story and magic-world fantasy. It is the hottest commercial genre in the U.S. right now, especially on TikTok.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "S&P 500",
+      "aliases": [
+        "stock index"
+      ],
+      "explain": "A list of 500 big U.S. companies. When people say 'the market hit a record,' they often mean this list went higher than ever.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "Scott Bessent",
+      "aliases": [
+        "U.S. Treasury secretary"
+      ],
+      "explain": "The U.S. official in charge of government money and many sanctions. He has promised new financial pressure on Iran.",
+      "stories": [
+        "fn-2",
+        "fn-3"
+      ]
+    },
+    {
+      "term": "semiconductor",
+      "aliases": [
+        "chip",
+        "AI chip"
+      ],
+      "explain": "A tiny electronic brain. Modern AI needs advanced chips, many of them designed in the U.S. and made in East Asia, including Taiwan.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "Senate",
+      "aliases": [],
+      "explain": "The smaller half of Congress. Senators serve six years. It confirms judges and can block almost any bill.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "services business",
+      "aliases": [
+        "Apple Services"
+      ],
+      "explain": "The part of Apple that makes money from the App Store, iCloud, Apple Music, and similar, not from selling hardware.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Siri",
+      "aliases": [
+        "Apple voice assistant"
+      ],
+      "explain": "The voice helper on iPhones. Apple Intelligence is meant to make it much smarter.",
+      "stories": [
+        "tc-2"
+      ]
+    },
+    {
+      "term": "small business program",
+      "aliases": [
+        "small developer"
+      ],
+      "explain": "Apple's cheaper track for smaller app makers. Under the new plan they would pay 5 percent on outside-link sales.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "State Department",
+      "aliases": [
+        "U.S. State Department"
+      ],
+      "explain": "The U.S. foreign ministry. It writes letters to other countries and runs embassies.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "stimulus",
+      "aliases": [
+        "easy money",
+        "quantitative easing"
+      ],
+      "explain": "Extra-cheap or extra-plentiful money that a central bank pumps out to get people spending. Japan ran a huge version of this for about a decade and started exiting in 2024.",
+      "stories": [
+        "fn-3"
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "aliases": [
+        "Hormuz",
+        "Hormuz Strait"
+      ],
+      "explain": "A narrow sea passage at the mouth of the Persian Gulf. Before the war, about one-fifth of the world's seaborne oil and a lot of gas went through it.",
+      "stories": [
+        "fn-2",
+        "po-2"
+      ]
+    },
+    {
+      "term": "subscription renewal",
+      "aliases": [
+        "auto-renew"
+      ],
+      "explain": "When a monthly or yearly payment rolls over. Apple now says it would take 10 percent on those if you pay off-store.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Sunrise",
+      "aliases": [],
+      "explain": "Obreht's new book. Reviewers say it uses and twists Old West adventure stories and talks about gender, forbidden love, and ruined wilderness.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "supply chain",
+      "aliases": [
+        "supply lines"
+      ],
+      "explain": "The path a product takes from mine to factory to phone. Whoever controls the path can squeeze everyone else.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "Supreme Court",
+      "aliases": [
+        "U.S. Supreme Court"
+      ],
+      "explain": "The highest court in the United States. Its nine justices can stop or allow lower-court fights. On Thursday it refused to pause this one.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Susie Wiles",
+      "aliases": [
+        "White House chief of staff"
+      ],
+      "explain": "Trump's top White House aide. She also helps run the midterm political operation.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "tanker",
+      "aliases": [
+        "oil tanker",
+        "bulk carrier"
+      ],
+      "explain": "A giant ship built to carry oil or other bulk goods. Hitting one can spill fuel and scare other ships away.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "territory",
+      "aliases": [
+        "U.S. territory"
+      ],
+      "explain": "Land or water a country claims as its own. Declaring Hormuz U.S. territory would be an enormous legal and military step, not a slogan with force by itself.",
+      "stories": [
+        "po-2"
+      ]
+    },
+    {
+      "term": "thriller",
+      "aliases": [
+        "suspense novel"
+      ],
+      "explain": "A story built to make you anxious about what happens next, often with danger or a crime. It is a genre, like romance or science fiction.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "Toni Morrison",
+      "aliases": [],
+      "explain": "The late Nobel Prize-winning American novelist. Naming her as a past winner is how the Library tells you this prize is meant to be canonical.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "trade paperback",
+      "aliases": [
+        "paperback list"
+      ],
+      "explain": "A larger, nicer paperback than a cheap mass-market one. Many romantasy hits launch in this format.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "transponder",
+      "aliases": [
+        "AIS"
+      ],
+      "explain": "A radio box on a ship that tells the world where it is. Some ships turn it off to sneak through dangerous waters.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "Treasury yield",
+      "aliases": [
+        "bond yield",
+        "10-year yield"
+      ],
+      "explain": "The return you get for lending money to the U.S. government. When yields rise, borrowing gets costlier for everyone.",
+      "stories": [
+        "fn-1"
+      ]
+    },
+    {
+      "term": "Téa Obreht",
+      "aliases": [
+        "Tea Obreht"
+      ],
+      "explain": "A novelist who won huge praise for The Tiger's Wife more than a decade ago. Her new novel is Sunrise.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "U.S. District Court of Northern California",
+      "aliases": [
+        "lower court",
+        "Judge's court"
+      ],
+      "explain": "The trial court in San Francisco's region that has been hearing the Epic case for years.",
+      "stories": [
+        "tc-1"
+      ]
+    },
+    {
+      "term": "Under the Falls",
+      "aliases": [],
+      "explain": "Russo's new Knopf novel. It is darker and more plot-driven than his usual work. Reviews are mixed.",
+      "stories": [
+        "lt-1"
+      ]
+    },
+    {
+      "term": "voter ID",
+      "aliases": [
+        "SAVE America Act",
+        "elections bill"
+      ],
+      "explain": "Rules that make people show identification to vote. Republicans in Congress fought over a Trump-backed bill on this and did not pass it.",
+      "stories": [
+        "po-1"
+      ]
+    },
+    {
+      "term": "West Texas Intermediate",
+      "aliases": [
+        "WTI",
+        "U.S. crude"
+      ],
+      "explain": "The main U.S. oil price marker. It usually sits a few dollars below Brent.",
+      "stories": [
+        "fn-2"
+      ]
+    },
+    {
+      "term": "Whistler",
+      "aliases": [],
+      "explain": "Patchett's latest novel, out this summer. A woman reconnects with her stepfather. It debuted at number one on the New York Times list and is still there.",
+      "stories": [
+        "lt-2"
+      ]
+    },
+    {
+      "term": "World Artificial Intelligence Cooperation Organization",
+      "aliases": [
+        "China's AI club",
+        "WAICO"
+      ],
+      "explain": "A Chinese-led group Xi Jinping launched in July. It promotes China's open AI models as a different path from U.S. control.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "Xi Jinping",
+      "aliases": [
+        "Chinese president"
+      ],
+      "explain": "China's top leader. He is using AI diplomacy to offer an alternative to U.S. rules.",
+      "stories": [
+        "po-3"
+      ]
+    },
+    {
+      "term": "yen",
+      "aliases": [
+        "Japanese yen",
+        "JPY"
+      ],
+      "explain": "Japan's money. If it takes more yen to buy one U.S. dollar, the yen is weak. A weak yen makes foreign goods cost more in Japan.",
+      "stories": [
+        "fn-3"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-16T08:32:48+08:00",
+  "notes": "Sources: Reuters (Fed/markets, BOJ, Apple-China AI, Pax Silica), NBC/AP (Hormuz/Iran), TechCrunch (Apple App Store), CNN (Trump midterms), Lit Hub/Book Marks and KMUW (literary week), Publishers Weekly (bestsellers), Kirkus/Library of Congress (Patchett festival prize). Gaps: Reuters homepages often 401 so some market numbers are from Reuters reprints (LSE, MarketScreener, American Banker, CNA). No separate Sunday Aug 16 wire drop on literature; festival is Aug 22 and PW list posted Aug 14. Skipped war/climate/health except where they are the finance or politics story (oil, midterms, Hormuz talks)."
+}
