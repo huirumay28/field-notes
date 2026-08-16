@@ -1522,6 +1522,741 @@
       "image": "images/wd-soc-3.jpg",
       "image_alt": "Rescue workers in orange suits and helmets stand in a wrecked hall under a Departure sign and fallen concrete",
       "image_credit": "BBC News"
+    },
+    {
+      "id": "wd-tech-3",
+      "section": "tech",
+      "headline": "SpaceX now owns Cursor, the $60 billion coding helper",
+      "dek": "The AI writing tool many programmers use every day is officially part of Elon Musk's rocket company, which already swallowed xAI.",
+      "caveman": "Imagine a helper that sits in a coder's laptop and writes software with them. That helper is called Cursor. It got so popular that SpaceX, the rocket firm run by Elon Musk, agreed to buy it for about $60 billion. The option was signed in April. SpaceX later went public. On Friday the purchase closed. Cursor's own blog said it now sits inside SpaceX. SpaceX also bought Musk's other AI firm, xAI, earlier this year. xAI makes a chatbot named Grok. Cursor says it will help build Grok and will get to use SpaceX's huge pile of computer chips, called GPUs. SpaceX already rents those chips to Anthropic and Google. There is a catch: SpaceX is being sued over dirty air from the gas turbines that power its data centers. A $60 billion price for a coding app is enormous. It means one person's companies now own rockets, a social network, a chatbot, and the tool a generation of young programmers open every morning.",
+      "why_it_matters": "If one company owns both the factories that train AI and the tool people use to write code, it can set prices and rules for a whole generation of software. Towns near the data centers also breathe the exhaust. Workers and smaller AI labs may find the chips they need are reserved for the house brand.",
+      "camps": "Musk and Cursor say this is how you scale intelligence: more chips, one roof. Critics say it is too much power in one man's hands, and that the climate bill is paid by neighbors of the turbines. Some programmers worry their favorite tool will be bent toward Grok and X. Others just want faster chips and do not care who signs the checks.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published": "2026-08-15",
+      "category": "tech",
+      "image": "images/wd-tech-3.jpg",
+      "image_alt": "A laptop screen showing the Cursor website, billed as an AI coding agent, in a browser window",
+      "image_credit": "Photo: Jagmeet Singh / TechCrunch",
+      "terms": [
+        {
+          "term": "Cursor",
+          "aliases": [
+            "AI coding tool",
+            "AI coding agent"
+          ],
+          "explain": "A popular app that helps people write computer code with an AI sitting beside them. SpaceX just finished buying it."
+        },
+        {
+          "term": "SpaceX",
+          "aliases": [
+            "Elon Musk's rocket company"
+          ],
+          "explain": "The U.S. company that launches rockets and satellites. It went public this year and now also owns xAI and Cursor."
+        },
+        {
+          "term": "Elon Musk",
+          "aliases": [
+            "Musk"
+          ],
+          "explain": "The billionaire who runs SpaceX, xAI, and the social app X. Critics say too many key AI tools now sit in his group."
+        },
+        {
+          "term": "xAI",
+          "aliases": [],
+          "explain": "Musk's AI company, bought by SpaceX earlier this year. It builds the Grok chatbot."
+        },
+        {
+          "term": "Grok",
+          "aliases": [
+            "Grok chatbot"
+          ],
+          "explain": "xAI's chatbot. Cursor says it will now help build it, including a new agent feature."
+        },
+        {
+          "term": "GPU",
+          "aliases": [
+            "graphics chip",
+            "AI chip",
+            "largest fleet of GPUs"
+          ],
+          "explain": "A kind of computer chip that is very good at the math AI needs. Owning many of them is like owning the fuel."
+        },
+        {
+          "term": "data center",
+          "aliases": [
+            "server farm"
+          ],
+          "explain": "A warehouse full of computers. Training big AI needs huge ones, which use a lot of electricity and can pollute if they burn gas."
+        },
+        {
+          "term": "acquisition",
+          "aliases": [
+            "buyout",
+            "takeover"
+          ],
+          "explain": "When one company buys another. SpaceX had an option to buy Cursor for $60 billion and used it."
+        },
+        {
+          "term": "IPO",
+          "aliases": [
+            "went public",
+            "public company"
+          ],
+          "explain": "When a private firm starts selling shares to ordinary investors. SpaceX did this earlier this year."
+        },
+        {
+          "term": "Anthropic",
+          "aliases": [],
+          "explain": "A top U.S. AI company. It is one of the customers renting SpaceX computing power."
+        },
+        {
+          "term": "gas turbine",
+          "aliases": [
+            "data center turbines"
+          ],
+          "explain": "A jet-like engine that burns fuel to make electricity. SpaceX faces a lawsuit over pollution from turbines at its data centers."
+        },
+        {
+          "term": "AI agent",
+          "aliases": [
+            "agent feature"
+          ],
+          "explain": "Software that does not just answer a question but takes steps on its own, like clicking and writing files."
+        }
+      ]
+    },
+    {
+      "id": "wd-tech-4",
+      "section": "tech",
+      "headline": "Claude will hide a secret mark in the words it writes",
+      "dek": "Anthropic said Friday it will stamp chatbot text so schools and bosses can check if a machine wrote it. Some paying users say they will quit.",
+      "caveman": "A chatbot named Claude writes emails, essays, and code for millions of people. Its maker, Anthropic, said it will start putting a secret pattern in those words. The pattern is called a watermark. You cannot see it. A special key can. The company is doing this because a European Union rule, the AI Act, says AI firms must make machine writing checkable. Anthropic will use a method Google DeepMind published in 2024, called SynthID-Text. It also plans a public tool so others can test a block of text. Light edits probably will not wipe the mark. A full rewrite will. Code will carry less of a mark, because there are fewer word choices that still run. Some users on social media said they canceled. They do not want a teacher or a boss to catch them. Others said hiding AI use is just lying. Anthropic says the mark does not change quality, and that other big AI firms signed the same European code and will do this too.",
+      "why_it_matters": "Schools, newsrooms, and offices are drowning in machine text. A watermark is a tool, not a truth serum. If only some companies stamp and others do not, cheaters will switch apps. If the mark is easy to wash out, the rule is theater. Workers also deserve to know whether their employer will treat a stamp like a crime.",
+      "camps": "The EU and many teachers want labels so people know when a machine spoke. Labor and student voices say people should not be punished for using a tool their school or company also uses. Some Claude fans call the mark a snitch. Transparency advocates say the only people angry are the ones who planned to pass AI work off as their own. Both things can be partly true.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "2026-08-15",
+      "category": "tech",
+      "image": "images/wd-tech-4.jpg",
+      "image_alt": "A grid of black magnifying glasses on a pale blue background, a Getty illustration used by TechCrunch",
+      "image_credit": "Photo: atakan / Getty Images",
+      "terms": [
+        {
+          "term": "watermark",
+          "aliases": [
+            "text watermark",
+            "secret mark"
+          ],
+          "explain": "A hidden pattern in AI writing. A person cannot see it. A special key can prove a machine chose the words."
+        },
+        {
+          "term": "Claude",
+          "aliases": [
+            "Claude chatbot"
+          ],
+          "explain": "Anthropic's chatbot, a rival to ChatGPT. It will now watermark the text it generates."
+        },
+        {
+          "term": "Anthropic",
+          "aliases": [],
+          "explain": "The U.S. AI company that makes Claude. It says it is watermarking to follow an EU transparency rule."
+        },
+        {
+          "term": "EU AI Act",
+          "aliases": [
+            "AI Act",
+            "Transparency Code",
+            "Code of Practice"
+          ],
+          "explain": "A European Union law and follow-up code that tell AI companies to make machine-made content identifiable."
+        },
+        {
+          "term": "SynthID-Text",
+          "aliases": [
+            "SynthID",
+            "Google DeepMind method"
+          ],
+          "explain": "A watermarking method Google DeepMind described in 2024. Anthropic says it will use this approach."
+        },
+        {
+          "term": "detection API",
+          "aliases": [
+            "watermark detection"
+          ],
+          "explain": "A public computer door that lets others send text and ask, 'Is this watermarked?' Anthropic says it will release one."
+        },
+        {
+          "term": "Pangram",
+          "aliases": [
+            "AI detector"
+          ],
+          "explain": "A different kind of checker. It looks for writing habits common in AI, not a hidden key. Anthropic says that is not the same as a watermark."
+        },
+        {
+          "term": "large language model",
+          "aliases": [
+            "LLM",
+            "AI model"
+          ],
+          "explain": "A computer program trained on enormous amounts of text so it can write and answer in human-like language."
+        },
+        {
+          "term": "low-stakes choice",
+          "aliases": [
+            "overcast or grey"
+          ],
+          "explain": "When two words both work, the model can pick the one that fits a secret pattern. That is how the watermark hides."
+        },
+        {
+          "term": "Google DeepMind",
+          "aliases": [
+            "DeepMind"
+          ],
+          "explain": "Google's main AI lab. It published the SynthID-Text idea that Anthropic is adopting."
+        },
+        {
+          "term": "subscription cancel",
+          "aliases": [
+            "users cancel"
+          ],
+          "explain": "Some paying Claude users said they would quit after the watermark news, because they do not want to be caught using it at work or school."
+        }
+      ]
+    },
+    {
+      "id": "wd-lit-3",
+      "section": "literature",
+      "headline": "A BookTok dystopian romance hits No. 1 under an AI cloud",
+      "dek": "H.M. Wolfe's Daggermouth, once a self-published Kindle hit, now tops hardcover fiction after a seven-figure deal. A study flagged it. She says that is false.",
+      "caveman": "A love story set in a cruel future, called Daggermouth, started as a cheap ebook. Readers on TikTok — the BookTok crowd — made it huge. Simon & Schuster's new romance imprint, Scarlett Press, paid about seven figures for this book and a sequel. The new hardcover is now number one on the Publishers Weekly hardcover fiction list. At the same time, researchers at Stony Brook University ran a tool named Pangram on more than 14,000 Kindle books. They said Daggermouth scored about 60 percent machine-written, the highest among popular titles they checked, and that they found rare phrases that also show up in other suspected AI books. Wolfe, through a lawyer, said she did not use generative AI and that such tools are unreliable. She has also said she opposes AI in the writing process. The Atlantic, which reported the study, noted there is no final proof. Pangram has flagged human writing before. Simon & Schuster and the British publisher Tor Bramble say they stand behind the book. The study is not yet peer reviewed.",
+      "why_it_matters": "If machine-written books can win seven-figure deals and the top hardcover slot, human writers lose work and readers lose trust. If a shaky detector can wreck a career, that is another kind of harm. Publishing still has no shared rule for what 'written by a person' means.",
+      "camps": "Some researchers and rival authors say the signs are too strong to ignore. Wolfe and her publishers say accusation is not evidence. Romance readers mostly care whether the book moves them. Bookstores are stuck in the middle: they need the sales and they need a clean name. A fair reading holds both the study and the denial in view until someone shows real proof.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101016-this-week-s-bestsellers-august-10-2026.html",
+      "published": "2026-08-14",
+      "category": "literature",
+      "image": "images/wd-lit-3.jpg",
+      "image_alt": "Official cover of H.M. Wolfe's Daggermouth: a grey heart and black rose bound in red cord on black",
+      "image_credit": "Cover: Scarlett Press / Simon & Schuster",
+      "terms": [
+        {
+          "term": "Daggermouth",
+          "aliases": [
+            "The Heart duology"
+          ],
+          "explain": "A dystopian enemies-to-lovers romance by H.M. Wolfe. It began as a self-published ebook and is now a hardcover number one."
+        },
+        {
+          "term": "H.M. Wolfe",
+          "aliases": [
+            "H. M. Wolfe"
+          ],
+          "explain": "The author of Daggermouth. She denies using generative AI. Her publishers have stood by her."
+        },
+        {
+          "term": "BookTok",
+          "aliases": [
+            "TikTok book crowd"
+          ],
+          "explain": "The book corner of TikTok. A viral video there can turn an unknown ebook into a national bestseller."
+        },
+        {
+          "term": "Scarlett Press",
+          "aliases": [
+            "S&S romance imprint"
+          ],
+          "explain": "A new-adult romance imprint at Simon & Schuster, launched in 2025. It published the Daggermouth hardcover."
+        },
+        {
+          "term": "seven-figure deal",
+          "aliases": [
+            "seven-figure advance"
+          ],
+          "explain": "A contract worth at least $1 million. S&S and the U.K. house Tor Bramble paid this for Daggermouth and a sequel."
+        },
+        {
+          "term": "Pangram",
+          "aliases": [
+            "AI detector"
+          ],
+          "explain": "A tool that guesses whether text was written by a machine. Researchers said Daggermouth scored about 60 percent. It has also flagged human writing."
+        },
+        {
+          "term": "peer review",
+          "aliases": [
+            "not yet peer reviewed"
+          ],
+          "explain": "When other experts check a study before it counts as settled science. The Stony Brook paper has not had this yet."
+        },
+        {
+          "term": "Publishers Weekly",
+          "aliases": [
+            "PW",
+            "hardcover fiction list"
+          ],
+          "explain": "The U.S. book trade's main magazine. Its weekly list is what editors mean by number one in the country."
+        },
+        {
+          "term": "self-published",
+          "aliases": [
+            "Kindle ebook",
+            "indie author"
+          ],
+          "explain": "A book the author puts out without a traditional house, often on Amazon. Big publishers now hunt the ones that already sold."
+        },
+        {
+          "term": "The Atlantic",
+          "aliases": [],
+          "explain": "A U.S. magazine that reported the Stony Brook study. It also said there is no definitive proof Wolfe used AI."
+        },
+        {
+          "term": "Tor Bramble",
+          "aliases": [
+            "Bramble UK"
+          ],
+          "explain": "The British publisher that partnered on Daggermouth and has also stood by the author."
+        },
+        {
+          "term": "generative AI",
+          "aliases": [
+            "AI writing"
+          ],
+          "explain": "Software that can invent sentences. The fight is whether a hit novel was made with it, and whether anyone can prove that."
+        },
+        {
+          "term": "Bookstagram",
+          "aliases": [
+            "book Instagram"
+          ],
+          "explain": "The Instagram corner that poses and praises books. Together with BookTok it now moves hardcover piles."
+        }
+      ]
+    },
+    {
+      "id": "wd-lit-4",
+      "section": "literature",
+      "headline": "Claudia Rankine's new book asks what to do when the world will not stop hurting",
+      "dek": "Weekend reviews of Triage, the poet's hybrid work about grief, Gaza, and two friends who cannot agree whether to collapse or keep fighting.",
+      "caveman": "Claudia Rankine is one of the best-known living U.S. poets. Her book Citizen made poetry a bestseller and talked about everyday racism. Her new book, Triage, came out August 4 from Graywolf Press. This weekend, papers from Dublin to New York are still arguing with it. The story is a long talk between a narrator and a friend called the theorist. They met in college. When the world felt like too much, they used to fall down on the campus grass on purpose. That drop was their way to say: we see the pain. Now they disagree. The theorist, who left Ramallah as a teen, says collapse is only useful if you get up and act. The narrator is more tired. She is not sure action still works. Reviewers say the book looks at genocide, climate, and burnout, and that it does not hand you a happy ending. Rankine has said the two people are composite characters, not a straight memoir.",
+      "why_it_matters": "When a famous American writer puts Gaza, grief, and protest into a mainstream book, it becomes part of how U.S. readers talk about the war and about giving up. Libraries, classrooms, and prize lists will carry that talk into the fall.",
+      "camps": "This is not a party-line fight so much as a fight inside the left. Activists who want bodies in the street may find the narrator too still. Readers worn out by the news may feel seen. Some reviewers wanted a clearer answer. Rankine refuses to give one. That refusal is the point, and also the thing that will annoy people who came for a slogan.",
+      "source_name": "The Irish Times",
+      "source_url": "https://www.irishtimes.com/culture/books/review/2026/08/15/in-claudia-rankines-triage-the-reader-bears-witness-to-an-intense-and-unresolved-debate/",
+      "published": "2026-08-15",
+      "category": "literature",
+      "image": "images/wd-lit-4.jpg",
+      "image_alt": "Cover of Claudia Rankine's Triage: two people sharing oversized red clothes on a yellow field",
+      "image_credit": "Cover: Graywolf Press",
+      "terms": [
+        {
+          "term": "Claudia Rankine",
+          "aliases": [
+            "Rankine"
+          ],
+          "explain": "A major U.S. poet and critic. Citizen made her famous. Triage is her new hybrid book."
+        },
+        {
+          "term": "Triage",
+          "aliases": [
+            "Triage: Truth, Art and Fiction"
+          ],
+          "explain": "Rankine's 2026 book from Graywolf. It is part memoir, part argument, about grief and what to do in a collapsing world."
+        },
+        {
+          "term": "Citizen",
+          "aliases": [
+            "American Lyric",
+            "Don't Let Me Be Lonely"
+          ],
+          "explain": "Rankine's 2014 book about everyday racism. It was a rare poetry bestseller and is taught in many U.S. schools."
+        },
+        {
+          "term": "Graywolf Press",
+          "aliases": [
+            "Graywolf"
+          ],
+          "explain": "An independent U.S. publisher in Minneapolis, known for poetry and serious nonfiction. It published Triage."
+        },
+        {
+          "term": "theorist",
+          "aliases": [
+            "the theorist"
+          ],
+          "explain": "The friend in Triage who left Ramallah at 18. In the book they argue that collapse only matters if you get up and fight."
+        },
+        {
+          "term": "Ramallah",
+          "aliases": [
+            "Palestine"
+          ],
+          "explain": "A city in the occupied West Bank. The theorist's leaving it is one of the book's open wounds."
+        },
+        {
+          "term": "hybrid prose",
+          "aliases": [
+            "hybrid book",
+            "prose poetry"
+          ],
+          "explain": "Writing that is not only a novel, not only an essay, not only a poem. Rankine has worked in this mixed form for years."
+        },
+        {
+          "term": "composite character",
+          "aliases": [
+            "not a straight memoir"
+          ],
+          "explain": "A person on the page built from more than one real life. Rankine has said the speaker and the theorist are composites."
+        },
+        {
+          "term": "Gaza",
+          "aliases": [
+            "genocide debate"
+          ],
+          "explain": "The Palestinian territory at the center of a war that hangs over Triage. Reviewers say the book keeps returning to it."
+        },
+        {
+          "term": "Antigone",
+          "aliases": [
+            "Sophocles"
+          ],
+          "explain": "An ancient Greek play about two sisters who disagree on duty after a war. Reviewers hear that argument in Rankine's pair."
+        },
+        {
+          "term": "burnout",
+          "aliases": [
+            "exhaustion",
+            "toomuchness"
+          ],
+          "explain": "When a person is too tired to keep caring at full strength. Triage treats this as a political fact, not just a mood."
+        }
+      ]
+    },
+    {
+      "id": "wd-fin-4",
+      "section": "finance",
+      "headline": "Washington and Ottawa are still far apart as a 50 percent tariff clock ticks",
+      "dek": "U.S. Trade Representative Jamieson Greer said Friday America will not accept Canadian retaliation. A new levy on hundreds of Canadian goods is set for August 19.",
+      "caveman": "The United States and Canada sell a huge amount of stuff to each other. Cars, steel, milk, beer, and wood cross the border every day. President Donald Trump has already taxed some of those goods. He now says that on August 19 he will add a 50 percent tariff on hundreds more Canadian products, on top of the old ones. A tariff is a tax on imports. It makes foreign goods more expensive. Greer, Trump's trade chief, spoke at a factory in Iowa on Friday. He said this is not a trade war, that America is protecting its own factories, and that if Canada hits back, Washington will hit harder. He compared Canada's liquor bans to something China would do. Canada's trade minister, Dominic LeBlanc, has been in Washington. Prime Minister Mark Carney wants the new tax dropped and the old steel and auto taxes cut. Sources told Canadian papers the two sides are not close. Canada may settle for a small pause. Quebec's Bloc party says do not touch the dairy system that protects local farmers.",
+      "why_it_matters": "Canada is one of America's biggest trading partners. A 50 percent wall on everyday goods would raise prices in both countries, hurt factory towns that share one supply chain, and teach every other U.S. ally that a deal can vanish in a week.",
+      "camps": "Trump's team says tariffs bring factories home and punish countries that ban U.S. alcohol or fence off milk. Canadian officials and a former ambassador say America is using size as a weapon and calling self-defense illegal. Workers on both sides of the auto plants just want the line to keep moving. Dairy farmers in Quebec do not want their quota system bargained away. Shoppers in both countries will pay if the clock runs out.",
+      "source_name": "CBC News",
+      "source_url": "https://www.cbc.ca/news/politics/greer-retaliation-trade-deal-tariffs-9.7307407",
+      "published": "2026-08-14",
+      "category": "economy",
+      "image": "images/wd-fin-4.jpg",
+      "image_alt": "U.S. Trade Representative Jamieson Greer gestures while talking on a factory floor in Des Moines, Iowa",
+      "image_credit": "Photo: Kory Siegers / CBC",
+      "terms": [
+        {
+          "term": "tariff",
+          "aliases": [
+            "import tax",
+            "levy",
+            "50 percent tariff"
+          ],
+          "explain": "A tax on goods coming in from another country. A 50 percent tariff means a $10 item can cost $15 at the border before anyone's profit."
+        },
+        {
+          "term": "Jamieson Greer",
+          "aliases": [
+            "U.S. Trade Representative",
+            "USTR"
+          ],
+          "explain": "Trump's top trade official. In Iowa on Friday he said Washington will not tolerate Canadian retaliation."
+        },
+        {
+          "term": "Mark Carney",
+          "aliases": [
+            "Canadian prime minister"
+          ],
+          "explain": "Canada's prime minister. He wants the August 19 tariff dropped and the older steel and auto taxes cut."
+        },
+        {
+          "term": "Dominic LeBlanc",
+          "aliases": [
+            "Canada-U.S. Trade Minister"
+          ],
+          "explain": "The Canadian minister running the talks in Washington with Greer."
+        },
+        {
+          "term": "Section 232",
+          "aliases": [
+            "sectoral tariffs",
+            "232 tariffs"
+          ],
+          "explain": "A U.S. national-security trade law. Trump has used it to tax foreign steel, aluminum, cars, and lumber."
+        },
+        {
+          "term": "CUSMA",
+          "aliases": [
+            "USMCA",
+            "Canada-U.S.-Mexico Agreement"
+          ],
+          "explain": "The current North American free-trade deal. Most Canadian goods that follow it have been exempt — until this new threat."
+        },
+        {
+          "term": "supply management",
+          "aliases": [
+            "dairy quotas",
+            "dairy system"
+          ],
+          "explain": "Canada's system that limits how much milk farmers produce and how much foreign milk comes in. Quebec politicians say do not touch it."
+        },
+        {
+          "term": "retaliation",
+          "aliases": [
+            "counter-tariff",
+            "liquor ban"
+          ],
+          "explain": "Hitting back after someone taxes you. Canada pulled some U.S. alcohol from provincial stores. Greer called that China-like."
+        },
+        {
+          "term": "Smoot-Hawley",
+          "aliases": [
+            "Section 338"
+          ],
+          "explain": "A 1930s U.S. tariff law. Reports say Trump is using a leftover piece of it for the August 19 levy."
+        },
+        {
+          "term": "Bloc Québécois",
+          "aliases": [
+            "Yves-François Blanchet"
+          ],
+          "explain": "A Quebec party in Canada's parliament. Its leader said the U.S. has grown greedier and dairy must stay off the table."
+        },
+        {
+          "term": "supply chain",
+          "aliases": [
+            "integrated auto plants"
+          ],
+          "explain": "The path a car part takes across the border, sometimes more than once, before a finished car is sold. Tariffs tax that path at every hop."
+        },
+        {
+          "term": "trade deficit",
+          "aliases": [
+            "reshoring"
+          ],
+          "explain": "When a country buys more from abroad than it sells. Trump's team says tariffs will shrink this and pull factories home."
+        }
+      ]
+    },
+    {
+      "id": "wd-pol-4",
+      "section": "politics",
+      "headline": "Israeli strikes kill 11 in south Lebanon, including three children",
+      "dek": "It is the deadliest day since a June truce. Israel says it hit a Hezbollah commander. Beirut says a family in a house was not a military target.",
+      "caveman": "Early Saturday, Israeli warplanes hit southern Lebanon. In the village of Ansar, a strike on a house killed seven people, including three children and two women, Lebanon's health ministry said. Later strikes on Deir al-Zahrani killed four more and wounded others. At least 11 people died. Israel said it was answering a Hezbollah attack that badly hurt three of its soldiers. It said the Ansar strike killed Ali Samir Al-Haj Hassan, a commander in Hezbollah's elite Radwan Force, and that his family was there but was not the target. Hezbollah supporters posted photos of the commander with his wife and four children and said they all died. A June deal said Israel would pull back and Hezbollah would disarm. Hezbollah never signed it. Israel still holds a strip of south Lebanon. President Joseph Aoun said the raids send a message to U.S.-led talks. Prime Minister Nawaf Salam said the dead children were not military infrastructure. A spokesman for Benjamin Netanyahu said the strikes should make talks more serious, not less.",
+      "why_it_matters": "A truce that already leaked every day just had its bloodiest morning. If talks in Rome collapse, south Lebanon goes back to open war, and a wider Middle East fight gets another front. Children in a house should not be the price of a commander's death — or of a soldier's injury.",
+      "camps": "Israel says Hezbollah hides fighters among families and broke the ceasefire first. Lebanon's leaders say Israel keeps bombing homes while occupying land and calling it security. Hezbollah wants Beirut to quit U.S. talks. Human rights groups and many on the left say no targeting rule can excuse killing children; they also note Hezbollah is an armed group that chose to keep fighting. The honest picture is ugly on more than one side.",
+      "source_name": "Associated Press",
+      "source_url": "https://apnews.com/article/southern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad",
+      "published": "2026-08-15",
+      "category": "politics",
+      "image": "images/wd-pol-4.jpg",
+      "image_alt": "Men carry a white-shrouded body on a stretcher through a dusty wrecked street beside a crushed car",
+      "image_credit": "Photo: AP",
+      "terms": [
+        {
+          "term": "Ansar",
+          "aliases": [
+            "Ansar village"
+          ],
+          "explain": "A village in southern Lebanon, about 70 kilometers south of Beirut. A Saturday strike on a house there killed seven people, including three children."
+        },
+        {
+          "term": "Deir al-Zahrani",
+          "aliases": [
+            "Deir Zahrani"
+          ],
+          "explain": "Another southern Lebanese town hit the same day. Lebanon said four people died there and more were wounded."
+        },
+        {
+          "term": "Hezbollah",
+          "aliases": [
+            "Iran-backed militia"
+          ],
+          "explain": "An armed political group in Lebanon, backed by Iran. It did not sign the June framework and has refused to disarm."
+        },
+        {
+          "term": "Radwan Force",
+          "aliases": [
+            "elite Hezbollah unit"
+          ],
+          "explain": "Hezbollah's special forces. Israel said the man it killed in Ansar commanded a battalion in this unit."
+        },
+        {
+          "term": "Ali Samir Al-Haj Hassan",
+          "aliases": [
+            "Hezbollah commander"
+          ],
+          "explain": "The man Israel says it killed in Ansar. His family was in the building. Hezbollah supporters say they died with him."
+        },
+        {
+          "term": "framework agreement",
+          "aliases": [
+            "June framework",
+            "June deal"
+          ],
+          "explain": "A June 2026 plan: Israel pulls back, Hezbollah disarms, the Lebanese army moves in. It is not a full peace treaty, and it is leaking."
+        },
+        {
+          "term": "ceasefire",
+          "aliases": [
+            "truce",
+            "pause in fighting"
+          ],
+          "explain": "An agreement to stop shooting, at least for a while. Saturday was the deadliest day since this one began in June."
+        },
+        {
+          "term": "Joseph Aoun",
+          "aliases": [
+            "Lebanese president"
+          ],
+          "explain": "Lebanon's president. He said the strikes send a clear message to the U.S.-led talks."
+        },
+        {
+          "term": "Nawaf Salam",
+          "aliases": [
+            "Lebanese prime minister"
+          ],
+          "explain": "Lebanon's prime minister. He said the dead children and women were not military targets."
+        },
+        {
+          "term": "Benjamin Netanyahu",
+          "aliases": [
+            "Israeli prime minister"
+          ],
+          "explain": "Israel's prime minister. His office said Hezbollah put civilians in a military compound and that the strikes should harden talks, not kill them."
+        },
+        {
+          "term": "security zone",
+          "aliases": [
+            "Israeli buffer",
+            "occupied strip"
+          ],
+          "explain": "A band of south Lebanon, about 10 kilometers deep, that Israeli forces still hold. Critics call it occupation."
+        },
+        {
+          "term": "human shields",
+          "aliases": [
+            "using civilians as cover"
+          ],
+          "explain": "When fighters stay among families so an attack on them also hits civilians. Israel used this phrase. Hezbollah called it a lie after a family died."
+        },
+        {
+          "term": "Rome talks",
+          "aliases": [
+            "U.S.-sponsored negotiations"
+          ],
+          "explain": "Direct Israel-Lebanon meetings hosted with U.S. help. An eighth round is supposed to happen in September."
+        }
+      ]
+    },
+    {
+      "id": "wd-soc-4",
+      "section": "world",
+      "headline": "Taliban parade on year five while 14 million Afghans go hungry",
+      "dek": "Kabul marked victory day on Saturday. The U.N. food agency says it can feed only one in nine people who need help, and girls are still locked out of school.",
+      "caveman": "Five years ago this weekend, the Taliban walked back into Kabul as U.S. forces left. On Saturday they held a parade of armored cars outside the empty old American embassy and called it victory day. Interior minister Sirajuddin Haqqani praised courage and God, and admitted some problems remain. Aid groups painted a harder picture. The World Food Programme says about 14 million Afghans are acutely hungry — one in three people — but money is so short it can feed only one in nine of them. Almost 3.7 million small children are at risk of wasting, the deadly thinness. UNESCO says about 2.5 million girls are barred from secondary school and university. U.N. Women said half of Afghan women now leave home only once or twice a month. The International Rescue Committee said needs hit a record, after drought, quakes, and neighbors pushing Afghans back from Iran and Pakistan. Only Russia has formally recognized the government. Some European countries still talk to Kabul about sending people back.",
+      "why_it_matters": "A forgotten war's leftover is a hunger and girls' education emergency. When rich countries cut aid and still ask the Taliban to take deportees, the bill is paid by mothers walking hours to a clinic that has no milk.",
+      "camps": "The Taliban say they keep order, follow their reading of Islamic law, and want trade. U.N. agencies and Afghan women say the country is being starved of both food and futures. Some Western governments argue talking to Kabul is the only way to deliver aid. Rights groups say recognition and deportation deals reward a system that erased women from public life. Ordinary families are not in any of those rooms. They are trying to find food.",
+      "source_name": "Reuters (via NBC News) / SWI swissinfo.ch",
+      "source_url": "https://www.nbcnews.com/world/afghanistan/taliban-mark-five-years-back-power-afghanistan-aid-groups-warn-crisis-rcna592676",
+      "published": "2026-08-15",
+      "category": "social",
+      "image": "images/wd-soc-4.jpg",
+      "image_alt": "A woman in a headscarf looks back while carrying a baby in a basket and walking with two girls on a mountain path",
+      "image_credit": "Photo: Omer Abrar / AFP",
+      "terms": [
+        {
+          "term": "Taliban",
+          "aliases": [
+            "Taliban government"
+          ],
+          "explain": "The armed Islamist movement that took Afghanistan back in August 2021. It is still not recognized by most countries."
+        },
+        {
+          "term": "World Food Programme",
+          "aliases": [
+            "WFP",
+            "U.N. food agency"
+          ],
+          "explain": "The U.N. agency that feeds people in crises. In Afghanistan it can now reach only one in nine of the 14 million who are acutely hungry."
+        },
+        {
+          "term": "acute hunger",
+          "aliases": [
+            "acute food insecurity",
+            "acutely hungry"
+          ],
+          "explain": "When a person does not have enough food right now, not just a poor diet. About 14 million Afghans are in this state."
+        },
+        {
+          "term": "wasting",
+          "aliases": [
+            "child wasting",
+            "acute malnutrition"
+          ],
+          "explain": "When a child's body becomes dangerously thin. It is the deadliest form of malnutrition. WFP says it is critical in a third of Afghan provinces."
+        },
+        {
+          "term": "UNESCO",
+          "aliases": [],
+          "explain": "The U.N. education and culture agency. It says about 2.5 million Afghan girls are barred from secondary school and university."
+        },
+        {
+          "term": "UN Women",
+          "aliases": [
+            "U.N. Women"
+          ],
+          "explain": "The U.N. agency for women's rights. It said half of Afghan women now leave home only once or twice a month."
+        },
+        {
+          "term": "International Rescue Committee",
+          "aliases": [
+            "IRC"
+          ],
+          "explain": "A big aid group. On Friday it said Afghanistan's humanitarian needs have reached a record."
+        },
+        {
+          "term": "Sirajuddin Haqqani",
+          "aliases": [
+            "interior minister"
+          ],
+          "explain": "The Taliban's interior minister. In a victory-day video he praised courage and God, and admitted problems remain."
+        },
+        {
+          "term": "recognition",
+          "aliases": [
+            "diplomatic recognition"
+          ],
+          "explain": "When one country officially accepts another government as legal. Only Russia has done this for the Taliban so far."
+        },
+        {
+          "term": "deportation",
+          "aliases": [
+            "forced return",
+            "expelled Afghans"
+          ],
+          "explain": "Sending people back against their will. Iran and Pakistan have pushed millions of Afghans home, adding mouths to a hungry country."
+        },
+        {
+          "term": "sharia",
+          "aliases": [
+            "Islamic law",
+            "Taliban restrictions"
+          ],
+          "explain": "Religious law. The Taliban say their rules on women follow it. Rights groups say the rules erase women from public life."
+        },
+        {
+          "term": "aid shortfall",
+          "aliases": [
+            "funding cuts",
+            "underfunded appeal"
+          ],
+          "explain": "When donors promise less money than a crisis needs. Afghanistan's 2026 U.N. appeal was only about a quarter funded."
+        }
+      ]
     }
   ],
   "glossary": [
@@ -1564,6 +2299,28 @@
       ]
     },
     {
+      "term": "acquisition",
+      "aliases": [
+        "buyout",
+        "takeover"
+      ],
+      "explain": "When one company buys another. SpaceX had an option to buy Cursor for $60 billion and used it.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
+      "term": "acute hunger",
+      "aliases": [
+        "acute food insecurity",
+        "acutely hungry"
+      ],
+      "explain": "When a person does not have enough food right now, not just a poor diet. About 14 million Afghans are in this state.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "ADNOC",
       "aliases": [
         "Abu Dhabi National Oil Company"
@@ -1592,6 +2349,16 @@
       ]
     },
     {
+      "term": "AI agent",
+      "aliases": [
+        "agent feature"
+      ],
+      "explain": "Software that does not just answer a question but takes steps on its own, like clicking and writing files.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
       "term": "AI Opportunity Statement",
       "aliases": [
         "June statement"
@@ -1599,6 +2366,27 @@
       "explain": "A softer U.S. paper that 35 countries signed in June, saying they share a vision on AI. The draft letter goes to this larger group, not only full Pax Silica members.",
       "stories": [
         "po-3"
+      ]
+    },
+    {
+      "term": "aid shortfall",
+      "aliases": [
+        "funding cuts",
+        "underfunded appeal"
+      ],
+      "explain": "When donors promise less money than a crisis needs. Afghanistan's 2026 U.N. appeal was only about a quarter funded.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
+      "term": "Ali Samir Al-Haj Hassan",
+      "aliases": [
+        "Hezbollah commander"
+      ],
+      "explain": "The man Israel says it killed in Ansar. His family was in the building. Hezbollah supporters say they died with him.",
+      "stories": [
+        "wd-pol-4"
       ]
     },
     {
@@ -1638,11 +2426,23 @@
       ]
     },
     {
+      "term": "Ansar",
+      "aliases": [
+        "Ansar village"
+      ],
+      "explain": "A village in southern Lebanon, about 70 kilometers south of Beirut. A Saturday strike on a house there killed seven people, including three children.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
       "term": "Anthropic",
       "aliases": [],
       "explain": "Another top U.S. AI company. Together with OpenAI it stands for the closed, tightly held American model.",
       "stories": [
-        "po-3"
+        "po-3",
+        "wd-tech-3",
+        "wd-tech-4"
       ]
     },
     {
@@ -1653,6 +2453,16 @@
       "explain": "When a powerful company uses its position to block rivals, not just to make a better product. That can be illegal under U.S. law.",
       "stories": [
         "tc-1"
+      ]
+    },
+    {
+      "term": "Antigone",
+      "aliases": [
+        "Sophocles"
+      ],
+      "explain": "An ancient Greek play about two sisters who disagree on duty after a war. Reviewers hear that argument in Rankine's pair.",
+      "stories": [
+        "wd-lit-4"
       ]
     },
     {
@@ -1748,6 +2558,16 @@
       ]
     },
     {
+      "term": "Benjamin Netanyahu",
+      "aliases": [
+        "Israeli prime minister"
+      ],
+      "explain": "Israel's prime minister. His office said Hezbollah put civilians in a military compound and that the strikes should harden talks, not kill them.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
       "term": "best interests of the child",
       "aliases": [
         "child's best interests"
@@ -1766,6 +2586,16 @@
       "explain": "When big powers force smaller countries to join one team and shun the other, the way the U.S. and Soviet Union once did.",
       "stories": [
         "po-3"
+      ]
+    },
+    {
+      "term": "Bloc Québécois",
+      "aliases": [
+        "Yves-François Blanchet"
+      ],
+      "explain": "A Quebec party in Canada's parliament. Its leader said the U.S. has grown greedier and dairy must stay off the table.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -1807,7 +2637,18 @@
       ],
       "explain": "The corner of Instagram where people pose and praise books. A big account can now move hardcover sales the way a newspaper review once did.",
       "stories": [
-        "lt-2"
+        "lt-2",
+        "wd-lit-3"
+      ]
+    },
+    {
+      "term": "BookTok",
+      "aliases": [
+        "TikTok book crowd"
+      ],
+      "explain": "The book corner of TikTok. A viral video there can turn an unknown ebook into a national bestseller.",
+      "stories": [
+        "wd-lit-3"
       ]
     },
     {
@@ -1819,6 +2660,17 @@
       "explain": "A standard type of oil used to set world prices. When people say 'oil is at $88,' they often mean Brent.",
       "stories": [
         "fn-2"
+      ]
+    },
+    {
+      "term": "burnout",
+      "aliases": [
+        "exhaustion",
+        "toomuchness"
+      ],
+      "explain": "When a person is too tired to keep caring at full strength. Triage treats this as a political fact, not just a mood.",
+      "stories": [
+        "wd-lit-4"
       ]
     },
     {
@@ -1849,7 +2701,8 @@
       ],
       "explain": "An agreement to stop shooting, at least for a while. It is not the same as a peace treaty, which ends a war for good.",
       "stories": [
-        "po-2"
+        "po-2",
+        "wd-pol-4"
       ]
     },
     {
@@ -1892,11 +2745,42 @@
       ]
     },
     {
+      "term": "Citizen",
+      "aliases": [
+        "American Lyric",
+        "Don't Let Me Be Lonely"
+      ],
+      "explain": "Rankine's 2014 book about everyday racism. It was a rare poetry bestseller and is taught in many U.S. schools.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
       "term": "Claire Carusillo",
       "aliases": [],
       "explain": "Author of The Responsible Party, a new novel the New York Times Book Review praised this month as funny and stylish.",
       "stories": [
         "lt-1"
+      ]
+    },
+    {
+      "term": "Claude",
+      "aliases": [
+        "Claude chatbot"
+      ],
+      "explain": "Anthropic's chatbot, a rival to ChatGPT. It will now watermark the text it generates.",
+      "stories": [
+        "wd-tech-4"
+      ]
+    },
+    {
+      "term": "Claudia Rankine",
+      "aliases": [
+        "Rankine"
+      ],
+      "explain": "A major U.S. poet and critic. Citizen made her famous. Triage is her new hybrid book.",
+      "stories": [
+        "wd-lit-4"
       ]
     },
     {
@@ -1917,6 +2801,16 @@
       "explain": "The slice of money Apple wants from a sale. Fifteen percent means Apple keeps $15 of every $100 you spend.",
       "stories": [
         "tc-1"
+      ]
+    },
+    {
+      "term": "composite character",
+      "aliases": [
+        "not a straight memoir"
+      ],
+      "explain": "A person on the page built from more than one real life. Rankine has said the speaker and the theorist are composites.",
+      "stories": [
+        "wd-lit-4"
       ]
     },
     {
@@ -1994,6 +2888,28 @@
       ]
     },
     {
+      "term": "Cursor",
+      "aliases": [
+        "AI coding tool",
+        "AI coding agent"
+      ],
+      "explain": "A popular app that helps people write computer code with an AI sitting beside them. SpaceX just finished buying it.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
+      "term": "CUSMA",
+      "aliases": [
+        "USMCA",
+        "Canada-U.S.-Mexico Agreement"
+      ],
+      "explain": "The current North American free-trade deal. Most Canadian goods that follow it have been exempt — until this new threat.",
+      "stories": [
+        "wd-fin-4"
+      ]
+    },
+    {
       "term": "Cyberspace Administration of China",
       "aliases": [
         "CAC",
@@ -2002,6 +2918,57 @@
       "explain": "The government office that decides which AI chatbots may go live in China. It registered Apple's service in July.",
       "stories": [
         "tc-2"
+      ]
+    },
+    {
+      "term": "Daggermouth",
+      "aliases": [
+        "The Heart duology"
+      ],
+      "explain": "A dystopian enemies-to-lovers romance by H.M. Wolfe. It began as a self-published ebook and is now a hardcover number one.",
+      "stories": [
+        "wd-lit-3"
+      ]
+    },
+    {
+      "term": "data center",
+      "aliases": [
+        "server farm"
+      ],
+      "explain": "A warehouse full of computers. Training big AI needs huge ones, which use a lot of electricity and can pollute if they burn gas.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
+      "term": "Deir al-Zahrani",
+      "aliases": [
+        "Deir Zahrani"
+      ],
+      "explain": "Another southern Lebanese town hit the same day. Lebanon said four people died there and more were wounded.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
+      "term": "deportation",
+      "aliases": [
+        "forced return",
+        "expelled Afghans"
+      ],
+      "explain": "Sending people back against their will. Iran and Pakistan have pushed millions of Afghans home, adding mouths to a hungry country.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
+      "term": "detection API",
+      "aliases": [
+        "watermark detection"
+      ],
+      "explain": "A public computer door that lets others send text and ask, 'Is this watermarked?' Anthropic says it will release one.",
+      "stories": [
+        "wd-tech-4"
       ]
     },
     {
@@ -2025,6 +2992,16 @@
       ]
     },
     {
+      "term": "Dominic LeBlanc",
+      "aliases": [
+        "Canada-U.S. Trade Minister"
+      ],
+      "explain": "The Canadian minister running the talks in Washington with Greer.",
+      "stories": [
+        "wd-fin-4"
+      ]
+    },
+    {
       "term": "dual-track strategy",
       "aliases": [
         "two-track AI"
@@ -2042,6 +3019,16 @@
       "explain": "A deadly virus spread by body fluids. In Congo, attacks on clinics since May 2026 have disrupted the hunt for new cases.",
       "stories": [
         "wd-soc-2"
+      ]
+    },
+    {
+      "term": "Elon Musk",
+      "aliases": [
+        "Musk"
+      ],
+      "explain": "The billionaire who runs SpaceX, xAI, and the social app X. Critics say too many key AI tools now sit in his group.",
+      "stories": [
+        "wd-tech-3"
       ]
     },
     {
@@ -2081,6 +3068,18 @@
       "explain": "The point on the Earth's surface above where the quake started. Nearby towns shake most.",
       "stories": [
         "wd-soc-3"
+      ]
+    },
+    {
+      "term": "EU AI Act",
+      "aliases": [
+        "AI Act",
+        "Transparency Code",
+        "Code of Practice"
+      ],
+      "explain": "A European Union law and follow-up code that tell AI companies to make machine-made content identifiable.",
+      "stories": [
+        "wd-tech-4"
       ]
     },
     {
@@ -2145,7 +3144,18 @@
       ],
       "explain": "A sketch of a deal, not the final contract. In June, Israel and Lebanon's government outlined Israeli withdrawal in exchange for Hezbollah disarming. Hezbollah did not join the talks.",
       "stories": [
-        "po-2"
+        "po-2",
+        "wd-pol-4"
+      ]
+    },
+    {
+      "term": "gas turbine",
+      "aliases": [
+        "data center turbines"
+      ],
+      "explain": "A jet-like engine that burns fuel to make electricity. SpaceX faces a lawsuit over pollution from turbines at its data centers.",
+      "stories": [
+        "wd-tech-3"
       ]
     },
     {
@@ -2170,6 +3180,16 @@
       ]
     },
     {
+      "term": "Gaza",
+      "aliases": [
+        "genocide debate"
+      ],
+      "explain": "The Palestinian territory at the center of a war that hangs over Triage. Reviewers say the book keeps returning to it.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
       "term": "GDP",
       "aliases": [
         "gross domestic product"
@@ -2186,7 +3206,8 @@
       ],
       "explain": "Software that creates new text, pictures, or code instead of just finding old files. ChatGPT is the famous example.",
       "stories": [
-        "tc-2"
+        "tc-2",
+        "wd-lit-3"
       ]
     },
     {
@@ -2200,6 +3221,16 @@
       ]
     },
     {
+      "term": "Google DeepMind",
+      "aliases": [
+        "DeepMind"
+      ],
+      "explain": "Google's main AI lab. It published the SynthID-Text idea that Anthropic is adopting.",
+      "stories": [
+        "wd-tech-4"
+      ]
+    },
+    {
       "term": "Google Play",
       "aliases": [
         "Android store"
@@ -2207,6 +3238,48 @@
       "explain": "Google's app shop for Android phones. It also charges for some outside-link sales, which Apple used as a comparison.",
       "stories": [
         "tc-1"
+      ]
+    },
+    {
+      "term": "GPU",
+      "aliases": [
+        "graphics chip",
+        "AI chip",
+        "largest fleet of GPUs"
+      ],
+      "explain": "A kind of computer chip that is very good at the math AI needs. Owning many of them is like owning the fuel.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
+      "term": "Graywolf Press",
+      "aliases": [
+        "Graywolf"
+      ],
+      "explain": "An independent U.S. publisher in Minneapolis, known for poetry and serious nonfiction. It published Triage.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
+      "term": "Grok",
+      "aliases": [
+        "Grok chatbot"
+      ],
+      "explain": "xAI's chatbot. Cursor says it will now help build it, including a new agent feature.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
+      "term": "H.M. Wolfe",
+      "aliases": [
+        "H. M. Wolfe"
+      ],
+      "explain": "The author of Daggermouth. She denies using generative AI. Her publishers have stood by her.",
+      "stories": [
+        "wd-lit-3"
       ]
     },
     {
@@ -2234,7 +3307,8 @@
       "aliases": [],
       "explain": "An armed political group in Lebanon, backed by Iran. Israel says it is still fighting it in the south despite a June framework deal.",
       "stories": [
-        "po-2"
+        "po-2",
+        "wd-pol-4"
       ]
     },
     {
@@ -2245,6 +3319,27 @@
       "explain": "The larger, more local half of Congress. Every seat is up this November. It can start tax bills and impeachment.",
       "stories": [
         "po-1"
+      ]
+    },
+    {
+      "term": "human shields",
+      "aliases": [
+        "using civilians as cover"
+      ],
+      "explain": "When fighters stay among families so an attack on them also hits civilians. Israel used this phrase. Hezbollah called it a lie after a family died.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
+      "term": "hybrid prose",
+      "aliases": [
+        "hybrid book",
+        "prose poetry"
+      ],
+      "explain": "Writing that is not only a novel, not only an essay, not only a poem. Rankine has worked in this mixed form for years.",
+      "stories": [
+        "wd-lit-4"
       ]
     },
     {
@@ -2346,6 +3441,16 @@
       ]
     },
     {
+      "term": "International Rescue Committee",
+      "aliases": [
+        "IRC"
+      ],
+      "explain": "A big aid group. On Friday it said Afghanistan's humanitarian needs have reached a record.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "international waterway",
       "aliases": [
         "international waters"
@@ -2368,6 +3473,17 @@
       ]
     },
     {
+      "term": "IPO",
+      "aliases": [
+        "went public",
+        "public company"
+      ],
+      "explain": "When a private firm starts selling shares to ordinary investors. SpaceX did this earlier this year.",
+      "stories": [
+        "wd-tech-3"
+      ]
+    },
+    {
       "term": "Jackson Hole",
       "aliases": [
         "Jackson Hole symposium"
@@ -2375,6 +3491,17 @@
       "explain": "A yearly meeting of central bankers in Wyoming, U.S. The Fed chair often gives a speech there that moves markets. This year's meeting is August 27 to 29.",
       "stories": [
         "fn-1"
+      ]
+    },
+    {
+      "term": "Jamieson Greer",
+      "aliases": [
+        "U.S. Trade Representative",
+        "USTR"
+      ],
+      "explain": "Trump's top trade official. In Iowa on Friday he said Washington will not tolerate Canadian retaliation.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -2395,6 +3522,16 @@
       "explain": "Alibaba's chairman. In 2025 he said Apple chose Alibaba after talking to several Chinese firms.",
       "stories": [
         "tc-2"
+      ]
+    },
+    {
+      "term": "Joseph Aoun",
+      "aliases": [
+        "Lebanese president"
+      ],
+      "explain": "Lebanon's president. He said the strikes send a clear message to the U.S.-led talks.",
+      "stories": [
+        "wd-pol-4"
       ]
     },
     {
@@ -2473,7 +3610,8 @@
       ],
       "explain": "A computer program trained on enormous amounts of text so it can write, translate, and answer questions in human-like language.",
       "stories": [
-        "tc-2"
+        "tc-2",
+        "wd-tech-4"
       ]
     },
     {
@@ -2508,6 +3646,16 @@
       ]
     },
     {
+      "term": "low-stakes choice",
+      "aliases": [
+        "overcast or grey"
+      ],
+      "explain": "When two words both work, the model can pick the one that fits a secret pattern. That is how the watermark hides.",
+      "stories": [
+        "wd-tech-4"
+      ]
+    },
+    {
       "term": "Luna Blanca",
       "aliases": [],
       "explain": "A Ceuta community group. Volunteers have been cooking daily for people sleeping outside.",
@@ -2535,6 +3683,16 @@
       "explain": "A score for how strong an earthquake is. Each whole number is much more energy than the one below. 7.7 is a major quake.",
       "stories": [
         "wd-soc-3"
+      ]
+    },
+    {
+      "term": "Mark Carney",
+      "aliases": [
+        "Canadian prime minister"
+      ],
+      "explain": "Canada's prime minister. He wants the August 19 tariff dropped and the older steel and auto taxes cut.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -2588,6 +3746,16 @@
       "explain": "A free, huge public book fair in Washington, D.C., run by the Library of Congress. This year's is Saturday, August 22.",
       "stories": [
         "lt-2"
+      ]
+    },
+    {
+      "term": "Nawaf Salam",
+      "aliases": [
+        "Lebanese prime minister"
+      ],
+      "explain": "Lebanon's prime minister. He said the dead children and women were not military targets.",
+      "stories": [
+        "wd-pol-4"
       ]
     },
     {
@@ -2736,6 +3904,17 @@
       ]
     },
     {
+      "term": "Pangram",
+      "aliases": [
+        "AI detector"
+      ],
+      "explain": "A different kind of checker. It looks for writing habits common in AI, not a hidden key. Anthropic says that is not the same as a watermark.",
+      "stories": [
+        "wd-tech-4",
+        "wd-lit-3"
+      ]
+    },
+    {
       "term": "Pax Silica",
       "aliases": [
         "U.S. AI coalition"
@@ -2743,6 +3922,16 @@
       "explain": "A U.S.-led club launched last year to share work on AI, computer chips, and the minerals those chips need, and to keep those supplies away from rivals.",
       "stories": [
         "po-3"
+      ]
+    },
+    {
+      "term": "peer review",
+      "aliases": [
+        "not yet peer reviewed"
+      ],
+      "explain": "When other experts check a study before it counts as settled science. The Stony Brook paper has not had this yet.",
+      "stories": [
+        "wd-lit-3"
       ]
     },
     {
@@ -2783,7 +3972,8 @@
       ],
       "explain": "The U.S. book trade's main magazine. Its weekly bestseller list is what bookstores and editors mean by 'number one in the country.'",
       "stories": [
-        "lt-2"
+        "lt-2",
+        "wd-lit-3"
       ]
     },
     {
@@ -2815,6 +4005,26 @@
       ]
     },
     {
+      "term": "Radwan Force",
+      "aliases": [
+        "elite Hezbollah unit"
+      ],
+      "explain": "Hezbollah's special forces. Israel said the man it killed in Ansar commanded a battalion in this unit.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
+      "term": "Ramallah",
+      "aliases": [
+        "Palestine"
+      ],
+      "explain": "A city in the occupied West Bank. The theorist's leaving it is one of the book's open wounds.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
       "term": "rave",
       "aliases": [
         "rave review"
@@ -2832,6 +4042,16 @@
       "explain": "A writer who aims at everyday life and ordinary speech rather than magic or extreme plot twists. Russo built his name as one.",
       "stories": [
         "lt-1"
+      ]
+    },
+    {
+      "term": "recognition",
+      "aliases": [
+        "diplomatic recognition"
+      ],
+      "explain": "When one country officially accepts another government as legal. Only Russia has done this for the Taliban so far.",
+      "stories": [
+        "wd-soc-4"
       ]
     },
     {
@@ -2853,6 +4073,17 @@
       "explain": "A monthly count of how much money people in a country spend in stores and online. If the number falls, it often means households are nervous or poorer.",
       "stories": [
         "fn-1"
+      ]
+    },
+    {
+      "term": "retaliation",
+      "aliases": [
+        "counter-tariff",
+        "liquor ban"
+      ],
+      "explain": "Hitting back after someone taxes you. Canada pulled some U.S. alcohol from provincial stores. Greer called that China-like.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -2894,6 +4125,16 @@
       ]
     },
     {
+      "term": "Rome talks",
+      "aliases": [
+        "U.S.-sponsored negotiations"
+      ],
+      "explain": "Direct Israel-Lebanon meetings hosted with U.S. help. An eighth round is supposed to happen in September.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
       "term": "S&P 500",
       "aliases": [
         "stock index"
@@ -2914,6 +4155,16 @@
       ]
     },
     {
+      "term": "Scarlett Press",
+      "aliases": [
+        "S&S romance imprint"
+      ],
+      "explain": "A new-adult romance imprint at Simon & Schuster, launched in 2025. It published the Daggermouth hardcover.",
+      "stories": [
+        "wd-lit-3"
+      ]
+    },
+    {
       "term": "Scott Bessent",
       "aliases": [
         "U.S. Treasury secretary"
@@ -2922,6 +4173,39 @@
       "stories": [
         "fn-2",
         "fn-3"
+      ]
+    },
+    {
+      "term": "Section 232",
+      "aliases": [
+        "sectoral tariffs",
+        "232 tariffs"
+      ],
+      "explain": "A U.S. national-security trade law. Trump has used it to tax foreign steel, aluminum, cars, and lumber.",
+      "stories": [
+        "wd-fin-4"
+      ]
+    },
+    {
+      "term": "security zone",
+      "aliases": [
+        "Israeli buffer",
+        "occupied strip"
+      ],
+      "explain": "A band of south Lebanon, about 10 kilometers deep, that Israeli forces still hold. Critics call it occupation.",
+      "stories": [
+        "wd-pol-4"
+      ]
+    },
+    {
+      "term": "self-published",
+      "aliases": [
+        "Kindle ebook",
+        "indie author"
+      ],
+      "explain": "A book the author puts out without a traditional house, often on Amazon. Big publishers now hunt the ones that already sold.",
+      "stories": [
+        "wd-lit-3"
       ]
     },
     {
@@ -2954,6 +4238,37 @@
       ]
     },
     {
+      "term": "seven-figure deal",
+      "aliases": [
+        "seven-figure advance"
+      ],
+      "explain": "A contract worth at least $1 million. S&S and the U.K. house Tor Bramble paid this for Daggermouth and a sequel.",
+      "stories": [
+        "wd-lit-3"
+      ]
+    },
+    {
+      "term": "sharia",
+      "aliases": [
+        "Islamic law",
+        "Taliban restrictions"
+      ],
+      "explain": "Religious law. The Taliban say their rules on women follow it. Rights groups say the rules erase women from public life.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
+      "term": "Sirajuddin Haqqani",
+      "aliases": [
+        "interior minister"
+      ],
+      "explain": "The Taliban's interior minister. In a victory-day video he praised courage and God, and admitted problems remain.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "Siri",
       "aliases": [
         "Apple voice assistant"
@@ -2971,6 +4286,26 @@
       "explain": "Apple's cheaper track for smaller app makers. Under the new plan they would pay 5 percent on outside-link sales.",
       "stories": [
         "tc-1"
+      ]
+    },
+    {
+      "term": "Smoot-Hawley",
+      "aliases": [
+        "Section 338"
+      ],
+      "explain": "A 1930s U.S. tariff law. Reports say Trump is using a leftover piece of it for the August 19 levy.",
+      "stories": [
+        "wd-fin-4"
+      ]
+    },
+    {
+      "term": "SpaceX",
+      "aliases": [
+        "Elon Musk's rocket company"
+      ],
+      "explain": "The U.S. company that launches rockets and satellites. It went public this year and now also owns xAI and Cursor.",
+      "stories": [
+        "wd-tech-3"
       ]
     },
     {
@@ -3004,6 +4339,16 @@
       "stories": [
         "fn-2",
         "po-2"
+      ]
+    },
+    {
+      "term": "subscription cancel",
+      "aliases": [
+        "users cancel"
+      ],
+      "explain": "Some paying Claude users said they would quit after the watermark news, because they do not want to be caught using it at work or school.",
+      "stories": [
+        "wd-tech-4"
       ]
     },
     {
@@ -3042,7 +4387,19 @@
       ],
       "explain": "The path a product takes from mine to factory to phone. Whoever controls the path can squeeze everyone else.",
       "stories": [
-        "po-3"
+        "po-3",
+        "wd-fin-4"
+      ]
+    },
+    {
+      "term": "supply management",
+      "aliases": [
+        "dairy quotas",
+        "dairy system"
+      ],
+      "explain": "Canada's system that limits how much milk farmers produce and how much foreign milk comes in. Quebec politicians say do not touch it.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -3066,6 +4423,27 @@
       ]
     },
     {
+      "term": "SynthID-Text",
+      "aliases": [
+        "SynthID",
+        "Google DeepMind method"
+      ],
+      "explain": "A watermarking method Google DeepMind described in 2024. Anthropic says it will use this approach.",
+      "stories": [
+        "wd-tech-4"
+      ]
+    },
+    {
+      "term": "Taliban",
+      "aliases": [
+        "Taliban government"
+      ],
+      "explain": "The armed Islamist movement that took Afghanistan back in August 2021. It is still not recognized by most countries.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "tanker",
       "aliases": [
         "oil tanker",
@@ -3074,6 +4452,18 @@
       "explain": "A giant ship built to carry oil or other bulk goods. Hitting one can spill fuel and scare other ships away.",
       "stories": [
         "fn-2"
+      ]
+    },
+    {
+      "term": "tariff",
+      "aliases": [
+        "import tax",
+        "levy",
+        "50 percent tariff"
+      ],
+      "explain": "A tax on goods coming in from another country. A 50 percent tariff means a $10 item can cost $15 at the border before anyone's profit.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -3097,6 +4487,24 @@
       ]
     },
     {
+      "term": "The Atlantic",
+      "aliases": [],
+      "explain": "A U.S. magazine that reported the Stony Brook study. It also said there is no definitive proof Wolfe used AI.",
+      "stories": [
+        "wd-lit-3"
+      ]
+    },
+    {
+      "term": "theorist",
+      "aliases": [
+        "the theorist"
+      ],
+      "explain": "The friend in Triage who left Ramallah at 18. In the book they argue that collapse only matters if you get up and fight.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
       "term": "thriller",
       "aliases": [
         "suspense novel"
@@ -3112,6 +4520,26 @@
       "explain": "The late Nobel Prize-winning American novelist. Naming her as a past winner is how the Library tells you this prize is meant to be canonical.",
       "stories": [
         "lt-2"
+      ]
+    },
+    {
+      "term": "Tor Bramble",
+      "aliases": [
+        "Bramble UK"
+      ],
+      "explain": "The British publisher that partnered on Daggermouth and has also stood by the author.",
+      "stories": [
+        "wd-lit-3"
+      ]
+    },
+    {
+      "term": "trade deficit",
+      "aliases": [
+        "reshoring"
+      ],
+      "explain": "When a country buys more from abroad than it sells. Trump's team says tariffs will shrink this and pull factories home.",
+      "stories": [
+        "wd-fin-4"
       ]
     },
     {
@@ -3146,6 +4574,16 @@
       ]
     },
     {
+      "term": "Triage",
+      "aliases": [
+        "Triage: Truth, Art and Fiction"
+      ],
+      "explain": "Rankine's 2026 book from Graywolf. It is part memoir, part argument, about grief and what to do in a collapsing world.",
+      "stories": [
+        "wd-lit-4"
+      ]
+    },
+    {
       "term": "tsunami warning",
       "aliases": [
         "tsunami"
@@ -3177,6 +4615,16 @@
       ]
     },
     {
+      "term": "UN Women",
+      "aliases": [
+        "U.N. Women"
+      ],
+      "explain": "The U.N. agency for women's rights. It said half of Afghan women now leave home only once or twice a month.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "unaccompanied minor",
       "aliases": [
         "unaccompanied children",
@@ -3193,6 +4641,14 @@
       "explain": "Russo's new Knopf novel. It is darker and more plot-driven than his usual work. Reviews are mixed.",
       "stories": [
         "lt-1"
+      ]
+    },
+    {
+      "term": "UNESCO",
+      "aliases": [],
+      "explain": "The U.N. education and culture agency. It says about 2.5 million Afghan girls are barred from secondary school and university.",
+      "stories": [
+        "wd-soc-4"
       ]
     },
     {
@@ -3214,6 +4670,28 @@
       "explain": "Rules that make people show identification to vote. Republicans in Congress fought over a Trump-backed bill on this and did not pass it.",
       "stories": [
         "po-1"
+      ]
+    },
+    {
+      "term": "wasting",
+      "aliases": [
+        "child wasting",
+        "acute malnutrition"
+      ],
+      "explain": "When a child's body becomes dangerously thin. It is the deadliest form of malnutrition. WFP says it is critical in a third of Afghan provinces.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
+      "term": "watermark",
+      "aliases": [
+        "text watermark",
+        "secret mark"
+      ],
+      "explain": "A hidden pattern in AI writing. A person cannot see it. A special key can prove a machine chose the words.",
+      "stories": [
+        "wd-tech-4"
       ]
     },
     {
@@ -3247,6 +4725,17 @@
       ]
     },
     {
+      "term": "World Food Programme",
+      "aliases": [
+        "WFP",
+        "U.N. food agency"
+      ],
+      "explain": "The U.N. agency that feeds people in crises. In Afghanistan it can now reach only one in nine of the 14 million who are acutely hungry.",
+      "stories": [
+        "wd-soc-4"
+      ]
+    },
+    {
       "term": "World Health Organization",
       "aliases": [
         "WHO"
@@ -3254,6 +4743,14 @@
       "explain": "The United Nations agency for global health. It counts attacks on medical care in wars and tries to send supplies.",
       "stories": [
         "wd-soc-2"
+      ]
+    },
+    {
+      "term": "xAI",
+      "aliases": [],
+      "explain": "Musk's AI company, bought by SpaceX earlier this year. It builds the Grok chatbot.",
+      "stories": [
+        "wd-tech-3"
       ]
     },
     {
@@ -3278,6 +4775,6 @@
       ]
     }
   ],
-  "fetched_at": "2026-08-16T09:24:19+08:00",
-  "notes": "Sources: Reuters (Fed/markets, BOJ, Apple-China AI, Pax Silica), NBC/AP (Hormuz/Iran), TechCrunch (Apple App Store), CNN (Trump midterms), Lit Hub/Book Marks and KMUW (literary week), Publishers Weekly (bestsellers), Kirkus/Library of Congress (Patchett festival prize). Gaps: Reuters homepages often 401 so some market numbers are from Reuters reprints (LSE, MarketScreener, American Banker, CNA). No separate Sunday Aug 16 wire drop on literature; festival is Aug 22 and PW list posted Aug 14. Skipped war/climate/health except where they are the finance or politics story (oil, midterms, Hormuz talks). Added social/humanitarian 2026-08-16: Ceuta unaccompanied minors (Euronews 8/14), WHO attacks on healthcare (Reuters via Straits Times 8/14), Flores M7.7 quake (BBC 8/16)."
+  "fetched_at": "2026-08-16T11:10:55+08:00",
+  "notes": "Sources: Reuters (Fed/markets, BOJ, Apple-China AI, Pax Silica), NBC/AP (Hormuz/Iran), TechCrunch (Apple App Store), CNN (Trump midterms), Lit Hub/Book Marks and KMUW (literary week), Publishers Weekly (bestsellers), Kirkus/Library of Congress (Patchett festival prize). Gaps: Reuters homepages often 401 so some market numbers are from Reuters reprints (LSE, MarketScreener, American Banker, CNA). No separate Sunday Aug 16 wire drop on literature; festival is Aug 22 and PW list posted Aug 14. Skipped war/climate/health except where they are the finance or politics story (oil, midterms, Hormuz talks). Added social/humanitarian 2026-08-16: Ceuta unaccompanied minors (Euronews 8/14), WHO attacks on healthcare (Reuters via Straits Times 8/14), Flores M7.7 quake (BBC 8/16). Appended 2026-08-16: SpaceX-Cursor close (TechCrunch 8/15), Anthropic Claude watermarks (TechCrunch 8/15), Daggermouth PW hardcover #1 and AI-study dispute (PW 8/14), Rankine Triage reviews (Irish Times 8/15), Canada-U.S. 50% tariff deadline (CBC 8/14), Israel-Lebanon Ansar strikes (AP 8/15), Taliban year-five hunger (Reuters/NBC 8/15, SWI 8/14)."
 }
