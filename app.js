@@ -1,14 +1,16 @@
-/* Cave Daily — vanilla news shell. No eval. No live fetch. */
+/* Field Notes — vanilla news shell. No eval. No live fetch. */
 (function () {
   "use strict";
 
-  var TOPICS = ["all", "finance", "tech", "politics", "literature"];
+  var TOPICS = ["all", "finance", "tech", "politics", "literature", "pop", "social"];
   var TOPIC_LABEL = {
     all: "All",
     finance: "Finance",
     tech: "Tech",
     politics: "Politics",
-    literature: "Literature"
+    literature: "Literature",
+    pop: "Pop",
+    social: "Social"
   };
 
   var KNOWN_VOCAB = {
@@ -33,22 +35,25 @@
     stories: [{
       id: "sample-tw-1",
       section: "taiwan",
-      headline: "〔樣本〕山洞日報測試稿：菜攤上的算盤",
-      dek: "這不是真新聞。只是用來試版面。",
-      caveman: "人要吃飯。菜有時貴，有時便宜。攤販用算盤算錢。這篇是假的，給你看卡片長怎樣。",
-      why_it_matters: "沒有真的事情。只是讓詞彙點擊和版面有東西可看。",
-      camps: "沒有陣營。這是樣本。",
-      source_name: "Cave Daily sample",
+      headline: "[Sample] A stall and an abacus",
+      dek: "This is not real news. It is a layout test.",
+      caveman: "People need to eat. Vegetables cost more some days, less on others. The stall uses an abacus. This story is fake, so you can see how a card looks.",
+      why_it_matters: "Nothing happened. It is only here so taps and the page have something to show.",
+      camps: "No camps. Sample only.",
+      source_name: "Field Notes sample",
       source_url: "https://example.com/sample-taiwan",
       published: "2026-08-16",
       category: "經濟",
+      image: "",
+      image_alt: "",
+      image_credit: "",
       terms: [
-        { term: "算盤", aliases: ["算盤"], explain: "Old tool for counting money. Beads on rods. Hands move, numbers appear." },
-        { term: "樣本", aliases: ["測試稿"], explain: "A fake piece, only for testing the page. Not real news." }
+        { term: "abacus", aliases: ["算盤"], explain: "Old tool for counting money. Beads on rods. Hands move, numbers appear." },
+        { term: "sample", aliases: ["測試稿"], explain: "A fake piece, only for testing the page. Not real news." }
       ]
     }],
     glossary: [
-      { term: "菜攤", aliases: ["攤販"], explain: "A stall that sells vegetables. Morning market energy." }
+      { term: "stall", aliases: ["菜攤", "攤販"], explain: "A stall that sells vegetables. Morning market energy." }
     ],
     fetched_at: null,
     notes: "Built-in sample. Live file was missing."
@@ -63,10 +68,13 @@
       caveman: "Room was dark. People put a lamp. Book easier to see. This story is fake. Only here so the page has a World card.",
       why_it_matters: "Nothing happened. The lamp is imaginary. Use it to try tapping an underlined word.",
       camps: "No camps. Sample only.",
-      source_name: "Cave Daily sample",
+      source_name: "Field Notes sample",
       source_url: "https://example.com/sample-world",
       published: "2026-08-16",
       category: "literature",
+      image: "",
+      image_alt: "",
+      image_credit: "",
       terms: [
         { term: "lamp", aliases: ["light"], explain: "A thing that makes light so eyes can read." },
         { term: "library", aliases: ["book place"], explain: "A quiet room full of books. People borrow, read, return." }
@@ -89,7 +97,8 @@
     fetchedAt: [],
     notes: [],
     activeKey: null,
-    ignoreSelect: false
+    ignoreSelect: false,
+    reading: null
   };
 
   var els = {};
@@ -108,6 +117,12 @@
     els.tabTaiwan = $("tab-taiwan");
     els.tabWorld = $("tab-world");
     els.topics = $("topic-filters");
+    els.home = $("home-view");
+    els.featured = $("featured");
+    els.mixSection = $("mix-section");
+    els.mixLabel = $("mix-label");
+    els.reader = $("reader-view");
+    els.app = document.querySelector(".app");
   }
 
   /* —— dates —— */
@@ -165,8 +180,14 @@
   function mapTopic(category) {
     var raw = (category == null ? "" : String(category)).trim();
     var c = raw.toLowerCase();
-    if (/文學|文化|書評|小說/.test(raw) || /\bliterature\b|\bbooks?\b|\bculture\b|\bfiction\b|\bpoetry\b|\bessay\b/.test(c)) {
+    if (/文學|書評|小說/.test(raw) || /\bliterature\b|\bbooks?\b|\bfiction\b|\bpoetry\b|\bessay\b/.test(c)) {
       return "literature";
+    }
+    if (/文化|娛樂|流行|影視|音樂|綜藝/.test(raw) || /\bpop\b|\bculture\b|\bentertainment\b/.test(c)) {
+      return "pop";
+    }
+    if (/社會|人權|人道|社福|居住|勞動|移民/.test(raw) || /\bsocial\b|\bhumanitarian\b|human rights|\blabor\b|\blabour\b|\bhousing\b|\bwelfare\b|\brefugee\b|\binequality\b/.test(c)) {
+      return "social";
     }
     if (/科技|技術|半導體/.test(raw) || /\btech\b|\bai\b|\bsoftware\b|\bchips?\b|semicon|\bgadget\b/.test(c)) {
       return "tech";
@@ -178,6 +199,10 @@
       return "politics";
     }
     return "other";
+  }
+
+  function topicWord(story) {
+    return TOPIC_LABEL[story.topic] || story.category || "Notes";
   }
 
   /* —— load —— */
@@ -210,6 +235,9 @@
       source_url: raw.source_url || "",
       published: raw.published || "",
       category: String(raw.category || ""),
+      image: raw.image == null ? "" : String(raw.image),
+      image_alt: raw.image_alt == null ? "" : String(raw.image_alt),
+      image_credit: raw.image_credit == null ? "" : String(raw.image_credit),
       terms: Array.isArray(raw.terms) ? raw.terms : [],
       sample: !!isSample
     };
@@ -464,7 +492,10 @@
       var ul = document.createElement("ul");
       hits.slice(0, 5).forEach(function (s) {
         var li = document.createElement("li");
-        li.textContent = s.headline;
+        var a = document.createElement("a");
+        a.href = "#" + encodeURIComponent(s.id);
+        a.textContent = s.headline;
+        li.appendChild(a);
         ul.appendChild(li);
       });
       box.appendChild(ul);
@@ -477,16 +508,63 @@
     }
   }
 
-  /* —— render —— */
+  /* —— urls / images —— */
 
-  function safeUrl(url) {
+  function safeHttpsUrl(url) {
     if (!url) return null;
     try {
-      var u = new URL(url, window.location.href);
-      if (u.protocol === "http:" || u.protocol === "https:") return u.href;
+      var u = new URL(String(url).trim());
+      if (u.protocol === "https:") return u.href;
     } catch (e) { /* ignore */ }
     return null;
   }
+
+  function safeImageSrc(src) {
+    if (!src) return null;
+    var s = String(src).trim();
+    if (!s || s.indexOf("..") !== -1) return null;
+    if (/^https?:\/\//i.test(s) || /^\/\//.test(s) || /^(data|javascript|file):/i.test(s)) {
+      return null;
+    }
+    if (!/^[A-Za-z0-9][A-Za-z0-9._/-]*\.(jpe?g|png|webp|gif|avif|svg)$/i.test(s)) return null;
+    return s;
+  }
+
+  function storyFigure(story, extraClass) {
+    var frame = document.createElement("div");
+    frame.className = "frame" + (extraClass ? " " + extraClass : "");
+    var src = safeImageSrc(story.image);
+    if (src) {
+      var img = document.createElement("img");
+      img.src = src;
+      img.alt = story.image_alt || "";
+      img.decoding = "async";
+      img.addEventListener("error", function () {
+        paintRuleBlock(frame, story);
+      });
+      frame.appendChild(img);
+    } else {
+      paintRuleBlock(frame, story);
+    }
+    return frame;
+  }
+
+  function paintRuleBlock(frame, story) {
+    frame.textContent = "";
+    frame.classList.add("is-rule");
+    var w = document.createElement("span");
+    w.textContent = topicWord(story);
+    frame.appendChild(w);
+  }
+
+  function bylineText(story) {
+    var parts = [];
+    if (story.source_name) parts.push(story.source_name);
+    if (story.published) parts.push(formatDay(story.published));
+    return parts.join("  ·  ");
+  }
+
+  /* —— render —— */
 
   function visibleStories() {
     return state.stories.filter(function (s) {
@@ -494,6 +572,10 @@
       if (state.topic === "all") return true;
       return s.topic === state.topic;
     });
+  }
+
+  function findStory(id) {
+    return state.stories.find(function (s) { return s.id === id; }) || null;
   }
 
   function renderStatus() {
@@ -522,131 +604,289 @@
     }
   }
 
+  function emptyState(title, copy) {
+    var empty = document.createElement("div");
+    empty.className = "empty-state";
+    var t = document.createElement("strong");
+    t.textContent = title;
+    var p = document.createElement("p");
+    p.textContent = copy;
+    empty.appendChild(t);
+    empty.appendChild(p);
+    return empty;
+  }
+
+  function showHomeView() {
+    state.reading = null;
+    els.home.hidden = false;
+    els.reader.hidden = true;
+    els.reader.textContent = "";
+    if (els.app) {
+      els.app.classList.add("is-home");
+      els.app.classList.remove("is-reading");
+    }
+    document.body.classList.remove("is-reading");
+    clearExplain();
+  }
+
+  function showReader(story) {
+    state.reading = story.id;
+    els.home.hidden = true;
+    els.reader.hidden = false;
+    if (els.app) {
+      els.app.classList.remove("is-home");
+      els.app.classList.add("is-reading");
+    }
+    document.body.classList.add("is-reading");
+    renderReader(story);
+    try { window.scrollTo(0, 0); } catch (e) { /* ignore */ }
+  }
+
+  function currentHashId() {
+    var h = (window.location.hash || "").replace(/^#/, "");
+    if (!h) return "";
+    try { return decodeURIComponent(h); } catch (e) { return h; }
+  }
+
+  function route() {
+    var id = currentHashId();
+    if (id) {
+      var story = findStory(id);
+      if (story) {
+        showReader(story);
+        return;
+      }
+    }
+    showHomeView();
+    renderList();
+  }
+
+  function goHome() {
+    if (window.location.hash) {
+      if (window.history && window.history.pushState) {
+        window.history.pushState("", document.title, window.location.pathname + window.location.search);
+        showHomeView();
+        renderList();
+        return;
+      }
+      window.location.hash = "";
+      return;
+    }
+    showHomeView();
+    renderList();
+  }
+
   function renderList() {
     els.list.textContent = "";
+    els.featured.textContent = "";
+    els.featured.hidden = true;
+    els.mixSection.hidden = false;
+    els.home.querySelectorAll(".empty-state").forEach(function (n) { n.remove(); });
+    els.mixLabel.textContent = state.topic === "all" ? "Today" : TOPIC_LABEL[state.topic];
+
     if (state.section === "taiwan" && state.topic === "literature") {
-      var empty = document.createElement("div");
-      empty.className = "empty-state";
-      var t = document.createElement("strong");
-      t.textContent = "Literature is US-only.";
-      var p = document.createElement("p");
-      p.textContent = "Switch to World, or pick another topic.";
-      empty.appendChild(t);
-      empty.appendChild(p);
-      els.list.appendChild(empty);
+      els.mixSection.hidden = true;
+      els.home.appendChild(emptyState("Literature is US-only.", "Switch to World, or pick another topic."));
+      return;
+    }
+    if (state.section === "world" && state.topic === "pop") {
+      els.mixSection.hidden = true;
+      els.home.appendChild(emptyState("Pop culture is Taiwan-only.", "Switch to 台灣, or pick another topic."));
       return;
     }
 
     var items = visibleStories();
     if (!items.length) {
-      var empty2 = document.createElement("div");
-      empty2.className = "empty-state";
-      var t2 = document.createElement("strong");
-      t2.textContent = "No " + (state.topic === "all" ? "" : TOPIC_LABEL[state.topic] + " ") +
-        "stories in this section yet.";
-      var p2 = document.createElement("p");
-      p2.textContent = "The JSON files may still be on their way.";
-      empty2.appendChild(t2);
-      empty2.appendChild(p2);
-      els.list.appendChild(empty2);
+      els.mixSection.hidden = true;
+      els.home.appendChild(emptyState(
+        "No " + (state.topic === "all" ? "" : TOPIC_LABEL[state.topic] + " ") + "stories in this section yet.",
+        "The JSON files may still be on their way."
+      ));
       return;
     }
 
-    var needles = allNeedles(state.termIndex);
-    items.forEach(function (story) {
-      els.list.appendChild(renderCard(story, needles));
+    var lead = items[0];
+    var rest = items.slice(1);
+    els.featured.hidden = false;
+    els.featured.appendChild(renderFeatured(lead));
+
+    if (!rest.length) {
+      els.mixSection.hidden = true;
+      return;
+    }
+    rest.forEach(function (story) {
+      els.list.appendChild(renderMixCard(story));
     });
   }
 
-  function renderCard(story, needles) {
-    var card = document.createElement("article");
-    card.className = "card is-open";
-    card.dataset.id = story.id;
+  function renderFeatured(story) {
+    var a = document.createElement("a");
+    a.className = "featured-link";
+    a.href = "#" + encodeURIComponent(story.id);
 
-    var top = document.createElement("div");
-    top.className = "card-top";
-    var pill = document.createElement("span");
-    pill.className = "pill";
-    pill.textContent = TOPIC_LABEL[story.topic] || story.category || "Story";
-    top.appendChild(pill);
-    var topRight = document.createElement("div");
-    topRight.className = "card-top-right";
-    if (story.sample) {
-      var flag = document.createElement("span");
-      flag.className = "sample-flag";
-      flag.textContent = "Sample";
-      topRight.appendChild(flag);
-    }
-    var fold = document.createElement("button");
-    fold.type = "button";
-    fold.className = "fold-btn";
-    fold.setAttribute("aria-expanded", "true");
-    fold.textContent = "Fold";
-    topRight.appendChild(fold);
-    top.appendChild(topRight);
-    card.appendChild(top);
+    var split = document.createElement("div");
+    split.className = "featured-split";
+    var fig = storyFigure(story, "ratio-still");
+    var img = fig.querySelector("img");
+    if (img) img.loading = "eager";
+    split.appendChild(fig);
 
-    var h = document.createElement("h3");
-    fillHighlighted(h, story.headline, needles);
-    card.appendChild(h);
+    var copy = document.createElement("div");
+    copy.className = "featured-copy";
+
+    var kicker = document.createElement("p");
+    kicker.className = "kicker";
+    kicker.textContent = story.sample ? "Featured · Sample" : "Featured";
+    copy.appendChild(kicker);
+
+    var h = document.createElement("h2");
+    h.textContent = story.headline;
+    copy.appendChild(h);
 
     if (story.dek) {
       var dek = document.createElement("p");
       dek.className = "dek";
-      fillHighlighted(dek, story.dek, needles);
-      card.appendChild(dek);
+      dek.textContent = story.dek;
+      copy.appendChild(dek);
     }
 
+    var by = document.createElement("p");
+    by.className = "byline";
+    by.textContent = bylineText(story);
+    copy.appendChild(by);
+
+    var read = document.createElement("span");
+    read.className = "read-cue";
+    read.textContent = "Read";
+    copy.appendChild(read);
+
+    split.appendChild(copy);
+    a.appendChild(split);
+    return a;
+  }
+
+  function renderMixCard(story) {
+    var a = document.createElement("a");
+    a.className = "mix-card";
+    a.href = "#" + encodeURIComponent(story.id);
+
+    var fig = storyFigure(story, "ratio-wide");
+    var img = fig.querySelector("img");
+    if (img) img.loading = "lazy";
+    a.appendChild(fig);
+
     var body = document.createElement("div");
-    body.className = "card-body";
+    body.className = "mix-card-body";
+
+    var kicker = document.createElement("p");
+    kicker.className = "kicker";
+    kicker.textContent = topicWord(story) + (story.sample ? " · Sample" : "");
+    body.appendChild(kicker);
+
+    var h = document.createElement("h3");
+    h.textContent = story.headline;
+    body.appendChild(h);
+
+    if (story.dek) {
+      var dek = document.createElement("p");
+      dek.className = "dek";
+      dek.textContent = story.dek;
+      body.appendChild(dek);
+    }
+
+    var by = document.createElement("p");
+    by.className = "byline";
+    by.textContent = bylineText(story);
+    body.appendChild(by);
+
+    a.appendChild(body);
+    return a;
+  }
+
+  function renderReader(story) {
+    els.reader.textContent = "";
+    var needles = allNeedles(state.termIndex);
+
+    var back = document.createElement("button");
+    back.type = "button";
+    back.className = "back-btn";
+    back.textContent = "Back";
+    back.addEventListener("click", function () { goHome(); });
+    els.reader.appendChild(back);
+
+    var hero = storyFigure(story, "ratio-wide hero-frame");
+    var himg = hero.querySelector("img");
+    if (himg) himg.loading = "eager";
+    els.reader.appendChild(hero);
+
+    if (story.image_credit) {
+      var cap = document.createElement("p");
+      cap.className = "image-credit";
+      cap.textContent = story.image_credit;
+      els.reader.appendChild(cap);
+    }
+
+    var kicker = document.createElement("p");
+    kicker.className = "kicker";
+    kicker.textContent = topicWord(story) + (story.sample ? " · Sample" : "");
+    els.reader.appendChild(kicker);
+
+    var h = document.createElement("h2");
+    h.className = "reader-hed";
+    fillHighlighted(h, story.headline, needles);
+    els.reader.appendChild(h);
+
+    if (story.dek) {
+      var dek = document.createElement("p");
+      dek.className = "dek reader-dek";
+      fillHighlighted(dek, story.dek, needles);
+      els.reader.appendChild(dek);
+    }
 
     if (story.caveman) {
       var cave = document.createElement("p");
       cave.className = "caveman";
       fillHighlighted(cave, story.caveman, needles);
-      body.appendChild(cave);
+      els.reader.appendChild(cave);
     }
 
     if (story.why_it_matters) {
-      body.appendChild(quietBlock("Why it matters", story.why_it_matters, needles));
+      els.reader.appendChild(quietBlock("Why it matters", story.why_it_matters, needles));
     }
     if (story.camps) {
-      body.appendChild(quietBlock("Who thinks what", story.camps, needles));
+      els.reader.appendChild(quietBlock("Who thinks what", story.camps, needles));
     }
 
-    var foot = document.createElement("div");
-    foot.className = "card-foot";
-    var href = safeUrl(story.source_url);
+    var source = document.createElement("div");
+    source.className = "source-block";
+    var href = safeHttpsUrl(story.source_url);
+    var line = document.createElement("p");
     if (href) {
+      line.appendChild(document.createTextNode("Source: "));
       var a = document.createElement("a");
       a.href = href;
       a.target = "_blank";
       a.rel = "noopener noreferrer";
-      a.textContent = story.source_name || "Source";
-      foot.appendChild(a);
+      a.textContent = story.source_name || "Open";
+      line.appendChild(a);
     } else if (story.source_name) {
-      var span = document.createElement("span");
-      span.textContent = story.source_name;
-      foot.appendChild(span);
+      line.textContent = "Source: " + story.source_name;
     }
+    if (line.childNodes.length) source.appendChild(line);
+
     if (story.published) {
       var time = document.createElement("time");
       time.dateTime = story.published;
       time.textContent = formatDay(story.published);
-      foot.appendChild(time);
+      source.appendChild(time);
     }
-    body.appendChild(foot);
-    card.appendChild(body);
-
-    fold.addEventListener("click", function () {
-      var willOpen = body.hidden;
-      body.hidden = !willOpen;
-      card.classList.toggle("is-open", willOpen);
-      fold.setAttribute("aria-expanded", willOpen ? "true" : "false");
-      fold.textContent = willOpen ? "Fold" : "Open";
-    });
-
-    return card;
+    if (story.image_credit) {
+      var cred = document.createElement("p");
+      cred.className = "image-credit";
+      cred.textContent = story.image_credit;
+      source.appendChild(cred);
+    }
+    if (source.childNodes.length) els.reader.appendChild(source);
   }
 
   function quietBlock(label, text, needles) {
@@ -668,7 +908,7 @@
     try {
       var node = sel.getRangeAt(0).commonAncestorContainer;
       var el = node.nodeType === 1 ? node : node.parentElement;
-      return !!(el && el.closest && el.closest("#story-list .card"));
+      return !!(el && el.closest && el.closest("#reader-view"));
     } catch (e) {
       return false;
     }
@@ -690,7 +930,8 @@
     state.section = section;
     els.tabTaiwan.setAttribute("aria-pressed", section === "taiwan" ? "true" : "false");
     els.tabWorld.setAttribute("aria-pressed", section === "world" ? "true" : "false");
-    renderList();
+    if (state.reading) goHome();
+    else renderList();
   }
 
   function setTopic(topic) {
@@ -699,7 +940,8 @@
     els.topics.querySelectorAll(".topic").forEach(function (btn) {
       btn.classList.toggle("is-on", btn.getAttribute("data-topic") === topic);
     });
-    renderList();
+    if (state.reading) goHome();
+    else renderList();
   }
 
   function bindChrome() {
@@ -712,7 +954,9 @@
     els.explainClose.addEventListener("click", clearExplain);
     if (els.backdrop) els.backdrop.addEventListener("click", clearExplain);
     document.addEventListener("keydown", function (ev) {
-      if (ev.key === "Escape") clearExplain();
+      if (ev.key !== "Escape") return;
+      if (state.activeKey) clearExplain();
+      else if (state.reading) goHome();
     });
     document.addEventListener("mouseup", onSelect);
     document.addEventListener("touchend", function () {
@@ -721,6 +965,8 @@
     document.addEventListener("keyup", function (ev) {
       if (ev.key === "Shift" || ev.shiftKey) onSelect();
     });
+    window.addEventListener("hashchange", route);
+    window.addEventListener("popstate", route);
   }
 
   /* —— install + worker —— */
@@ -743,7 +989,7 @@
     if (!hint) return;
     if (isStandalone()) return;
     try {
-      if (window.localStorage.getItem("cave-daily-install-hint") === "1") return;
+      if (window.localStorage.getItem("field-notes-install-hint") === "1") return;
     } catch (e) { /* ignore */ }
     hint.hidden = false;
     hint.classList.add("is-shown");
@@ -752,7 +998,7 @@
       hint.hidden = true;
       hint.classList.remove("is-shown");
       try {
-        window.localStorage.setItem("cave-daily-install-hint", "1");
+        window.localStorage.setItem("field-notes-install-hint", "1");
       } catch (e) { /* ignore */ }
     });
   }
@@ -801,7 +1047,7 @@
       packs.forEach(applyPack);
       state.termIndex = buildTermIndex(state.glossary);
       renderStatus();
-      renderList();
+      route();
     });
   }
 

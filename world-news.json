@@ -1,4 +1,5 @@
 {
+  "paper_name": "Field Notes",
   "stories": [
     {
       "id": "fn-1",
@@ -12,6 +13,9 @@
       "source_url": "https://www.lse.co.uk/news/global-markets-oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-q8vpdfxuzb30mkv.html",
       "published": "2026-08-14",
       "category": "economy",
+      "image": "images/fn-1.jpg",
+      "image_alt": "Cargo and other ships on a hazy horizon at sea",
+      "image_credit": "Photo: Reuters",
       "terms": [
         {
           "term": "retail sales",
@@ -139,6 +143,9 @@
       "source_url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
       "published": "2026-08-15",
       "category": "economy",
+      "image": "images/fn-2.jpg",
+      "image_alt": "Vessels in the Strait of Hormuz off Bandar Abbas, Iran",
+      "image_credit": "Photo: Getty Images",
       "terms": [
         {
           "term": "Strait of Hormuz",
@@ -267,6 +274,9 @@
       "source_url": "https://www.reuters.com/world/asia-pacific/boj-eyeing-september-rate-hike-faster-pace-tightening-sources-say-2026-08-14/",
       "published": "2026-08-14",
       "category": "economy",
+      "image": "images/fn-3.jpg",
+      "image_alt": "Pedestrians walk past the Bank of Japan headquarters in Tokyo",
+      "image_credit": "Photo: Reuters",
       "terms": [
         {
           "term": "Bank of Japan",
@@ -386,6 +396,9 @@
       "source_url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
       "published": "2026-08-14",
       "category": "tech",
+      "image": "images/tc-1.jpg",
+      "image_alt": "Apple CEO Tim Cook waves onstage in front of a glowing Apple logo",
+      "image_credit": "Photo: Wu Xiaoling/Xinhua / Getty Images",
       "terms": [
         {
           "term": "App Store",
@@ -513,6 +526,9 @@
       "source_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
       "published": "2026-08-14",
       "category": "tech",
+      "image": "images/tc-2.jpg",
+      "image_alt": "Apple logo on a processor chip under red and blue lighting",
+      "image_credit": "Photo: Reuters / Dado Ruvic",
       "terms": [
         {
           "term": "large language model",
@@ -635,6 +651,9 @@
       "source_url": "https://www.cnn.com/2026/08/15/politics/trump-midterms-campaign-strategy",
       "published": "2026-08-15",
       "category": "politics",
+      "image": "images/po-1.jpg",
+      "image_alt": "Donald Trump walks onstage at a rally under a Powering the American Dream banner",
+      "image_credit": "Photo: Getty Images",
       "terms": [
         {
           "term": "midterm elections",
@@ -765,6 +784,9 @@
       "source_url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
       "published": "2026-08-15",
       "category": "politics",
+      "image": "images/po-2.jpg",
+      "image_alt": "A small boat passes cargo ships in hazy waters near Iran",
+      "image_credit": "Photo: AP / Amirhosein Khorgooi",
       "terms": [
         {
           "term": "Strait of Hormuz",
@@ -882,6 +904,9 @@
       "source_url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
       "published": "2026-08-14",
       "category": "politics",
+      "image": "images/po-3.jpg",
+      "image_alt": "The flags of the United States and China placed together",
+      "image_credit": "Photo: Reuters",
       "terms": [
         {
           "term": "Pax Silica",
@@ -1001,6 +1026,9 @@
       "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-8-13-2026/",
       "published": "2026-08-14",
       "category": "literature",
+      "image": "images/lt-1.jpg",
+      "image_alt": "Cover art for Téa Obreht's novel Tender Age: a figure on a swing seen from behind",
+      "image_credit": "Cover: Riverhead Books",
       "terms": [
         {
           "term": "Chang-rae Lee",
@@ -1131,6 +1159,9 @@
       "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101055-this-week-s-bestsellers-august-10-2026.html",
       "published": "2026-08-14",
       "category": "literature",
+      "image": "images/lt-2.jpg",
+      "image_alt": "Official cover of Hannah Nicole Maehrer's Adversary to the Villain",
+      "image_credit": "Cover: Red Tower Books",
       "terms": [
         {
           "term": "romantasy",
@@ -1250,6 +1281,247 @@
           "explain": "The stiff-cover first edition. Hitting this list still signals prestige, even when paperbacks sell more copies."
         }
       ]
+    },
+    {
+      "id": "wd-soc-1",
+      "section": "world",
+      "headline": "Thousands of children sleep on Ceuta streets after a mass crossing",
+      "dek": "Aid groups say about 1,500 unaccompanied minors are inside Spain's protection system, but more than 4,000 may still be unidentified in the overwhelmed enclave.",
+      "caveman": "Ceuta is a small Spanish city on the African coast, stuck to Morocco. In late July, a huge number of people crossed the fence and the sea into this city. Many adults were sent back. Children who arrive alone are harder to return, because child-protection law is supposed to cover them first. Two weeks later, the city is still packed. Neighbors and a local group called Luna Blanca have been cooking every day; on the first day they handed out 3,500 boxes of food. Some people eat once a day. The scariest gap is kids. About 1,500 children and teenagers are already in official shelters. Save the Children, talking to Euronews on August 14, estimates more than 4,000 others have not even been identified. Some hide because they fear the centers. Unicef Spain says the shelters are full and children on the street are not safe. Amnesty International says it is gathering evidence of possible rushed, unlawful returns to Morocco, but it calls that a preliminary finding, not a finished court case. Spain and Morocco have agreed to send people back faster. Spanish regions argue about who should take the children onto the mainland. This is a child-protection emergency, not a sports story.",
+      "why_it_matters": "Unaccompanied children on the street face violence, trafficking, and sickness. If Europe only funds fences and not safe routes or shared shelters, the next crossing will look the same. Ceuta is tiny; the Spanish state and the EU, not one city, own the legal duty. How Spain moves, identifies, or returns these children will be a test of the 'best interests of the child' rule that governments quote and often skip.",
+      "camps": "Ceuta's local government says it cannot host this many people alone. Humanitarian groups want fast transfers to mainland Spain, case-by-case family checks, and no mass returns. Some Spanish regions do not want the children. Madrid is talking to Rabat about quicker repatriation. Moroccan critics say their own state also uses migration as politics. Right-wing voices talk about disorder and NGOs 'helping people leave'; the Red Cross has denied smuggling claims. A left-leaning reading puts children's safety above border optics, and still admits residents are exhausted.",
+      "source_name": "Euronews",
+      "source_url": "https://www.euronews.com/my-europe/2026/08/14/unprotected-minors-and-alleged-illegal-returns-ngos-warn-of-ceuta-humanitarian-crisis",
+      "published": "2026-08-14",
+      "category": "social",
+      "terms": [
+        {
+          "term": "Ceuta",
+          "aliases": [
+            "Spanish enclave"
+          ],
+          "explain": "A Spanish city on the north coast of Africa, sharing a land border with Morocco. It is part of Spain and the EU, but it is not on the European mainland."
+        },
+        {
+          "term": "unaccompanied minor",
+          "aliases": [
+            "unaccompanied children",
+            "UAM"
+          ],
+          "explain": "A child who arrives in a country without a parent or legal guardian. Child-welfare law, not only immigration law, is supposed to apply."
+        },
+        {
+          "term": "child protection system",
+          "aliases": [
+            "protection system",
+            "reception centres"
+          ],
+          "explain": "The official shelters, social workers, and courts that must house and care for children. In Ceuta those rooms are full."
+        },
+        {
+          "term": "Save the Children",
+          "aliases": [
+            "StC"
+          ],
+          "explain": "A big international charity that works for children's rights. It estimated more than 4,000 unidentified minors in Ceuta."
+        },
+        {
+          "term": "Unicef",
+          "aliases": [
+            "Unicef Spain"
+          ],
+          "explain": "The United Nations children's agency. Its Spain office said many minors are still on the street and centers are saturated."
+        },
+        {
+          "term": "CEAR",
+          "aliases": [
+            "Spanish Commission for Refugee Aid"
+          ],
+          "explain": "A Spanish refugee-aid group. It says unidentified children cannot get proper legal help or mental-health care."
+        },
+        {
+          "term": "Amnesty International",
+          "aliases": [
+            "Amnesty"
+          ],
+          "explain": "A global human-rights group. It told Euronews it sees early signs of possible summary, unlawful returns, and is still investigating."
+        },
+        {
+          "term": "summary return",
+          "aliases": [
+            "unlawful return",
+            "pushback"
+          ],
+          "explain": "Sending someone back across a border without checking if they are a child, a refugee, or in danger. International law generally forbids doing this in a rush."
+        },
+        {
+          "term": "best interests of the child",
+          "aliases": [
+            "child's best interests"
+          ],
+          "explain": "A legal rule: when adults decide for a child, the child's safety and future come first, ahead of migration status."
+        },
+        {
+          "term": "Luna Blanca",
+          "aliases": [],
+          "explain": "A Ceuta community group. Volunteers have been cooking daily for people sleeping outside."
+        }
+      ],
+      "image": "images/wd-soc-1.jpg",
+      "image_alt": "Two young men rest on dusty ground at night beside a small fire, one asleep, one sitting in a hoodie",
+      "image_credit": "Euronews"
+    },
+    {
+      "id": "wd-soc-2",
+      "section": "world",
+      "headline": "WHO: attacks on hospitals now average more than four a day",
+      "dek": "From January to August 2026 the agency counted over 900 attacks on health care, with about 900 dead and 1,400 hurt, mostly in Ukraine, Lebanon, and Gaza.",
+      "caveman": "A hospital is supposed to be a safe building even in a war. The World Health Organization, the United Nations health office, said in Geneva on August 14 that this rule is failing. From January to August 2026 it verified more than 900 attacks on clinics, ambulances, staff, and patients. That is more than four a day. About 900 people died and more than 1,400 were hurt. Ninety-four health workers were detained. The official who presented the numbers, Altaf Musani, said the violence includes heavy weapons, wrecked buildings, and kidnapping. Ukraine, Lebanon, and the occupied Palestinian territory have the most reported incidents this year. Gaza: all 36 hospitals have been damaged, and only about half still work at all. Sudan: 37 percent of health facilities are not working. Ukraine: more than 3,100 attacks since Russia's full-scale invasion, including 156 this year, and a recent hit on a WHO warehouse. Since tracking began in 2018, the WHO has verified over 10,400 attacks in 29 countries. Musani said not one of those 10,000-plus cases has entered a real accountability process. A WHO study in northwest Syria found that after 69 attacks, clinic visits dropped by half and stayed low for more than a month. In Congo, 12 attacks since an Ebola outbreak was declared in May have made it harder to find and treat sick people.",
+      "why_it_matters": "When a clinic is hit, the harm lasts. Tomorrow's births, dialysis, and vaccinations disappear. Disease outbreaks spread. International law already says medical sites are protected; the new fact is that nobody is being held to account. That makes bombing hospitals cheaper, politically, than it should be.",
+      "camps": "The WHO presents verified counts, not a court verdict naming every culprit. Israel, Russia, Sudan's armies, and other armed groups all deny or justify strikes in their own wars. Human-rights groups say the pattern is now so common it looks like a method, not an accident. Some governments call the WHO political. A left-leaning reading treats attacks on health care as a rights crime first, and asks why 10,000 verified cases produced zero accountability, instead of arguing only about which flag is worse.",
+      "source_name": "Reuters (via The Straits Times)",
+      "source_url": "https://www.straitstimes.com/asia/attacks-on-healthcare-in-conflict-zones-averaging-more-than-four-a-day-in-2026-world-health",
+      "published": "2026-08-14",
+      "category": "social",
+      "terms": [
+        {
+          "term": "World Health Organization",
+          "aliases": [
+            "WHO"
+          ],
+          "explain": "The United Nations agency for global health. It counts attacks on medical care in wars and tries to send supplies."
+        },
+        {
+          "term": "attack on healthcare",
+          "aliases": [
+            "attacks on hospitals"
+          ],
+          "explain": "A strike, raid, detention, or other act that hits a clinic, ambulance, warehouse, health worker, or patient. The WHO only publishes cases it says it has verified."
+        },
+        {
+          "term": "Altaf Musani",
+          "aliases": [],
+          "explain": "The WHO's director of humanitarian and disaster management. He presented the 2026 numbers in Geneva on August 14."
+        },
+        {
+          "term": "international humanitarian law",
+          "aliases": [
+            "Geneva Conventions",
+            "IHL"
+          ],
+          "explain": "The wartime rulebook. It says hospitals, ambulances, and medical staff must not be targets. Breaking it can be a war crime."
+        },
+        {
+          "term": "occupied Palestinian territory",
+          "aliases": [
+            "Gaza",
+            "West Bank",
+            "oPt"
+          ],
+          "explain": "The WHO's name for Palestinian land under Israeli occupation, including Gaza. Gaza's 36 hospitals are all damaged, the agency said."
+        },
+        {
+          "term": "accountability process",
+          "aliases": [
+            "impunity"
+          ],
+          "explain": "A real investigation and trial after a crime. The WHO said none of the 10,400-plus verified attacks since 2018 have entered one."
+        },
+        {
+          "term": "Ebola",
+          "aliases": [
+            "Ebola outbreak"
+          ],
+          "explain": "A deadly virus spread by body fluids. In Congo, attacks on clinics since May 2026 have disrupted the hunt for new cases."
+        },
+        {
+          "term": "outpatient consultation",
+          "aliases": [
+            "clinic visit"
+          ],
+          "explain": "A regular medical visit where you are not admitted overnight. In northwest Syria, these visits fell 51 percent right after attacks."
+        }
+      ],
+      "image": "images/wd-soc-2.jpg",
+      "image_alt": "Smoke rises over a dense city of concrete buildings, some damaged, under a pale sky",
+      "image_credit": "Reuters / The Straits Times (file photo)"
+    },
+    {
+      "id": "wd-soc-3",
+      "section": "world",
+      "headline": "A 7.7 quake kills at least 47 people on Indonesia's Flores island",
+      "dek": "The Saturday morning shock flattened houses and public buildings. Rescuers are still searching, and officials say the count may rise.",
+      "caveman": "Early Saturday, August 15, before 5 a.m. local time, the ground under Flores island in eastern Indonesia jumped. The country's weather office called it magnitude 7.7, about 15 kilometers deep. Shallow quakes shake houses harder. At least 47 people were killed, Indonesia's disaster agency said as the BBC updated the story on August 16. Many died in their sleep when roofs came down, the East Nusa Tenggara governor said. The worst counts were in Manggarai (24) and East Manggarai (17), then Sikka and smaller numbers in nearby districts. More than 150 houses were badly damaged, plus schools, clinics, and places of worship. Video from Maumere port showed concrete falling on people waiting for a ferry; a gangway collapsed and some were thrown into the water. A tsunami warning sent about 2,000 people inland; it was lifted after roughly three hours when the sea did not rise in a dangerous way. Aftershocks kept people cooking outside. The disaster agency said it was sending aid and warned the death toll could grow because the area is remote and mountainous. Indonesia sits where big pieces of the Earth's crust push each other, so quakes are not rare. This one is a rescue-and-shelter story right now, not a finished reconstruction story.",
+      "why_it_matters": "A 7.7 quake in a poor, hilly island chain can erase homes, clinics, and a harvest in one minute. How fast Jakarta sends tents, water, and medical teams decides whether 47 becomes a much larger number from injury and disease. It is also a reminder that climate headlines are not the only disaster beat: tectonics still kill, and remote provinces often wait longer for help.",
+      "camps": "This is not a left-right war. The national disaster agency and the provincial governor are the official voices; local residents describe fear and outdoor sleeping. Opposition politicians in Indonesia often use slow aid to attack whoever holds Jakarta. International agencies will watch whether clinics and schools are rebuilt, not only roads for tourists near Labuan Bajo. A humanitarian reading starts with search, shelter, and the people still under rubble, before anyone talks about tourism damage.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.com/news/articles/c5y0zz63gero",
+      "published": "2026-08-16",
+      "category": "social",
+      "terms": [
+        {
+          "term": "magnitude",
+          "aliases": [
+            "7.7 magnitude",
+            "Richter scale"
+          ],
+          "explain": "A score for how strong an earthquake is. Each whole number is much more energy than the one below. 7.7 is a major quake."
+        },
+        {
+          "term": "Flores",
+          "aliases": [
+            "Flores island",
+            "East Nusa Tenggara",
+            "NTT"
+          ],
+          "explain": "An island in eastern Indonesia. The Saturday quake hit here, far from Bali, in a mountainous province."
+        },
+        {
+          "term": "BNPB",
+          "aliases": [
+            "National Disaster Management Agency"
+          ],
+          "explain": "Indonesia's national disaster office. It reports deaths, damage, and where aid is going."
+        },
+        {
+          "term": "tsunami warning",
+          "aliases": [
+            "tsunami"
+          ],
+          "explain": "An alert that a quake may push a dangerous wave onto the shore. This time the warning was lifted after about three hours."
+        },
+        {
+          "term": "aftershock",
+          "aliases": [
+            "aftershocks"
+          ],
+          "explain": "Smaller quakes that follow a big one. They make damaged buildings more likely to fall, so people sleep outside."
+        },
+        {
+          "term": "epicenter",
+          "aliases": [
+            "epicentre"
+          ],
+          "explain": "The point on the Earth's surface above where the quake started. Nearby towns shake most."
+        },
+        {
+          "term": "tectonic plate",
+          "aliases": [
+            "Ring of Fire"
+          ],
+          "explain": "Huge slabs of the Earth's crust. Indonesia sits where several meet, so quakes and volcanoes are common."
+        },
+        {
+          "term": "Maumere",
+          "aliases": [
+            "Lorens Say Pier"
+          ],
+          "explain": "A town and port on Flores. Video showed the terminal shedding concrete onto ferry passengers."
+        }
+      ],
+      "image": "images/wd-soc-3.jpg",
+      "image_alt": "Rescue workers in orange suits and helmets stand in a wrecked hall under a Departure sign and fallen concrete",
+      "image_credit": "BBC News"
     }
   ],
   "glossary": [
@@ -1282,6 +1554,16 @@
       ]
     },
     {
+      "term": "accountability process",
+      "aliases": [
+        "impunity"
+      ],
+      "explain": "A real investigation and trial after a crime. The WHO said none of the 10,400-plus verified attacks since 2018 have entered one.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "ADNOC",
       "aliases": [
         "Abu Dhabi National Oil Company"
@@ -1297,6 +1579,16 @@
       "explain": "The new paperback in Maehrer's series. Evie Sage has gone from assistant to adversary. A fifth book is already being guessed at.",
       "stories": [
         "lt-2"
+      ]
+    },
+    {
+      "term": "aftershock",
+      "aliases": [
+        "aftershocks"
+      ],
+      "explain": "Smaller quakes that follow a big one. They make damaged buildings more likely to fall, so people sleep outside.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -1317,6 +1609,24 @@
       "explain": "A huge Chinese internet company, a bit like Amazon plus a cloud-computing firm. Its AI family is called Qwen.",
       "stories": [
         "tc-2"
+      ]
+    },
+    {
+      "term": "Altaf Musani",
+      "aliases": [],
+      "explain": "The WHO's director of humanitarian and disaster management. He presented the 2026 numbers in Geneva on August 14.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
+      "term": "Amnesty International",
+      "aliases": [
+        "Amnesty"
+      ],
+      "explain": "A global human-rights group. It told Euronews it sees early signs of possible summary, unlawful returns, and is still investigating.",
+      "stories": [
+        "wd-soc-1"
       ]
     },
     {
@@ -1377,6 +1687,16 @@
       ]
     },
     {
+      "term": "attack on healthcare",
+      "aliases": [
+        "attacks on hospitals"
+      ],
+      "explain": "A strike, raid, detention, or other act that hits a clinic, ambulance, warehouse, health worker, or patient. The WHO only publishes cases it says it has verified.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "Baidu",
       "aliases": [],
       "explain": "Another big Chinese tech company, best known for search. Reuters has said some of its technology may also sit inside Apple's China AI.",
@@ -1428,6 +1748,16 @@
       ]
     },
     {
+      "term": "best interests of the child",
+      "aliases": [
+        "child's best interests"
+      ],
+      "explain": "A legal rule: when adults decide for a child, the child's safety and future come first, ahead of migration status.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "bloc politics",
       "aliases": [
         "choose a side",
@@ -1448,6 +1778,16 @@
       "stories": [
         "fn-2",
         "po-2"
+      ]
+    },
+    {
+      "term": "BNPB",
+      "aliases": [
+        "National Disaster Management Agency"
+      ],
+      "explain": "Indonesia's national disaster office. It reports deaths, damage, and where aid is going.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -1492,6 +1832,16 @@
       ]
     },
     {
+      "term": "CEAR",
+      "aliases": [
+        "Spanish Commission for Refugee Aid"
+      ],
+      "explain": "A Spanish refugee-aid group. It says unidentified children cannot get proper legal help or mental-health care.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "ceasefire",
       "aliases": [
         "truce",
@@ -1503,6 +1853,16 @@
       ]
     },
     {
+      "term": "Ceuta",
+      "aliases": [
+        "Spanish enclave"
+      ],
+      "explain": "A Spanish city on the north coast of Africa, sharing a land border with Morocco. It is part of Spain and the EU, but it is not on the European mainland.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "Chang-rae Lee",
       "aliases": [
         "Chang-Rae Lee"
@@ -1510,6 +1870,17 @@
       "explain": "A Korean American novelist. His new book A Tender Age is getting some of the strongest U.S. reviews this week.",
       "stories": [
         "lt-1"
+      ]
+    },
+    {
+      "term": "child protection system",
+      "aliases": [
+        "protection system",
+        "reception centres"
+      ],
+      "explain": "The official shelters, social workers, and courts that must house and care for children. In Ceuta those rooms are full.",
+      "stories": [
+        "wd-soc-1"
       ]
     },
     {
@@ -1664,6 +2035,16 @@
       ]
     },
     {
+      "term": "Ebola",
+      "aliases": [
+        "Ebola outbreak"
+      ],
+      "explain": "A deadly virus spread by body fluids. In Congo, attacks on clinics since May 2026 have disrupted the hunt for new cases.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "Empire Falls",
       "aliases": [],
       "explain": "Russo's 2001 novel about a dying New England mill town. It is the book that made him famous.",
@@ -1690,6 +2071,16 @@
       "explain": "A U.S. game company that sued Apple. It wanted players to pay Epic directly instead of through Apple.",
       "stories": [
         "tc-1"
+      ]
+    },
+    {
+      "term": "epicenter",
+      "aliases": [
+        "epicentre"
+      ],
+      "explain": "The point on the Earth's surface above where the quake started. Nearby towns shake most.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -1733,6 +2124,18 @@
       "explain": "The main bank of the United States. It does not serve regular customers. Its job is to keep prices from rising too fast and to keep as many people working as it can.",
       "stories": [
         "fn-1"
+      ]
+    },
+    {
+      "term": "Flores",
+      "aliases": [
+        "Flores island",
+        "East Nusa Tenggara",
+        "NTT"
+      ],
+      "explain": "An island in eastern Indonesia. The Saturday quake hit here, far from Bali, in a mountainous province.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -1932,6 +2335,17 @@
       ]
     },
     {
+      "term": "international humanitarian law",
+      "aliases": [
+        "Geneva Conventions",
+        "IHL"
+      ],
+      "explain": "The wartime rulebook. It says hospitals, ambulances, and medical staff must not be targets. Breaking it can be a war crime.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "international waterway",
       "aliases": [
         "international waters"
@@ -2094,6 +2508,14 @@
       ]
     },
     {
+      "term": "Luna Blanca",
+      "aliases": [],
+      "explain": "A Ceuta community group. Volunteers have been cooking daily for people sleeping outside.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "MAGA",
       "aliases": [
         "Make America Great Again",
@@ -2105,6 +2527,17 @@
       ]
     },
     {
+      "term": "magnitude",
+      "aliases": [
+        "7.7 magnitude",
+        "Richter scale"
+      ],
+      "explain": "A score for how strong an earthquake is. Each whole number is much more energy than the one below. 7.7 is a major quake.",
+      "stories": [
+        "wd-soc-3"
+      ]
+    },
+    {
       "term": "Masoud Pezeshkian",
       "aliases": [
         "Iranian president"
@@ -2112,6 +2545,16 @@
       "explain": "Iran's president. He has blamed the U.S. blockade of Iranian ports, and lost oil income, for high inflation at home.",
       "stories": [
         "po-2"
+      ]
+    },
+    {
+      "term": "Maumere",
+      "aliases": [
+        "Lorens Say Pier"
+      ],
+      "explain": "A town and port on Flores. Video showed the terminal shedding concrete onto ferry passengers.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -2199,6 +2642,18 @@
       ]
     },
     {
+      "term": "occupied Palestinian territory",
+      "aliases": [
+        "Gaza",
+        "West Bank",
+        "oPt"
+      ],
+      "explain": "The WHO's name for Palestinian land under Israeli occupation, including Gaza. Gaza's 36 hospitals are all damaged, the agency said.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "Olivia Wales",
       "aliases": [
         "White House spokeswoman"
@@ -2239,6 +2694,16 @@
       "stories": [
         "tc-2",
         "po-3"
+      ]
+    },
+    {
+      "term": "outpatient consultation",
+      "aliases": [
+        "clinic visit"
+      ],
+      "explain": "A regular medical visit where you are not admitted overnight. In northwest Syria, these visits fell 51 percent right after attacks.",
+      "stories": [
+        "wd-soc-2"
       ]
     },
     {
@@ -2439,6 +2904,16 @@
       ]
     },
     {
+      "term": "Save the Children",
+      "aliases": [
+        "StC"
+      ],
+      "explain": "A big international charity that works for children's rights. It estimated more than 4,000 unidentified minors in Ceuta.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "Scott Bessent",
       "aliases": [
         "U.S. Treasury secretary"
@@ -2542,6 +3017,17 @@
       ]
     },
     {
+      "term": "summary return",
+      "aliases": [
+        "unlawful return",
+        "pushback"
+      ],
+      "explain": "Sending someone back across a border without checking if they are a child, a refugee, or in danger. International law generally forbids doing this in a rush.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "Sunrise",
       "aliases": [],
       "explain": "Obreht's new book. Reviewers say it uses and twists Old West adventure stories and talks about gender, forbidden love, and ruined wilderness.",
@@ -2588,6 +3074,16 @@
       "explain": "A giant ship built to carry oil or other bulk goods. Hitting one can spill fuel and scare other ships away.",
       "stories": [
         "fn-2"
+      ]
+    },
+    {
+      "term": "tectonic plate",
+      "aliases": [
+        "Ring of Fire"
+      ],
+      "explain": "Huge slabs of the Earth's crust. Indonesia sits where several meet, so quakes and volcanoes are common.",
+      "stories": [
+        "wd-soc-3"
       ]
     },
     {
@@ -2650,6 +3146,16 @@
       ]
     },
     {
+      "term": "tsunami warning",
+      "aliases": [
+        "tsunami"
+      ],
+      "explain": "An alert that a quake may push a dangerous wave onto the shore. This time the warning was lifted after about three hours.",
+      "stories": [
+        "wd-soc-3"
+      ]
+    },
+    {
       "term": "Téa Obreht",
       "aliases": [
         "Tea Obreht"
@@ -2671,11 +3177,32 @@
       ]
     },
     {
+      "term": "unaccompanied minor",
+      "aliases": [
+        "unaccompanied children",
+        "UAM"
+      ],
+      "explain": "A child who arrives in a country without a parent or legal guardian. Child-welfare law, not only immigration law, is supposed to apply.",
+      "stories": [
+        "wd-soc-1"
+      ]
+    },
+    {
       "term": "Under the Falls",
       "aliases": [],
       "explain": "Russo's new Knopf novel. It is darker and more plot-driven than his usual work. Reviews are mixed.",
       "stories": [
         "lt-1"
+      ]
+    },
+    {
+      "term": "Unicef",
+      "aliases": [
+        "Unicef Spain"
+      ],
+      "explain": "The United Nations children's agency. Its Spain office said many minors are still on the street and centers are saturated.",
+      "stories": [
+        "wd-soc-1"
       ]
     },
     {
@@ -2720,6 +3247,16 @@
       ]
     },
     {
+      "term": "World Health Organization",
+      "aliases": [
+        "WHO"
+      ],
+      "explain": "The United Nations agency for global health. It counts attacks on medical care in wars and tries to send supplies.",
+      "stories": [
+        "wd-soc-2"
+      ]
+    },
+    {
       "term": "Xi Jinping",
       "aliases": [
         "Chinese president"
@@ -2741,6 +3278,6 @@
       ]
     }
   ],
-  "fetched_at": "2026-08-16T08:32:48+08:00",
-  "notes": "Sources: Reuters (Fed/markets, BOJ, Apple-China AI, Pax Silica), NBC/AP (Hormuz/Iran), TechCrunch (Apple App Store), CNN (Trump midterms), Lit Hub/Book Marks and KMUW (literary week), Publishers Weekly (bestsellers), Kirkus/Library of Congress (Patchett festival prize). Gaps: Reuters homepages often 401 so some market numbers are from Reuters reprints (LSE, MarketScreener, American Banker, CNA). No separate Sunday Aug 16 wire drop on literature; festival is Aug 22 and PW list posted Aug 14. Skipped war/climate/health except where they are the finance or politics story (oil, midterms, Hormuz talks)."
+  "fetched_at": "2026-08-16T09:24:19+08:00",
+  "notes": "Sources: Reuters (Fed/markets, BOJ, Apple-China AI, Pax Silica), NBC/AP (Hormuz/Iran), TechCrunch (Apple App Store), CNN (Trump midterms), Lit Hub/Book Marks and KMUW (literary week), Publishers Weekly (bestsellers), Kirkus/Library of Congress (Patchett festival prize). Gaps: Reuters homepages often 401 so some market numbers are from Reuters reprints (LSE, MarketScreener, American Banker, CNA). No separate Sunday Aug 16 wire drop on literature; festival is Aug 22 and PW list posted Aug 14. Skipped war/climate/health except where they are the finance or politics story (oil, midterms, Hormuz talks). Added social/humanitarian 2026-08-16: Ceuta unaccompanied minors (Euronews 8/14), WHO attacks on healthcare (Reuters via Straits Times 8/14), Flores M7.7 quake (BBC 8/16)."
 }

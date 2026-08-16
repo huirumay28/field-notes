@@ -1,5 +1,5 @@
-/* Cave Daily — small offline shell. */
-var CACHE = "cave-daily-v1";
+/* Field Notes — small offline shell. */
+var CACHE = "field-notes-v1";
 var PRECACHE = [
   "./",
   "./index.html",

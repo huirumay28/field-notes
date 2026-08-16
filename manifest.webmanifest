@@ -1,12 +1,12 @@
 {
-  "name": "Cave Daily",
-  "short_name": "Cave Daily",
-  "description": "A paper for Taipei",
+  "name": "Field Notes",
+  "short_name": "Field Notes",
+  "description": "A black-and-white magazine you click into. Taiwan and world notes, explained in plain language.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f3eb",
-  "theme_color": "#f7f3eb",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
   "lang": "en",
   "icons": [
     {

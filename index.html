@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="color-scheme" content="light">
-  <meta name="theme-color" content="#f7f3eb">
+  <meta name="theme-color" content="#fafafa">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="Cave Daily">
+  <meta name="apple-mobile-web-app-title" content="Field Notes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <title>Cave Daily / 山洞日報</title>
+  <title>Field Notes</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" sizes="180x180" href="icon-180.png">
@@ -25,10 +25,7 @@
     </div>
 
     <div class="nameplate">
-      <p class="the">The</p>
-      <h1>Cave Daily</h1>
-      <p class="secondary-title">山洞日報</p>
-      <p class="tagline">A paper for Taipei</p>
+      <h1>Field Notes</h1>
       <p class="install-hint" id="install-hint" hidden>
         <span>On your phone: Share, then Add to Home Screen.</span>
         <button type="button" class="install-hint-dismiss" id="install-hint-dismiss" aria-label="Dismiss">Dismiss</button>
@@ -49,15 +46,28 @@
         <button type="button" class="topic" data-topic="tech">Tech</button>
         <button type="button" class="topic" data-topic="politics">Politics</button>
         <button type="button" class="topic" data-topic="literature">Literature</button>
+        <button type="button" class="topic" data-topic="pop">Pop</button>
+        <button type="button" class="topic" data-topic="social">Social</button>
       </div>
       <p class="updated" id="updated-line" hidden></p>
     </div>
   </header>
 
-  <div class="app">
+  <div class="app is-home">
     <main id="main">
       <p class="status" id="status-line" hidden></p>
-      <div id="story-list" class="story-list"></div>
+
+      <div id="home-view">
+        <section id="featured" class="featured" hidden></section>
+        <section class="mix" id="mix-section">
+          <header class="mix-head">
+            <h2 id="mix-label">Today</h2>
+          </header>
+          <div id="story-list" class="mix-grid"></div>
+        </section>
+      </div>
+
+      <article id="reader-view" class="reader" hidden></article>
     </main>
 
     <aside id="explain-panel" class="explain" aria-labelledby="explain-heading">
