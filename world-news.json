@@ -1,54 +1,56 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-08-21T08:00:00+08:00",
-  "notes": "Friday 21 Aug 2026 world issue. Window Thu 20–Fri 21 morning (48h back to Wed 19). Sources: AP/CNN Walmart; Reuters via Moneycontrol/SRN stocks; Al-Monitor/ET oil; WaPo/PBS/Reuters US debt 40T; TechCrunch Google Preferred Sources, ChatGPT Messages plugin, Alation, CISA water AI; Al Jazeera/Reuters/Kyiv Post Khmara and Kyiv strikes; BBC Trump economic D-Day; AP Taiwan defense budget; IndieBound 19 Aug list; Amsterdam News Smalls; UN Gaza shelter, DRC Ebola, Lebanon returns; New Humanitarian Haiti. Did not recycle Thu Fed minutes, US/India diesel, Treasury buybacks (as the announcement), Brent ~91, OpenAI Private Safety Processing, TAC/Daybreak, Meta Mac app, Gemini study tools, Trump-Iran-squeeze-Chinese-banks as prior framing, POW swap, Zhytomyr, Caspian ship, Yesteryear #1 as lead, PRH Barkan, Whitehead Cool Machine as lead, Haberman/Swan, IOM Sudan 200k, Kordofan 11k, Colombia Choco, UN Colombia 100k. NYC Delivery Protection Act / Amazon DSP: no new movement in this window. Mamdani teaching-aide suit seen in roundups, not used.",
+  "fetched_at": "2026-08-24T08:00:00+08:00",
+  "notes": "Monday 24 Aug 2026 world issue. Window Fri 21 afternoon through Mon 24 morning; prefer last 48h. Sources: AP Canada tariffs; CNBC/market recaps Friday bounce and oil; Gulf News/Kpler Hormuz dark fleet; TechCrunch Ox Alpha, Guidelight, Flock; AP Uber GDPR; CNN Zelensky 300k; Kyiv Post drones; France 24 Trump-Canada; The National Iran Hormuz; IndieBound 19 Aug list (Patchett, Stockett); PW labor summer and Verity; UNICEF/UN News Somalia; AFP/Malay Mail Myanmar monastery; UN News South Sudan probe and Guinea-Bissau mpox. Did not recycle Fri Walmart six-year low/$4 gas; Treasury hug one day; Brent toward $94 Trump D-Day; US debt $40T; Google favorite-source; ChatGPT Mac iMessages; Alation hack; CISA water-plant AI; Ukraine parliament Khmara; Russia killed 18 Thursday Patriots thin; Trump D-Day Iran as the Thursday frame; Taiwan $35B; Russo indie list; Riley Sager/dungeon nerds/Whitehead slipped; Chris Smalls memoir; Emily Wilson Odyssey; UN 94% Gaza shelter; Congo 70k Ebola; Lebanon 860k; Haiti USAID. Also not: Fed minutes, US/India diesel, Treasury buybacks announcement, OpenAI Private Safety Processing, TAC/Daybreak, Meta Mac app, Gemini study tools, POW 103, Zhytomyr, Caspian ship, Yesteryear tradwife as lead, PRH Barkan freeze, Whitehead Cool Machine as lead, Haberman/Swan, IOM Sudan 200k, Kordofan 11k, Colombia Choco, UN Colombia 100k. NYC Delivery Protection Act / Mamdani / Amazon DSP: no new weekend movement, not used. South Sudan probe and Guinea-Bissau mpox published Thu 20 Aug, used to fill humanitarian slots; Yemen WHD reprints skipped as stale.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
-      "headline": "Walmart sales crawl at a six-year low as $4 gas makes shoppers pick cabbage or gas",
-      "dek": "US same-store sales rose only 2.6%. Shares fell about 9%. A $2.9 billion tariff refund will fund price cuts.",
-      "caveman": "Walmart is the giant US shop. If poor and middle people stop buying, Walmart feels it first. For the quarter that ended July 31, sales in US stores open at least a year grew only 2.6 percent. That is the slowest since the first pandemic months in 2020. Wall Street wanted more. The stock dropped about 8 to 9 percent Thursday and dragged the whole market down. Bosses say gas over 4 dollars a gallon makes people trade off. AAA had gas near 4.10 dollars. Walmart still made a fat profit, about 6.4 billion dollars, because online sales jumped 24 percent and because the Supreme Court said Trump's big import taxes were illegal. The government owed Walmart a 2.9 billion dollar tariff refund, the biggest yet. Walmart says it will use that money to cut prices on 11,000 things. It also expects about 2 billion extra dollars in fuel costs this year because of the Iran war.",
-      "why_it_matters": "Walmart is a thermometer for regular US wallets. If the cheapest shop is slow, the squeeze from war oil is already in the grocery aisle, not just at the pump.",
-      "camps": "Walmart says it is still stealing shoppers, especially richer ones, and that refunds will pay for cheaper shelves. Investors punished the slow stores and the careful outlook. Workers and low-income shoppers eat the gas bill either way. Trump wanted tariffs as a trophy; the Court made companies send the trophy money back, and now shops race to look like the hero of lower prices.",
-      "source_name": "AP News / CNN",
-      "source_url": "https://apnews.com/article/walmart-quarter-earnings-inflation-tariffs-955945e03ffcc111389d62fa3103a051",
-      "published": "2026-08-20",
+      "headline": "US slaps 50% tariffs on $20 billion of Canadian goods after talks blow up",
+      "dek": "Duties hit about 5% of what Canada sells to America. Ottawa says it will hit back on Sept. 8.",
+      "caveman": "America and Canada used to be best shop friends. That fight got worse this weekend. After talks in Washington died late Friday, the US put a 50 percent tax on about 20 billion dollars of Canadian stuff, starting Saturday. That is about 5 percent of what Canada sells south. Hockey sticks, cement, tongue depressors. Trump used an old 1930 law, Section 338, that nobody had used for tariffs before. Canada Prime Minister Mark Carney said America asked too much and offered too little, then sent his team home. He said Canada will hit back dollar for dollar starting Sept. 8, on steel, dairy, farm machines, paper, and electronics. US Trade Representative Jamieson Greer said America was answering Canadian hits. Big US bosses at the Business Roundtable warned prices will rise for American families. Border-state governors yelled too. No new talks are booked.",
+      "why_it_matters": "A tax war with your biggest neighbor makes cars, food, and lumber cost more on both sides. It also poisons the North America trade pact both still need to rewrite.",
+      "camps": "Trump camp says Canada free-rides and must pay. Carney says last-minute US terms were unfair and even poked Quebec language. US companies want talks back. Shoppers will see the bill first.",
+      "source_name": "AP News",
+      "source_url": "https://apnews.com/article/canada-us-trade-tariffs-trump-857ef76b20a766e370d70176135b678e",
+      "published": "2026-08-22",
       "category": "economy",
       "terms": [
-        {
-          "term": "comparable sales",
-          "aliases": [
-            "same-store sales"
-          ],
-          "explain": "Sales in shops that were already open last year, so new stores do not fake the growth."
-        },
-        {
-          "term": "tariff refund",
-          "aliases": [],
-          "explain": "Money customs gives back after a court says an import tax was illegal."
-        },
         {
           "term": "tariff",
           "aliases": [],
           "explain": "A tax on stuff coming in from another country."
+        },
+        {
+          "term": "Section 338",
+          "aliases": [
+            "Smoot-Hawley"
+          ],
+          "explain": "A 1930 US law that lets the president tax a country up to 50% if he says it treats American business unfair. Never used for tariffs before this fight."
+        },
+        {
+          "term": "USMCA",
+          "aliases": [
+            "North American free trade deal"
+          ],
+          "explain": "The trade pact of the US, Mexico, and Canada. Trump will not keep it as it is."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Walmart store sign against a blue sky",
-      "image_credit": "Photo: AP"
+      "image_alt": "Canadian Prime Minister Mark Carney speaking about US tariffs in Ottawa",
+      "image_credit": "Photo: Patrick Doyle / The Canadian Press via AP"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
-      "headline": "The Treasury's bond-buy hug lasted one day. Yields jumped back and stocks fell",
-      "dek": "Reuters: Dow off about 1.3 percent, S&P 500 about 0.9 percent. The 30-year yield returned to 5.24 percent.",
-      "caveman": "On Wednesday the US Treasury said it would buy back twice as much long-term government paper, at least 4 billion dollars a pop, to calm a jumpy bond market. Yields, the interest the government pays, dipped. Thursday they climbed again. The 30-year yield went to about 5.24 percent, up from 5.19, still under Tuesday's 5.33 peak. The 10-year sat near 4.70 percent. US stocks fell to a two-week low. Reuters put the Dow down about 1.3 percent, the S&P 500 down about 0.9 percent, the Nasdaq down about 1 percent. Walmart's miss, down about 9 percent, and another oil jump added weight. Nine of eleven S&P sectors fell. One bright oddity: a sale of 30-year inflation-protected bonds drew the strongest demand since December 2020. Bitcoin rose about 5 percent and crossed 70,000 dollars. Next week money bosses gather at Jackson Hole.",
-      "why_it_matters": "If long-term yields stay high, mortgages and company loans stay expensive. A one-day Treasury hug does not fix a mountain of new borrowing plus war oil.",
-      "camps": "Treasury Secretary Scott Bessent says this is plumbing, not a rescue. Skeptics say the government is buying its own IOUs because private buyers got picky. Incoming Fed talk and oil keep the hawks loud.",
-      "source_name": "Reuters (via SRN News)",
-      "source_url": "https://srnnews.com/trading-day-cant-get-no-relief/",
-      "published": "2026-08-20",
+      "headline": "Stocks bounce Friday, still lose the week as long US yields stay high",
+      "dek": "Dow up about 1% Friday. S&P 500 and Nasdaq up about 0.4%. All three still finished the week down.",
+      "caveman": "Wall Street got a small hug Friday and still went home sad for the week. The Dow rose about 1 percent. The S&P 500 and Nasdaq rose about 0.4 percent. For the whole week the S&P 500 fell about 1.4 percent, the Nasdaq about 2.1 percent, the Dow about 0.8 percent. The 10-year US yield sat near 4.73 percent. The 30-year sat near 5.27 percent. High yields make future tech profits look smaller, so growth stocks got punched. Oil stayed expensive: Brent around 94 dollars, US crude around 87. Gold held near 4,675 dollars. Next week watchers stare at Wednesday: the Fed's favorite inflation print, and Nvidia's earnings after the bell. Jackson Hole, the Wyoming money camp, is still a week away.",
+      "why_it_matters": "If long-term yields stay this high, mortgages, car loans, and company borrowing stay dear. A one-day bounce does not wipe a week of rate fear plus war oil.",
+      "camps": "Bulls say Friday's rebound and still-growing US services show the economy is not dead. Bears say oil plus fat yields will keep squeezing stocks, especially chips, until someone blinks.",
+      "source_name": "CNBC / market recaps",
+      "source_url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published": "2026-08-21",
       "category": "economy",
       "terms": [
         {
@@ -57,648 +59,710 @@
           "explain": "The interest a bond pays. When yields jump, new borrowing gets pricier."
         },
         {
-          "term": "Treasury buyback",
-          "aliases": [],
-          "explain": "The government buys its own old IOUs so fewer sit in the market."
+          "term": "PCE",
+          "aliases": [
+            "Fed favorite inflation print"
+          ],
+          "explain": "A US government measure of what people pay. The Fed watches it closer than the regular CPI sticker."
         },
         {
           "term": "Jackson Hole",
           "aliases": [],
-          "explain": "A yearly Fed camp in Wyoming where money bosses hint what they will do next."
+          "explain": "A yearly Fed camp in Wyoming. This year's is Aug. 27 to 29. New Chair Kevin Warsh speaks Friday Aug. 28."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Traders in blue jackets on the New York Stock Exchange floor",
+      "image_alt": "Traders on the New York Stock Exchange floor",
       "image_credit": "Photo: Reuters"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
-      "headline": "Brent oil jumped toward 94 dollars after Trump promised an economic D-Day on Iran",
-      "dek": "Thursday close: Brent about 93.78 dollars, up 2.4 percent. Hormuz is still a choke point.",
-      "caveman": "Brent is the world's main oil price sticker. On Thursday it rose about 2.4 percent to about 93.78 dollars a barrel. US oil, WTI, rose to about 87.83. That is a four-week high and part of a two-week climb of about 20 percent. The spark was Trump's Wednesday-night post promising economic war on Iran and on any country that still feeds it money. Hormuz, the skinny sea door for about a fifth of seaborne oil, is still a mess. JPMorgan says each extra month of disruption can add about 7 to 8 dollars a barrel. If it lasts three months they see monthly averages near 114. Goldman Sachs has warned Brent could hit 120 if the strait stays clogged, while their calmer guess is 80 in the fourth quarter. Traders are not waiting for the calm guess.",
-      "why_it_matters": "Oil in the 90s leaks into diesel, food trucks, and then into the Fed's next fight. Taiwan pays it in shipping and in the cost of stuff on boats.",
-      "camps": "Hawks say squeeze Iran until Hormuz opens. Iran says the squeeze is economic terrorism and the strait stays a weapon. Banks print scary numbers and calmer numbers in the same note. Drivers just see the pump.",
-      "source_name": "Reuters / Al-Monitor / Economic Times",
-      "source_url": "https://www.al-monitor.com/originals/2026/08/trumps-iran-economic-d-day-threat-sends-oil-prices-above-94",
-      "published": "2026-08-20",
+      "headline": "Four in five Hormuz tankers go dark so Gulf oil can still sneak out",
+      "dek": "Kpler: about 80% of Hormuz traffic turned off trackers in two weeks. US Energy says 8 to 9 million barrels a day still move.",
+      "caveman": "The skinny sea door by Iran is still a war zone. So oil boats are playing ghost. Shipping data shop Kpler says about 80 percent of Hormuz trips in the last two weeks switched off their tracker beacons and hugged the Oman side, as far from Iran as they can. The US Navy helps guard that south path. US Energy says 8 to 9 million barrels a day still go through, about twice what some Wall Street trackers see, because those trackers only count boats that stay visible. Before the war it was about 15 million. Saudi Arabia also pipes about 5 million barrels a day west to the Red Sea. The trick is buying time. War has already eaten as much as 1.9 billion barrels from storage. At least 15 boats on the south path have been hit since June. Brent still sits in the mid-90s, not 120, because this ghost fleet plus extra oil from Brazil, Guyana, Venezuela, and the US is plugging the hole. For now.",
+      "why_it_matters": "If the ghost trick fails, pump prices jump again and inflation comes back as the Fed's uninvited guest. Taiwan pays it in shipping and in the cost of stuff on boats.",
+      "camps": "Washington says dark runs plus escorts keep the world fed with oil. Iran says the squeeze is economic war and the strait is still a weapon. Traders price a long mess, not a total shut door.",
+      "source_name": "Gulf News / Kpler",
+      "source_url": "https://gulfnews.com/world/mena/80-of-hormuz-traffic-goes-dark-and-keeps-oil-prices-in-check-1.500649281",
+      "published": "2026-08-23",
       "category": "economy",
       "terms": [
-        {
-          "term": "Brent",
-          "aliases": [],
-          "explain": "The main world oil price, named after a North Sea field."
-        },
-        {
-          "term": "WTI",
-          "aliases": [
-            "West Texas Intermediate"
-          ],
-          "explain": "The main US oil price sticker."
-        },
         {
           "term": "Strait of Hormuz",
           "aliases": [
             "Hormuz"
           ],
-          "explain": "A skinny sea door by Iran. A lot of the world's oil boats go through it."
+          "explain": "A skinny sea door by Iran. In peacetime a lot of the world's oil boats go through it."
+        },
+        {
+          "term": "AIS",
+          "aliases": [
+            "tracker beacon"
+          ],
+          "explain": "The radio box on a ship that tells the world where it is. Turning it off makes the ship hard to see on public maps."
+        },
+        {
+          "term": "dark fleet",
+          "aliases": [
+            "going dark"
+          ],
+          "explain": "Ships that hide their trackers. Iran used this to sell oil under sanctions. Now Gulf oil uses a version of it to dodge attacks."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Oil market or tanker image from coverage of the Iran-driven price jump",
-      "image_credit": "Photo: Getty Images / Al-Monitor"
+      "image_alt": "Oil tanker at sea near the Gulf",
+      "image_credit": "Photo: Gulf News"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
-      "headline": "US government debt crossed 40 trillion dollars, faster than the official guess",
-      "dek": "Treasury books showed 40.047 trillion on Tuesday. It took less than five months to climb from 39 trillion.",
-      "caveman": "The US government now owes a little over 40 trillion dollars. That is the gross pile: about 32.3 trillion in bonds the public holds, plus about 7.8 trillion the government owes its own pots like Social Security. Treasury published the number Wednesday. Watchdogs noted it took less than five months to go from 39 trillion to 40. In January 2017 the whole pile was under 20 trillion. PBS, walking through the books Thursday, said interest on the debt is already bigger than what Washington spends on the military or on Medicare. The IMF's tracker puts US debt at about 126 percent of one year's national output. Treasury Secretary Scott Bessent has said America can grow its way out. Budget hawks say that is a wish, not a plan.",
-      "why_it_matters": "A country that borrows this much pays more just to stand still. That leaks into your mortgage, your taxes, and how much money is left for hospitals and schools.",
-      "camps": "Bessent says grow out of it. Deficit hawks want tax rises or spending cuts or both. Many left critics say tax cuts for the rich and forever wars did this, not school lunches. Trump talks tough on waste while the pile grows on his watch too.",
-      "source_name": "Washington Post / PBS / Reuters",
-      "source_url": "https://www.washingtonpost.com/business/2026/08/19/united-states-debt-surpasses-40-trillion/",
-      "published": "2026-08-19",
+      "headline": "Nvidia reports Wednesday as oil, yields, and Iran keep the tape jumpy",
+      "dek": "The chip giant reports after the bell Aug. 26, same morning as the Fed's favorite inflation print.",
+      "caveman": "Next big money test is Wednesday. Nvidia, the US chip shop that sells the brains for most AI, tells Wall Street how the quarter went after the closing bell. That same morning Washington prints PCE, the inflation number the Fed likes most. The week just ended already hurt tech: the Nasdaq dropped about 2 percent. High 30-year yields near 5.27 percent make far-off AI profits look cheaper. War oil near 94 dollars makes inflation harder to kill. New Fed Chair Kevin Warsh does not speak at Jackson Hole until next Friday, so Wednesday's two prints will do a lot of talking first. If Nvidia's future sales look soft, or if inflation stays sticky, the market can gap down before anyone even flies to Wyoming.",
+      "why_it_matters": "Nvidia is the thermometer for the whole AI spend. A miss plus a hot inflation print would tell bosses: money stays expensive, and war oil is still in the machine.",
+      "camps": "Bulls say companies still cannot buy enough chips. Bears say the easy AI trade already ran, and yields plus oil will clip it. Warsh has been quiet on rates. Markets hate quiet.",
+      "source_name": "CNBC / week-ahead recaps",
+      "source_url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published": "2026-08-21",
       "category": "economy",
       "terms": [
         {
-          "term": "national debt",
+          "term": "Nvidia",
+          "aliases": [],
+          "explain": "US company that makes the chips most AI computers use."
+        },
+        {
+          "term": "PCE",
+          "aliases": [],
+          "explain": "The inflation gauge the Fed prefers. Out Wednesday with income and spending numbers."
+        },
+        {
+          "term": "Kevin Warsh",
           "aliases": [
-            "gross debt"
+            "Fed Chair Warsh"
           ],
-          "explain": "All the money the US government owes, including IOUs to itself."
-        },
-        {
-          "term": "intragovernmental debt",
-          "aliases": [],
-          "explain": "Money one US government pocket owes another, like borrowing from Social Security."
-        },
-        {
-          "term": "debt-to-GDP",
-          "aliases": [],
-          "explain": "How big the debt is compared with one year of the country's output."
+          "explain": "New US central bank boss since May 2026. First Jackson Hole speech is Aug. 28."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "US Treasury or debt visual from coverage of the 40 trillion milestone",
+      "image_alt": "Nvidia headquarters or chip visual",
       "image_credit": "Photo: Getty Images"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
-      "headline": "Google lets you mash a 'favorite source' button so AI Search might send you back to real sites",
-      "dek": "Thursday: publishers can embed Preferred Sources. Google says favorites get twice the clicks. Traffic is still dying.",
-      "caveman": "Google's robot answers now eat the clicks that used to pay newspapers. On Thursday Google gave publishers a little bone. Sites can put a button on their own pages. You press it to say this site is a favorite. Google promises to show that site more in Search, Discover, and Google News, and in its AI answer boxes. The company first put Preferred Sources into Top Stories, then into AI Mode and AI Overviews in May. It says people had already picked more than 345,000 different sources. Old tests said people were twice as likely to click a favorite. Google will also let you talk to your Discover feed in plain words, like 'less celebrity, more labor', and let Android users tune the spoken news briefing. Publishers have heard nice Google promises before.",
-      "why_it_matters": "If AI answers keep the reader inside Google, reporters do not get paid. A button is not a law. It is a sales pitch while the floor keeps dropping.",
-      "camps": "Google says this is how trust works now: you pick the humans you believe. Publishers say they need money, not a widget. Readers just want fewer junk answers.",
+      "headline": "A nameless coding model called Ox Alpha floods OpenRouter and nobody owns it",
+      "dek": "Free preview since Thursday. Stripe boss Patrick Collison called it very impressive. Fingerprints point at China's Z.ai. Nobody confesses.",
+      "caveman": "A new robot brain for writing code showed up Thursday on OpenRouter, a US shop that lets you rent many AIs from one door. The listing name is Ox Alpha. No company name. No press note. It is free for a short look. It says it can hold about a million words of context, see pictures and video, and keep working as an agent. Stripe chief Patrick Collison, whose firm is buying OpenRouter, posted that it is very impressive. By Sunday, code forums were doing detective work. Some error messages and word-piece tests match GLM models from Chinese lab Z.ai, also called Zhipu. Other people guessed Microsoft. OpenRouter only says a third party asked to stay secret. The catch: the stealth-model rules let the hidden owner keep your prompts to train on. You cannot name who is holding the diary.",
+      "why_it_matters": "If a frontier coding brain can hide its maker, shops cannot check safety, spies, or where your code goes. Cheap and nameless is a feature for users and a fog for everyone else.",
+      "camps": "Fans say try the tool, the name can wait. Safety people say a free mystery model that keeps every prompt is a gift to whoever sits behind the curtain. China hawks want a flag on the listing. Z.ai has not claimed it.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "published": "2026-08-20",
+      "source_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "published": "2026-08-23",
       "category": "tech",
       "terms": [
         {
-          "term": "Preferred Sources",
+          "term": "OpenRouter",
           "aliases": [],
-          "explain": "Google's list of websites you say you trust, so those links show up more."
+          "explain": "A US marketplace that lets developers call many AI models through one door. Stripe is buying it."
         },
         {
-          "term": "AI Overviews",
+          "term": "stealth model",
           "aliases": [
-            "AI Mode"
+            "Ox Alpha"
           ],
-          "explain": "Google's robot summary at the top of search. Often people stop there and never click."
+          "explain": "An AI listed with no company name while the maker tests it in public."
         },
         {
-          "term": "Discover",
-          "aliases": [],
-          "explain": "Google's phone feed of stories it thinks you want."
+          "term": "Z.ai",
+          "aliases": [
+            "Zhipu",
+            "GLM"
+          ],
+          "explain": "A Chinese AI lab. Online tests say Ox Alpha's fingerprints look like its GLM family. The lab has not said it is theirs."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Google Preferred Sources button shown in product images",
-      "image_credit": "Photo: Google / TechCrunch"
+      "image_alt": "Developer using a coding AI interface",
+      "image_credit": "Photo: Getty Images / TechCrunch"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
-      "headline": "ChatGPT on a Mac can now read and send your iMessages",
-      "dek": "OpenAI shipped an Apple Messages plug-in Thursday. It runs on Apple silicon only. You are supposed to approve each send.",
-      "caveman": "OpenAI put a plug-in in the ChatGPT desktop app for Mac. It can open Apple Messages, search old chats, draft a reply, delete a text, and send iMessage, SMS, or RCS as you. It works inside Codex and ChatGPT Work, the agent desks, not in a normal chatbot window. It is only for Apple silicon Macs, not old Intel ones, and not on the phone. OpenAI told Bloomberg the plug-in runs on your machine and does not build a giant index of every text. The default is: you look at the message and the names, then you say yes. OpenAI warns that turning on 'always allow' means the robot can send as you with no last look. Privacy people already smell a rat. A robot with your whole text history is a gift to scammers if the lock slips.",
-      "why_it_matters": "Your texts are the last private diary a lot of people have. Handing the diary to a company racing toward an IPO is a big trust jump, even if they swear the diary stays on the laptop.",
-      "camps": "OpenAI says local plus approve-before-send is safe enough. Privacy advocates want a hard no on always-allow and a clearer map of what leaves the Mac. Apple has not made this a system feature, so OpenAI is bolting it on.",
+      "headline": "US AI labs still will not publish a plan to cage a model that goes rogue",
+      "dek": "Guidelight graded five labs Saturday. OpenAI scored highest on containment. Anthropic and Meta scored zero on that one box.",
+      "caveman": "A US safety shop called Guidelight AI Standards looked at public papers from OpenAI, Google, Anthropic, xAI, and Meta. Question: if your robot starts ducking human control, what exact steps do you take, and when do you pull the plug? Almost nobody answers in writing. OpenAI scored best, 3 out of 5, because it has paused inside jobs after safety messes and said what it would do before turning them back on. It still has no full pre-set plan. Anthropic, the lab that sells itself as the careful one, scored zero on publishing a containment plan. Meta also scored zero. Google wrote the most detailed future map but has not built most of it yet. Guidelight only grades what is public, so a secret inside plan would not count. California already makes big labs publish how they handle ugly incidents. New York's similar law starts in January. A US bill would force a kill switch.",
+      "why_it_matters": "These models now sit inside company computers and can take actions, not just chat. If a lab is winging the emergency, the rest of us live with that bet.",
+      "camps": "Labs say the report misses private work and that spelling out a kill plan can create legal risk. Guidelight says if you cannot show the plan, assume you do not have one. Safety hawks want the kill-switch bill.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "published": "2026-08-20",
+      "source_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published": "2026-08-22",
       "category": "tech",
       "terms": [
         {
-          "term": "plug-in",
+          "term": "containment",
           "aliases": [
-            "plugin"
+            "kill switch"
           ],
-          "explain": "A small add-on that lets one program drive another program."
+          "explain": "A pre-set plan to cut a model's powers or shut it off if it tries to dodge human control."
         },
         {
-          "term": "Apple silicon",
-          "aliases": [],
-          "explain": "Macs with Apple's own chips, not old Intel chips."
+          "term": "Guidelight",
+          "aliases": [
+            "Guidelight AI Standards"
+          ],
+          "explain": "A US group that grades big AI labs on public safety practices. Its scientist Steven Adler used to work at OpenAI."
         },
         {
-          "term": "Codex",
+          "term": "agentic AI",
           "aliases": [
-            "ChatGPT Work"
+            "agent"
           ],
-          "explain": "OpenAI's agent desks that can do longer jobs, not just chat."
+          "explain": "AI that does multi-step jobs on its own inside a computer, not just answers a chat."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "ChatGPT or smartphone messaging visual from the plug-in coverage",
-      "image_credit": "Photo: Gabby Jones / Bloomberg / Getty Images"
+      "image_alt": "Abstract AI safety or server visual",
+      "image_credit": "Photo: Bryce Durbin / TechCrunch"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
-      "headline": "Alation, an AI data shop sitting inside half the Fortune 1000, says it got hacked",
-      "dek": "Thursday confirmation after a Tuesday outage. The company will not say if files walked out.",
-      "caveman": "Alation sells software that lets big companies ask their own messy files questions in plain words. It says it serves more than 500 firms, including about half of the Fortune 1000, the biggest US companies. On Tuesday some customers saw the system wobble for about an hour. On Thursday Alation told TechCrunch there was 'unauthorized activity in one of its systems' and that it is investigating. It would not say how many customers got hit, whether data was stolen, or what those customers should do. A lot of its computers live on Amazon's cloud. This fits a grim pattern: hackers go after the companies that hold other companies' secrets, because one break opens many safes.",
-      "why_it_matters": "If the catalog of a company's private data is cracked, the thief does not need to rob each office. One key, many doors.",
-      "camps": "Alation calls it isolated and still investigating. Customers want a straight answer on stolen files. Security reporters note the company has not even said whether it warned the people who pay it.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-      "published": "2026-08-20",
+      "headline": "Dutch privacy cops fine Uber about 1 billion dollars for robot-firing drivers",
+      "dek": "825 million euros. Second-biggest GDPR hit ever. Uber will appeal.",
+      "caveman": "The Dutch privacy office, which watches Uber's Europe HQ, said Friday the ride app used computers alone to freeze or kill driver accounts from 2018 to 2022. EU law says you cannot let a machine make a life-changing call with no human in the loop. The office also said Uber did not tell drivers clearly that a robot was judging them. Fine: 825 million euros, about 966 million dollars, a slice of Uber's 2025 sales of about 44.5 billion euros. Only Meta's 1.2 billion euro data-transfer fine is bigger under this law. Uber says the number is wild, that fraud pauses were short, that it never let a computer permanently fire people, and that only 126 Europe drivers lost accounts for low ratings in 2021. It will appeal. This is the Dutch office's fourth Uber fine.",
+      "why_it_matters": "A robot that can take your paycheck with no human check is the gig-work nightmare. A billion-dollar slap says Europe will still bill US platforms for it years later.",
+      "camps": "The Dutch office says automated firing without a person is illegal, period. Uber says humans now review, drivers can appeal, and the old cases were few. Drivers' groups say the fine is late but the fear was always real.",
+      "source_name": "AP News",
+      "source_url": "https://apnews.com/article/uber-fine-automated-suspensions-netherlands-e64385dc72fd2da440a68babd1ae2fb1",
+      "published": "2026-08-21",
       "category": "tech",
       "terms": [
         {
-          "term": "Alation",
-          "aliases": [],
-          "explain": "A US company that sells data catalogs and AI search over a firm's own files."
+          "term": "GDPR",
+          "aliases": [
+            "EU privacy law"
+          ],
+          "explain": "Europe's big personal-data law. It bans fully automated decisions that hit people hard, unless strict rules are met."
         },
         {
-          "term": "Fortune 1000",
+          "term": "automated decision-making",
           "aliases": [],
-          "explain": "The 1,000 biggest US companies by revenue."
+          "explain": "A computer decides your fate with no human looking first."
         },
         {
-          "term": "cyberattack",
-          "aliases": [],
-          "explain": "Someone breaking into computers without permission."
+          "term": "Autoriteit Persoonsgegevens",
+          "aliases": [
+            "Dutch privacy office"
+          ],
+          "explain": "The Netherlands data watchdog. It polices Uber in Europe because Uber's EU base is there."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Alation company logo from the cyberattack report",
-      "image_credit": "Photo: Alation / TechCrunch"
+      "image_alt": "Uber sign at company headquarters",
+      "image_credit": "Photo: AP / Jeff Chiu"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
-      "headline": "US agencies say hackers are using AI to break the little computers that run water plants",
-      "dek": "CISA, FBI, and NSA: all Siemens S7 controllers are in the crosshairs. Towns in five states already reported hits.",
-      "caveman": "Water plants and factories use small tough computers called programmable logic controllers to open valves and run pumps. Many US ones are old Siemens S7 boxes. On Wednesday, CISA, the FBI, and the NSA warned that hackers are going after all of those boxes. The agencies say the attackers use AI to write break-in scripts from public manuals, then hit machines that are old, online, or badly locked. A hit can stop water, wreck gear, or cause a safety accident. Officials have seen break-ins at water sites in Minnesota, Michigan, Arkansas, Georgia, and New Jersey. CISA has long said these boxes should not face the open internet. Rural towns get hit harder because one plant covers a lot of land. The warning sits on top of months of suspected Iranian probing of US water systems.",
-      "why_it_matters": "You do not need a missile to make a town thirsty. An old pump computer on the internet is enough, and AI makes the hunting cheap.",
-      "camps": "Agencies say patch, disconnect, and watch. An incident responder told TechCrunch the AI angle is newsworthy but the boxes were already soft. Cities want money for upgrades. Vendors sold the boxes decades ago and moved on.",
+      "headline": "Flock's camera boss begs for a 'compromise' as America turns on plate spies",
+      "dek": "Sunday TechCrunch: CEO Garrett Langley did a Fox tour. Police allegedly used the network to stalk partners. Default data keep-time fell from 30 days to 7.",
+      "caveman": "Flock Safety is the US company that plasters neighborhoods with cameras that read license plates. CEO Garrett Langley spent the weekend on TV saying the country must pick both privacy and safety, not one. The Washington Post logged 46 cases of cops accused of using Flock to follow wives, girlfriends, or exes. Langley told CBS he was sorry it happened, then said Flock did not invent cop abuse, it just made the abuse visible. Default keep-time dropped from 30 days to 7. Searches now need a case code. Both rules can be turned off. The ACLU says 7 days is still longer than the 48 hours it wants. Bernie Sanders told people to stop Flock. Three House Republicans filed a bill to block federal money for this kind of camera. Some towns are ripping the units down. Langley wants states to make illegal lookups a crime, not just a firing.",
+      "why_it_matters": "A private company now runs a coast-to-coast car diary for police. If the diary is easy to peek at, stalking is not a glitch. It is the product.",
+      "camps": "Flock says the cameras solve crimes and find missing people, and that new audits will catch dirty cops. Privacy groups say a compromise that still lets police override the lock is not a lock. Left and right both smell a panopticon.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-      "published": "2026-08-20",
+      "source_url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "published": "2026-08-23",
       "category": "tech",
       "terms": [
         {
-          "term": "CISA",
-          "aliases": [],
-          "explain": "The US civilian cyber-defense agency."
-        },
-        {
-          "term": "PLC",
+          "term": "Flock Safety",
           "aliases": [
-            "programmable logic controller",
-            "Siemens S7"
+            "Flock"
           ],
-          "explain": "A small industrial computer that runs pumps, valves, and factory lines."
+          "explain": "US firm that sells automatic license-plate cameras, and now drones, to police and HOAs."
         },
         {
-          "term": "critical infrastructure",
+          "term": "ALPR",
+          "aliases": [
+            "license-plate reader"
+          ],
+          "explain": "A camera that reads car plates and stores when and where the car passed."
+        },
+        {
+          "term": "Evidence Mode",
           "aliases": [],
-          "explain": "The systems a country needs to live: water, power, food, hospitals."
+          "explain": "Flock setting that lets police keep plate data longer than the new 7-day default."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Water treatment infrastructure from the CISA warning coverage",
-      "image_credit": "Photo: Robert Gauthier / Los Angeles Times"
+      "image_alt": "Automatic license plate reader camera on a US street pole",
+      "image_credit": "Photo: Smith Collection / Gado / Getty Images / TechCrunch"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
-      "headline": "Ukraine's parliament made spy-general Yevhenii Khmara the new defense minister",
-      "dek": "Lawmakers voted 312 to 2 on Wednesday. Zelensky wants more long-range strikes. The ousted minister wants elections.",
-      "caveman": "Ukraine's parliament, the Rada, confirmed Yevhenii Khmara as defense minister on Wednesday, 312 votes to 2. You only needed 226. Khmara is a career officer from the SBU, the security service. He used to run Alpha, a special unit tied in reports to Operation Spiderweb, last year's deep drone hits inside Russia. The law says the defense minister must be a civilian, so he dropped his general rank to take the job. He is the fifth defense minister since Russia's full-scale invasion. President Zelensky told him to grow long-range strikes, thicken air defense, and fix how the army buys gear. The last minister, Mykhailo Fedorov, was pushed out in July after a public fight with the army chief. On Tuesday Fedorov posted a video saying Ukraine has a system crisis and should move toward elections, which wartime law now blocks. Dozens protested in Kyiv on Wednesday. Some want a vote. Many doubt you can hold one while missiles fall.",
-      "why_it_matters": "A country at war just changed the person who buys the missiles, while the last boss asked a forbidden question: who gets to choose the government if the war lasts years?",
-      "camps": "Zelensky says Ukraine needs more strength. Khmara promises to shrink Russia's war machine. Fedorov and street protesters say the system is rotting without a vote. Russia is happy to watch Kyiv fight itself.",
-      "source_name": "Reuters / Al Jazeera / Kyiv Post",
-      "source_url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home",
-      "published": "2026-08-19",
+      "headline": "Zelensky says Russia will likely draft 300,000 more men after next month's vote",
+      "dek": "Sunday remarks. He says Putin told generals to finish taking Donetsk this year. Kyiv also wants more US Patriot missiles.",
+      "caveman": "Ukraine President Volodymyr Zelensky said Sunday Russia will probably call up at least 300,000 more soldiers after parliamentary elections next month. He thinks the new men will be thrown at Donetsk, the east region Moscow still does not fully own. Zelensky claimed Russia has already lost about 267,000 troops this year, about 155,000 of them dead. Those numbers cannot be checked from outside. He said Ukraine still holds about 20 percent of Donetsk, including the factory cities Sloviansk and Kramatorsk, and that Russia cannot finish the job. He also said US Patriot missiles are drying up: 675 in 2023, a forecast of only 264 this year. He asked Washington to sell even 10 percent of its Patriot stock, paid for by Kyiv. Talks with US envoys Steve Witkoff and Jared Kushner, he said, are stuck because Russia still wants Ukraine to walk away from Donbas.",
+      "why_it_matters": "A fresh 300,000-man wave would mean another winter of meat-grinder war, more refugees, and more pressure on a thin US air-defense cupboard.",
+      "camps": "Zelensky says Russia will burn the new draftees in Donetsk and still fail. Moscow has not confirmed a draft and hates talking about losses. Trump's envoys want a deal that does not look like a Ukrainian surrender. Patriots are the only tool that reliably kills ballistic missiles.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/23/europe/zelensky-ukraine-russia-mobilization-intl",
+      "published": "2026-08-23",
       "category": "politics",
       "terms": [
         {
-          "term": "Yevhenii Khmara",
+          "term": "mobilization",
           "aliases": [
-            "Yevhen Khmara"
+            "draft"
           ],
-          "explain": "Ukraine's new defense minister. Came from the SBU spy service."
+          "explain": "When a state orders civilians into the army. Russia's 2022 draft sent many young men abroad."
         },
         {
-          "term": "SBU",
-          "aliases": [],
-          "explain": "Ukraine's main security and intelligence service."
+          "term": "Donetsk",
+          "aliases": [
+            "Donbas"
+          ],
+          "explain": "An eastern Ukraine region Russia wants to swallow whole. Kyiv still holds a belt of cities there."
         },
         {
-          "term": "martial law",
-          "aliases": [],
-          "explain": "Emergency war rules. In Ukraine they pause elections."
+          "term": "Patriot",
+          "aliases": [
+            "Patriot missile"
+          ],
+          "explain": "US air-defense missiles. They are the main tool Ukraine has to shoot down Russian ballistic missiles."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Yevhenii Khmara in uniform speaking at a podium with Ukraine and EU flags",
-      "image_credit": "Photo: AFP / Kyiv Post"
+      "image_alt": "Volodymyr Zelensky speaking about the war",
+      "image_credit": "Photo: CNN"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
-      "headline": "Russia killed at least 18 people in Ukraine on Thursday as Patriot missiles run thin",
-      "dek": "Air force: 44 missiles, 39 shot down. A nine-story building collapsed in Kyiv. Poland and Romania scrambled jets.",
-      "caveman": "Thursday was another beating. Ukraine says Russia fired at least 44 missiles and a wave of jet-powered drones. The air force said it shot down 39 missiles. At least 18 people died, most in Kyiv. A nine-story apartment house in the Solomianskyi district fell and burned. Mayor Vitali Klitschko said a children's hospital nearby lost windows. People were trapped in rubble. Power went out in parts of two districts. An overnight attack lasted about nine hours and also hit warehouses in Boryspil. Russia said it struck military factories and logistics. Neighbors got nervous. Poland put planes and air defenses up along the border. Romania said a drone crossed near Galati and crashed in empty land in Tulcea. Reporters in Kyiv said the scary part is the cupboard: Ukraine is short of Patriot interceptor missiles, the expensive arrows that kill ballistic missiles. Winter energy plants will be next if the cupboard stays empty.",
-      "why_it_matters": "When interceptors run out, apartments become the shield. NATO's edge states already scramble as if the war is leaking.",
-      "camps": "Kyiv begs partners for more Patriots. Washington is busy in the Gulf. Moscow wants the lights off before winter. Families in Solomianskyi just want the building to stop falling.",
-      "source_name": "Al Jazeera / Kyiv Independent",
-      "source_url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home",
-      "published": "2026-08-20",
+      "headline": "Ukrainian drones hit two Russian fighter jets, an S-400 nest, and a string of radars",
+      "dek": "Unmanned Systems Forces say 11 of 14 targets were hit Sunday across Rostov, Krasnodar, and occupied Crimea.",
+      "caveman": "Ukraine's drone army said Sunday it smashed a long list of Russian eyes and teeth. Commander Robert Brovdi, call sign Magyar, said crews hit 11 of 14 targets. In Vityazevo, on the Krasnodar coast about 300 kilometers from the front, they say they struck a Su-33 fighter, a MiG-29 fighter, and an Orion spy drone. They also claim an S-400 battery near Gelendzhik, a Pantsir in Yeysk, a Tor launcher, and eight radars from occupied Crimea to Rostov. Zelensky said Saturday a Su-24 bomber and four other air pieces were wrecked at Saky airfield in Crimea. Russia did not confirm the jet kills. The point is not one airfield. It is a months-long hunt for the radars that tell Russian missiles where to fly and tell Russian jets when to hide.",
+      "why_it_matters": "If Ukraine can keep blinding radars deep inside Russia, it makes room for its own strikes and makes Russia's expensive air-defense net look leaky.",
+      "camps": "Kyiv releases cockpit video and target lists. Moscow stays quiet or calls it propaganda. Independent plane-spotters try to match wreckage. The campaign is real even when each tail number is not.",
+      "source_name": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/82948",
+      "published": "2026-08-23",
       "category": "politics",
       "terms": [
         {
-          "term": "Patriot",
+          "term": "S-400",
           "aliases": [
-            "interceptor"
+            "Triumf"
           ],
-          "explain": "A US-made missile that tries to kill incoming missiles. Ukraine does not have enough."
+          "explain": "Russia's long-range air-defense system. Meant to kill jets and missiles far away."
         },
         {
-          "term": "ballistic missile",
-          "aliases": [],
-          "explain": "A fast rocket that goes high and comes down hard. Harder to shoot than a slow drone."
+          "term": "Unmanned Systems Forces",
+          "aliases": [
+            "USF",
+            "SBS"
+          ],
+          "explain": "Ukraine's dedicated drone branch. Its commander uses the call sign Magyar."
+        },
+        {
+          "term": "Pantsir",
+          "aliases": [
+            "Tor"
+          ],
+          "explain": "Short-range Russian anti-air guns and missiles used to protect bigger systems like the S-400."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Aftermath or air-alert coverage from Thursday's strikes on Kyiv",
-      "image_credit": "Photo: AFP / Al Jazeera"
+      "image_alt": "Ukrainian drone or damaged Russian air-defense site",
+      "image_credit": "Photo: Unmanned Systems Forces / Kyiv Post"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
-      "headline": "Trump declared an 'economic D-Day' on Iran and on any country still feeding it",
-      "dek": "Wednesday-night Truth Social blast. No list of targets. UAE already cut ties. China said sanctions will not settle it.",
-      "caveman": "On Wednesday evening Trump wrote in all caps that he was launching 'economic D-Day' on Iran, 'the most crushing economic operation ever taken against any country.' He said any country whose banks, shops, airports, or ministries give Iran a lifeline will face 'tremendous' economic pain. He named oil smuggling, swap lines, cash shops, ship flags, and front companies. He did not name the countries. A 60-day ceasefire had died on Monday. The US-Israel war on Iran is about six months old. On Tuesday the UAE, a US ally that used to be a huge door for Iran money, said it was freezing all trade and finance with Tehran after it tracked two Iranian ballistic missiles toward sea traffic. China's embassy in Washington told the BBC that sanctions and pressure do not fix this. Iran's foreign minister, Abbas Araghchi, called the post a diversion from America's own money problems and 'economic terrorism.' Details of the new punishments were still thin Thursday.",
-      "why_it_matters": "If Washington really punches every bank that still touches Iran, China, Gulf traders, and oil prices all get hit. If it is just shouting, markets still jump and civilians still pay.",
-      "camps": "Trump wants a win before November votes and cheaper gas, which this threat does not instantly deliver. Iran says the strait is its lever. China wants to keep buying cheap barrels. Gulf states are picking sides under missile threat.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.com/news/articles/c2k7e83ynj4o",
-      "published": "2026-08-20",
+      "headline": "Trump says Canada wants to be a US state without the paperwork",
+      "dek": "Sunday Truth Social blast after Carney called the new tariffs an attack and killed the talks.",
+      "caveman": "After the 50 percent tariffs landed Saturday, Canada Prime Minister Mark Carney called it an attack. 'You are at war when you get attacked,' he said. Ontario Premier Doug Ford said Trump is the kind of man who steals your lunch money. On Sunday Trump posted that Canada wants the benefits of being a US state without being one, and that Canada has taxed American farmers for years. He has floated swallowing Canada as the 51st state before. Canadians hate it. A petition to kick out US Ambassador Pete Hoekstra has about 248,000 names. Carney, a former central banker elected to stand up to Trump, froze talks and sent negotiators back to Ottawa. US Trade Representative Jamieson Greer said no new talks are planned. Democrats from border states say this is a price spike dressed up as patriotism.",
+      "why_it_matters": "When the White House talks about Canada as a wannabe state, this is no longer just a tax fight. It is a trust break between two countries that share an unguarded border.",
+      "camps": "Trump says Canada free-rides. Carney says America changed and writes its name in pencil. Ford wants every tool used. US border governors want the grown-ups back in the room.",
+      "source_name": "France 24 / AFP",
+      "source_url": "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens",
+      "published": "2026-08-23",
       "category": "politics",
       "terms": [
         {
-          "term": "economic D-Day",
-          "aliases": [
-            "Operation Economic Fury"
-          ],
-          "explain": "Trump's name for a bigger money war on Iran, including punishing other countries that still deal with it."
-        },
-        {
-          "term": "secondary sanctions",
+          "term": "Mark Carney",
           "aliases": [],
-          "explain": "Punishing someone else's bank or buyer for dealing with the first target."
+          "explain": "Canada's prime minister. He used to run the central banks of Canada and Britain. He won office promising to push back on Trump."
         },
         {
-          "term": "UAE",
+          "term": "51st state",
+          "aliases": [],
+          "explain": "Trump's gag and threat that Canada should become another US state. Most Canadians treat it as an insult."
+        },
+        {
+          "term": "Jamieson Greer",
           "aliases": [
-            "United Arab Emirates"
+            "US Trade Representative"
           ],
-          "explain": "A Gulf country. Dubai was a big door for Iran money. It said it shut that door this week."
+          "explain": "Trump's top trade bargainer. He says America is done talking for now."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Donald Trump in coverage of the economic D-Day announcement",
-      "image_credit": "Photo: Getty Images / BBC"
+      "image_alt": "Donald Trump speaking, with Canada-US trade tension in the news",
+      "image_credit": "Photo: Jacquelyn Martin / AP / France 24"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
-      "headline": "Taiwan asked for a record 35 billion dollar defense budget as China keeps circling",
-      "dek": "1.12 trillion Taiwan dollars for 2027, over 3 percent of GDP, an 18 percent jump. The opposition legislature still has to pass it.",
-      "caveman": "Taiwan's government on Thursday proposed spending 1.12 trillion Taiwan dollars, about 35 billion US dollars, on defense next year. That is the first time the yearly defense budget would clear one trillion, an 18 percent jump, and more than 3 percent of the island's output. President Lai Ching-te has promised 5 percent by 2030. The US has been nagging Taipei to spend more. The same US president, after a May sit-down with Xi Jinping, called arms sales to Taiwan 'a very good negotiating chip' with Beijing, which scared people on the island. Xi had warned that a clumsy Taiwan policy could mean a clash. The plan now goes to an opposition-controlled legislature that only passed this year's national budget last Friday, after a 266-day stall. China still flies planes and sails ships around Taiwan and has not given up the threat of force.",
-      "why_it_matters": "Money on paper is not missiles in sheds. If Washington treats Taiwan weapons as a bargain chip, Beijing hears a wobble.",
-      "camps": "Lai says defense spending is peace spending. The opposition can trim the bill. Washington wants Taiwan to pay more and also wants a deal with Xi. Beijing calls the whole budget a separatist show.",
-      "source_name": "AP News",
-      "source_url": "https://www.wral.com/news/ap/1d1cd-taiwan-proposes-a-record-35b-defense-budget-for-2027-as-china-s-military-pressure-grows/",
-      "published": "2026-08-20",
+      "headline": "Iran's security chief: not one drop of Gulf oil if the US squeeze goes on",
+      "dek": "Ali Rezaei, per IRNA. Central bank already says Iranian oil sales are at zero. Bessent still tees up 'toughest sanctions in history.'",
+      "caveman": "Iran's top security official Rezaei said Tehran will not let a single drop of oil leave the Gulf or Hormuz if Washington keeps piling on economic war. He also threatened other export paths. The line ran on state media. Iran's central bank chief already said last week that oil exports have in practice fallen to zero, and that friends abroad told him the money is gone. US Treasury Secretary Scott Bessent is still lining up what he calls the toughest sanctions in history, aimed in part at China, which buys most of the Iranian barrels that still move. Saudi Crown Prince Mohammed bin Salman was in France Sunday to talk with President Macron about other sea and pipe routes. Iran's parliament also floated fees on boats using Hormuz. Independent reporters have not confirmed those fees are real in the water. The June 17 pause deal is dead. Both capitals talk like this can last months.",
+      "why_it_matters": "If Iran tries to bottle the whole Gulf, not just its own barrels, every pump on earth moves. Even a threat that large is a tax on food, freight, and rate cuts.",
+      "camps": "Tehran says the squeeze is economic terrorism and the strait is leverage. Washington says collapse the regime without going back to big ground war. Beijing tells both sides to talk. Gulf states hunt backup pipes.",
+      "source_name": "The National",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/08/23/iran-condemns-looming-us-sanctions-as-hormuz-standoff-deepens/",
+      "published": "2026-08-23",
       "category": "politics",
       "terms": [
         {
-          "term": "Lai Ching-te",
+          "term": "Rezaei",
           "aliases": [
-            "President Lai"
+            "Supreme National Security Council secretary"
           ],
-          "explain": "Taiwan's president. He wants defense spending at 5 percent of GDP by 2030."
+          "explain": "Iran's top security official. He spoke through state media about blocking Gulf oil."
         },
         {
-          "term": "GDP",
-          "aliases": [],
-          "explain": "The size of an economy in one year. Defense as a share of GDP is how people compare military effort."
+          "term": "Scott Bessent",
+          "aliases": [
+            "Treasury Secretary"
+          ],
+          "explain": "US Treasury boss. He has promised the toughest Iran sanctions yet and says America probably will not restart large combat."
+        },
+        {
+          "term": "June 17 MOU",
+          "aliases": [
+            "pause deal"
+          ],
+          "explain": "A June US-Iran paper that briefly eased the fight and let talks run 60 days. Both sides now treat it as finished."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Taiwan military aircraft in file coverage of the defense budget",
-      "image_credit": "Photo: AP"
+      "image_alt": "Strait of Hormuz or Iranian official related to the oil standoff",
+      "image_credit": "Photo: The National"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
-      "headline": "Richard Russo's new small-town novel jumped straight onto the indie fiction list",
-      "dek": "Under the Falls debuts at No. 7 on the Aug. 19 IndieBound list, week ending Aug. 16. Knopf, 256 pages.",
-      "caveman": "Richard Russo won a Pulitzer for Empire Falls, a sad-funny book about a dying mill town. His new one, Under the Falls, landed in US independent bookstores and debuted at No. 7 on the national hardcover fiction list that IndieBound published Wednesday. The book came out Aug. 11 from Knopf. It is short, about 256 pages, 30 dollars. A musician named Tyler Sinclair left Stone Mountain at 18. Eighteen years later he comes back with his band for a benefit gig and finds the past has teeth. Indie booksellers like Russo because he still writes about leftover America, not just Brooklyn parties. A debut at 7 in a week full of giant names means the old guy still sells when the shipment hits the table.",
-      "why_it_matters": "Indie lists tell you what people buy when Amazon is not whispering. A Pulitzer novelist opening at 7 is a signal that brick stores still have a house author.",
-      "camps": "Russo fans wanted another trip to broken towns. Thriller readers get a crime plot. People who only read new debuts may skip it. Bookstores put it face-out anyway.",
+      "headline": "Ann Patchett's Whistler holds No. 2 as US indie shops keep selling quiet grief",
+      "dek": "IndieBound list for the week ending Aug. 19, posted through the weekend. 11 weeks on the hardcover fiction chart.",
+      "caveman": "Ann Patchett is the US novelist who also owns Parnassus Books in Nashville. Her new novel Whistler sits at No. 2 on the national indie hardcover fiction list for the week ending Aug. 19. It has been there 11 weeks. The book follows Daphne Fuller, 53, who meets her old stepfather Eddie again in a New York museum. Their short family tie ended in a hard event when she was nine. Now they refuse to lose each other a second time. Indie Next picked it No. 1 for June. The No. 1 slot is still Yesteryear, the tradwife-in-1855 debut we will not re-litigate. Under Patchett, shoppers are choosing a short, adult novel about memory and care, not another dungeon crawl. Patchett has a Pulitzer-finalist book, a National Humanities Medal, and a bookstore. When her name sits at No. 2 this long, independents are telling you what they can still hand-sell.",
+      "why_it_matters": "Indie lists are a weather report for US literary fiction. Patchett holding No. 2 means readers still pay 30 dollars for a small human story in a loud summer.",
+      "camps": "Patchett fans call Whistler her late-style tender book. Some critics want more plot. Booksellers like that it is short enough to finish and rich enough to press into a stranger's hand.",
       "source_name": "IndieBound",
       "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-19",
       "published": "2026-08-19",
       "category": "literature",
       "terms": [
         {
-          "term": "Richard Russo",
-          "aliases": [],
-          "explain": "American novelist. Pulitzer for Empire Falls. Writes small-town US life."
+          "term": "Ann Patchett",
+          "aliases": [
+            "Whistler"
+          ],
+          "explain": "US novelist and Nashville bookstore owner. Bel Canto and The Dutch House made her famous. Whistler is the new one."
         },
         {
           "term": "IndieBound",
-          "aliases": [],
-          "explain": "The bestseller list from independent US bookstores, not Amazon."
+          "aliases": [
+            "indie list"
+          ],
+          "explain": "The national bestseller list from US independent bookstores, not Amazon."
         },
         {
-          "term": "Knopf",
+          "term": "Indie Next",
           "aliases": [],
-          "explain": "A major US literary publisher, part of Penguin Random House."
+          "explain": "A monthly list of books US indie booksellers swear you should read."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Cover of Under the Falls by Richard Russo",
-      "image_credit": "Cover: Knopf / Penguin Random House"
+      "image_alt": "Hardcover of Ann Patchett's novel Whistler",
+      "image_credit": "Photo: Harper / IndieBound"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
-      "headline": "Who's hot: Riley Sager and dungeon nerds. Who's not: Whitehead slipped",
-      "dek": "New IndieBound week: The Unknown climbs to 6. Cool Machine falls 6 to 9. Matt Dinniman keeps eating the list.",
-      "caveman": "US indie shops posted a new national list Wednesday for the week ending Aug. 16. Caro Claire Burke's tradwife nightmare Yesteryear is still No. 1, week 19, so that story is old. The move is lower down. Riley Sager's island-disappearance thriller The Unknown climbed from 7 to 6 in only its second week. Colson Whitehead's Cool Machine, Harlem in the 1980s, dropped from 6 to 9 after four weeks. That is not a crash, but it is a cooling. Meanwhile Matt Dinniman's goofy-bloody Dungeon Crawler Carl world keeps multiplying: The Dungeon Anarchist's Cookbook rose 10 to 8, The Gate of the Feral Gods 12 to 11, and the paperbacks still squat in the top five. Robert Jackson Bennett's A Trade of Blood tumbled 8 to 14. Ann Patchett's Whistler holds at 2. The list is a fight between literary names and people who want a cat named Princess Donut to punch a god.",
-      "why_it_matters": "A list is a weather report. Thrillers and LitRPG are taking table space from prize-winning literary fiction this week.",
-      "camps": "Literary readers shrug and wait. Genre readers are eating the store. Booksellers need both: Patchett for the regulars, Dinniman for the kids who found Carl on a phone.",
+      "headline": "Kathryn Stockett's Calamity Club parks at No. 3, 15 weeks in",
+      "dek": "The Help author's first novel in 17 years. 1930s Oxford, Mississippi. Spiegel & Grau. 35 dollars.",
+      "caveman": "Kathryn Stockett wrote The Help, which sold more than 15 million copies and became a movie. She went quiet for years. The Calamity Club, out May 5, is her return: 656 pages, Oxford, Mississippi, 1933. Three women — Meg, an 11-year-old nobody will adopt; Birdie, the loud unmarried sister; Charlie, a woman with a past — cook up a dangerous plan to take back their lives. US indies have it at No. 3 for the week ending Aug. 19, 15 weeks on the list. It was a May Indie Next pick. Stockett is from Jackson. She worked magazines in New York, then wrote the hit that made white-savior fights as loud as the book itself. This one again puts underestimated women in a Jim Crow town and asks what trouble they are allowed. Booksellers are still moving it in August, which is the real test, not pub week.",
+      "why_it_matters": "A 17-year gap, a 35-dollar hardcover, and still No. 3 on indies means Stockett's name still prints money — and still drags the old arguments about who gets to tell Mississippi.",
+      "camps": "Fans missed her big-hearted plots. Skeptics never forgave The Help. Booksellers will sell any novel that makes reading groups fight and then reorder.",
       "source_name": "IndieBound",
       "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-19",
       "published": "2026-08-19",
       "category": "literature",
       "terms": [
         {
-          "term": "Riley Sager",
-          "aliases": [],
-          "explain": "US thriller writer. New book The Unknown is climbing indie lists."
-        },
-        {
-          "term": "LitRPG",
+          "term": "Kathryn Stockett",
           "aliases": [
-            "Dungeon Crawler Carl"
+            "The Help"
           ],
-          "explain": "Stories where life is a video-game dungeon. Matt Dinniman's Carl books are the current craze."
+          "explain": "US novelist from Jackson, Mississippi. The Help (2009) sold over 15 million copies. The Calamity Club is her long-awaited follow-up."
         },
         {
-          "term": "Colson Whitehead",
+          "term": "Spiegel & Grau",
           "aliases": [],
-          "explain": "American novelist. Two Pulitzers. Cool Machine is book three of his Harlem trilogy."
+          "explain": "An independent-minded US publisher. It put out The Calamity Club at 35 dollars."
+        },
+        {
+          "term": "Indie Next",
+          "aliases": [],
+          "explain": "Monthly pick list from US independent booksellers."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Cover of The Unknown by Riley Sager, climbing the indie list",
-      "image_credit": "Cover: Dutton / Penguin Random House"
+      "image_alt": "The Calamity Club by Kathryn Stockett book cover",
+      "image_credit": "Photo: Spiegel & Grau"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
-      "headline": "Chris Smalls takes his Amazon-union memoir to Harlem this weekend",
-      "dek": "When the Revolution Comes is a Penguin Random House memoir. Event Saturday on Malcolm X Boulevard.",
-      "caveman": "Chris Smalls helped win the first Amazon warehouse union vote in the US, at Staten Island's JFK8 in 2022, after Amazon fired him for a 2020 COVID walkout. His memoir, When the Revolution Comes: A Fight for the Future of the Working Class, is out from Penguin Random House. He told the Amsterdam News it took about four years, three writing and one making the book. It starts in a warehouse, then jumps back to childhood, odd jobs, marriage, kids, getting fired, then organizing. He no longer holds a union title and says he does not want one. He has been taking the book, and the organizing, through more than 45 countries. Saturday Aug. 22 he is due at a Grassroots of Harlem citizenry book party at 369 Malcolm X Boulevard. US union membership was about 10 percent in 2025, and only about 5.9 percent in the private sector. Smalls wants more Black and Brown workers in labor leadership, not just on the floor.",
-      "why_it_matters": "Amazon tried to make the warehouse a story about one loud man. The book tries to make it a story about a class. Harlem is where he is planting that this week.",
-      "camps": "Labor people treat Smalls as proof a warehouse can vote yes. Amazon still fights unions. Some union old guard bristle at a leader with no title. Readers get a memoir, not a manual.",
-      "source_name": "Amsterdam News",
-      "source_url": "https://amsterdamnews.com/news/2026/08/20/chris-smalls-brings-labor-memoir-to-harlem/",
-      "published": "2026-08-20",
+      "headline": "US book workers call this a hot labor summer after Hachette's giant union win",
+      "dek": "Publishers Weekly's Aug. 24 issue: about 600 Hachette staff joined the NewsGuild, the biggest trade-publishing union yet.",
+      "caveman": "For 80 years HarperCollins was the only Big Five house with a real union. That club got bigger. About 600 Hachette Book Group workers joined the Washington-Baltimore NewsGuild, the largest trade-publishing union in US history. Catapult workers, University of Chicago Press, and Dark Horse Comics also unionized or got recognized this year. PW's Aug. 24 magazine, circulating now, calls it a hot labor summer. Workers name the same rot: low pay, fat workloads, and a 'passion tax' — the idea that you should eat peanuts because you love books. Many say bosses clawed back work-from-home after COVID. HarperCollins already struck for three months in 2022-23. After that, other houses quietly lifted starting pay. Penguin Random House recently went from 51,000 to 55,000 dollars. Organizers want that in a contract, plus rules so AI cannot eat jobs. Hachette's CEO David Shelley said he will work with the union. The company had posted anti-union flyers first.",
+      "why_it_matters": "The people who make American books are mostly in New York, underpaid, and done pretending love is a benefit. Their fight sets the floor for what a 25-year-old editor can survive on.",
+      "camps": "Workers say a handshake benefit is not a right. Houses say they already raised pay. The NewsGuild wants AI clauses in writing. Younger staff, drowning in rent, are the engine.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101098-publishing-s-hot-labor-summer.html",
+      "published": "2026-08-21",
       "category": "literature",
       "terms": [
         {
-          "term": "Chris Smalls",
+          "term": "Hachette Book Group",
           "aliases": [
-            "Christian Smalls"
+            "HBG"
           ],
-          "explain": "US labor organizer. Helped win the Amazon Labor Union vote at JFK8 in 2022."
+          "explain": "One of the US Big Five publishers. Imprints include Little, Brown. About 600 staff just unionized."
         },
         {
-          "term": "Amazon Labor Union",
+          "term": "NewsGuild",
           "aliases": [
-            "ALU"
+            "Washington-Baltimore NewsGuild"
           ],
-          "explain": "The union that won a vote at Amazon's Staten Island warehouse."
+          "explain": "A union that now represents Hachette staff as well as many journalists."
         },
         {
-          "term": "memoir",
+          "term": "passion tax",
           "aliases": [],
-          "explain": "A book someone writes about their own life."
+          "explain": "Worker slang for taking low pay because you love the work. Book people have paid it for decades."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Cover of When the Revolution Comes by Chris Smalls",
-      "image_credit": "Cover: Penguin Random House / Amsterdam News"
+      "image_alt": "Book publishing office or union action in US publishing",
+      "image_credit": "Photo: Publishers Weekly"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
-      "headline": "Emily Wilson's Odyssey leaped to No. 3 paperback as the Nolan movie heat hits shops",
-      "dek": "IndieBound: 7 to 3 this week. The US translator's Homer is the edition stores are stacking for the film.",
-      "caveman": "Emily Wilson, a US classicist, made a plain-English Odyssey in 2018 that a lot of teachers actually like. Independent US shops just moved that paperback from No. 7 to No. 3 on the national list. IndieBound's own blurb now calls it inspiration for Christopher Nolan's big-screen Homer. Wilson's line is famous for starting with 'Tell me about a complicated man' instead of dusty 'muse' talk. When a movie of an old poem is coming, stores do not always stock the old Victorian version. They stock the one people can read on the subway. Circe by Madeline Miller, another Greek-myth hit, sits nearby at 7. This is how classics survive in the US: a living translator plus a Hollywood engine, then a stack by the register.",
-      "why_it_matters": "A 3,000-year-old poem is a bestseller again because a woman in Pennsylvania made the sentences walk, and a famous director pointed a camera at the story.",
-      "camps": "Classicists argue about every word. Movie people want a hero. Booksellers just want the edition that rings. Wilson's fans say the older boy-club translations can sit down.",
-      "source_name": "IndieBound",
-      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-19",
-      "published": "2026-08-19",
+      "headline": "Colleen Hoover's Verity surges again as the Hathaway-Johnson trailer sells paper",
+      "dek": "PW's Aug. 24 bestseller notes: back to No. 4 trade paperback, more than 2.5 times last week's print sales. Film opens Oct. 2.",
+      "caveman": "Colleen Hoover is the US writer who turned online word-of-mouth into a machine. Verity, her nasty little thriller about a ghostwriter in a broken novelist's house, first came out in 2018. A movie trailer dropped Aug. 11. Anne Hathaway plays Verity. Dakota Johnson plays the hired writer. Josh Hartnett plays the husband. Amazon MGM opens the film Oct. 2. PW's weekly recap, out with the Aug. 24 issue, says the book jumped back to No. 4 on trade paperback with its fattest print week yet, more than two and a half times the week before. A movie-tie-in edition hit Aug. 18. This is the Hoover loop: screen heat, then stacks by the register. It is not new art. It is the market showing, again, that a trailer can still move paper in a country that supposedly quit reading.",
+      "why_it_matters": "When one 2018 thriller can triple its print week off a trailer, Hollywood is still the loudest US bookseller — louder than any indie staff pick.",
+      "camps": "Hoover readers want the movie to be messy. Snobs roll their eyes. Bookstores will take the units. Amazon made the film and also sells the book. That circle is the point.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101103-this-week-s-bestsellers-august-24-2026.html",
+      "published": "2026-08-21",
       "category": "literature",
       "terms": [
         {
-          "term": "Emily Wilson",
-          "aliases": [],
-          "explain": "US scholar and translator. Her Odyssey is the one US indies are selling hard this week."
+          "term": "Colleen Hoover",
+          "aliases": [
+            "Verity"
+          ],
+          "explain": "US novelist. It Ends With Us and Verity turned BookTok fame into huge sales. Verity is now a movie."
         },
         {
-          "term": "The Odyssey",
-          "aliases": [
-            "Homer"
-          ],
-          "explain": "An ancient Greek poem about a soldier trying to get home. Many English versions exist."
+          "term": "trade paperback",
+          "aliases": [],
+          "explain": "The larger, nicer paperback format US stores put on front tables, not the small airport paperback."
+        },
+        {
+          "term": "movie tie-in",
+          "aliases": [],
+          "explain": "A book reprint with the film's actors on the cover, timed to the trailer or the opening."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Cover of Emily Wilson's translation of The Odyssey",
-      "image_credit": "Cover: W. W. Norton"
+      "image_alt": "Verity book or Anne Hathaway and Dakota Johnson movie still",
+      "image_credit": "Photo: Amazon MGM / Publishers Weekly"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
-      "headline": "UN: 94 percent of Gaza needs shelter, and Israel still blocks the tents",
-      "dek": "About 1.98 million people. Four in five families live in critical or catastrophic conditions. Fifty old dead, 19 of them children, were buried Thursday.",
-      "caveman": "On Thursday UN agencies said 94 percent of Gaza's 2.1 million people need shelter and basic household stuff. The Shelter Cluster, led by the Norwegian Refugee Council, put the count near 1.98 million. More than four in five families now live in what aid people call critical or catastrophic conditions: not enough fuel, light, water storage, or a roof that can take rain. Nearly two-thirds live in tents meant for a few weeks, not another winter. Last winter more than 70 percent of families got flooded. Partners say they need about 562 million dollars, and Israel still restricts tents, repair gear, fuel, and heavy machines. Thursday, Gaza buried 50 people, including 19 children, whose bodies had just been pulled from rubble. They had been dead about two years. The World Food Programme still reaches about 1.5 million people with food. Pest teams have hit more than 3,250 dirty sites because rats live in the ruins.",
-      "why_it_matters": "A ceasefire rumor does not make a tent a house. If winter comes with the same blockade, the next flood is already scheduled.",
-      "camps": "Israel says security. The UN says civilians are being squeezed past dignity. Donors underfund the appeal. Families sleep in plastic and wait for machines that do not arrive.",
-      "source_name": "UN News / Norwegian Refugee Council",
-      "source_url": "https://news.un.org/en/story/2026/08/1168180",
-      "published": "2026-08-20",
+      "headline": "Somalia shuts 205 clinics as aid cuts send hungry children up 32 percent",
+      "dek": "UNICEF Friday from Nairobi: 1.9 million children may be malnourished this year. Water in the bush went from 2 dollars to 8.",
+      "caveman": "Somalia is dry, at war, and going broke on help. UNICEF's James Elder told Geneva on Friday, from Nairobi, that 205 health and nutrition posts already closed after rich countries slashed aid. Worst-case, 618 could shut. In the first half of 2026, children admitted with severe wasting and extra sickness rose 32 percent. Not because more kids got sick at once. Because the village clinic is gone, so they arrive later and sicker. About 1.9 million Somali children may go hungry this year. Almost 500,000 of them could be the deadly kind of thin. Drought killed herds. About 500,000 people fled between January and April. Rural water that cost 2 dollars a barrel now costs 8. The Iran war made fuel and fertilizer dearer. A fat El Niño may dump floods next. The US left Somalia out of a 2 billion dollar aid pledge, citing theft. Elder said the programs work. The money walked away.",
+      "why_it_matters": "Closing a feeding post is not a budget line. It is a mother walking farther with a baby who may not make it. This is what 'aid cuts' look like in a child's body.",
+      "camps": "UNICEF begs donors not to retreat at the worst time. Western capitals say they are tired and that Somalia leaks aid. Families in camps got clothes from poorer neighbors, not from the world.",
+      "source_name": "UN News / UNICEF",
+      "source_url": "https://news.un.org/en/story/2026/08/1168184",
+      "published": "2026-08-21",
       "category": "social",
       "terms": [
         {
-          "term": "Shelter Cluster",
-          "aliases": [],
-          "explain": "The aid group that coordinates tents, tarps, and household kits in a crisis. In Gaza it is led by the Norwegian Refugee Council."
-        },
-        {
-          "term": "OCHA",
-          "aliases": [],
-          "explain": "The UN office that coordinates emergency aid."
-        }
-      ],
-      "image": "images/wd-soc-1.jpg",
-      "image_alt": "Collapsed apartment block in Gaza with a Qatar Fund tent in the rubble",
-      "image_credit": "Photo: NRC / Shelter Cluster"
-    },
-    {
-      "id": "wd-soc-2",
-      "section": "world",
-      "headline": "Congo gets 70,000 Ebola shots as a Bundibugyo outbreak becomes the deadliest on its books",
-      "dek": "WHO: 5,021 cases, 2,325 dead. The vaccine was built for a different strain. War with M23 is blocking the nurses.",
-      "caveman": "The Democratic Republic of the Congo will get 70,000 doses of Ervebo, an Ebola vaccine, from the global emergency stockpile. WHO said Thursday that 50,000 doses go to health workers and 20,000 go into a clinical trial. The catch: Ervebo was built for Zaire ebolavirus, the West Africa killer, not the Bundibugyo strain now spreading. Lab and animal hints say it might help. Nobody knows until people get it. The outbreak was declared May 15. By Wednesday there were 5,021 cases and 2,325 deaths, the country's deadliest Ebola wave on record. More than 160 health workers caught it and 40 died. War in the east, the government versus Rwanda-backed M23 and other armed groups, blocks tracing, safe burials, and clinic access. M23 even claims it is running its own Ebola shops and said Thursday it would stop shared taxis and boats from government zones. The UN has sanctioned M23 for atrocities. Vaccines on a tarmac do not walk through a front line.",
-      "why_it_matters": "A virus plus a war is how outbreaks become graveyards. Health workers are already dying in double digits.",
-      "camps": "WHO calls the shipment solidarity. Scientists say the trial is the honest part, because the shot might not fit this strain. M23 wants to look like a state. Patients just need a nurse who can reach them.",
-      "source_name": "UN News / WHO",
-      "source_url": "https://news.un.org/en/story/2026/08/1168174",
-      "published": "2026-08-20",
-      "category": "social",
-      "terms": [
-        {
-          "term": "Ebola",
+          "term": "severe acute malnutrition",
           "aliases": [
-            "Bundibugyo",
-            "Ervebo"
+            "SAM",
+            "wasting"
           ],
-          "explain": "A deadly virus. Ervebo is a vaccine made for one strain. Bundibugyo is a different strain now in Congo."
+          "explain": "The worst hunger in children. The body eats itself. Without fast treatment, many die."
         },
         {
-          "term": "M23",
+          "term": "El Niño",
           "aliases": [],
-          "explain": "A Rwanda-backed armed group fighting the Congo government in the east."
-        },
-        {
-          "term": "ICG",
-          "aliases": [],
-          "explain": "The international group that unlocks emergency vaccine stockpiles in outbreaks."
-        }
-      ],
-      "image": "images/wd-soc-2.jpg",
-      "image_alt": "Health worker in protective gear during the eastern Congo Ebola response",
-      "image_credit": "Photo: UNOCHA / UN News"
-    },
-    {
-      "id": "wd-soc-3",
-      "section": "world",
-      "headline": "Lebanon: 860,000 went home to wreckage, and Israeli strikes still push people north",
-      "dek": "360,000 remain displaced. UNIFIL counted 9 airstrikes and 265 projectiles Monday to Wednesday. The flash appeal is half empty.",
-      "caveman": "The UN says about 860,000 people displaced by the south Lebanon war have gone back toward home. That sounds like the end. It is not. About 360,000 are still displaced, including at least 22,000 in collective shelters. Many returnees cannot enter smashed houses. They rent, crowd in with family, or camp nearby. More than 700,000 people still live with broken water systems. The big UN flash appeal, 639.9 million dollars, is only 48 percent funded. UNHCR's own Lebanon budget is 24 percent funded. A US-brokered ceasefire in late June said Hezbollah disarms and Israel leaves the south. Fighting never fully stopped. UN peacekeepers, UNIFIL, told the UN Thursday that from Monday to Wednesday they saw 86 airspace violations, 9 Israeli airstrikes, 265 projectiles, and almost 30 drone events, plus demolitions and blocked patrols. Weekend strikes already sent hundreds of families fleeing north again.",
-      "why_it_matters": "Going home to a house with no water is not recovery. A half-funded appeal plus new bombs means the next displacement wave is already walking.",
-      "camps": "Israel says it is hitting Hezbollah. The UN says civilians, water pipes, and peacekeepers are in the way. Lebanon's government has a return plan on paper. Donors have not paid for the pipes.",
-      "source_name": "UN News / UNHCR",
-      "source_url": "https://news.un.org/en/story/2026/08/1168163",
-      "published": "2026-08-18",
-      "category": "social",
-      "terms": [
-        {
-          "term": "UNIFIL",
-          "aliases": [],
-          "explain": "The UN peacekeeping force in southern Lebanon."
-        },
-        {
-          "term": "UNHCR",
-          "aliases": [],
-          "explain": "The UN refugee agency."
-        },
-        {
-          "term": "internally displaced",
-          "aliases": [],
-          "explain": "Forced from home but still inside the same country."
-        }
-      ],
-      "image": "images/wd-soc-3.jpg",
-      "image_alt": "A man returns to a damaged neighborhood in Tyre, southern Lebanon",
-      "image_credit": "Photo: UNHCR / UN News"
-    },
-    {
-      "id": "wd-soc-4",
-      "section": "world",
-      "headline": "In Haiti, cutting USAID did what gangs wanted: more hungry kids to recruit",
-      "dek": "New Humanitarian, Aug. 19: child recruitment tripled in 2025. 1.5 million displaced. Gangs hold about 90 percent of Port-au-Prince.",
-      "caveman": "Haiti's capital is mostly run by armed groups. They hold about 90 percent of Port-au-Prince. A record 1.5 million people are displaced. UNICEF says the number of children pulled into gangs tripled in 2025, and kids now make up about half of gang members. The New Humanitarian reported Wednesday that Trump's 2025 freeze and the gutting of USAID wiped out a lot of the boring programs that kept teenagers busy: bike repair, haircutting, seedling jobs worth about 4 dollars a day. The US used to cover more than 65 percent of humanitarian aid in Haiti. OCHA said the freeze halted about 80 percent of US-funded programs. About 6.4 million people, of nearly 12 million, still need help. UNICEF's Haiti appeal was 79 percent unfunded at mid-year. Washington still spends on a Gang Suppression Force. Peace groups that used to run trauma talks have closed offices. A 14-year-old told reporters he killed four people after a gang fed him twice a day. 'My heart was being ripped out,' he said.",
-      "why_it_matters": "If you cancel the job that pays 4 dollars and keep the gun that pays two meals, the math is ugly and the child does it.",
-      "camps": "The White House calls this security first and migration control. Haitian peace workers say drones and task forces without schools and food make more bandits. Gangs already act like the state in places the state left.",
-      "source_name": "The New Humanitarian",
-      "source_url": "https://www.thenewhumanitarian.org/news-feature/2026/08/19/us-funding-cuts-fuel-child-recruitment-haitis-armed-groups",
-      "published": "2026-08-19",
-      "category": "social",
-      "terms": [
-        {
-          "term": "USAID",
-          "aliases": [],
-          "explain": "The US foreign-aid agency. Trump's team froze and gutted most of it in 2025."
-        },
-        {
-          "term": "Viv Ansanm",
-          "aliases": [],
-          "explain": "A coalition of Haitian armed groups that now controls much of Port-au-Prince."
+          "explain": "A climate pattern that can bring extra rain and floods to East Africa after drought."
         },
         {
           "term": "UNICEF",
           "aliases": [],
-          "explain": "The UN children's agency."
+          "explain": "The UN children's agency. It runs a lot of the nutrition sites now going dark in Somalia."
+        }
+      ],
+      "image": "images/wd-soc-1.jpg",
+      "image_alt": "Malnourished child receiving treatment in Somalia",
+      "image_credit": "Photo: UNICEF / UN News"
+    },
+    {
+      "id": "wd-soc-2",
+      "section": "world",
+      "headline": "Myanmar junta bombs a monastery; 14 people on a Buddhist retreat die",
+      "dek": "Friday morning, Myaung township, Sagaing. 11 men, 3 women. Locals told AFP.",
+      "caveman": "Myanmar's army dropped a bomb on a monastery hall at about 9 in the morning Friday. The people inside were on a meditation retreat for Buddhist Lent. Fourteen died: 11 men, 3 women. Five were from the village. Nine had come from nearby. The place is Myaung township in Sagaing, a dry-zone region that has fought the junta since the 2021 coup. Two local resistance fighters who helped pull bodies told AFP. The army did not put out a real account. This is how the war is fought now: from the air, against rooms full of civilians, because the junta does not hold the roads. Sagaing has seen this movie. Each strike adds to a pile of burned towns and empty schools. The country is a humanitarian wreck, and the people with the planes keep hitting places of prayer.",
+      "why_it_matters": "A monastery is not a barracks. If the junta can bomb a retreat and shrug, no civilian roof in the dry zone is safe, and aid workers cannot plan around that.",
+      "camps": "Resistance groups call it a war crime. The junta calls almost everyone a terrorist and says little. Neighbors in ASEAN still prefer quiet. The dead cannot vote in the junta's planned poll.",
+      "source_name": "AFP / Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/08/22/myanmar-airstrike-hits-monastery-in-myaung-killing-14-people-on-buddhist-retreat/232324",
+      "published": "2026-08-22",
+      "category": "social",
+      "terms": [
+        {
+          "term": "junta",
+          "aliases": [
+            "Myanmar military"
+          ],
+          "explain": "The generals who seized Myanmar in 2021 and still rule by force and air strikes."
+        },
+        {
+          "term": "Sagaing",
+          "aliases": [
+            "Myaung"
+          ],
+          "explain": "A region in central Myanmar. Much of it is in revolt. The monastery was in Myaung township."
+        },
+        {
+          "term": "Buddhist Lent",
+          "aliases": [
+            "Vassa"
+          ],
+          "explain": "The monsoon retreat months when many Buddhists stay at monasteries to meditate."
+        }
+      ],
+      "image": "images/wd-soc-2.jpg",
+      "image_alt": "Satellite view or monastery in Myanmar's Sagaing region",
+      "image_credit": "Photo: AFP / Google Earth via Malay Mail"
+    },
+    {
+      "id": "wd-soc-3",
+      "section": "world",
+      "headline": "UN probe: South Sudan is close to new atrocity crimes as a shaky vote nears",
+      "dek": "Thursday commission report, still echoing into the weekend. First national elections since independence, almost no guardrails.",
+      "caveman": "South Sudan got independence in 2011, then ate itself in a civil war. A UN human-rights commission said Thursday the country is again near the cliff. It listed warning signs for genocide, crimes against humanity, war crimes, and ethnic cleansing, and said most of those signs are flashing at once. A national election is being rushed, the first since independence, without a real ceasefire watch, independent courts, or an open political field. Commissioners named impunity, corrupt exclusive rule, shrinking civic space, and hate talk. The tools that might slow a slide — monitors, justice, talks — are weak or off. 'Fifteen years after independence, South Sudan is at one of its most dangerous points,' they wrote. The window to stop a rerun of 2013-2018 killing and flight is closing, they said, but not shut. The crisis is under-reported. That is part of the danger.",
+      "why_it_matters": "When a UN atrocity panel says the window is closing, it is telling donors and neighbors: a bad election here will not be a local mess. It will be graves and refugees.",
+      "camps": "The commission wants the vote slowed until safeguards exist. Juba's elite wants an election that locks in power. Civilians remember the last war and have nowhere cheap to run.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168173",
+      "published": "2026-08-20",
+      "category": "social",
+      "terms": [
+        {
+          "term": "atrocity crimes",
+          "aliases": [
+            "genocide",
+            "war crimes"
+          ],
+          "explain": "The worst international crimes: genocide, crimes against humanity, war crimes, ethnic cleansing."
+        },
+        {
+          "term": "UN Commission on Human Rights in South Sudan",
+          "aliases": [],
+          "explain": "An independent UN probe that reports on abuses and warning signs in South Sudan."
+        },
+        {
+          "term": "impunity",
+          "aliases": [],
+          "explain": "When powerful people do violence and nobody ever pays."
+        }
+      ],
+      "image": "images/wd-soc-3.jpg",
+      "image_alt": "Displaced families or UN mission scene in South Sudan",
+      "image_credit": "Photo: UNMISS / UN News"
+    },
+    {
+      "id": "wd-soc-4",
+      "section": "world",
+      "headline": "Guinea-Bissau's first mpox outbreak: half the suspected cases are children",
+      "dek": "UNICEF: 23 of 46 suspected cases are under 15. Sixteen are toddlers. Schools reopen in September.",
+      "caveman": "Tiny West African state Guinea-Bissau had never recorded mpox. Then it declared an outbreak on July 4. UN News on Thursday, still the live alert, said 46 people are suspected. Twenty-three are children under 15. Sixteen of those are under four. Only seven cases are lab-confirmed, all adults, no deaths yet. Confirmed spots: six in Bissau city, one in Biombo. UNICEF's Sandra Martins called even a small first outbreak a big public-health event because the watch system is weak. Cases may be hiding. Health teams cannot yet see how the virus jumps. Mpox often stays mild in healthy adults. Babies get it worse. Schools open in September, which is a mixing bowl. UNICEF wants just over 150,000 dollars for tracing, tests, clean water in clinics, and honest messages so families are not shamed out of care. That is pocket change next to a bomber. It is not arriving fast.",
+      "why_it_matters": "First outbreaks in weak health systems are how a containable virus becomes a children's ward problem. A 150,000-dollar gap should not be a cliff.",
+      "camps": "UNICEF wants flexible cash now. The government says it is on it. Neighbors watch the border. Stigma is already a risk: if parents hide a rash, tracing dies.",
+      "source_name": "UN News / UNICEF",
+      "source_url": "https://news.un.org/en/story/2026/08/1168176",
+      "published": "2026-08-20",
+      "category": "social",
+      "terms": [
+        {
+          "term": "mpox",
+          "aliases": [
+            "monkeypox"
+          ],
+          "explain": "A virus that causes rash, fever, and swollen nodes. Usually mild. Very young children can get much sicker."
+        },
+        {
+          "term": "Guinea-Bissau",
+          "aliases": [],
+          "explain": "A small West African country. This is its first known mpox outbreak."
+        },
+        {
+          "term": "contact tracing",
+          "aliases": [],
+          "explain": "Finding everyone a sick person touched so you can stop the next wave."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Armed teenage guards in Port-au-Prince, from The New Humanitarian reporting",
-      "image_credit": "Photo: Jess DiPierro Obert / The New Humanitarian"
+      "image_alt": "Child health clinic or UNICEF response in West Africa",
+      "image_credit": "Photo: UNICEF / UN News"
     }
   ],
   "glossary": [
     {
-      "term": "comparable sales",
-      "aliases": [
-        "same-store sales"
-      ],
-      "explain": "Sales in shops that were already open last year, so new stores do not fake the growth."
-    },
-    {
-      "term": "tariff refund",
-      "aliases": [],
-      "explain": "Money customs gives back after a court says an import tax was illegal."
-    },
-    {
       "term": "tariff",
       "aliases": [],
       "explain": "A tax on stuff coming in from another country."
+    },
+    {
+      "term": "Section 338",
+      "aliases": [
+        "Smoot-Hawley"
+      ],
+      "explain": "A 1930 US law that lets the president tax a country up to 50% if he says it treats American business unfair. Never used for tariffs before this fight."
+    },
+    {
+      "term": "USMCA",
+      "aliases": [
+        "North American free trade deal"
+      ],
+      "explain": "The trade pact of the US, Mexico, and Canada. Trump will not keep it as it is."
     },
     {
       "term": "yield",
@@ -706,300 +770,350 @@
       "explain": "The interest a bond pays. When yields jump, new borrowing gets pricier."
     },
     {
-      "term": "Treasury buyback",
-      "aliases": [],
-      "explain": "The government buys its own old IOUs so fewer sit in the market."
+      "term": "PCE",
+      "aliases": [
+        "Fed favorite inflation print"
+      ],
+      "explain": "A US government measure of what people pay. The Fed watches it closer than the regular CPI sticker."
     },
     {
       "term": "Jackson Hole",
       "aliases": [],
-      "explain": "A yearly Fed camp in Wyoming where money bosses hint what they will do next."
-    },
-    {
-      "term": "Brent",
-      "aliases": [],
-      "explain": "The main world oil price, named after a North Sea field."
-    },
-    {
-      "term": "WTI",
-      "aliases": [
-        "West Texas Intermediate"
-      ],
-      "explain": "The main US oil price sticker."
+      "explain": "A yearly Fed camp in Wyoming. This year's is Aug. 27 to 29. New Chair Kevin Warsh speaks Friday Aug. 28."
     },
     {
       "term": "Strait of Hormuz",
       "aliases": [
         "Hormuz"
       ],
-      "explain": "A skinny sea door by Iran. A lot of the world's oil boats go through it."
+      "explain": "A skinny sea door by Iran. In peacetime a lot of the world's oil boats go through it."
     },
     {
-      "term": "national debt",
+      "term": "AIS",
       "aliases": [
-        "gross debt"
+        "tracker beacon"
       ],
-      "explain": "All the money the US government owes, including IOUs to itself."
+      "explain": "The radio box on a ship that tells the world where it is. Turning it off makes the ship hard to see on public maps."
     },
     {
-      "term": "intragovernmental debt",
-      "aliases": [],
-      "explain": "Money one US government pocket owes another, like borrowing from Social Security."
-    },
-    {
-      "term": "debt-to-GDP",
-      "aliases": [],
-      "explain": "How big the debt is compared with one year of the country's output."
-    },
-    {
-      "term": "Preferred Sources",
-      "aliases": [],
-      "explain": "Google's list of websites you say you trust, so those links show up more."
-    },
-    {
-      "term": "AI Overviews",
+      "term": "dark fleet",
       "aliases": [
-        "AI Mode"
+        "going dark"
       ],
-      "explain": "Google's robot summary at the top of search. Often people stop there and never click."
+      "explain": "Ships that hide their trackers. Iran used this to sell oil under sanctions. Now Gulf oil uses a version of it to dodge attacks."
     },
     {
-      "term": "Discover",
+      "term": "Nvidia",
       "aliases": [],
-      "explain": "Google's phone feed of stories it thinks you want."
+      "explain": "US company that makes the chips most AI computers use."
     },
     {
-      "term": "plug-in",
+      "term": "Kevin Warsh",
       "aliases": [
-        "plugin"
+        "Fed Chair Warsh"
       ],
-      "explain": "A small add-on that lets one program drive another program."
+      "explain": "New US central bank boss since May 2026. First Jackson Hole speech is Aug. 28."
     },
     {
-      "term": "Apple silicon",
+      "term": "OpenRouter",
       "aliases": [],
-      "explain": "Macs with Apple's own chips, not old Intel chips."
+      "explain": "A US marketplace that lets developers call many AI models through one door. Stripe is buying it."
     },
     {
-      "term": "Codex",
+      "term": "stealth model",
       "aliases": [
-        "ChatGPT Work"
+        "Ox Alpha"
       ],
-      "explain": "OpenAI's agent desks that can do longer jobs, not just chat."
+      "explain": "An AI listed with no company name while the maker tests it in public."
     },
     {
-      "term": "Alation",
-      "aliases": [],
-      "explain": "A US company that sells data catalogs and AI search over a firm's own files."
-    },
-    {
-      "term": "Fortune 1000",
-      "aliases": [],
-      "explain": "The 1,000 biggest US companies by revenue."
-    },
-    {
-      "term": "cyberattack",
-      "aliases": [],
-      "explain": "Someone breaking into computers without permission."
-    },
-    {
-      "term": "CISA",
-      "aliases": [],
-      "explain": "The US civilian cyber-defense agency."
-    },
-    {
-      "term": "PLC",
+      "term": "Z.ai",
       "aliases": [
-        "programmable logic controller",
-        "Siemens S7"
+        "Zhipu",
+        "GLM"
       ],
-      "explain": "A small industrial computer that runs pumps, valves, and factory lines."
+      "explain": "A Chinese AI lab. Online tests say Ox Alpha's fingerprints look like its GLM family. The lab has not said it is theirs."
     },
     {
-      "term": "critical infrastructure",
-      "aliases": [],
-      "explain": "The systems a country needs to live: water, power, food, hospitals."
-    },
-    {
-      "term": "Yevhenii Khmara",
+      "term": "containment",
       "aliases": [
-        "Yevhen Khmara"
+        "kill switch"
       ],
-      "explain": "Ukraine's new defense minister. Came from the SBU spy service."
+      "explain": "A pre-set plan to cut a model's powers or shut it off if it tries to dodge human control."
     },
     {
-      "term": "SBU",
-      "aliases": [],
-      "explain": "Ukraine's main security and intelligence service."
+      "term": "Guidelight",
+      "aliases": [
+        "Guidelight AI Standards"
+      ],
+      "explain": "A US group that grades big AI labs on public safety practices. Its scientist Steven Adler used to work at OpenAI."
     },
     {
-      "term": "martial law",
+      "term": "agentic AI",
+      "aliases": [
+        "agent"
+      ],
+      "explain": "AI that does multi-step jobs on its own inside a computer, not just answers a chat."
+    },
+    {
+      "term": "GDPR",
+      "aliases": [
+        "EU privacy law"
+      ],
+      "explain": "Europe's big personal-data law. It bans fully automated decisions that hit people hard, unless strict rules are met."
+    },
+    {
+      "term": "automated decision-making",
       "aliases": [],
-      "explain": "Emergency war rules. In Ukraine they pause elections."
+      "explain": "A computer decides your fate with no human looking first."
+    },
+    {
+      "term": "Autoriteit Persoonsgegevens",
+      "aliases": [
+        "Dutch privacy office"
+      ],
+      "explain": "The Netherlands data watchdog. It polices Uber in Europe because Uber's EU base is there."
+    },
+    {
+      "term": "Flock Safety",
+      "aliases": [
+        "Flock"
+      ],
+      "explain": "US firm that sells automatic license-plate cameras, and now drones, to police and HOAs."
+    },
+    {
+      "term": "ALPR",
+      "aliases": [
+        "license-plate reader"
+      ],
+      "explain": "A camera that reads car plates and stores when and where the car passed."
+    },
+    {
+      "term": "Evidence Mode",
+      "aliases": [],
+      "explain": "Flock setting that lets police keep plate data longer than the new 7-day default."
+    },
+    {
+      "term": "mobilization",
+      "aliases": [
+        "draft"
+      ],
+      "explain": "When a state orders civilians into the army. Russia's 2022 draft sent many young men abroad."
+    },
+    {
+      "term": "Donetsk",
+      "aliases": [
+        "Donbas"
+      ],
+      "explain": "An eastern Ukraine region Russia wants to swallow whole. Kyiv still holds a belt of cities there."
     },
     {
       "term": "Patriot",
       "aliases": [
-        "interceptor"
+        "Patriot missile"
       ],
-      "explain": "A US-made missile that tries to kill incoming missiles. Ukraine does not have enough."
+      "explain": "US air-defense missiles. They are the main tool Ukraine has to shoot down Russian ballistic missiles."
     },
     {
-      "term": "ballistic missile",
-      "aliases": [],
-      "explain": "A fast rocket that goes high and comes down hard. Harder to shoot than a slow drone."
-    },
-    {
-      "term": "economic D-Day",
+      "term": "S-400",
       "aliases": [
-        "Operation Economic Fury"
+        "Triumf"
       ],
-      "explain": "Trump's name for a bigger money war on Iran, including punishing other countries that still deal with it."
+      "explain": "Russia's long-range air-defense system. Meant to kill jets and missiles far away."
     },
     {
-      "term": "secondary sanctions",
-      "aliases": [],
-      "explain": "Punishing someone else's bank or buyer for dealing with the first target."
-    },
-    {
-      "term": "UAE",
+      "term": "Unmanned Systems Forces",
       "aliases": [
-        "United Arab Emirates"
+        "USF",
+        "SBS"
       ],
-      "explain": "A Gulf country. Dubai was a big door for Iran money. It said it shut that door this week."
+      "explain": "Ukraine's dedicated drone branch. Its commander uses the call sign Magyar."
     },
     {
-      "term": "Lai Ching-te",
+      "term": "Pantsir",
       "aliases": [
-        "President Lai"
+        "Tor"
       ],
-      "explain": "Taiwan's president. He wants defense spending at 5 percent of GDP by 2030."
+      "explain": "Short-range Russian anti-air guns and missiles used to protect bigger systems like the S-400."
     },
     {
-      "term": "GDP",
+      "term": "Mark Carney",
       "aliases": [],
-      "explain": "The size of an economy in one year. Defense as a share of GDP is how people compare military effort."
+      "explain": "Canada's prime minister. He used to run the central banks of Canada and Britain. He won office promising to push back on Trump."
     },
     {
-      "term": "Richard Russo",
+      "term": "51st state",
       "aliases": [],
-      "explain": "American novelist. Pulitzer for Empire Falls. Writes small-town US life."
+      "explain": "Trump's gag and threat that Canada should become another US state. Most Canadians treat it as an insult."
+    },
+    {
+      "term": "Jamieson Greer",
+      "aliases": [
+        "US Trade Representative"
+      ],
+      "explain": "Trump's top trade bargainer. He says America is done talking for now."
+    },
+    {
+      "term": "Rezaei",
+      "aliases": [
+        "Supreme National Security Council secretary"
+      ],
+      "explain": "Iran's top security official. He spoke through state media about blocking Gulf oil."
+    },
+    {
+      "term": "Scott Bessent",
+      "aliases": [
+        "Treasury Secretary"
+      ],
+      "explain": "US Treasury boss. He has promised the toughest Iran sanctions yet and says America probably will not restart large combat."
+    },
+    {
+      "term": "June 17 MOU",
+      "aliases": [
+        "pause deal"
+      ],
+      "explain": "A June US-Iran paper that briefly eased the fight and let talks run 60 days. Both sides now treat it as finished."
+    },
+    {
+      "term": "Ann Patchett",
+      "aliases": [
+        "Whistler"
+      ],
+      "explain": "US novelist and Nashville bookstore owner. Bel Canto and The Dutch House made her famous. Whistler is the new one."
     },
     {
       "term": "IndieBound",
-      "aliases": [],
-      "explain": "The bestseller list from independent US bookstores, not Amazon."
-    },
-    {
-      "term": "Knopf",
-      "aliases": [],
-      "explain": "A major US literary publisher, part of Penguin Random House."
-    },
-    {
-      "term": "Riley Sager",
-      "aliases": [],
-      "explain": "US thriller writer. New book The Unknown is climbing indie lists."
-    },
-    {
-      "term": "LitRPG",
       "aliases": [
-        "Dungeon Crawler Carl"
+        "indie list"
       ],
-      "explain": "Stories where life is a video-game dungeon. Matt Dinniman's Carl books are the current craze."
+      "explain": "The national bestseller list from US independent bookstores, not Amazon."
     },
     {
-      "term": "Colson Whitehead",
+      "term": "Indie Next",
       "aliases": [],
-      "explain": "American novelist. Two Pulitzers. Cool Machine is book three of his Harlem trilogy."
+      "explain": "A monthly list of books US indie booksellers swear you should read."
     },
     {
-      "term": "Chris Smalls",
+      "term": "Kathryn Stockett",
       "aliases": [
-        "Christian Smalls"
+        "The Help"
       ],
-      "explain": "US labor organizer. Helped win the Amazon Labor Union vote at JFK8 in 2022."
+      "explain": "US novelist from Jackson, Mississippi. The Help (2009) sold over 15 million copies. The Calamity Club is her long-awaited follow-up."
     },
     {
-      "term": "Amazon Labor Union",
+      "term": "Spiegel & Grau",
+      "aliases": [],
+      "explain": "An independent-minded US publisher. It put out The Calamity Club at 35 dollars."
+    },
+    {
+      "term": "Hachette Book Group",
       "aliases": [
-        "ALU"
+        "HBG"
       ],
-      "explain": "The union that won a vote at Amazon's Staten Island warehouse."
+      "explain": "One of the US Big Five publishers. Imprints include Little, Brown. About 600 staff just unionized."
     },
     {
-      "term": "memoir",
-      "aliases": [],
-      "explain": "A book someone writes about their own life."
-    },
-    {
-      "term": "Emily Wilson",
-      "aliases": [],
-      "explain": "US scholar and translator. Her Odyssey is the one US indies are selling hard this week."
-    },
-    {
-      "term": "The Odyssey",
+      "term": "NewsGuild",
       "aliases": [
-        "Homer"
+        "Washington-Baltimore NewsGuild"
       ],
-      "explain": "An ancient Greek poem about a soldier trying to get home. Many English versions exist."
+      "explain": "A union that now represents Hachette staff as well as many journalists."
     },
     {
-      "term": "Shelter Cluster",
+      "term": "passion tax",
       "aliases": [],
-      "explain": "The aid group that coordinates tents, tarps, and household kits in a crisis. In Gaza it is led by the Norwegian Refugee Council."
+      "explain": "Worker slang for taking low pay because you love the work. Book people have paid it for decades."
     },
     {
-      "term": "OCHA",
-      "aliases": [],
-      "explain": "The UN office that coordinates emergency aid."
-    },
-    {
-      "term": "Ebola",
+      "term": "Colleen Hoover",
       "aliases": [
-        "Bundibugyo",
-        "Ervebo"
+        "Verity"
       ],
-      "explain": "A deadly virus. Ervebo is a vaccine made for one strain. Bundibugyo is a different strain now in Congo."
+      "explain": "US novelist. It Ends With Us and Verity turned BookTok fame into huge sales. Verity is now a movie."
     },
     {
-      "term": "M23",
+      "term": "trade paperback",
       "aliases": [],
-      "explain": "A Rwanda-backed armed group fighting the Congo government in the east."
+      "explain": "The larger, nicer paperback format US stores put on front tables, not the small airport paperback."
     },
     {
-      "term": "ICG",
+      "term": "movie tie-in",
       "aliases": [],
-      "explain": "The international group that unlocks emergency vaccine stockpiles in outbreaks."
+      "explain": "A book reprint with the film's actors on the cover, timed to the trailer or the opening."
     },
     {
-      "term": "UNIFIL",
-      "aliases": [],
-      "explain": "The UN peacekeeping force in southern Lebanon."
+      "term": "severe acute malnutrition",
+      "aliases": [
+        "SAM",
+        "wasting"
+      ],
+      "explain": "The worst hunger in children. The body eats itself. Without fast treatment, many die."
     },
     {
-      "term": "UNHCR",
+      "term": "El Niño",
       "aliases": [],
-      "explain": "The UN refugee agency."
-    },
-    {
-      "term": "internally displaced",
-      "aliases": [],
-      "explain": "Forced from home but still inside the same country."
-    },
-    {
-      "term": "USAID",
-      "aliases": [],
-      "explain": "The US foreign-aid agency. Trump's team froze and gutted most of it in 2025."
-    },
-    {
-      "term": "Viv Ansanm",
-      "aliases": [],
-      "explain": "A coalition of Haitian armed groups that now controls much of Port-au-Prince."
+      "explain": "A climate pattern that can bring extra rain and floods to East Africa after drought."
     },
     {
       "term": "UNICEF",
       "aliases": [],
-      "explain": "The UN children's agency."
+      "explain": "The UN children's agency. It runs a lot of the nutrition sites now going dark in Somalia."
+    },
+    {
+      "term": "junta",
+      "aliases": [
+        "Myanmar military"
+      ],
+      "explain": "The generals who seized Myanmar in 2021 and still rule by force and air strikes."
+    },
+    {
+      "term": "Sagaing",
+      "aliases": [
+        "Myaung"
+      ],
+      "explain": "A region in central Myanmar. Much of it is in revolt. The monastery was in Myaung township."
+    },
+    {
+      "term": "Buddhist Lent",
+      "aliases": [
+        "Vassa"
+      ],
+      "explain": "The monsoon retreat months when many Buddhists stay at monasteries to meditate."
+    },
+    {
+      "term": "atrocity crimes",
+      "aliases": [
+        "genocide",
+        "war crimes"
+      ],
+      "explain": "The worst international crimes: genocide, crimes against humanity, war crimes, ethnic cleansing."
+    },
+    {
+      "term": "UN Commission on Human Rights in South Sudan",
+      "aliases": [],
+      "explain": "An independent UN probe that reports on abuses and warning signs in South Sudan."
+    },
+    {
+      "term": "impunity",
+      "aliases": [],
+      "explain": "When powerful people do violence and nobody ever pays."
+    },
+    {
+      "term": "mpox",
+      "aliases": [
+        "monkeypox"
+      ],
+      "explain": "A virus that causes rash, fever, and swollen nodes. Usually mild. Very young children can get much sicker."
+    },
+    {
+      "term": "Guinea-Bissau",
+      "aliases": [],
+      "explain": "A small West African country. This is its first known mpox outbreak."
+    },
+    {
+      "term": "contact tracing",
+      "aliases": [],
+      "explain": "Finding everyone a sick person touched so you can stop the next wave."
     }
   ]
 }
