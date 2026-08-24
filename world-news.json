@@ -147,7 +147,7 @@
       ],
       "image": "images/wd-fin-4.jpg",
       "image_alt": "Nvidia headquarters or chip visual",
-      "image_credit": "Photo: Getty Images"
+      "image_credit": "Photo: NVIDIA"
     },
     {
       "id": "wd-tech-1",
@@ -412,13 +412,13 @@
       ],
       "image": "images/wd-pol-3.jpg",
       "image_alt": "Donald Trump speaking, with Canada-US trade tension in the news",
-      "image_credit": "Photo: Jacquelyn Martin / AP / France 24"
+      "image_credit": "Photo: NBC News"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "headline": "Iran's security chief: not one drop of Gulf oil if the US squeeze goes on",
-      "dek": "Ali Rezaei, per IRNA. Central bank already says Iranian oil sales are at zero. Bessent still tees up 'toughest sanctions in history.'",
+      "dek": "Iran's security chief, per IRNA. Central bank already says Iranian oil sales are at zero. Bessent still tees up 'toughest sanctions in history.'",
       "caveman": "Iran's top security official Rezaei said Tehran will not let a single drop of oil leave the Gulf or Hormuz if Washington keeps piling on economic war. He also threatened other export paths. The line ran on state media. Iran's central bank chief already said last week that oil exports have in practice fallen to zero, and that friends abroad told him the money is gone. US Treasury Secretary Scott Bessent is still lining up what he calls the toughest sanctions in history, aimed in part at China, which buys most of the Iranian barrels that still move. Saudi Crown Prince Mohammed bin Salman was in France Sunday to talk with President Macron about other sea and pipe routes. Iran's parliament also floated fees on boats using Hormuz. Independent reporters have not confirmed those fees are real in the water. The June 17 pause deal is dead. Both capitals talk like this can last months.",
       "why_it_matters": "If Iran tries to bottle the whole Gulf, not just its own barrels, every pump on earth moves. Even a threat that large is a tax on food, freight, and rate cuts.",
       "camps": "Tehran says the squeeze is economic terrorism and the strait is leverage. Washington says collapse the regime without going back to big ground war. Beijing tells both sides to talk. Gulf states hunt backup pipes.",
@@ -488,7 +488,7 @@
       ],
       "image": "images/wd-lit-1.jpg",
       "image_alt": "Hardcover of Ann Patchett's novel Whistler",
-      "image_credit": "Photo: Harper / IndieBound"
+      "image_credit": "Photo: Harper / Open Library"
     },
     {
       "id": "wd-lit-2",
@@ -523,7 +523,7 @@
       ],
       "image": "images/wd-lit-2.jpg",
       "image_alt": "The Calamity Club by Kathryn Stockett book cover",
-      "image_credit": "Photo: Spiegel & Grau"
+      "image_credit": "Photo: Spiegel & Grau / Goodreads"
     },
     {
       "id": "wd-lit-3",
@@ -560,7 +560,7 @@
       ],
       "image": "images/wd-lit-3.jpg",
       "image_alt": "Book publishing office or union action in US publishing",
-      "image_credit": "Photo: Publishers Weekly"
+      "image_credit": "Photo: NewsGuild / CWA"
     },
     {
       "id": "wd-lit-4",
@@ -595,7 +595,7 @@
       ],
       "image": "images/wd-lit-4.jpg",
       "image_alt": "Verity book or Anne Hathaway and Dakota Johnson movie still",
-      "image_credit": "Photo: Amazon MGM / Publishers Weekly"
+      "image_credit": "Photo: Amazon MGM / Deadline"
     },
     {
       "id": "wd-soc-1",
