@@ -1,897 +1,788 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-08-26T08:00:00+08:00",
-  "notes": "Wednesday 26 Aug 2026 world issue. Window Tue 25 through Wed 26 morning; prefer last 24h, allow 48h. Oil Tue Brent 88.58 -3.89% / WTI 82.36 -3.12% one-week low; S&P 7677 +0.3%, 10y 4.63%; gold tagged $4696 then faded; Jackson Hole Warsh Fri 28. Apple M6 2nm + M5 Ultra; Stability AI $76M; X C&D Nitter; Gamma buys Lica. Munir Tehran RESULT 'significant progress'; US Sudan embargo-expansion + drones; Gaza warehouse strike 7 killed; Iran-Oman temporary Hormuz corridor (Tehran says still shut). Moriarty Big Little Truths; Danticat Dèy; Arias Crocodilopolis; Ingram Covered. Myanmar OHCHR new low + rare earths; Guterres dual-famine 'shameful milestone'; triple chokepoint; WFP Afghanistan 6 of 7. Did not recycle Outcast launch as lead, Mon oil -$2 as lead, Nvidia +15 servers, SPR 44-year low, Hugging Face $13B, Alabama OpenAI, GI $6B, Instinct, Munir going-to-Tehran (used result), Coalition of the Willing Kyiv, Syria-Israel Jordan, Odesa Independence Day, Katabasis, Daggerbound, Russo debut, Whitehead slip, Sudan Council humanitarian-as-lead, Gaza stunting, ECW $22m schools, Caracas floods. NYC Delivery Protection Act / Mamdani / Amazon DSP: no new movement since mid-August, not used. IndieBound still the Aug 19 posting; used new Aug 25 releases instead of leftover chart titles. Nvidia actual earnings after this 8am Taipei window: not invented.",
+  "fetched_at": "2026-08-27T08:00:00+08:00",
+  "notes": "Thursday 27 Aug 2026 world issue. Window Wed 26 afternoon through Thu 27 morning; prefer last 24h. Nvidia Q2 FY27 ACTUAL after US close Wed: rev $96.22B (+106% y/y), DC $89.0B, non-GAAP EPS $2.22, Q3 guide $108B ±2%, gross margin 75%; US cash session closed slightly down awaiting print. Oil Wed: WTI $82.23 -0.16%, Brent $87.84 -0.84%. July core PCE +0.2% m/m / +3.3% y/y in line; headline slightly hot. Jackson Hole OPENS Thu 27 (Warsh keynote still Fri). Meta $18B multi-state kids settlement + 2-hour teen defaults; Anthropic ~$45B Nscale Vera Rubin compute (Bloomberg/TC); Apple Sept 9 Surprise and Shine / Ternus first event. IndieBound national week ending Aug 26 posted: Yesteryear #1. NYC Delivery Protection Act / Mamdani / Amazon DSP: Forbes Aug 25 analysis of ongoing stall — no new council vote/hearing in this window, NOT used. Did NOT recycle Wed leads: oil -3% one-week low as lead; S&P +0.3% as lead; gold $4690 tag as lead; Jackson Hole as Wed preview-only (Thu open OK); Apple M6 as lead; Stability $76m; Nitter C&D; Gamma-Lica; Munir significant progress; Darfur embargo; Gaza warehouse 7 killed; Hormuz corridor as first-day sketch; Moriarty; Danticat Dèy; Crocodilopolis; Ingram Covered; Myanmar rare-earth low; dual famine shameful; triple chokepoint; WFP Afghan 6 of 7 as lead framing.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
-      "headline": "Oil falls another 3% to a one-week low even as Washington names new Iran targets",
-      "dek": "Brent settled $88.58, down $3.59. US crude $82.36, down $2.65. Traders priced sanctions as less risky than missiles.",
-      "caveman": "Crude did not rally for the second day of Iran talk. Brent dropped 3.89 percent to $88.58 a barrel Tuesday. US West Texas Intermediate dropped 3.12 percent to $82.36. That is a one-week low. Monday it had already fallen more than $2. Traders decided economic pressure is not the same as rockets in Hormuz. Bessent's Monday kill-list still sat on the tape. Oil sold it anyway. A sanctions speech that cheapens barrels is a tell: the market thinks enough oil still sneaks out. Pump prices will lag. They do not fall as fast as a futures screen.",
-      "why_it_matters": "If barrels keep sliding while Treasury shouts asphyxiation, inflation fears ease and bond yields can drop. If Hormuz really shuts, this $88 floor vanishes in a day. Import islands pay either way.",
-      "camps": "Hawks wanted a shock. Traders priced a long mess, not a shutoff. Iran says any partner in the squeeze is at war. Drivers still pay last week's scare, not Tuesday's print.",
-      "source_name": "Reuters / Global Banking and Finance",
-      "source_url": "https://www.globalbankingandfinance.com/asia-shares-fall-tech-nerves-oil-prices-slip/",
-      "published": "2026-08-25",
       "category": "economy",
+      "headline": "Nvidia posts $96.2 billion quarter, more than double a year ago, and guides $108 billion next",
+      "dek": "Data Center $89.0 billion. Non-GAAP EPS $2.22. Gross margin 75%. China data-center compute assumed at zero in the guide.",
+      "caveman": "The AI chip giant finally printed. Second-quarter revenue hit $96.2 billion, up 106 percent from a year ago and above its own prior midpoint near $91 billion. Data Center alone did $89.0 billion. Adjusted earnings were $2.22 a share. Gross margin sat at 75 percent. For the next quarter Nvidia wants about $108 billion, plus or minus 2 percent, and it is not counting China data-center compute in that map. CEO Jensen Huang said compute is revenue now. Wall Street still has to decide if the beat was already priced in. The cash session had closed a touch lower before the release.",
+      "why_it_matters": "Nvidia sets the mood for every AI supply chain from Taiwan fabs to US utilities. A fat guide can lift Asian tech. A sold-the-news fade can erase a day of hope before Taipei even opens.",
+      "camps": "Bulls say demand is still supply-bound. Bears say the bar was already sky high. Factory workers feel the overtime, not the press-release adjectives.",
+      "source_name": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Brent",
+          "term": "guide",
           "aliases": [
-            "Brent crude"
+            "outlook",
+            "guidance"
           ],
-          "explain": "The world oil sticker price, set in London. What most import countries pay."
+          "explain": "What the company says next quarter's sales might be. Markets trade the guide as hard as the past quarter."
         },
         {
-          "term": "WTI",
+          "term": "Data Center",
           "aliases": [
-            "West Texas Intermediate"
+            "DC revenue"
           ],
-          "explain": "The US oil sticker price. It usually sits a few dollars under Brent."
+          "explain": "The big-server business that feeds AI training and inference. Most of Nvidia's sales live here."
         },
         {
-          "term": "one-week low",
+          "term": "non-GAAP EPS",
           "aliases": [
-            "second-day drop"
+            "adjusted earnings"
           ],
-          "explain": "Cheapest in seven days. Monday already fell. Tuesday fell more."
+          "explain": "Earnings after stripping some accounting items. Easier to compare, also easier to dress up."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-fin-1.jpg",
+      "image_alt": "NVIDIA earnings imagery",
+      "image_credit": "Photo: NVIDIA"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
-      "headline": "S&P 500 edges up 0.3% as cheaper oil pulls the 10-year yield down to 4.63%",
-      "dek": "S&P 7,677.28. Dow 53,577. Nasdaq 26,151. Ten-year yield fell from 4.70%. Nvidia still reports after the US bell.",
-      "caveman": "Stocks liked cheaper oil more than they feared Iran. The S&P 500 rose 0.3 percent Tuesday to 7,677.28, a bit closer to its record from earlier this month. The Dow added 160 points. The Nasdaq climbed 0.7 percent. The 10-year Treasury yield dropped to 4.63 percent from 4.70 percent late Monday and 4.74 percent last Friday. High yields had been the summer headache. Oil's slide reined in the inflation scare that had pushed them up. Treasury's extra long-bond buybacks helped. Nvidia's report is still after the US close Wednesday — after this Taipei morning window. Nobody on this page pretends to know the number.",
-      "why_it_matters": "Yields down a few basis points cheapen mortgages and corporate debt. They also tell you the bond market is less scared of $4 gas than it was last week. Taiwan's dollar and foreign flows feel that shift before the next local open.",
-      "camps": "Bulls say oil down, stocks up, wait for Warsh. Bond bears say 4.63% is still far above the pre-war 3.97%. Families with floating loans feel the lag, not the tick.",
-      "source_name": "AP",
-      "source_url": "https://www.darnews.com/world/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran-6b6f0636",
-      "published": "2026-08-25",
       "category": "economy",
+      "headline": "US stocks barely budge into Nvidia: S&P 7,675, Nasdaq 26,130, Dow off 113 as PCE runs a touch hot",
+      "dek": "Core PCE matched forecasts at +0.2% month and +3.3% year. Investors waited for the after-bell chip print and Friday's Warsh speech.",
+      "caveman": "Wednesday's cash tape was a shrug. The S&P 500 slipped 0.02 percent to 7,675.70. The Nasdaq fell 0.08 percent to 26,130.20. The Dow lost 113 points. July core PCE rose 0.2 percent on the month and 3.3 percent on the year, right on the Dow Jones estimate; the headline PCE was a hair hotter than expected. Traders parked money until Nvidia spoke after the close and until Fed Chair Kevin Warsh speaks at Jackson Hole on Friday. The Philly semiconductor index actually rose 0.2 percent. Waiting is also a trade.",
+      "why_it_matters": "A flat US close into a mega-print means the real move may hit Asia first. Taiwan's Thursday open inherits both the earnings and the leftover inflation nerves.",
+      "camps": "Hawks say sticky services keep cuts distant. Doves say cooling spending gives the Fed room to sit. Renters feel the lag, not the decimal.",
+      "source_name": "CNA / Liberty Times",
+      "source_url": "https://www.cna.com.tw/news/afe/202608270003.aspx",
+      "published": "2026-08-27",
       "terms": [
-        {
-          "term": "10-year yield",
-          "aliases": [
-            "Treasury yield"
-          ],
-          "explain": "The interest the US pays to borrow for ten years. When it jumps, mortgages and stocks all feel it."
-        },
-        {
-          "term": "basis point",
-          "aliases": [
-            "bp"
-          ],
-          "explain": "One hundredth of a percent. A 7-point drop in the 10-year is a real move for bonds."
-        },
-        {
-          "term": "buybacks",
-          "aliases": [
-            "Treasury buybacks"
-          ],
-          "explain": "The US government buying its own old bonds to keep the long end from blowing out."
-        }
-      ],
-      "image": "images/wd-fin-2.jpg",
-      "image_alt": "US stock and bond market trading floor or Wall Street scene",
-      "image_credit": "Photo: AP"
-    },
-    {
-      "id": "wd-fin-3",
-      "section": "world",
-      "headline": "Gold tags a three-month high above $4,690, then fades before the Fed's inflation print",
-      "dek": "Spot hit $4,696.18, the most since May 14. It later slipped toward $4,622 as traders waited on PCE and Warsh.",
-      "caveman": "Bullion ran, then sat down. Spot gold tagged $4,696.18 an ounce Tuesday morning, the highest since May 14. By US midday it was off about 0.6 percent near $4,622. US futures also gave back the pop. The first burst was the Treasury's fatter long-bond buybacks, a softer dollar, and the Iran safe-haven bid. The fade was a round number and the wait for the Fed's favorite inflation gauge on Wednesday. Gold pays no interest. When yields fall it looks prettier. When traders want cash for a data day, it gets sold. Jewelers do not reprice every tick. Central banks still might.",
-      "why_it_matters": "A three-month high in gold is a fear meter, not a wage. If PCE comes in hot, yields can snap back and bullion gives the week back. If Warsh sounds lost, gold can run again.",
-      "camps": "Bulls say buybacks plus Iran equal a floor. Bears say $4,700 is a wall until the data. Mines like the print. People buying bangles this week pay the high, not the fade.",
-      "source_name": "Reuters / Global Banking and Finance",
-      "source_url": "https://www.globalbankingandfinance.com/asia-shares-fall-tech-nerves-oil-prices-slip/",
-      "published": "2026-08-25",
-      "category": "economy",
-      "terms": [
-        {
-          "term": "spot gold",
-          "aliases": [
-            "bullion"
-          ],
-          "explain": "The cash price for a troy ounce now, not a futures contract for later."
-        },
         {
           "term": "PCE",
           "aliases": [
             "core PCE"
           ],
-          "explain": "The Fed's favorite inflation gauge. Out this week. Hot numbers can yank gold and bonds."
+          "explain": "The Fed's favorite inflation gauge. Core skips food and energy noise."
         },
         {
-          "term": "safe haven",
+          "term": "Philly semis",
           "aliases": [
-            "haven bid"
+            "SOX"
           ],
-          "explain": "Money that runs to gold when wars and sanctions make other bets look shaky."
+          "explain": "A basket of chip stocks. It can rise even when the big indexes nap."
+        },
+        {
+          "term": "after the close",
+          "aliases": [
+            "after-bell"
+          ],
+          "explain": "Company reports published once regular US trading ends. Futures then argue all night."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-fin-2.jpg",
+      "image_alt": "US stock market trading scene",
+      "image_credit": "Photo: 自由財經 / 彭博社"
     },
     {
-      "id": "wd-fin-4",
+      "id": "wd-fin-3",
       "section": "world",
-      "headline": "Jackson Hole opens Thursday; Warsh's first Fed keynote Friday is the rate tell",
-      "dek": "Symposium Aug 27–29. Theme: financial innovation and payments. Markets want more than his usual less-is-more silence.",
-      "caveman": "The mountain meeting is this week. Kansas City Fed hosts Jackson Hole Thursday through Saturday. New Chair Kevin Warsh gives his first big keynote Friday at 8 a.m. Eastern. Theme: financial innovation, payments, policy. He has spent the summer refusing to spoon-feed the next rate move, waiting on five task forces. Inflation is still above 2 percent. Trump still wants cuts. Bond traders still want a sentence they can price. TD and Deutsche Bank both told clients not to expect a full map, maybe a little less fog than July. No rate decision gets voted here. The speech still moves the dollar.",
-      "why_it_matters": "One hawkish paragraph can lift yields and knock Asian tech. One dovish shrug can do the opposite. Taiwan's Wednesday open will not have heard him yet. Friday will.",
-      "camps": "Hawks want him to say he can still hike. Doves want a path to cuts. Trump wants cheaper money. Shoppers want bread not a Wyoming podium.",
-      "source_name": "The Financial Analyst",
-      "source_url": "https://thefinancialanalyst.net/2026/08/25/feds-warsh-to-clarify-policy-stance-at-jackson-hole/",
-      "published": "2026-08-25",
       "category": "economy",
+      "headline": "Oil eases again: WTI settles $82.23, Brent $87.84 as Hormuz diplomacy and new supply risks trade off",
+      "dek": "US crude down 13 cents. Brent down 74 cents. Third session of digestion after the prior week's sharp drop.",
+      "caveman": "Crude did not bounce hard. West Texas Intermediate settled at $82.23 a barrel, down 0.16 percent. Brent landed at $87.84, down 0.84 percent. Traders weighed talk of restoring Hormuz shipping against fresh supply risks from the wider Middle East and Ukraine wars. This is quieter than Tuesday's three-percent slide, but the direction still points down. Pump prices will lag the screen. They always do.",
+      "why_it_matters": "Cheaper barrels cool inflation talk and help risk assets. A sudden Hormuz scare can erase that cushion in hours.",
+      "camps": "Diplomacy bulls want corridors and minesweepers. Security hawks want stockpiles. Drivers still pay last week's fear.",
+      "source_name": "CNA / Liberty Times",
+      "source_url": "https://ec.ltn.com.tw/article/breakingnews/5553634",
+      "published": "2026-08-27",
       "terms": [
         {
-          "term": "Jackson Hole",
+          "term": "WTI",
           "aliases": [
-            "Kansas City Fed symposium"
+            "West Texas Intermediate"
           ],
-          "explain": "The mountain gathering where Fed chairs often hint at the next year of rates."
+          "explain": "The US oil sticker price."
         },
         {
-          "term": "Kevin Warsh",
+          "term": "Brent",
           "aliases": [
-            "Fed Chair"
+            "Brent crude"
           ],
-          "explain": "New US central-bank boss. Friday is his first big Jackson Hole speech."
-        },
-        {
-          "term": "forward guidance",
-          "aliases": [
-            "less-is-more"
-          ],
-          "explain": "Telling markets the next rate move in advance. Warsh has tried not to."
-        }
-      ],
-      "image": "images/wd-fin-4.jpg",
-      "image_alt": "Jackson Hole or Federal Reserve Chair Kevin Warsh",
-      "image_credit": "Photo: The Financial Analyst"
-    },
-    {
-      "id": "wd-tech-1",
-      "section": "world",
-      "headline": "Apple's first 2nm chip, the M6, lands in a new Mac mini; M5 Ultra claims 512GB of memory",
-      "dek": "12-core CPU, 12-core GPU, dual 16-core Neural Engine. Preorder Tuesday. Ships Sept. 22. Memory inflation already in the price.",
-      "caveman": "Apple shipped a nanometer brag. The M6 is its first 2-nanometer chip, in a new Mac mini. Twelve CPU cores, twelve GPU cores, two 16-core Neural Engines. Apple says the fastest single thread it has sold, and about 30 percent more peak GPU compute for AI than M5. The M5 Ultra is the other headline: four dies glued as one, up to 36 CPU cores, 80 GPU cores, 512GB of unified memory at 1.2TB/s. Preorders opened Tuesday. Boxes arrive Sept. 22. The mini's sticker moved up as memory got scarce. On-device AI is the pitch. The wafers still come from Taiwan. Repair shops cannot swap that memory later.",
-      "why_it_matters": "If big models can live on a desk, cloud bills shift. If they cannot, this is another expensive box. Either way 2nm capacity gets locked, and gadget prices follow memory, not slogans.",
-      "camps": "Apple says run the model at home. Cloud vendors want the work in their halls. Chip bears say memory is the real tax. Buyers pay the tax at checkout.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-      "published": "2026-08-25",
-      "category": "tech",
-      "terms": [
-        {
-          "term": "2-nanometer",
-          "aliases": [
-            "2nm",
-            "N2"
-          ],
-          "explain": "A finer chip process. More transistors, more heat control, higher wafer prices."
-        },
-        {
-          "term": "Neural Engine",
-          "aliases": [
-            "on-device AI"
-          ],
-          "explain": "Apple's on-chip block for local AI. M6 uses two 16-core engines at once."
-        },
-        {
-          "term": "unified memory",
-          "aliases": [
-            "512GB"
-          ],
-          "explain": "One pool shared by CPU and GPU. You cannot add more after you buy."
-        }
-      ],
-      "image": "images/wd-tech-1.jpg",
-      "image_alt": "Apple M6 and M5 Ultra chip announcement graphic",
-      "image_credit": "Photo: Apple / The Verge"
-    },
-    {
-      "id": "wd-tech-2",
-      "section": "world",
-      "headline": "Stability AI raises $76 million from music majors and EA to keep selling generative tools",
-      "dek": "Series B brings the London image shop to $232 million raised. Universal, Sony, Warner, and Electronic Arts all in.",
-      "caveman": "The company behind Stable Diffusion is not dead. It raised $76 million Tuesday. Total haul: $232 million. The checks are not only funds. Universal Music, Sony Music, Warner Music, and game giant EA joined AMD Ventures and Pacific Alliance. CEO Prem Akkaraju, there since 2024, called it a vote for tools that help producers, not just prompt boxes. The plan is more creative-production software and a services arm. Stability spent a year signing studios to co-build, not just license output. A UK court mostly sided with it in one training-data fight. Getty's US case still walks. Musicians get a seat. Session players still wonder who owns the riff.",
-      "why_it_matters": "When labels buy the generator, the fight moves from court to contract. Training data remains the open wound. Artists without a major's lawyer get the old deal.",
-      "camps": "Stability says this is partnership. Rights hawks say the majors are buying the machine that chewed their catalogs. Staff get runway. Freelancers get a new competitor that never sleeps.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "published": "2026-08-25",
-      "category": "tech",
-      "terms": [
-        {
-          "term": "Stable Diffusion",
-          "aliases": [
-            "Stability AI"
-          ],
-          "explain": "An image generator that kicked the open-model boom. The company behind it just raised again."
-        },
-        {
-          "term": "Series B",
-          "aliases": [
-            "fresh funding"
-          ],
-          "explain": "A middle-stage money round. Not the first, not the IPO."
-        },
-        {
-          "term": "training-data fight",
-          "aliases": [
-            "Getty case"
-          ],
-          "explain": "Lawsuits over whether the model was fed copyrighted pictures without a license."
-        }
-      ],
-      "image": "images/wd-tech-2.jpg",
-      "image_alt": "Stability AI or generative image-model branding",
-      "image_credit": "Photo: TechCrunch"
-    },
-    {
-      "id": "wd-tech-3",
-      "section": "world",
-      "headline": "X sends cease-and-desist letters to Nitter, the login-free window onto its posts",
-      "dek": "Letters dated Aug. 24 gave until 5 p.m. Eastern Aug. 25 to kill instances and the repo. Nitter.net went dark pending counsel.",
-      "caveman": "The spare door is being welded. Nitter let people read X posts without an account, ads, or the app. X Corp. sent cease-and-desist letters Aug. 24. It accuses the project of scraping, skirting the API, and touching session tokens. The letter cites Texas computer-access law and the Lanham Act. Deadline: 5 p.m. Eastern Tuesday. Nitter.net went offline while its maker, known as Zedeus, called a lawyer. Other volunteer instances got the same paper. X had already tried to knock Nitter down with technical blocks. This time it brought a letterhead. Public posts become a product you must log in to see.",
-      "why_it_matters": "If the last no-login window dies, researchers, journalists, and people who will not make an account lose a way to read the town square. X keeps the gate.",
-      "camps": "X says theft of its API. Nitter's users say the posts were public. Lawyers will argue tokens and scraping. Moderators of small instances now hold a letter, not a server.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "published": "2026-08-25",
-      "category": "tech",
-      "terms": [
-        {
-          "term": "Nitter",
-          "aliases": [
-            "nitter.net"
-          ],
-          "explain": "An open-source front end that showed X posts without logging in. The main site went dark Tuesday."
-        },
-        {
-          "term": "cease-and-desist",
-          "aliases": [
-            "C&D"
-          ],
-          "explain": "A lawyer letter that says stop or we sue. Not a court order. Still enough to kill a volunteer project."
-        },
-        {
-          "term": "API",
-          "aliases": [
-            "scraping"
-          ],
-          "explain": "The official pipe apps are supposed to pay for. Scraping grabs pages without that pipe."
-        }
-      ],
-      "image": "images/wd-tech-3.jpg",
-      "image_alt": "X logo, the platform sending legal letters to Nitter",
-      "image_credit": "Photo: TechCrunch"
-    },
-    {
-      "id": "wd-tech-4",
-      "section": "world",
-      "headline": "Gamma buys Accel-backed design startup Lica to build its own AI design lab",
-      "dek": "Founders Priyaa Kalyanaraman and Purvanshi Mehta will run the lab. Gamma last raised at a $2.1 billion value.",
-      "caveman": "Slideware is eating slideware. Gamma, the AI presentation shop, bought Lica on Tuesday. Lica started by turning screenshots into decks and videos, raised $4 million from Accel and friends, then made brand-safe clips for shops. Its founders will run a new research lab inside Gamma, aiming at custom voices for different audiences. Price undisclosed. Gamma is already worth $2.1 billion on paper. OpenAI bought a rival, NextSlide, earlier this month. The deck tools are consolidating before most offices have picked one. Designers who used to layout type now compete with a lab that wants to speak every brand.",
-      "why_it_matters": "When presentation apps merge, the remaining independents get squeezed. Offices may get prettier slides. The people who used to make them get fewer desks.",
-      "camps": "Gamma says multimodal is next. Lica's founders say they wanted a bigger lab. Design contractors see another tool that does their Tuesday. Accel sits on both sides of the trade.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "published": "2026-08-25",
-      "category": "tech",
-      "terms": [
-        {
-          "term": "Gamma",
-          "aliases": [
-            "AI presentation"
-          ],
-          "explain": "A startup that builds slides from prompts. It just bought a design shop."
-        },
-        {
-          "term": "Lica",
-          "aliases": [
-            "Accel-backed"
-          ],
-          "explain": "A small design-and-video startup. Its founders will run Gamma's new lab."
-        },
-        {
-          "term": "multimodal",
-          "aliases": [
-            "decks and video"
-          ],
-          "explain": "Text, pictures, and motion in one output. The new fight in office software."
-        }
-      ],
-      "image": "images/wd-tech-4.jpg",
-      "image_alt": "Gamma and Lica teams or product after the acquisition",
-      "image_credit": "Photo: TechCrunch"
-    },
-    {
-      "id": "wd-pol-1",
-      "section": "world",
-      "headline": "Pakistan says Munir's Tehran talks made 'significant progress' toward reviving the June deal",
-      "dek": "Interior minister Naqvi: meeting with President Pezeshkian ended on a positive note. Hormuz reopening and an expedited end were on the table.",
-      "caveman": "Islamabad came home talking progress. After Field Marshal Asim Munir's Monday in Tehran, Interior Minister Mohsin Naqvi said Tuesday the sit-down with President Masoud Pezeshkian made significant progress. Pakistan's military listed three aims: no new escalation, reopen Hormuz, end the war faster. Iran's message, per Pakistani briefings, still starts with Washington moving first on the June Islamabad memo. Trump had called Munir last week to ask Pakistan to drag Iran back to the table. No new ceasefire text was published. 'Significant progress' is a phrase. Ships still count the strait.",
-      "why_it_matters": "If Pakistan can restart the June memo, oil and insurance calm down. If it is only a phrase, Tuesday's oil dip is the market shrugging, not a peace.",
-      "camps": "Islamabad wants a mediator's win. Tehran wants the US to go first. Washington wants Iran back at the table without giving the blockade. Tanker crews want a lane, not a communique.",
-      "source_name": "Arab News",
-      "source_url": "https://www.arabnews.com/node/2655768/middle-east",
-      "published": "2026-08-25",
-      "category": "politics",
-      "terms": [
-        {
-          "term": "Islamabad MoU",
-          "aliases": [
-            "June memo"
-          ],
-          "explain": "The June pause deal Pakistan helped write. It asked Iran to reopen Hormuz and the US to ease the blockade."
-        },
-        {
-          "term": "Asim Munir",
-          "aliases": [
-            "Pakistan army chief"
-          ],
-          "explain": "Pakistan's top general. He spent Monday in Tehran trying to restart talks."
+          "explain": "The global oil sticker price set in London."
         },
         {
           "term": "Hormuz",
           "aliases": [
             "Strait of Hormuz"
           ],
-          "explain": "The skinny water door for a lot of the world's oil. Still not fully open."
+          "explain": "A narrow water gate for a huge share of seaborne oil. Tension there moves every barrel."
+        }
+      ],
+      "image": "images/wd-fin-3.jpg",
+      "image_alt": "Oil market or energy trading imagery",
+      "image_credit": "Photo: Global Banking and Finance"
+    },
+    {
+      "id": "wd-fin-4",
+      "section": "world",
+      "category": "economy",
+      "headline": "Jackson Hole opens Thursday in Wyoming; Warsh's first Fed-chair keynote still lands Friday",
+      "dek": "Theme: financial innovation and payments. About 120 officials from 70-plus countries. Markets want rate clues more than panels.",
+      "caveman": "The mountain meeting is no longer a preview. Kansas City Fed opens Jackson Hole on Thursday, August 27, through Saturday. New Chair Kevin Warsh still gives the headline keynote Friday morning Eastern time. Official theme: financial innovation, payments, policy. Unofficial theme: will he sound hawkish after sticky inflation and a noisy Treasury market. No rate vote happens at the lodge. The speech can still reprice the dollar and Asian tech before Monday.",
+      "why_it_matters": "One careful paragraph from a new Fed chair can lift yields and knock growth stocks. Taiwan traders will hear him after their Friday open.",
+      "camps": "Hawks want proof he can stay tight. Doves want a path to easier money. Households want cheaper bread, not Wyoming scenery.",
+      "source_name": "Kansas City Fed",
+      "source_url": "https://www.kansascityfed.org/newsroom/2026-news-releases/kansas-city-fed-to-host-annual-jackson-hole-economic-policy-symposium-2026/",
+      "published": "2026-08-27",
+      "terms": [
+        {
+          "term": "Jackson Hole",
+          "aliases": [
+            "KC Fed symposium"
+          ],
+          "explain": "The annual mountain gathering where Fed chairs often sketch the next year of policy."
+        },
+        {
+          "term": "Kevin Warsh",
+          "aliases": [
+            "Fed Chair"
+          ],
+          "explain": "New US central-bank boss. Friday is his first big Jackson Hole speech as chair."
+        },
+        {
+          "term": "keynote",
+          "aliases": [
+            "headline speech"
+          ],
+          "explain": "The talk everyone actually watches. Panels fill the rest of the schedule."
+        }
+      ],
+      "image": "",
+      "image_alt": "",
+      "image_credit": ""
+    },
+    {
+      "id": "wd-tech-1",
+      "section": "world",
+      "category": "tech",
+      "headline": "Meta agrees to an $18 billion deal with US states over social-media harms to children",
+      "dek": "Teen apps default to a two-hour daily cap, plus school and night modes. Part of the cash may hinge on TikTok and YouTube matching tougher limits.",
+      "caveman": "Meta settled a giant state case for about $18 billion. Forty-eight states and several territories signed on. The company will default under-18 users to a two-hour daily limit on Facebook and Instagram, add a night lock from midnight to 6 a.m., and quiet school-hour notifications unless parents override. A twist: Meta may pay only about 70 percent unless TikTok and YouTube also accept roughly one-hour teen defaults and help fund states. New Mexico and Florida stayed out after their own fights. Meta's stock popped on the news. Parents get tools. Critics say tools are not culture.",
+      "why_it_matters": "This is one of the largest platform liability checks yet. If the contingent claw works, teen time limits could spread beyond Meta by force of money.",
+      "camps": "Attorneys general call it accountability. Meta calls it closure. Teen users will find workarounds. Teachers want the school-mode hours to mean something.",
+      "source_name": "TechCrunch / Liberty Times",
+      "source_url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "published": "2026-08-26",
+      "terms": [
+        {
+          "term": "settlement",
+          "aliases": [
+            "legal deal"
+          ],
+          "explain": "A lawsuit ends with money and rule changes instead of a full trial."
+        },
+        {
+          "term": "default limit",
+          "aliases": [
+            "preset cap"
+          ],
+          "explain": "The app starts with a time ceiling. Parents can loosen it, kids cannot quietly ignore it at first."
+        },
+        {
+          "term": "school mode",
+          "aliases": [
+            "in-school quiet"
+          ],
+          "explain": "Notifications stay off during school hours so class is harder to interrupt."
+        }
+      ],
+      "image": "images/wd-tech-1.jpg",
+      "image_alt": "Meta social apps imagery",
+      "image_credit": "Photo: TechCrunch / Getty"
+    },
+    {
+      "id": "wd-tech-2",
+      "section": "world",
+      "category": "tech",
+      "headline": "Anthropic lines up about $45 billion in Vera Rubin compute from Britain's Nscale",
+      "dek": "Six-year rent deal tied to a West Virginia data center, capacity aimed at late 2027. Another chapter in the AI power shopping spree.",
+      "caveman": "Anthropic is buying time on other people's chips again. TechCrunch, citing a person familiar and Bloomberg, says the lab will rent roughly $45 billion of Nvidia Vera Rubin compute from Nscale, a young British infrastructure firm. The power is expected to come online late 2027 from Nscale's West Virginia flagship, over about six years. This follows other Anthropic checks: Volta in Norway, AMD, SpaceX capacity, Amazon gigawatts, Google and Broadcom. The pattern is simple. Labs that cannot build fabs buy warehouses of GPUs instead. Somebody still has to pay the power bill.",
+      "why_it_matters": "Compute leases this large lock in Nvidia demand and local electricity fights for years. They also raise the entry price for any smaller AI lab.",
+      "camps": "Anthropic says it needs fuel to compete. Critics say the industry is circular-financing a bubble. West Virginia residents will notice the substations first.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published": "2026-08-26",
+      "terms": [
+        {
+          "term": "Vera Rubin",
+          "aliases": [
+            "Rubin chips"
+          ],
+          "explain": "Nvidia's newer multi-chip AI system. Labs rent it in bulk before they can own enough."
+        },
+        {
+          "term": "compute deal",
+          "aliases": [
+            "capacity lease"
+          ],
+          "explain": "Paying for future GPU hours, often measured in billions of dollars over years."
+        },
+        {
+          "term": "Nscale",
+          "aliases": [
+            "AI infrastructure firm"
+          ],
+          "explain": "A 2024-founded British company selling big AI data-center capacity."
+        }
+      ],
+      "image": "images/wd-tech-2.jpg",
+      "image_alt": "AI data center servers",
+      "image_credit": "Photo: TechCrunch / Getty"
+    },
+    {
+      "id": "wd-tech-3",
+      "section": "world",
+      "category": "tech",
+      "headline": "Apple sets Sept. 9 'Surprise and Shine' event as John Ternus prepares to take the CEO chair",
+      "dek": "Cook hands over Sept. 1. Rumors center on a foldable iPhone and iPhone 18 Pro models; standard iPhone 18 may wait.",
+      "caveman": "Apple put a date on the invite. September 9 at Apple Park, tagline Surprise and Shine. Tim Cook is due to hand the CEO job to John Ternus on September 1, so this is the first big stage for the new boss. Hardware whispers include a foldable iPhone plus iPhone 18 Pro and Pro Max; the plain iPhone 18 may slip to next year. Watch Series 12, Ultra, and smart-home gear are also on the rumor board. For suppliers, the invite is a calendar. For fans, it is a trailer. For workers on assembly lines, it is overtime math.",
+      "why_it_matters": "Apple's event date starts a pricing and component countdown across Asia. A real foldable would reshuffle camera, hinge, and display winners.",
+      "camps": "Optimists want a category reboot. Skeptics expect Pro tweaks and a long demo. Repair shops already price folding screens in their nightmares.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "published": "2026-08-26",
+      "terms": [
+        {
+          "term": "Apple Park",
+          "aliases": [
+            "Cupertino campus"
+          ],
+          "explain": "Apple's headquarters theater for big product reveals."
+        },
+        {
+          "term": "foldable",
+          "aliases": [
+            "folding iPhone"
+          ],
+          "explain": "A phone with a screen that bends. Long rumored, still unproven in Apple's hands."
+        },
+        {
+          "term": "CEO handoff",
+          "aliases": [
+            "leadership change"
+          ],
+          "explain": "The top boss changes. Markets listen harder to the first public script."
+        }
+      ],
+      "image": "images/wd-tech-3.jpg",
+      "image_alt": "Apple event imagery",
+      "image_credit": "Photo: Apple / TechCrunch"
+    },
+    {
+      "id": "wd-tech-4",
+      "section": "world",
+      "category": "tech",
+      "headline": "US says Chinese hackers hit Justice and NASA systems; domains seized as the investigation widens",
+      "dek": "Another reminder that AI headlines share the week with old-fashioned state cyber conflict.",
+      "caveman": "While chip earnings filled screens, security wires said Chinese hackers had broken into US Justice Department and NASA-related systems. Authorities said they seized linked domains. Details remain thin in early reports. The pattern is familiar: espionage against government and science networks, then a public takedown message. Companies shipping AI racks still run on the same internet that spies already map.",
+      "why_it_matters": "Cyber incidents against justice and space agencies raise insurance, compliance, and alliance costs even when markets obsess over GPUs.",
+      "camps": "US officials frame a state threat. Beijing usually denies. Security teams ask for patches, not geopolitics slogans.",
+      "source_name": "CNA",
+      "source_url": "https://www.cna.com.tw/news/aopl/202608270005.aspx",
+      "published": "2026-08-27",
+      "terms": [
+        {
+          "term": "domain seizure",
+          "aliases": [
+            "takedown"
+          ],
+          "explain": "Authorities take control of web addresses used in an attack or campaign."
+        },
+        {
+          "term": "state cyber",
+          "aliases": [
+            "espionage hack"
+          ],
+          "explain": "A government-linked crew stealing data or access, not a random ransomware gang."
+        },
+        {
+          "term": "NASA",
+          "aliases": [
+            "space agency"
+          ],
+          "explain": "US civil space body. A breach there hits science and national prestige at once."
+        }
+      ],
+      "image": "images/wd-tech-4.jpg",
+      "image_alt": "Cybersecurity imagery",
+      "image_credit": "Photo: CNA"
+    },
+    {
+      "id": "wd-pol-1",
+      "section": "world",
+      "category": "politics",
+      "headline": "Trump says Hormuz mine-clearing is done and warns Iran against reseeding; Tehran still talks Oman corridor terms",
+      "dek": "Competing statements land in the same news cycle: US victory lap versus Iranian revenue-sharing talks with Oman.",
+      "caveman": "President Trump claimed the Strait of Hormuz has been cleared of mines and warned Iran that new mines would be answered by sinking. Iran, in parallel messaging, said it was still working with Oman on a temporary corridor and how to share related fees. Markets treated the mix as unfinished diplomacy, not a clean reopening. Oil slipped only a little. Shipping desks still want proof on the water, not podium lines.",
+      "why_it_matters": "Hormuz is a chokepoint for energy and food freight. Conflicting claims keep insurance high and delay any real freight relief.",
+      "camps": "Washington wants credit for force and clearance. Tehran wants leverage and fees. Ship captains want charts and escorts.",
+      "source_name": "CNA",
+      "source_url": "https://www.cna.com.tw/news/aopl/202608275001.aspx",
+      "published": "2026-08-27",
+      "terms": [
+        {
+          "term": "mine-clearing",
+          "aliases": [
+            "minesweep"
+          ],
+          "explain": "Removing sea mines so commercial ships can pass."
+        },
+        {
+          "term": "temporary corridor",
+          "aliases": [
+            "safe lane"
+          ],
+          "explain": "A limited shipping path agreed while a wider conflict continues."
+        },
+        {
+          "term": "reseeding",
+          "aliases": [
+            "remining"
+          ],
+          "explain": "Laying new mines after a clear. The threat that keeps insurers nervous."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Pakistani and Iranian officials after talks in Tehran",
-      "image_credit": "Photo: Arab News"
+      "image_alt": "Hormuz shipping scene",
+      "image_credit": "Photo: CNA"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
-      "headline": "US asks the UN to stretch Sudan's Darfur arms embargo across the whole country — and over drones",
-      "dek": "Envoy Massad Boulos. France, Britain, Denmark back it. Russia, China, and Sudan's envoy do not. No vote Monday.",
-      "caveman": "The US wants the old Darfur weapons ban to cover all of Sudan, and to name drones in the text. Trump's Africa envoy Massad Boulos told the Security Council the war is being fed by more than 12 countries. UN political chief Rosemary DiCarlo said fancy weapons still mean outside help. Humanitarian chief Tom Fletcher said drones have hit markets, schools, fuel, and water; 1,100 civilians died in drone strikes from January to June. Sudan's envoy wants only a technical rollover of the Darfur ban, due to expire Sept. 12. Russia and China say a wider ban would hobble the army. No vote. The embargo as written still stops at Darfur's line.",
-      "why_it_matters": "Drones are the cheap way to hit a market. If the Council cannot name them, the war keeps buying parts. If it names them and Russia vetoes, the paper still expires in September.",
-      "camps": "Washington says choke the pipeline. Khartoum says do not tie the army's hands. Moscow and Beijing resist. People under the drones need a ceasefire, not a jurisdiction map.",
-      "source_name": "BBC / DW",
-      "source_url": "https://www.bbc.com/news/articles/c4g5zy4p815o",
-      "published": "2026-08-25",
       "category": "politics",
+      "headline": "Trump claims Iran's supreme leader is badly hurt on his left side; treat the battlefield boast as unverified",
+      "dek": "CNA carried the remark in early Thursday wires. Independent confirmation was not established in this morning window.",
+      "caveman": "Trump told audiences the war with Iran is nearing an end and that Iran's highest leader was severely injured on his left side. State media and wire picks moved the quote fast. Field Notes flags it as a claim, not a confirmed medical fact. Wars produce victory speeches before they produce evidence. Oil and Gulf aviation still price risk, not slogans.",
+      "why_it_matters": "Leader-casualty rumors can jolt markets and mislead civilians. Publishing the claim without a confirmation label would be reckless.",
+      "camps": "Trump allies sell an ending narrative. Iran denies or stays silent. Analysts wait for multiple sourcing.",
+      "source_name": "CNA",
+      "source_url": "https://www.cna.com.tw/news/aopl/202608270009.aspx",
+      "published": "2026-08-27",
       "terms": [
         {
-          "term": "arms embargo",
+          "term": "supreme leader",
           "aliases": [
-            "Darfur embargo",
-            "Resolution 1591"
+            "Iran's top cleric-ruler"
           ],
-          "explain": "A UN ban on sending weapons into a place. Darfur has one. The rest of Sudan does not."
+          "explain": "The highest political-religious authority in Iran's system."
         },
         {
-          "term": "Massad Boulos",
+          "term": "unverified claim",
           "aliases": [
-            "US Africa envoy"
+            "unconfirmed"
           ],
-          "explain": "Trump's senior Africa adviser. He asked the Council to widen the ban."
+          "explain": "Something said in public that independent reporters have not proven yet."
         },
         {
-          "term": "RSF",
+          "term": "wire",
           "aliases": [
-            "Rapid Support Forces"
+            "news agency copy"
           ],
-          "explain": "The paramilitary fighting Sudan's army. Both sides now fly drones."
+          "explain": "Fast short dispatches other outlets reprint. Speed is not the same as proof."
         }
       ],
-      "image": "images/wd-pol-2.jpg",
-      "image_alt": "Sudan conflict or UN Security Council debate on an arms embargo",
-      "image_credit": "Photo: BBC"
+      "image": "",
+      "image_alt": "",
+      "image_credit": ""
     },
     {
       "id": "wd-pol-3",
       "section": "world",
-      "headline": "Israeli strike wrecks a Gaza nutrition warehouse; at least seven Palestinians killed",
-      "dek": "MAP: food for children, pregnant women, breastfeeding mothers. Health chief: 12 of 34 oxygen stations still work. 1,288 killed since the October 'ceasefire'.",
-      "caveman": "The ceasefire is a word. Overnight into Tuesday an Israeli strike destroyed a warehouse of nutrition supplies for children and mothers, medical charity MAP said. Local medics counted at least seven Palestinians killed in strikes across Gaza. Health ministry chief Munir al-Bursh told Al Jazeera only 12 of about 34 oxygen stations still run. Gaza's health tallies: 1,288 Palestinians killed since the October 2025 ceasefire, 73,422 since October 2023. Trump told Fox on Aug. 17 that Israel should not be striking. The strikes continued. A warehouse of therapeutic food is not a rocket site. Hunger does not pause for a podium.",
-      "why_it_matters": "Killing the food store is how a paper ceasefire still starves. Oxygen going dark is a quieter death than a bomb, and just as final.",
-      "camps": "Israel cites security and kites. Hamas says the 15-point plan is already broken. Washington wants quiet without leverage. Parents in Gaza need formula, not another working group.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse",
-      "published": "2026-08-25",
       "category": "politics",
+      "headline": "Nepal-Tibet border floods and landslides kill scores; UN agencies report rising tolls in China and Nepal",
+      "dek": "Early tallies cited more than a hundred dead and hundreds missing across the Himalayan disaster zone.",
+      "caveman": "Monsoon water and mud hit the Nepal-China border hard. UN agencies on Wednesday described severe flooding with climbing death counts. Separate Taiwan and international wires spoke of a Tibet Gyirong landslide zone with multiple dead and hundreds missing, and of Nepal figures climbing past a hundred. Foreign tourists were among the missing in some reports. Rescue is racing weather. Exact totals will keep moving.",
+      "why_it_matters": "Climate-charged mountain disasters kill fast and cut trade roads. Aid lags because the same rain that kills also blocks trucks.",
+      "camps": "Governments promise relief. Locals want search teams now. Tour companies face refund and liability fights.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168208",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "MAP",
+          "term": "landslide",
           "aliases": [
-            "Medical Aid for Palestinians"
+            "mudslide"
           ],
-          "explain": "A medical charity. It said a warehouse of nutrition supplies was destroyed."
+          "explain": "Hillsides of mud and rock that bury roads and villages after heavy rain."
         },
         {
-          "term": "ceasefire",
+          "term": "monsoon",
           "aliases": [
-            "October 2025"
+            "seasonal rains"
           ],
-          "explain": "The US-brokered pause. Gaza officials say it lives in statements, not in streets."
+          "explain": "The yearly wet season in South Asia. When it overperforms, valleys flood."
         },
         {
-          "term": "oxygen station",
+          "term": "missing",
           "aliases": [
-            "12 of 34"
+            "unaccounted"
           ],
-          "explain": "Machines that keep hospital oxygen flowing. Most are already down."
+          "explain": "People not confirmed dead or found. In mountain disasters this number can stay high for days."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Damage in Gaza after strikes that hit an aid warehouse",
-      "image_credit": "Photo: AFP / Al Jazeera"
+      "image_alt": "Flood or landslide rescue",
+      "image_credit": "Photo: UN"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
-      "headline": "Iran and Oman sketch a temporary Hormuz corridor and a joint mine-clear — Tehran says the strait is still shut",
-      "dek": "Foreign ministers Araghchi and Albusaidi in Tehran Tuesday. Technical talks to follow on a permanent lane. US blockade and oil sanctions still the Iranian price.",
-      "caveman": "Two neighbors drew a maybe-lane. Oman's foreign minister sat with Iran's Abbas Araghchi in Tehran Tuesday. Joint statement: a phased framework, a temporary shared navigation corridor, a joint project to clear mines. More talks on a permanent corridor, traffic, and who runs the water. Iran's deputy foreign minister said later this is not a reopening. The strait stays closed until Washington lifts the naval blockade, oil sanctions, and frozen assets. Trump has claimed US control and US minesweeping. Iran says those claims are pressure. Coordinates were not published. Insurers will not send a ship on a sentence.",
-      "why_it_matters": "A paper corridor can calm oil. A corridor without coordinates and without US-Iran movement is a press release. Fertilizer and grain still sit behind the same choke.",
-      "camps": "Muscat wants a lane it can police with Iran. Tehran wants US concessions first. Washington wants credit without giving the blockade. Crews want charts, not frameworks.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz",
-      "published": "2026-08-25",
       "category": "politics",
+      "headline": "UN Security Council hears Gaza-West Bank briefing as settlement violence and fragile ceasefire strains persist",
+      "dek": "Special envoy puts human dignity at the center while attacks and settlement expansion continue in reporting.",
+      "caveman": "The Security Council met on the occupied Palestinian territory again. The UN special envoy said human dignity must sit at the center of efforts to hold a fragile ceasefire and ease suffering. Briefings pointed to continued Gaza and West Bank violence and settlement pressure. This is not a breakthrough story. It is the international system admitting the fire is still lit.",
+      "why_it_matters": "Without a durable ceasefire and aid access, famine and displacement metrics keep worsening even when markets look elsewhere.",
+      "camps": "Some states push accountability language. Others defend security operations. Civilians need corridors more than communiqués.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168204",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "temporary corridor",
+          "term": "Security Council",
           "aliases": [
-            "joint navigation corridor"
+            "UNSC"
           ],
-          "explain": "A maybe-lane through Hormuz, sketched by Iran and Oman. Not a full reopening."
+          "explain": "The UN body that can authorize sanctions or peace operations. It often deadlocks on Gaza."
         },
         {
-          "term": "mine-clear",
+          "term": "settlement",
           "aliases": [
-            "de-mining"
+            "Israeli settlement"
           ],
-          "explain": "Taking explosives out of the water. The June deal had put that on Iran. This version says joint."
+          "explain": "Israeli civilian communities built in occupied territory. Expansion fuels legal and political fights."
         },
         {
-          "term": "Abbas Araghchi",
+          "term": "ceasefire",
           "aliases": [
-            "Badr Albusaidi"
+            "truce"
           ],
-          "explain": "Iran's foreign minister and Oman's. They signed the Tuesday statement."
+          "explain": "A pause in fighting. Fragile means it can break with one strike."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Iranian and Omani foreign ministers meeting in Tehran on Hormuz",
-      "image_credit": "Photo: Reuters / Al Jazeera"
+      "image_alt": "UN Security Council briefing",
+      "image_credit": "Photo: UN"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
-      "headline": "Liane Moriarty returns to Monterey: Big Little Truths is out, 10 years after Big Little Lies",
-      "dek": "Crown. $34. The Pierces, Mackenzie, and friends tangle in another school-gate crime. On-sale Tuesday.",
-      "caveman": "The Monterey moms are back. Liane Moriarty's Big Little Truths landed Tuesday, a decade after Big Little Lies made the school run a crime scene. Same circle, ten years on, another ugly secret tied to their children's school. Crown put a fat hardcover price on it: $34. It is not a prestige-small novel. It is the rare beach book that still makes bookstores build a pile. HBO already taught the world the first plot. This one has to survive people who think they know these women. School-gate gossip is still unpaid labor. Moriarty just invoices it.",
-      "why_it_matters": "A franchise this big sets the fall table for commercial fiction. It also keeps selling a story about women managing other people's violence with casseroles.",
-      "camps": "Fans want the old trio. Critics will ask if a sequel can bite. Booksellers want the stack. The parents in actual school WhatsApp groups already live the unpaid version.",
-      "source_name": "Publishers Weekly / Bookshop",
-      "source_url": "https://bookshop.org/p/books/big-little-truths-liane-moriarty/21800000",
-      "published": "2026-08-25",
       "category": "literature",
+      "headline": "IndieBound's new national list: Caro Claire Burke's Yesteryear holds No. 1 for week ending Aug. 26",
+      "dek": "The tradwife-to-1855 debut remains the Indies Introduce juggernaut after twenty weeks on the chart.",
+      "caveman": "Independent bookstores filed a fresh national list for the week ending August 26. Yesteryear by Caro Claire Burke is still No. 1 hardcover fiction. A modern tradwife influencer wakes in 1855 and must decide if the nightmare is a hoax, a show, or something worse. Twenty weeks on the list is not a fluke. Indies keep handselling it. That is how a debut outruns louder launches.",
+      "why_it_matters": "Indie charts show what readers buy when algorithms are quieter. A long-running No. 1 shapes fall book-club shelves.",
+      "camps": "Indie booksellers celebrate staying power. Big publishers chase the next shock premise. Readers just want the next chapter.",
+      "source_name": "IndieBound",
+      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-26",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Big Little Lies",
+          "term": "IndieBound",
           "aliases": [
-            "Monterey",
-            "the Pierces"
+            "ABA indie list"
           ],
-          "explain": "Moriarty's 2014 novel, later an HBO series. The new book picks up ten years later."
+          "explain": "A bestseller list built from independent US bookstore sales."
         },
         {
-          "term": "on-sale",
+          "term": "Indies Introduce",
           "aliases": [
-            "pub day"
+            "debut spotlight"
           ],
-          "explain": "The Tuesday a hardcover is allowed to sell. Tuesday was that day."
+          "explain": "A bookseller program that boosts promising new voices."
         },
         {
-          "term": "commercial fiction",
+          "term": "handselling",
           "aliases": [
-            "beach book"
+            "staff pick push"
           ],
-          "explain": "Novels built to sell in piles. Not a slur. A business."
+          "explain": "When bookstore workers personally recommend a title to customers."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Cover of Liane Moriarty's Big Little Truths",
-      "image_credit": "Photo: Crown / Bookshop"
+      "image_alt": "Yesteryear book cover",
+      "image_credit": "Photo: Open Library / publisher cover"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
-      "headline": "Edwidge Danticat's Dèy, a Miami-to-Haiti novel of a mall shooting and withheld grief, is out today",
-      "dek": "Knopf. $29. 256 pages. Title is Kreyòl for mourning. Magnolia, a Haitian American realtor, tells no one she survived.",
-      "caveman": "Danticat's first novel in nearly a decade arrived Tuesday. Dèy. Knopf. Two hundred fifty-six pages. Magnolia sells houses in Miami. She is in a mall for her daughter's birthday when a gunman fires. She hides. She lives. She tells nobody. The book is cut into shelter-in-place verbs: Run, Hide, F(l)ight, then Dèy. Haiti is not background. Her parents went home and now live under gangs and stolen houses. PW called it delicate and wonderful. The title is the Kreyòl word for mourning. Joy still sits at the grandmother's table. Trauma that stays unspoken does not stay small.",
-      "why_it_matters": "A novel that treats a US mall shooting and Haitian gang rule as one nervous system is not a tour. It is how a lot of families actually split their fear.",
-      "camps": "Knopf is betting on a quiet 256-page book, not a doorstop. Haitian readers will weigh the Kreyòl. US crime headlines rarely follow the realtor home to Brooklyn and Port-au-Prince.",
-      "source_name": "Publishers Weekly / Knopf",
-      "source_url": "https://www.penguinrandomhouse.com/books/768725/dey-by-edwidge-danticat/",
-      "published": "2026-08-25",
       "category": "literature",
+      "headline": "Ann Patchett's Whistler and Kathryn Stockett's The Calamity Club pack the IndieBound top tier",
+      "dek": "Beloved names sit just under Yesteryear as summer softens into fall reading habits.",
+      "caveman": "Under the debut still ruling the chart, familiar heavyweights hold the next rungs. Ann Patchett's Whistler keeps drawing readers who want luminous, time-bending connection. Kathryn Stockett's The Calamity Club brings a big-hearted crew of women fighting for what is theirs. These are not obscure experiments. They are comfort-plus-craft titles that indies can sell to almost any adult browsing table.",
+      "why_it_matters": "When established literary brands share space with a debut, it signals a healthy mix of risk and trust at the register.",
+      "camps": "Patchett fans want another quiet masterpiece. Stockett readers want momentum and friendship. Critics argue about middlebrow power.",
+      "source_name": "IndieBound",
+      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-26",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Dèy",
+          "term": "Whistler",
           "aliases": [
-            "Kreyòl",
-            "mourning"
+            "Patchett novel"
           ],
-          "explain": "Haitian Kreyòl for mourning. The novel's title and last section."
+          "explain": "Ann Patchett's 2026 novel about sweetness, impermanence, and connection."
         },
         {
-          "term": "Magnolia",
+          "term": "The Calamity Club",
           "aliases": [
-            "Miami realtor"
+            "Stockett novel"
           ],
-          "explain": "The narrator. She survives a mall shooting and keeps it from her family."
+          "explain": "Kathryn Stockett's new big-canvas story of women and friendship."
         },
         {
-          "term": "NBCC",
+          "term": "top tier",
           "aliases": [
-            "Everything Inside"
+            "upper chart"
           ],
-          "explain": "Danticat won a National Book Critics Circle award for that story collection."
+          "explain": "The first few bestseller slots that get window space and club attention."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Cover of Edwidge Danticat's novel Dèy",
-      "image_credit": "Photo: Knopf / Penguin Random House"
+      "image_alt": "Whistler book cover",
+      "image_credit": "Photo: Open Library / publisher cover"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
-      "headline": "John Manuel Arias's Crocodilopolis, a Costa Rican dynasty novel, hits shelves with a 150,000-copy bet",
-      "dek": "Bloomsbury. $29.99. PW called it lush and suspenseful. Two rival brothers, one political family, one old country.",
-      "caveman": "Another Tuesday pile. Crocodilopolis by John Manuel Arias, Bloomsbury, almost $30, 150,000-copy first printing per PW's August calendar. Two brothers from a Costa Rican political clan go at each other. PW's review said lush and suspenseful. It is not a New York kitchen. It is a Central American house with a long memory and a crocodile in the title. Big printings on literary sagas are a bet that readers still want family as nation. Bookstores will put it beside the Moriarty stack and hope some of that traffic walks left.",
-      "why_it_matters": "A 150,000-copy literary printing means a publisher spent real money on a non-US dynasty story. If it stalls, the next Latin American novel gets a smaller truck.",
-      "camps": "Bloomsbury wants a saga that travels. Reviewers want the sentences. Costa Rican readers will judge the clan. US buyers may only see the crocodile.",
-      "source_name": "Bloomsbury / Publishers Weekly",
-      "source_url": "https://www.bloomsbury.com/us/crocodilopolis-9781639738434/",
-      "published": "2026-08-25",
       "category": "literature",
+      "headline": "New on the indie chart: Sheila Masterson's The Poison Daughter arrives as a romantasy spike",
+      "dek": "A September Indie Next pick about deadly lips and the one man who can survive a kiss enters the national hardcover list.",
+      "caveman": "Romantasy still prints money. The Poison Daughter by Sheila Masterson shows up as new on the IndieBound hardcover fiction list. Pitch: a woman whose lips are poison meets the rare man who can live through her kiss. It is already a September Indie Next pick. Bookstores know the aisle. Enemies-to-lovers plus magic still converts browsers into buyers.",
+      "why_it_matters": "Chart newcomers reveal what indies think can interrupt the long-running leaders. Romantasy remains that interrupter.",
+      "camps": "Genre readers cheer another hit formula. Literary gatekeepers roll eyes. Teen and adult crossover shelves quietly expand.",
+      "source_name": "IndieBound",
+      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-26",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Crocodilopolis",
+          "term": "romantasy",
           "aliases": [
-            "John Manuel Arias"
+            "romance fantasy"
           ],
-          "explain": "A novel about rival brothers in a Costa Rican political family. Out Tuesday."
+          "explain": "Love story plus magic world. Currently one of publishing's strongest engines."
         },
         {
-          "term": "first printing",
+          "term": "Indie Next",
           "aliases": [
-            "150,000 copies"
+            "bookseller pick list"
           ],
-          "explain": "How many copies the publisher made before seeing a sale. A show of confidence, or of hope."
+          "explain": "A monthly list of titles indie booksellers especially want to push."
         },
         {
-          "term": "dynasty novel",
+          "term": "new on list",
           "aliases": [
-            "political family"
+            "debut week on chart"
           ],
-          "explain": "Fiction where the house is the country. Marriages and grudges do state work."
+          "explain": "First week a title appears on the bestseller ranking."
         }
       ],
-      "image": "images/wd-lit-3.jpg",
-      "image_alt": "Cover of Crocodilopolis by John Manuel Arias",
-      "image_credit": "Photo: Bloomsbury"
+      "image": "",
+      "image_alt": "",
+      "image_credit": ""
     },
     {
       "id": "wd-lit-4",
       "section": "world",
-      "headline": "Ingram opens Covered to booksellers and librarians, a new pipe for digital review copies",
-      "dek": "About 200 beta publishers already on it. Catalogs and ordering promised this fall. Aimed at Edelweiss and NetGalley.",
-      "caveman": "The warehouse just built a reading room. Ingram, the giant that ships most US bookstore orders, opened Covered on Monday to every bookseller, librarian, and trade reader. Digital review copies first. Some 200 publishers from the beta are already posting galleys. You read in the browser or a new app, EPUB or PDF. No print galleys in the plan. Audio later. Catalogs and ordering due fall. Banners in 2027. Ingram wants a slice of the Edelweiss and NetGalley desk. Indie stores already drown in PDFs. A new login does not give them more staff hours. It does decide which titles get a human eye before pub day.",
-      "why_it_matters": "Whoever owns the galley pipe owns attention. If Covered works, small presses without Edelweiss budgets might reach stores. If it is just another tab, the same 200 publishers keep the window.",
-      "camps": "Ingram says one desk for catalogs, galleys, orders. Edelweiss and NetGalley will not clap. Indie buyers want fewer logins, not more. Authors on IngramSpark get a paid DRC button.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/print/20260824/101063-ingram-s-covered-begins-offering-drcs-to-booksellers-and-librarians.html",
-      "published": "2026-08-24",
       "category": "literature",
+      "headline": "Paul Yoon's Etna and Chang-rae Lee's A Tender Age keep climbing regional and national indie conversations",
+      "dek": "A war-scarred working dog's odyssey and a child-of-immigrants masculinity novel show literary breadth beyond romantasy.",
+      "caveman": "Not every chart story is a kiss curse. Paul Yoon's Etna, the August Indie Next No. 1 in some regional tallies, follows a working dog after war trying to get home. Chang-rae Lee's A Tender Age watches American masculinity through a preteen immigrant child's confused eyes. Cool Machine, Colson Whitehead's 1980s Harlem entry, also holds. The point: indies are still balancing spectacle with quieter literary bets.",
+      "why_it_matters": "A healthy book culture needs more than one genre engine. These titles keep prize-and-seminar readers inside the same stores as romantasy fans.",
+      "camps": "Literary readers want Etna and Lee on tables. Sales floors want whatever turns fastest. Both can be true if stores keep diverse fronts.",
+      "source_name": "IndieBound",
+      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-26",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Covered",
+          "term": "Etna",
           "aliases": [
-            "Ingram Covered"
+            "Yoon novel"
           ],
-          "explain": "Ingram's new site for digital catalogs and review copies. Opened to stores and libraries this week."
+          "explain": "Paul Yoon's novel about a working dog's postwar journey home."
         },
         {
-          "term": "DRC",
+          "term": "A Tender Age",
           "aliases": [
-            "digital review copy",
-            "galley"
+            "Chang-rae Lee"
           ],
-          "explain": "A free early ebook for people who might stock or review the book."
+          "explain": "A 2026 novel on family and masculinity through a child's eyes."
         },
         {
-          "term": "Edelweiss",
+          "term": "literary fiction",
           "aliases": [
-            "NetGalley"
+            "prize-track fiction"
           ],
-          "explain": "The two pipes stores and reviewers already use. Covered wants that desk."
+          "explain": "Stories sold on style and theme as much as plot hooks."
         }
       ],
-      "image": "images/wd-lit-4.jpg",
-      "image_alt": "Publishers Weekly report on Ingram's Covered platform launch",
-      "image_credit": "Photo: Publishers Weekly"
+      "image": "",
+      "image_alt": "",
+      "image_credit": ""
     },
     {
       "id": "wd-soc-1",
       "section": "world",
-      "headline": "UN: Myanmar rights hit a new low as Rohingya abuses and illegal rare-earth mines boom",
-      "dek": "3.6 million displaced. 12.4 million hungry. 302 new Kachin mine sites since 2021. Rare-earth trade peaked near $1.4 billion.",
-      "caveman": "Geneva put it bluntly Tuesday. Myanmar's human-rights office report, covering mid-2025 to mid-2026, says conditions are the worst yet. The army and the Arakan Army both stand accused of killing, torture, forced labor, and blocking Rohingya returns. Displacement: 3.6 million. Acute hunger: 12.4 million. About 400,000 mothers and children are acutely malnourished. The money story is dirt: satellite counts show 302 new rare-earth sites in Kachin since 2021, Shan sites up from 12 to 85 after the coup. Trade peaked around $1.4 billion in 2023, mostly to China. Toxic runoff is in local water and in rivers heading to Thailand — arsenic, lead, mercury, manganese. Phones need those metals. Villages drink the waste.",
-      "why_it_matters": "A conflict economy that sells rare earths to the energy transition is not a side note. It is how the war pays for itself, and how the water dies.",
-      "camps": "The UN names both the junta and the Arakan Army. Neither answered Reuters. China buys the rock. Phone makers are downstream. Rohingya families are under it.",
-      "source_name": "Reuters",
-      "source_url": "https://wdez.com/2026/08/25/myanmar-human-rights-conditions-hit-new-low-un-says/",
-      "published": "2026-08-25",
       "category": "social",
+      "headline": "Armed attack in Kenscoff leaves bodies in Haitian streets; survivors search for missing relatives",
+      "dek": "Gunmen hit a farming community in the hills above Port-au-Prince late Sunday into Monday, burning homes.",
+      "caveman": "In Kenscoff, above Haiti's capital, armed men came at night. Houses burned. By Monday bodies lay in the streets and families hunted for the missing. UN photo and wire notes put the massacre in a country already hollowed by gangs. This is not abstract insecurity. It is a farming hill that woke up smaller.",
+      "why_it_matters": "When food-growing towns are torched, capital-city hunger rises next. Haiti's crisis keeps exporting displacement and importing despair.",
+      "camps": "Local leaders beg for security support. International actors argue about missions. Residents need safe roads before slogans.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168203",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "Arakan Army",
+          "term": "Kenscoff",
           "aliases": [
-            "Rakhine"
+            "hill town near Port-au-Prince"
           ],
-          "explain": "An ethnic armed group that now holds much of Rakhine. The UN says it also abuses Rohingya."
+          "explain": "A farming community overlooking Haiti's capital, hit in this attack."
         },
         {
-          "term": "rare earths",
+          "term": "gang violence",
           "aliases": [
-            "illegal mining"
+            "armed groups"
           ],
-          "explain": "Metals for magnets, EVs, phones. In Kachin they are dug in a lawless boom."
+          "explain": "Irregular armed crews that tax, burn, and displace civilians."
         },
         {
-          "term": "Rohingya",
+          "term": "displacement",
           "aliases": [
-            "Rakhine State"
+            "forced flight"
           ],
-          "explain": "A Muslim minority, already driven out in earlier purges, still hunted in this report."
+          "explain": "Leaving home because staying means death or extortion."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "UN or Reuters image from Myanmar's conflict and mining crisis",
-      "image_credit": "Photo: Reuters"
+      "image_alt": "Haiti crisis imagery",
+      "image_credit": "Photo: UN"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
-      "headline": "Guterres: two confirmed famines at once is a 'shameful milestone' — Sudan and Gaza",
-      "dek": "WFP's Carl Skau: Sudan staple foods up almost 40% since February. Gaza famine reversed after October, recovery still fragile.",
-      "caveman": "The UN chief used a hard word Tuesday: shameful. Last year was the first time this century two famines were confirmed at once, in Sudan and in Gaza. Guterres told the Security Council not to wait for the next official stamp. WFP's Carl Skau said an oil tanker stuck in Hormuz can mean one less meal in Sudan. Sudan's basic food costs are up almost 40 percent since February. He saw Gaza in famine last July, then again in January after the October pause: better, not safe. Action Against Hunger counted more than 900 attacks on Sudanese food systems since 2023. Being a woman there, their CEO said, statistically predicts starvation. Resolution 2417 already exists. The Council is being asked to use it.",
-      "why_it_matters": "Famine is a policy result, not weather. Two at once means the warning system is working and the politics are not.",
-      "camps": "UN agencies want action before the next declaration. Big powers will bargain the wording. Mothers in Sudan and Gaza need food convoys, not milestones.",
-      "source_name": "Anadolu Agency / UN",
-      "source_url": "https://www.aa.com.tr/en/world/shameful-milestone-un-chief-on-dual-famines-in-sudan-gaza/4037164",
-      "published": "2026-08-25",
       "category": "social",
+      "headline": "UN: 3.7 million Afghan children are wasted; about one million face the most life-threatening form",
+      "dek": "Fresh malnutrition stock-take lands while aid budgets stay thin. Wasting is the dangerous thinness that kills fast.",
+      "caveman": "New UN figures say some 3.7 million children in Afghanistan are wasted — dangerously thin for their height. About one million are in the most severe, life-threatening tier. This is a stock count of bodies, not a metaphor. Food, clinics, and cash assistance are all short. A child can look quiet and still be dying.",
+      "why_it_matters": "Malnutrition numbers this large mean an entire school generation is being medically scarred. Delayed aid becomes lifelong disability.",
+      "camps": "Aid agencies beg for funds. Donors cite fatigue and politics. Parents ration meals while arguing with no one who can hear.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168202",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "shameful milestone",
+          "term": "wasting",
           "aliases": [
-            "dual famine"
+            "acute malnutrition"
           ],
-          "explain": "Guterres's phrase for two confirmed famines at once, in Sudan and Gaza."
+          "explain": "A child is far too thin for their height. It can kill quickly without treatment."
         },
         {
-          "term": "Resolution 2417",
+          "term": "severe wasting",
           "aliases": [
-            "conflict hunger"
+            "SAM"
           ],
-          "explain": "A 2018 Council text that says starving civilians is a method of war. Rarely enforced."
+          "explain": "The most dangerous malnutrition tier. Needs therapeutic food and medical care."
         },
         {
-          "term": "Carl Skau",
+          "term": "aid budget",
           "aliases": [
-            "WFP"
+            "humanitarian funding"
           ],
-          "explain": "Acting head of the World Food Programme. He briefed the Council on Tuesday."
+          "explain": "Money countries and charities set aside for emergency food and medicine."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "UN briefing on famines in Sudan and Gaza",
-      "image_credit": "Photo: Anadolu Agency"
+      "image_alt": "Afghan children nutrition",
+      "image_credit": "Photo: UN"
     },
     {
       "id": "wd-soc-3",
       "section": "world",
-      "headline": "UN chiefs warn a Hormuz-Red Sea-Black Sea 'triple chokepoint' is pushing millions toward hunger",
-      "dek": "Hormuz moves a third of world fertilizer. Istanbul Strait grain down 40% year on year. Sudan, Yemen, Gaza, Lebanon most exposed.",
-      "caveman": "Three doors are jammed at once. Guterres and WFP's Skau told the Council Tuesday that Hormuz, the Red Sea, and the Black Sea are a triple chokepoint. Hormuz carries about a third of global fertilizer. Restrictions there cut supply while oil is still 36 percent above pre-war. Grain through the Istanbul Strait is down 40 percent from a year ago. Conflict hunger has tripled in eight years even as aid budgets shrink. Sudan, Yemen, Gaza, and Lebanon sit in the blast radius of other people's shipping fights. A war in one strait becomes a smaller sack of flour in another capital. Truckers and bakers feel it before diplomats do.",
-      "why_it_matters": "Food inflation is not only drought. When fertilizer and grain lanes clog, harvests next year shrink. Importing countries cannot vote the ships through.",
-      "camps": "UN agencies want the lanes opened and farms protected. Belligerents treat chokepoints as leverage. Importers pay. Families skip a meal.",
-      "source_name": "Arab News / UN",
-      "source_url": "https://www.arabnews.pk/node/2655844/middle-east",
-      "published": "2026-08-25",
       "category": "social",
+      "headline": "UN desertification body names World Restoration Flagships as 40% of land faces degradation",
+      "dek": "Awards spotlight repair projects while drought already threatens livelihoods for more than three billion people.",
+      "caveman": "The UN Convention to Combat Desertification announced three World Restoration Flagship winners on Wednesday. The backdrop is brutal: about 40 percent of the world's land is degrading, and drought risks the livelihoods of more than three billion people. Awards do not water a field by themselves. They do mark places where repair is working well enough to copy.",
+      "why_it_matters": "Land loss is a quiet famine machine. Successful restoration models are scarce public goods.",
+      "camps": "Environmental agencies celebrate pilots. Farmers want subsidies and water rights. Finance ministries ask who pays at scale.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168212",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "chokepoint",
+          "term": "land degradation",
           "aliases": [
-            "Hormuz",
-            "Red Sea",
-            "Black Sea"
+            "soil decline"
           ],
-          "explain": "A skinny sea lane that a lot of food or fuel must pass. Close it and prices jump everywhere."
+          "explain": "Land losing ability to grow food because of overuse, drought, or bad management."
         },
         {
-          "term": "fertilizer",
+          "term": "restoration",
           "aliases": [
-            "third of world trade"
+            "land repair"
           ],
-          "explain": "Plant food. A third of it moves through Hormuz. No fertilizer, smaller harvests later."
+          "explain": "Planting, resting, and rebuilding soil so farms and ecosystems can work again."
         },
         {
-          "term": "Istanbul Strait",
+          "term": "UNCCD",
           "aliases": [
-            "grain"
+            "desertification convention"
           ],
-          "explain": "The passage for Black Sea grain. Shipments down 40 percent year on year, WFP said."
+          "explain": "The UN treaty body focused on dryland and drought problems."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Shipping or food-aid image tied to the UN chokepoint warning",
-      "image_credit": "Photo: Arab News"
+      "image_alt": "Land restoration",
+      "image_credit": "Photo: UN / UNEP"
     },
     {
       "id": "wd-soc-4",
       "section": "world",
-      "headline": "WFP is turning away six of seven malnourished Afghan children for lack of money",
-      "dek": "Skau's aside in the same Council briefing. Gaza showed a fragile recovery is possible. Afghanistan shows a funding cliff.",
-      "caveman": "One line in Tuesday's food briefing should not have been an aside. WFP's Carl Skau said the agency is turning away six in seven malnourished children in Afghanistan because the money is gone. Not because the war next door took the trucks. Because donors did not pay. Gaza, he said, had a glimmer after the October pause and more aid. Afghanistan is the opposite glimmer: the clinics are there, the ration is not. A child refused at the door does not appear in a famine declaration. They just go home thinner. Funding gaps do the work bombs do, slower.",
-      "why_it_matters": "A 6-out-of-7 refusal rate is a policy choice by capitals that still fund other wars. Malnutrition at that scale becomes stunting, then a generation.",
-      "camps": "WFP wants checks. Donor capitals are tired and elsewhere. Afghan families already lived through a government collapse. The seventh child is not a statistic to the six who were sent away.",
-      "source_name": "Anadolu Agency / WFP",
-      "source_url": "https://www.aa.com.tr/en/world/shameful-milestone-un-chief-on-dual-famines-in-sudan-gaza/4037164",
-      "published": "2026-08-25",
       "category": "social",
+      "headline": "African health ministers back a decade plan as the continent faces a shortfall of over six million health workers by 2035",
+      "dek": "Addis Ababa meeting tries to grow the workforce before clinics empty out.",
+      "caveman": "Health ministers meeting in Addis Ababa heard a hard forecast: Africa could be short more than six million health professionals by 2035. They answered with a new decade-long workforce plan. Plans are paper. Training nurses and paying them enough to stay is the real fight. Without staff, vaccines and maternity wards are just buildings.",
+      "why_it_matters": "A worker gap this size turns every future epidemic and every childbirth into a worse lottery.",
+      "camps": "Ministers promise investment. Young clinicians still migrate for pay. Patients notice wait times before they notice strategy docs.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168207",
+      "published": "2026-08-26",
       "terms": [
         {
-          "term": "WFP",
+          "term": "health workforce",
           "aliases": [
-            "World Food Programme"
+            "doctors and nurses supply"
           ],
-          "explain": "The UN's food agency. It is turning most malnourished Afghan children away this month."
+          "explain": "The people who actually deliver care. Buildings without them are empty."
         },
         {
-          "term": "malnourished",
+          "term": "Addis Ababa",
           "aliases": [
-            "acute malnutrition"
+            "Ethiopia capital"
           ],
-          "explain": "A child too thin right now. It can kill fast. It can also reverse with food — if the food is there."
+          "explain": "Host city for the health ministers' meeting."
         },
         {
-          "term": "funding gap",
+          "term": "brain drain",
           "aliases": [
-            "donors"
+            "clinician migration"
           ],
-          "explain": "The hole between what agencies asked for and what states paid. That hole is the door."
+          "explain": "Trained staff leaving for better pay abroad, emptying home clinics."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "WFP or UN food briefing as Afghan malnutrition aid is rationed",
-      "image_credit": "Photo: Anadolu Agency"
-    }
-  ],
-  "glossary": [
-    {
-      "term": "Brent",
-      "aliases": [
-        "WTI"
-      ],
-      "explain": "World and US oil sticker prices. Tuesday both fell more than 3 percent."
-    },
-    {
-      "term": "10-year yield",
-      "aliases": [
-        "Treasury"
-      ],
-      "explain": "US long-term borrowing cost. Tuesday it dropped to 4.63 percent as oil eased."
-    },
-    {
-      "term": "Jackson Hole",
-      "aliases": [
-        "Kevin Warsh"
-      ],
-      "explain": "The Fed's mountain meeting. Warsh speaks Friday."
-    },
-    {
-      "term": "2-nanometer",
-      "aliases": [
-        "M6",
-        "M5 Ultra"
-      ],
-      "explain": "Apple's new chip process and its biggest desktop chip."
-    },
-    {
-      "term": "Nitter",
-      "aliases": [
-        "cease-and-desist"
-      ],
-      "explain": "The no-login window onto X. Lawyers told it to die Tuesday."
-    },
-    {
-      "term": "Islamabad MoU",
-      "aliases": [
-        "June memo"
-      ],
-      "explain": "The pause deal Pakistan is trying to revive after Munir's Tehran trip."
-    },
-    {
-      "term": "arms embargo",
-      "aliases": [
-        "Darfur",
-        "drones"
-      ],
-      "explain": "The UN weapon ban the US wants stretched over all of Sudan."
-    },
-    {
-      "term": "temporary corridor",
-      "aliases": [
-        "Hormuz"
-      ],
-      "explain": "Iran and Oman's sketched lane. Tehran says the strait is still shut."
-    },
-    {
-      "term": "Dèy",
-      "aliases": [
-        "Edwidge Danticat"
-      ],
-      "explain": "Kreyòl for mourning. Danticat's new novel, out Tuesday."
-    },
-    {
-      "term": "Covered",
-      "aliases": [
-        "Ingram",
-        "DRC"
-      ],
-      "explain": "Ingram's new galley site for bookstores and libraries."
-    },
-    {
-      "term": "rare earths",
-      "aliases": [
-        "Kachin"
-      ],
-      "explain": "Metals funding Myanmar's war and poisoning water."
-    },
-    {
-      "term": "shameful milestone",
-      "aliases": [
-        "dual famine"
-      ],
-      "explain": "Guterres on two confirmed famines at once: Sudan and Gaza."
-    },
-    {
-      "term": "chokepoint",
-      "aliases": [
-        "triple chokepoint"
-      ],
-      "explain": "Hormuz, Red Sea, Black Sea jammed together."
-    },
-    {
-      "term": "WFP",
-      "aliases": [
-        "six of seven"
-      ],
-      "explain": "UN food agency turning away most malnourished Afghan children."
+      "image_alt": "African health workers",
+      "image_credit": "Photo: UN"
     }
   ]
 }
