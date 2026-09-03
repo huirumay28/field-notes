@@ -1,780 +1,801 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-02T08:00:00+08:00",
-  "notes": "Wednesday 2 Sep 2026 world issue (Taipei ~08:00). Window Sun 30 Aug–Wed 2 Sep morning; prefer Tue 1 Sep US close + overnight Wed. NEW leads: Tue close S&P 7,631.47 / Dow 52,766.88 (−419) / Nasdaq −1%; oil settle WTI $90.22 / Brent $94.65; 10y ~4.79% + FedWatch ~68%; diesel 52-mo high / crack ~$107; OpenAI reply filing vs Apple; Ternus day-1 AI-gap + Sept 9 stage; iPhone Ultra MagSafe/dual-launch Gurman; Microsoft Maia 200 Hot Chips; US IRGC strikes + Iran reply; SCO Bishkek Declaration; Zelensky 'September could change a lot'; Modi endless-war nudge to Putin; Pardon My Book PW #2 / 49,297; Poison Daughter HC fiction #1; IndieBound Yesteryear week 20 + Poison Daughter Indie Next; Nerd Reich PW NF #6; Nepal toll >1,000 / DNA ID; WFP West Bank aid halved; Kyiv 12 dead sixth night; Sudan El Obeid overcrowding. OUT / recycled without new fact: Mon-only S&P 7,686 / Dow −374; Mon oil WTI $85.76 / Brent $90.49 alone; FedWatch 66% alone; dollar −0.28% / yuan 3.5y alone; Apple MacBook forensics as sole tech lead; Nvidia $3.5B MediaTek alone; Ternus announce-without-day-2; Sept 9 teaser alone; Trump AI Kharg video alone; Zelensky lock-dates alone; France UNSC presidency alone; Mladenov ceasefire-collapse alone; IndieBound Yesteryear / Theo / Brain Damage / Regime Change as sole leads without new week numbers; UNRWA Kalandia seizure; Gaza appeal 40% alone; Nepal 903 alone; Kyiv jet-drone without new toll. Did not touch taiwan-news.json. Did not commit.",
+  "fetched_at": "2026-09-03T08:00:00+08:00",
+  "notes": "Thursday 3 Sep 2026 world issue (Taipei ~08:00). Window Mon evening–Thu morning; prefer Wed 2 Sep US close + overnight Thu. NEW leads: Wed rebound S&P 7,666.60 / Dow 53,061.95 (+295) / Nasdaq +0.5%; oil Brent $95.63 / WTI ~$91.01; Williams wait-and-see + 10y 4.78%; Chevron Venezuela expand note; Broadcom Q3 beat / soft Q4 guide / AI $115B FY27; Jalapeño+Anthropic TPU roadmap on call; Apple–Broadcom deeper AI/US chip spend; Nvidia +3% lift; US–Iran biggest barrages since July + Gulf bases/wedding toll claims; Kyiv 7th straight day ≥13 injured; Putin–Zelensky threats; Zelensky new Ground Forces commander; Harris Agrippa on sale; Black Bookstore Day inaugural recap; PW Poison Daughter #1 + Hulu development; Sept Indie Next preview; Nepal ≥1,114 dead / tunnel hope / China DNA; Flores ~190k displaced; MSF Colombia 3-week gaps; FEWS NET South Sudan famine risk. OUT/recycled without new fact: Tue S&P 7631 Dow −419; Tue WTI 90.22/Brent 94.65 alone; 10y ~4.79% FedWatch ~68% alone; diesel 52-mo high; OpenAI vs Apple reply alone; Ternus day-one; iPhone Ultra MagSafe; Maia 200; US–IRGC strikes alone (kept Sep2 barrage follow-up); SCO Bishkek alone; Zelensky September line alone; Modi/Putin; PW Pardon My Book #2 alone / Poison Daughter rank alone without Hulu; IndieBound Yesteryear alone; Nerd Reich NF #6; Nepal >1000 alone (kept 1114+tunnels); WFP West Bank; Kyiv sixth-night 12 dead alone; Sudan El Obeid. Taiwan half refreshed same morning. Commit follows validation.",
   "stories": [
     {
       "id": "wd-fin-1",
+      "section": "world",
       "category": "economy",
-      "headline": "Wall Street opens September in the red: S&P 7,631, Dow −419 as oil and yields climb",
-      "dek": "Nasdaq −1%. Big Tech led the slide after fresh U.S. strikes on Iran.",
-      "caveman": "Tuesday was a rough first day of September. The S&P 500 fell 54.67 points, or 0.7%, to 7,631.47. The Dow lost 419.02 points, or 0.8%, to 52,766.88. The Nasdaq dropped 271.11 points, or 1%, to 26,099.77. Traders pointed at two things: oil jumping after new U.S. strikes on Iran, and the 10-year Treasury yield rising to about 4.79%. Higher oil makes people fear inflation. Higher bond yields make borrowing cost more, which often hurts stock prices — especially big tech names like Nvidia and Amazon. For the year the S&P is still up about 11.5%. Next big U.S. clues: jobs later this week and the Fed on Sept. 15–16.",
-      "why_it_matters": "Taipei morning screens track U.S. futures. A soft Wall Street open plus hotter oil hits chip exporters and shipping costs.",
-      "camps": "Bulls say the year-to-date gain is still solid. Hawks say oil + yields mean the Fed stays tough. Renters and mortgage shoppers feel the yield first.",
+      "headline": "Wall Street snaps losing streak: S&P 7,666.60, Dow +295 as tech leads",
+      "dek": "Nasdaq +0.5%. Nvidia rose more than 3%. Oil and yields steadier than Tuesday.",
+      "caveman": "Wednesday was a bounce day. The S&P 500 rose 35.13 points, or 0.5%, to 7,666.60. The Dow gained 295.07 points, or 0.6%, to 53,061.95. The Nasdaq rose 118.05 points, or 0.5%, to 26,217.83. Big tech helped after a rough start to the week. Simple talk: prices went up a bit after two hard days, but the week is still slightly down.",
+      "why_it_matters": "Taipei morning futures watch U.S. closes. A calmer Wall Street night softens the hangover for Asia chip names.",
+      "camps": "Bulls say Nvidia strength shows AI demand is alive. Hawks say oil war risk is not gone. People with 401(k)s feel every bounce.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e",
-      "published": "2026-09-01",
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-7cb0aefedfd933d048b8b3e5843449f8",
+      "published": "2026-09-02",
       "terms": [
         {
           "term": "S&P 500",
           "aliases": [
             "S&P"
           ],
-          "explain": "A basket of 500 big U.S. companies. Many people treat it as 'the market.'"
+          "explain": "Basket of 500 big U.S. companies. Many treat it as 'the market.'"
+        },
+        {
+          "term": "Dow",
+          "aliases": [
+            "Dow Jones"
+          ],
+          "explain": "Index of 30 big U.S. industrial and consumer companies."
         },
         {
           "term": "Nasdaq",
-          "aliases": [
-            "Nasdaq Composite"
-          ],
-          "explain": "A U.S. stock index heavy on tech companies."
-        },
-        {
-          "term": "bond yield",
-          "aliases": [
-            "Treasury yield",
-            "10-year yield"
-          ],
-          "explain": "The interest rate on a government bond. When it rises, loans and mortgages often get pricier."
-        },
-        {
-          "term": "inflation",
           "aliases": [],
-          "explain": "Prices going up across many things you buy."
+          "explain": "U.S. stock index heavy on tech."
+        },
+        {
+          "term": "losing streak",
+          "aliases": [],
+          "explain": "Several days in a row when prices fall."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Traders and screens on a busy stock-exchange floor",
-      "image_credit": "Photo: via WTOP / AP-style markets file",
-      "section": "world"
+      "image_alt": "Wall Street trading floor or market screens",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-fin-2",
+      "section": "world",
       "category": "economy",
-      "headline": "Oil settles Tuesday: WTI $90.22, Brent $94.65 after new U.S.–Iran strikes",
-      "dek": "Both jumped more than $4 a barrel — five-week highs. Hormuz risk is back in the price.",
-      "caveman": "Crude had a sharp Tuesday. U.S. oil (WTI) rose $4.46, or 5.2%, to settle at $90.22 a barrel — first close above $90 in more than a month. Brent, the global marker, rose $4.16, or 4.6%, to $94.65. That was the highest close for WTI since July 23 and for Brent since July 24. Why? New U.S. air strikes on Iran, plus fear that fighting could block more ships near the Strait of Hormuz. Two tankers were already reported hit leaving that waterway. Traders are pricing war risk, not a sudden loss of wells. Pump prices and Asian import bills feel that premium first.",
-      "why_it_matters": "Taiwan imports almost all its oil. A Hormuz scare raises freight, insurance, and gasoline costs even if barrels still exist.",
-      "camps": "Energy traders say transit risk is real. Doves say tit-for-tat hits often fade. Ship crews and drivers pay the insurance first.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
-      "published": "2026-09-01",
+      "headline": "Oil holds high ground: Brent $95.63, WTI about $91 as Iran fight continues",
+      "dek": "Brent +1%, WTI +0.9% Wednesday. Less wild than Tuesday’s jump, still expensive.",
+      "caveman": "Crude did not explode higher again, but it stayed pricey. Brent settled up about 1% at $95.63 a barrel. U.S. oil (WTI) climbed about 0.9% to settle near $91.01. The U.S.–Iran fight kept a war premium in the price. Simple talk: fuel math still hurts even on a 'quiet' oil day.",
+      "why_it_matters": "Taiwan imports almost all oil. High Brent feeds gasoline, freight, and factory costs.",
+      "camps": "Energy traders watch Hormuz risk. Peace hopes want a ceasefire. Drivers feel pump prices first.",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://www.latimes.com/business/story/2026-09-02/wall-street-rises-as-tech-stocks-climb-oil-prices-bond-yields-hold-relatively-steady",
+      "published": "2026-09-02",
       "terms": [
+        {
+          "term": "Brent",
+          "aliases": [],
+          "explain": "Main global oil price, dollars per barrel."
+        },
         {
           "term": "WTI",
           "aliases": [
             "West Texas Intermediate"
           ],
-          "explain": "The main U.S. oil price. Quoted in dollars per barrel."
+          "explain": "Main U.S. oil price."
         },
         {
-          "term": "Brent",
+          "term": "settle",
+          "aliases": [],
+          "explain": "Official end-of-day futures price."
+        },
+        {
+          "term": "war premium",
+          "aliases": [],
+          "explain": "Extra price traders add when fighting might block oil ships."
+        }
+      ],
+      "image": "images/wd-fin-2.jpg",
+      "image_alt": "Oil market or energy industry scene",
+      "image_credit": "Photo: Los Angeles Times"
+    },
+    {
+      "id": "wd-fin-3",
+      "section": "world",
+      "category": "economy",
+      "headline": "NY Fed’s Williams: wait-and-see on September hike; 10-year eases to 4.78%",
+      "dek": "Says no clear sign yet that policy must tighten more. Points to strong AI-led economy.",
+      "caveman": "New York Fed President John Williams told CNBC he needs more data before deciding if rates must rise on Sept. 15–16. He said there are 'no clear signs right now' that current policy is enough — or that more hikes are required. He blamed higher Treasury yields mostly on a strong U.S. outlook fueled by AI and data-center spending. The 10-year yield slipped to about 4.78% from 4.79%. Simple talk: one big Fed voice said 'not sure yet,' and bond fear cooled a little.",
+      "why_it_matters": "Mortgage and loan rates track the 10-year. Fed guesses move stocks from Taipei to New York.",
+      "camps": "Hawks still price a hike. Doves hear wait-and-see. Home buyers watch weekly.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "federal funds rate",
           "aliases": [
-            "Brent crude"
+            "Fed rate"
           ],
-          "explain": "The main global oil price. Many Asian cargoes track it."
+          "explain": "The overnight interest rate the Fed targets. Banks and loans follow it."
+        },
+        {
+          "term": "FOMC",
+          "aliases": [],
+          "explain": "The Fed committee that votes on rate moves."
+        },
+        {
+          "term": "Treasury yield",
+          "aliases": [
+            "10-year yield"
+          ],
+          "explain": "Interest rate on a U.S. government bond. When it rises, loans often get costlier."
+        },
+        {
+          "term": "wait-and-see",
+          "aliases": [],
+          "explain": "Policymaker language for 'I need more data before I vote.'"
+        }
+      ],
+      "image": "images/wd-fin-3.jpg",
+      "image_alt": "John Williams interview or Fed building",
+      "image_credit": "Photo: CNBC / Getty"
+    },
+    {
+      "id": "wd-fin-4",
+      "section": "world",
+      "category": "economy",
+      "headline": "Chevron says it will expand Venezuela operations amid oil squeeze",
+      "dek": "Shares edged up Wednesday as traders weighed Middle East risk vs. new supply paths.",
+      "caveman": "AP’s market wrap noted Chevron edged about 0.3% higher after confirming it will expand operations in Venezuela. That detail landed while Brent stayed near $96 and U.S.–Iran fighting kept supply nerves high. Simple talk: when one oil door looks risky, companies try other doors — even messy ones.",
+      "why_it_matters": "More barrels from anywhere can cool prices later. Politics and sanctions still decide if those barrels really ship.",
+      "camps": "Energy bulls like new output. Human-rights critics watch Venezuela deals. Drivers just want cheaper fuel.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-7cb0aefedfd933d048b8b3e5843449f8",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "Venezuela",
+          "aliases": [],
+          "explain": "South American country with huge oil reserves and heavy politics."
+        },
+        {
+          "term": "sanctions",
+          "aliases": [],
+          "explain": "Rules that limit trade with a country or company."
+        },
+        {
+          "term": "supply path",
+          "aliases": [],
+          "explain": "A route or country that can send oil to buyers."
+        },
+        {
+          "term": "energy major",
+          "aliases": [],
+          "explain": "A very large oil and gas company."
+        }
+      ],
+      "image": "images/wd-fin-4.jpg",
+      "image_alt": "Oil industry operations",
+      "image_credit": "Photo: AP"
+    },
+    {
+      "id": "wd-tech-1",
+      "section": "world",
+      "category": "tech",
+      "headline": "Broadcom beats Q3, guides soft Q4; CEO sees AI revenue $115B in FY2027",
+      "dek": "Revenue $29.59B, adjusted EPS $3.32. Q4 sales guide $34.8B vs ~$35.03B expected.",
+      "caveman": "Broadcom reported a strong fiscal third quarter: about $29.59 billion in sales and $3.32 adjusted earnings per share, both above Wall Street guesses. Semiconductor sales more than tripled. But fourth-quarter revenue guidance of $34.8 billion missed the ~$35.03 billion estimate, so the stock wobbled. CEO Hock Tan still painted a huge AI future — about $115 billion AI revenue in fiscal 2027, then maybe $230 billion in 2028. Simple talk: today good, next-quarter map a bit short, long-term map still huge.",
+      "why_it_matters": "Broadcom builds custom AI chips for Google, Meta, OpenAI and others. Its guidance moves the whole AI supply chain.",
+      "camps": "Bulls hear $115B. Bears hear the Q4 miss. Taiwan fabs and board makers watch order timing.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "adjusted EPS",
+          "aliases": [],
+          "explain": "Profit per share after removing some one-time items. Wall Street compares this number."
+        },
+        {
+          "term": "guidance",
+          "aliases": [],
+          "explain": "What a company says it expects to sell or earn next quarter."
+        },
+        {
+          "term": "custom AI chip",
+          "aliases": [
+            "XPU",
+            "ASIC"
+          ],
+          "explain": "A chip built for one big customer’s AI jobs, not sold to everyone."
+        },
+        {
+          "term": "fiscal year",
+          "aliases": [
+            "FY"
+          ],
+          "explain": "A company’s own 12-month counting year, not always the calendar year."
+        }
+      ],
+      "image": "images/wd-tech-1.jpg",
+      "image_alt": "Broadcom CEO Hock Tan",
+      "image_credit": "Photo: CNBC / Getty"
+    },
+    {
+      "id": "wd-tech-2",
+      "section": "world",
+      "category": "tech",
+      "headline": "Tan: Jalapeño shipping for OpenAI; Gen-2 near tapeout; Anthropic wants more TPUs",
+      "dek": "Broadcom call details OpenAI, Google, Meta custom silicon roadmaps.",
+      "caveman": "On the earnings call, Hock Tan said Jalapeño shipments for OpenAI continue, and OpenAI is getting ready to tape out a second-generation chip while planning a third with Broadcom. He talked up faster Google Ironwood TPU shipments to Anthropic and TPU 8i chips to Google, plus Meta MTIA accelerators for inference. Anthropic could deploy about 5 gigawatts of TPU 8i in 2027, with a line of sight to more. Simple talk: the AI labs are ordering factories’ worth of special chips, not just a few servers.",
+      "why_it_matters": "Gigawatts of chips mean power, HBM memory, packaging, and Taiwan capacity all get squeezed harder.",
+      "camps": "Cloud labs race to lock supply. Nvidia remains a partner, not gone. Utilities worry about electricity.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "Jalapeño",
+          "aliases": [],
+          "explain": "OpenAI’s custom inference chip built with Broadcom."
+        },
+        {
+          "term": "tapeout",
+          "aliases": [],
+          "explain": "The moment a chip design is finished and sent to the factory to make masks."
+        },
+        {
+          "term": "TPU",
+          "aliases": [],
+          "explain": "Google’s home-made AI accelerator chips."
+        },
+        {
+          "term": "gigawatt",
+          "aliases": [
+            "GW"
+          ],
+          "explain": "A huge unit of electric power. AI campuses now get measured this way."
+        }
+      ],
+      "image": "images/wd-tech-2.jpg",
+      "image_alt": "AI chip or data center hardware",
+      "image_credit": "Photo: CNBC / Getty"
+    },
+    {
+      "id": "wd-tech-3",
+      "section": "world",
+      "category": "tech",
+      "headline": "Apple deepens Broadcom chip pact for U.S. production and AI silicon",
+      "dek": "Renewed multiyear supply deal cited on Broadcom’s quarter; wireless plus custom AI parts.",
+      "caveman": "During Broadcom’s quarter, Apple was called out for planning to spend more with Broadcom on U.S. chip production. Analyst notes describe a renewed supply agreement running toward 2031 that covers wireless parts and custom chips likely tied to Apple’s AI plans. Simple talk: Apple wants more control over AI hardware and is writing bigger checks to a key chip partner.",
+      "why_it_matters": "Apple’s private cloud and device AI need silicon. That demand hits the same foundry and packaging lines everyone else wants.",
+      "camps": "Apple bulls like vertical control. Broadcom bulls like another anchor customer. Privacy fans watch on-device AI promises.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "custom silicon",
+          "aliases": [],
+          "explain": "Chips designed for one company’s products."
+        },
+        {
+          "term": "Private Cloud Compute",
+          "aliases": [],
+          "explain": "Apple’s plan to run some AI jobs in its own cloud with strong privacy rules."
+        },
+        {
+          "term": "FBAR",
+          "aliases": [],
+          "explain": "A Broadcom wireless filter part used in phones."
+        },
+        {
+          "term": "foundry",
+          "aliases": [],
+          "explain": "A factory that makes chips designed by other companies."
+        }
+      ],
+      "image": "images/wd-tech-3.jpg",
+      "image_alt": "Smartphone chip or Apple-related tech",
+      "image_credit": "Photo: via CNBC story"
+    },
+    {
+      "id": "wd-tech-4",
+      "section": "world",
+      "category": "tech",
+      "headline": "Nvidia jumps more than 3% and helps lift Wednesday’s tech rebound",
+      "dek": "AP: chip giant led gains as Wall Street snapped a multi-day slide.",
+      "caveman": "Nvidia rose more than 3% on Wednesday, helping the Dow and Nasdaq climb after a soft start to September. Traders treated the move as a sign that AI hardware demand still has buyers even while oil and rate fears linger. Simple talk: the biggest AI chip name had a green day, and the whole tech neighborhood felt better.",
+      "why_it_matters": "Nvidia sets the mood for Taiwan’s GPU, CoWoS, and server chain every night.",
+      "camps": "Bulls buy dips. Skeptics say one day does not fix war-oil risk. Supply-chain workers watch overnight futures.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-7cb0aefedfd933d048b8b3e5843449f8",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "Nvidia",
+          "aliases": [],
+          "explain": "U.S. company that makes the most famous AI training GPUs."
+        },
+        {
+          "term": "GPU",
+          "aliases": [],
+          "explain": "Graphics chip now widely used to train and run AI models."
+        },
+        {
+          "term": "rebound",
+          "aliases": [],
+          "explain": "Prices bounce up after falling."
+        },
+        {
+          "term": "chip giant",
+          "aliases": [],
+          "explain": "A very large semiconductor company."
+        }
+      ],
+      "image": "images/wd-tech-4.jpg",
+      "image_alt": "Stock market screens highlighting tech shares",
+      "image_credit": "Photo: AP"
+    },
+    {
+      "id": "wd-pol-1",
+      "section": "world",
+      "category": "politics",
+      "headline": "U.S. and Iran trade biggest barrages since July; Tehran hits Gulf bases",
+      "dek": "Iran reports civilian deaths including at a wedding. Hormuz control still the lever.",
+      "caveman": "The United States and Iran exchanged their heaviest blows since July. U.S. forces hit sites along Iran’s southern coast. Iran fired toward U.S. facilities in Jordan, Bahrain, Kuwait, and Iraq’s Erbil area. Tehran said civilians died, including people at a wedding. Talks remain stuck; Hormuz leverage is still central. Simple talk: the quiet pause broke, and the neighborhood got louder again.",
+      "why_it_matters": "More missiles mean higher oil, scared markets, and harder diplomacy.",
+      "camps": "Washington says pressure. Tehran says reciprocity. Gulf states want calm skies.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes",
+      "published": "2026-09-02",
+      "terms": [
+        {
+          "term": "IRGC",
+          "aliases": [],
+          "explain": "Iran’s Islamic Revolutionary Guard Corps, a powerful military force."
         },
         {
           "term": "Strait of Hormuz",
           "aliases": [
             "Hormuz"
           ],
-          "explain": "A narrow waterway by Iran and Oman. A big share of world oil shipping passes near here."
+          "explain": "Narrow waterway where a big share of world oil shipping passes."
         },
         {
-          "term": "settle",
+          "term": "ballistic missile",
           "aliases": [],
-          "explain": "The official end-of-day futures price."
-        }
-      ],
-      "image": "images/wd-fin-2.jpg",
-      "image_alt": "Oil industry equipment and barrels under outdoor light",
-      "image_credit": "Photo: Motley Fool / file",
-      "section": "world"
-    },
-    {
-      "id": "wd-fin-3",
-      "category": "economy",
-      "headline": "10-year Treasury yield hits ~4.79%, highest since Jan 2025, as hike bets rise",
-      "dek": "CME FedWatch ~68% chance of a Sept. 16 quarter-point hike. Jobs and CPI still ahead.",
-      "caveman": "U.S. government bond prices fell again Tuesday, so yields rose. The 10-year Treasury yield traded near 4.79% — about a 19-month high, last seen around January 2025. The 2-year also climbed toward about 4.39%. Markets read hotter oil and fresh Middle East fighting as inflation risk. CME FedWatch put roughly a 68% chance the Fed raises rates by a quarter point on Sept. 16 (odds were far lower before Chair Kevin Warsh spoke at Jackson Hole). A higher 10-year yield often pushes up mortgage and car-loan rates. Watch August jobs and the next CPI print before the Fed meeting.",
-      "why_it_matters": "When U.S. yields jump, global money can shift, the dollar can firm, and growth stocks — including Asia tech — often wobble.",
-      "camps": "Hawks say sticky inflation needs tighter money. Doves say war-driven oil is not the same as an overheating economy. Homebuyers feel  the loan rate either way.",
-      "source_name": "Forbes / CME FedWatch",
-      "source_url": "https://www.forbes.com/sites/fionariley/2026/09/01/treasury-yields-hit-19-month-high-as-inflation-and-rate-hike-fears-climb/",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "10-year Treasury",
-          "aliases": [
-            "10-year yield"
-          ],
-          "explain": "A 10-year U.S. government bond. Its yield is a benchmark for many loans."
+          "explain": "A missile that flies a high arc and then falls on a target."
         },
         {
-          "term": "FedWatch",
-          "aliases": [
-            "CME FedWatch"
-          ],
-          "explain": "A CME tool that turns futures prices into odds the Fed will hike, hold, or cut."
-        },
-        {
-          "term": "quarter-point hike",
-          "aliases": [
-            "25 bps"
-          ],
-          "explain": "Raising the policy rate by 0.25 percentage points."
-        },
-        {
-          "term": "CPI",
+          "term": "barrage",
           "aliases": [],
-          "explain": "Consumer Price Index — a common U.S. inflation scorecard."
-        }
-      ],
-      "image": "images/wd-fin-3.jpg",
-      "image_alt": "Illustration of rising bond yields and stock pressure",
-      "image_credit": "Photo: Investor's Business Daily / Adobe",
-      "section": "world"
-    },
-    {
-      "id": "wd-fin-4",
-      "category": "economy",
-      "headline": "U.S. diesel futures hit a 52-month high; crack spread near a record ~$107",
-      "dek": "Reuters: diesel up ~51% in 10 weeks as Middle East and Russia refinery strains bite.",
-      "caveman": "It is not only crude oil. U.S. diesel futures jumped to a 52-month high on Tuesday after climbing about 51% over the past 10 weeks, Reuters reported. The diesel crack spread — the gap between diesel and crude that shows refining profit — ran near a record around $107 a barrel on LSEG data. Why so hot? Refinery trouble in places like the Middle East and Russia, plus war risk on shipping, makes middle distillates (truck fuel, some heating fuel) scarce. That hits freight, food trucking, and farm costs. Crude can rise; diesel can rise even faster.",
-      "why_it_matters": "Diesel moves the real economy — trucks, ships, farms. A spike shows up in store shelves and shipping bills.",
-      "camps": "Refiners like fat crack spreads. Truckers and grocers hate them. Policymakers fear diesel more than gasoline for inflation headlines.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "diesel",
-          "aliases": [],
-          "explain": "Fuel for many trucks, buses, ships, and some heaters. Different from gasoline."
-        },
-        {
-          "term": "crack spread",
-          "aliases": [],
-          "explain": "The money gap between crude oil and refined fuels like diesel. Wide spread = fat refining margin."
-        },
-        {
-          "term": "middle distillates",
-          "aliases": [],
-          "explain": "Fuels in the middle of the refining barrel — diesel, jet fuel, heating oil."
-        },
-        {
-          "term": "LSEG",
-          "aliases": [],
-          "explain": "London Stock Exchange Group — a big market-data company."
-        }
-      ],
-      "image": "images/wd-fin-4.jpg",
-      "image_alt": "Oil and energy industry tanks and pipes",
-      "image_credit": "Photo: CNBC / Getty file",
-      "section": "world"
-    },
-    {
-      "id": "wd-tech-1",
-      "category": "tech",
-      "headline": "OpenAI to Apple: trade-secret fight is 'a mess of Apple's own making'",
-      "dek": "Court filing denies theft, blames iCloud habits and rushed exits. Apple still waves MacBook forensics.",
-      "caveman": "OpenAI fired back. In a late Monday filing in San Jose federal court (covered Tuesday), the ChatGPT maker said Apple failed to show stolen secrets and called the dispute 'a mess of Apple's own making.' OpenAI says Apple pushes personal iCloud for work files, walks leavers out too fast, and then still calls ex-staff for help. Apple's side still points to forensic finds on a MacBook used by ex-Apple engineer Chang Liu, including a confidential circuit schematic. The companies say OpenAI has hired roughly 400 people from Apple for hardware work. Once partners, now courtroom rivals.",
-      "why_it_matters": "Two U.S. giants fighting over chips, people, and devices. The case can slow OpenAI's gadget plans and warn other poachers.",
-      "camps": "Apple says protect the crown jewels. OpenAI says workers may leave and California lets them. Talent teams watch every filing.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "trade secret",
-          "aliases": [],
-          "explain": "Know-how a company keeps private because it is worth money — designs, recipes, supply tricks."
-        },
-        {
-          "term": "forensics",
-          "aliases": [],
-          "explain": "Careful dig through a computer to see what files were opened, copied, or deleted."
-        },
-        {
-          "term": "iCloud",
-          "aliases": [],
-          "explain": "Apple's online storage. Personal accounts mixed with work files can blur lines."
-        },
-        {
-          "term": "preliminary injunction",
-          "aliases": [],
-          "explain": "A judge's early order that can block a company from using certain tech while a case runs."
-        }
-      ],
-      "image": "images/wd-tech-1.jpg",
-      "image_alt": "Graphic related to OpenAI and Apple legal dispute coverage",
-      "image_credit": "Photo: 9to5Mac",
-      "section": "world"
-    },
-    {
-      "id": "wd-tech-2",
-      "category": "tech",
-      "headline": "Day one as Apple CEO: John Ternus inherits AI gap, foldable in 8 days, Cook as chair",
-      "dek": "Hardware chief takes the wheel; first big stage is the Sept. 9 iPhone event.",
-      "caveman": "Tuesday was John Ternus's first official day as Apple CEO. Tim Cook, after 15 years, becomes executive chairman and will still talk to world leaders for Apple. Ternus, 51, spent ~25 years at Apple and ran hardware engineering. He inherits a huge company that still trails rivals in generative AI, plus a Google Gemini licensing deal he did not negotiate, and a foldable iPhone Ultra expected at the Sept. 9 'Surprise and shine' event — about a week into the job. Johny Srouji steps up on hardware. Markets will judge Ternus first by that keynote, not by memos.",
-      "why_it_matters": "Apple sets the tone for phones, chips, and suppliers from Taiwan to India. A new CEO can shift product bets and factory plans.",
-      "camps": "Fans want a product-obsessed boss. Critics say AI lag is the real test. Cook staying as chair softens the handoff — or muddies it.",
-      "source_name": "Al Jazeera / UPI",
-      "source_url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "CEO",
-          "aliases": [],
-          "explain": "Chief executive officer — the top day-to-day boss."
-        },
-        {
-          "term": "executive chairman",
-          "aliases": [],
-          "explain": "Board role that can still guide strategy and politics without running daily ops."
-        },
-        {
-          "term": "generative AI",
-          "aliases": [],
-          "explain": "Software that writes text, makes images, or answers questions by predicting patterns."
-        },
-        {
-          "term": "foldable",
-          "aliases": [],
-          "explain": "A phone with a screen that bends so it opens like a small tablet."
-        }
-      ],
-      "image": "images/wd-tech-2.jpg",
-      "image_alt": "John Ternus and Tim Cook related Apple leadership coverage",
-      "image_credit": "Photo: UPI",
-      "section": "world"
-    },
-    {
-      "id": "wd-tech-3",
-      "category": "tech",
-      "headline": "iPhone Ultra leaks, day-of: MagSafe in, dual launch with Pros, crease 'mostly' tamed",
-      "dek": "Gurman to Tom's Guide: 5.5\" cover / 7.8\" inner, latest Pro chip + modem; no long delay expected.",
-      "caveman": "Fresh foldable crumbs landed Tuesday. Bloomberg's Mark Gurman told Tom's Guide (via 9to5Mac) that MagSafe wireless charging is planned for Apple's first foldable, the iPhone Ultra. Specs still point to about a 5.5-inch cover screen and 7.8-inch inner screen, plus the latest Apple Pro chip and modem. Multitasking should feel more iPad-like, with drag-and-drop between apps. Gurman said he would be surprised if Ultra missed launching with the new Pro phones — not a late-fall slip. The crease will not vanish, but Apple aims to match or beat new Samsung foldables. Sept. 9 is the reveal stage.",
-      "why_it_matters": "A real Apple foldable would shake the phone market and the parts chain — displays, hinges, glass — that Taiwan and Korea supply.",
-      "camps": "Believers say Apple ships when ready. Skeptics say foldables still scratch and crease. Accessory makers already sketch MagSafe wallets.",
-      "source_name": "9to5Mac",
-      "source_url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "MagSafe",
-          "aliases": [],
-          "explain": "Apple's magnetic charging and accessory ring on the phone's back."
-        },
-        {
-          "term": "crease",
-          "aliases": [],
-          "explain": "The faint fold line in the middle of a bending screen."
-        },
-        {
-          "term": "modem",
-          "aliases": [],
-          "explain": "The radio chip that talks to cell towers for 5G and calls."
-        },
-        {
-          "term": "dual launch",
-          "aliases": [],
-          "explain": "Two products going on sale around the same day."
-        }
-      ],
-      "image": "images/wd-tech-3.jpg",
-      "image_alt": "Purple foldable iPhone concept mockup",
-      "image_credit": "Photo: 9to5Mac",
-      "section": "world"
-    },
-    {
-      "id": "wd-tech-4",
-      "category": "tech",
-      "headline": "Hot Chips: Microsoft lifts the hood on Maia 200, its homemade AI inference chip",
-      "dek": "TSMC 3nm, ~750W, 6× HBM stacks, all-Ethernet rack scale — aimed at Azure, not a Nvidia clone.",
-      "caveman": "At Hot Chips 2026 on Tuesday, Microsoft gave its deepest look yet at Maia 200 — the company's second-generation custom AI accelerator for Azure cloud. ServeTheHome notes a TSMC 3-nanometer chip, about 140 billion transistors, six HBM3e memory stacks (~7 TB/s), and a ~750-watt power draw. Microsoft stresses software-defined dataflow and all-Ethernet networking so racks stay simpler to run. The pitch: more tokens per watt for Copilot-style chat and agent work, and less total dependence on Nvidia GPUs. Other giants (Google TPU, Amazon Trainium, Meta MTIA) are on the same homemade-chip path.",
-      "why_it_matters": "If cloud giants bake their own AI chips, Nvidia's pricing power and Taiwan foundry bookings both shift.",
-      "camps": "Microsoft says efficiency wins. Nvidia fans say GPUs still rule training. Chip investors watch who can actually ship at scale.",
-      "source_name": "ServeTheHome",
-      "source_url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "AI accelerator",
-          "aliases": [],
-          "explain": "A special chip built to run AI math fast, not a general laptop CPU."
-        },
-        {
-          "term": "inference",
-          "aliases": [],
-          "explain": "Using a finished AI model to answer questions — not the expensive training step."
-        },
-        {
-          "term": "HBM",
-          "aliases": [
-            "HBM3e"
-          ],
-          "explain": "High Bandwidth Memory — super-fast stacked memory stuck next to an AI chip."
-        },
-        {
-          "term": "Hot Chips",
-          "aliases": [],
-          "explain": "A yearly conference where companies show chip designs."
-        }
-      ],
-      "image": "images/wd-tech-4.jpg",
-      "image_alt": "Microsoft Maia 200 AI accelerator hardware hero shot",
-      "image_credit": "Photo: ServeTheHome",
-      "section": "world"
-    },
-    {
-      "id": "wd-pol-1",
-      "category": "politics",
-      "headline": "U.S. launches new strikes on IRGC sites in Iran; Tehran fires back, Trump warns harder hits",
-      "dek": "CENTCOM: radar, air defense, mine-laying, maritime targets. Oil and markets jolted.",
-      "caveman": "The quiet month broke. On Tuesday U.S. Central Command said American forces struck Islamic Revolutionary Guard Corps targets in Iran — air defenses, radars, maritime gear, mine-laying kit, and communications. Washington tied the raids to IRGC moves against shipping near Hormuz and against U.S. troops. President Trump called the strikes 'large and powerful' and warned that if Iran hits back harder, the U.S. will hit 'much harder.' Iranian forces claimed missile replies, including toward a U.S. site in Jordan; Iran also said a strike hit a wedding gathering in Sirik. Oil jumped; stocks fell. The wider war that cooled after July is hot again.",
-      "why_it_matters": "A wider U.S.–Iran fight moves oil, shipping insurance, and U.S. politics in one day.",
-      "camps": "Hawks say punish mine threats. Critics fear civilian harm and spiral. Gulf neighbors brace for debris and drones.",
-      "source_name": "Al Jazeera / Reuters",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran",
-      "published": "2026-09-01",
-      "terms": [
-        {
-          "term": "IRGC",
-          "aliases": [
-            "Revolutionary Guard"
-          ],
-          "explain": "Islamic Revolutionary Guard Corps — a powerful Iranian military force."
-        },
-        {
-          "term": "CENTCOM",
-          "aliases": [],
-          "explain": "U.S. Central Command — the U.S. military HQ for the Middle East region."
-        },
-        {
-          "term": "Strait of Hormuz",
-          "aliases": [],
-          "explain": "Chokepoint waterway for a large share of seaborne oil."
-        },
-        {
-          "term": "escalation",
-          "aliases": [],
-          "explain": "When each side answers with a bigger punch, and the fight grows."
+          "explain": "Many attacks launched in a short time."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Scene from coverage of U.S.–Iran conflict and strikes",
-      "image_credit": "Photo: AFP via Al Jazeera",
-      "section": "world"
+      "image_alt": "Middle East crisis or military related scene",
+      "image_credit": "Photo: Al Jazeera / Reuters"
     },
     {
       "id": "wd-pol-2",
+      "section": "world",
       "category": "politics",
-      "headline": "SCO Bishkek Declaration condemns strikes on Iran and 'unilateral' sanctions",
-      "dek": "Xi, Putin, Modi, Sharif among signers. Bloc backs Iran's peaceful nuclear rights under NPT.",
-      "caveman": "In Kyrgyzstan's capital Bishkek, Shanghai Cooperation Organisation leaders signed a joint Bishkek Declaration on Tuesday. The text condemns military strikes on Iran, offers condolences over Iranian deaths including the late supreme leader, and opposes 'unilateral coercive measures' — code for Western sanctions — that clash with UN and WTO rules. Members also backed Iran's right to peaceful nuclear work under the Nuclear Non-Proliferation Treaty. The SCO mixes China, Russia, India, Pakistan, Iran, and Central Asian states. Analysts noted tough Iran language and little on Ukraine. Energy cooperation talk rose while Hormuz routes stay risky.",
-      "why_it_matters": "A big Eurasian club just publicly sided with Iran on war and sanctions — a diplomatic signal to Washington and Brussels.",
-      "camps": "SCO states call it defending sovereignty. Western officials call it cover for Russia and Iran. India still balances ties with the U.S.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-      "published": "2026-09-01",
+      "headline": "Kyiv hit for 7th straight day; at least 13 injured in central strikes",
+      "dek": "University, housing, medical site damaged. Zelensky flags new air-alert approach.",
+      "caveman": "Russian drones struck central Kyiv on Sept. 2, injuring at least 13 people and damaging a university, a residential building, and a medical facility, local officials said. It was the seventh straight day of heavy pressure on the capital. President Zelensky said Ukraine will change how air-raid alerts work. Simple talk: the city has not had a quiet morning all week.",
+      "why_it_matters": "A capital under nightly drones means more displacement, hospital strain, and harder peace talks.",
+      "camps": "Kyiv wants stronger air defenses. Moscow claims military aims. Civilians want sleep and shelters that work.",
+      "source_name": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-strike-central-kyiv-at-least-13-injured/",
+      "published": "2026-09-02",
       "terms": [
         {
-          "term": "SCO",
+          "term": "air-raid alert",
           "aliases": [
-            "Shanghai Cooperation Organisation"
+            "air alert"
           ],
-          "explain": "Shanghai Cooperation Organisation — a regional club led in practice by China and Russia."
+          "explain": "Siren or app warning that an attack may be coming."
         },
         {
-          "term": "NPT",
+          "term": "drone strike",
           "aliases": [],
-          "explain": "Nuclear Non-Proliferation Treaty — deal that limits who may have nuclear weapons and protects peaceful nuclear power."
+          "explain": "Attack using unmanned aircraft carrying bombs."
         },
         {
-          "term": "unilateral sanctions",
+          "term": "Ground Forces",
           "aliases": [],
-          "explain": "Penalties one country or bloc puts on another without a full UN vote."
+          "explain": "The army branch that fights mostly on land."
         },
         {
-          "term": "Bishkek",
+          "term": "capital",
           "aliases": [],
-          "explain": "Capital of Kyrgyzstan; host of this SCO summit."
+          "explain": "The main government city — here, Kyiv."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "SCO leaders group photo at Bishkek summit",
-      "image_credit": "Photo: AFP via Al Jazeera",
-      "section": "world"
+      "image_alt": "Kyiv after drone attacks",
+      "image_credit": "Photo: Kyiv Independent / Getty"
     },
     {
       "id": "wd-pol-3",
+      "section": "world",
       "category": "politics",
-      "headline": "Zelensky: 'September could change a lot' after call with Witkoff and Kushner",
-      "dek": "Says U.S. envoys prepare Russia talks and a Ukraine visit; intel still shows Putin wants war.",
-      "caveman": "On Tuesday evening Ukraine time, President Volodymyr Zelensky said he had just spoken with Steve Witkoff and Jared Kushner, envoys for U.S. President Trump. He called the talk detailed and said they are preparing more contact with Russia and a visit to Ukraine. Zelensky briefed them on the front and on air attacks. He also said all intelligence he sees still shows Vladimir Putin wants the war to go on — even if many Russians would accept a stop along the current line. 'September could change a lot,' he said, asking partners to push for peace while protecting lives. Earlier date-locks alone are old; this is the September pitch.",
-      "why_it_matters": "U.S. envoys shuttling while Russia pounds Kyiv. A real trip or real talks would move European security overnight.",
-      "camps": "Kyiv wants leverage and air defense. Moscow shows no rush. Trump's team sells deal-making; skeptics want proof.",
-      "source_name": "Ukrinform",
-      "source_url": "https://www.ukrinform.net/rubric-polytics/4159533-september-could-change-a-lot-we-need-to-work-with-partners-to-achieve-peace-zelensky.html",
-      "published": "2026-09-01",
+      "headline": "Putin and Zelensky trade threats as drone war hits both sides",
+      "dek": "Zelensky warns foreign airlines about Russian airspace. Belgorod reports casualties.",
+      "caveman": "As drones and missiles flew, Vladimir Putin and Volodymyr Zelensky traded sharp threats. Zelensky warned foreign airlines that Russian skies are not safe because of Ukrainian long-range drones. Russia said it shot down many drones overnight; Belgorod officials reported dead and wounded from Ukrainian strikes. Simple talk: both leaders promise to raise the pain, while the front line stays mostly stuck.",
+      "why_it_matters": "Threats to airspace and energy sites can spill into global travel and oil markets.",
+      "camps": "Kyiv says pressure forces talks. Moscow vows retaliation. Airlines and insurers recalculate risk.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia",
+      "published": "2026-09-02",
       "terms": [
         {
-          "term": "envoy",
+          "term": "long-range drone",
           "aliases": [],
-          "explain": "A person sent to talk for a president or government."
+          "explain": "Unmanned aircraft that can fly far into another country."
         },
         {
-          "term": "line of contact",
+          "term": "airspace",
           "aliases": [],
-          "explain": "The front line where the two armies face each other."
+          "explain": "The sky a country controls for planes."
         },
         {
-          "term": "air defense",
+          "term": "deadlock",
           "aliases": [],
-          "explain": "Missiles and guns that try to shoot down drones and rockets."
+          "explain": "A fight where neither side makes big land gains."
         },
         {
-          "term": "Witkoff",
-          "aliases": [
-            "Steve Witkoff"
-          ],
-          "explain": "Steve Witkoff — a Trump point person on Ukraine–Russia talks."
+          "term": "retaliation",
+          "aliases": [],
+          "explain": "Hitting back after being hit."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Volodymyr Zelensky speaking in a formal setting",
-      "image_credit": "Photo: Ukrinform",
-      "section": "world"
+      "image_alt": "Ukraine Russia conflict scene",
+      "image_credit": "Photo: Al Jazeera / AFP"
     },
     {
       "id": "wd-pol-4",
+      "section": "world",
       "category": "politics",
-      "headline": "Modi, at SCO, urges Putin to leave 'endless war' as Kyiv counts another deadly night",
-      "dek": "BBC: Indian PM tells close partner Russia to move toward peace while Russian strikes kill 12 near Kyiv.",
-      "caveman": "On the sidelines of big-power diplomacy, India's Narendra Modi publicly urged Russia's Vladimir Putin to move 'from an endless war to an end of war,' BBC reported Tuesday — a notable line from a leader whose country still buys lots of discounted Russian oil. The plea landed as Ukraine said Russian missiles and jet-powered drones killed at least 12 people in and around Kyiv on the sixth straight day of heavy attacks. Moscow said it hit military and energy sites. The split screen is the story: SCO solidarity language on Iran in Bishkek, and a rare on-camera nudge to Putin about Ukraine.",
-      "why_it_matters": "India sits between Washington and Moscow. A public peace nudge matters even if oil trade continues.",
-      "camps": "Delhi says it speaks for peace. Critics say cheap oil funds the war. Kyiv welcomes any pressure on Putin.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.com/news/articles/cx2zmdgry3do",
-      "published": "2026-09-01",
+      "headline": "Zelensky appoints new Ground Forces commander amid grinding war",
+      "dek": "Sviatoslav Zaiets replaces Hennadii Shapovalov, decree says.",
+      "caveman": "Ukraine’s president signed a Sept. 2 decree naming Sviatoslav Zaiets the new Ground Forces commander, replacing Hennadii Shapovalov. The change lands while Russia keeps pounding cities and Ukraine hits depots and air assets. Simple talk: when a long war stalls, leaders reshuffle the generals who run the land fight.",
+      "why_it_matters": "Command changes can shift tactics, morale, and Western confidence in Ukraine’s war plan.",
+      "camps": "Supporters call it renewal. Critics fear churn. Soldiers care if ammo and rotations improve.",
+      "source_name": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-strike-central-kyiv-at-least-13-injured/",
+      "published": "2026-09-02",
       "terms": [
         {
-          "term": "discounted oil",
+          "term": "commander",
           "aliases": [],
-          "explain": "Oil sold cheaper than the usual world price — a lure for buyers."
+          "explain": "The top officer in charge of a military branch."
         },
         {
-          "term": "sidelines",
+          "term": "decree",
           "aliases": [],
-          "explain": "Meetings that happen next to a big summit, not on the main stage."
+          "explain": "An official order signed by the president."
         },
         {
-          "term": "jet-powered drone",
+          "term": "depot",
           "aliases": [],
-          "explain": "A drone with a jet engine — faster and harder to shoot down than slow propeller drones."
+          "explain": "A storage site for ammo or supplies."
+        },
+        {
+          "term": "reshuffle",
+          "aliases": [],
+          "explain": "Changing leaders or jobs inside an organization."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Coverage image related to Modi–Putin diplomacy and Ukraine war",
-      "image_credit": "Photo: BBC",
-      "section": "world"
+      "image_alt": "Ukrainian military or Kyiv leadership",
+      "image_credit": "Photo: Kyiv Independent"
     },
     {
       "id": "wd-lit-1",
+      "section": "world",
       "category": "literature",
-      "headline": "Pardon My Book debuts PW overall No. 2 with 49,297 print copies — messy on purpose",
-      "dek": "Barstool podcast duo Big Cat & PFT top hardcover nonfiction; outsell Portnoy's earlier hit.",
-      "caveman": "Sports-podcast chaos hit the book chart. Publishers Weekly's Aug. 31 list (Circana BookScan week ended Aug. 22) has Pardon My Book by Dan 'Big Cat' Katz and Eric 'PFT Commenter' Sollenberger at No. 2 overall and No. 1 hardcover nonfiction with 49,297 print copies in week one. PW says that beats Dave Portnoy's Cancel Me If You Can debut by about 14,000 copies. The hosts brag the book is barely edited — 'telling over spelling.' Love it or hate it, that is the U.S. print market this week: a loud podcast yearbook sitting just behind quiet literary giant Theo of Golden.",
-      "why_it_matters": "Shows how podcast fame still prints physical books — and how Circana counts move the industry.",
-      "camps": "Fans call it a souvenir. Editors wince. Bookstores note it sells anyway.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
-      "published": "2026-08-31",
+      "headline": "Robert Harris’s Agrippa hits U.S. shelves Sept. 1 — Rome on the edge of dictatorship",
+      "dek": "Doubleday. From the Conclave author; Wall Street Journal calls it a swift-paced romp.",
+      "caveman": "Robert Harris’s new novel Agrippa went on sale Sept. 1 in the United States. It follows Marcus Agrippa beside Octavius as Rome slides toward one-man rule. Reviews call it gripping and timely. Simple talk: a famous political thriller writer goes back to ancient Rome and makes power feel fresh.",
+      "why_it_matters": "Big September hardcovers set the fall reading list for U.S. bookstores and clubs.",
+      "camps": "History fans want accuracy. Thriller fans want pace. Teachers may assign the power lessons.",
+      "source_name": "Penguin Random House",
+      "source_url": "https://www.penguinrandomhouse.com/books/813007/agrippa-by-robert-harris/",
+      "published": "2026-09-01",
       "terms": [
         {
-          "term": "Circana BookScan",
-          "aliases": [
-            "BookScan"
-          ],
-          "explain": "Service that counts most U.S. print book sales for bestseller lists."
+          "term": "Agrippa",
+          "aliases": [],
+          "explain": "Roman general and friend of Augustus; also the novel’s title."
         },
         {
-          "term": "hardcover nonfiction",
+          "term": "hardcover",
           "aliases": [],
-          "explain": "True-story / essay / memoir books in hard covers."
+          "explain": "A book with a hard cover, usually the first fancy edition."
         },
         {
-          "term": "debut",
+          "term": "on-sale date",
           "aliases": [],
-          "explain": "First week on the list."
+          "explain": "The day stores are allowed to sell a new book."
         },
         {
-          "term": "Barstool",
+          "term": "political thriller",
           "aliases": [],
-          "explain": "Barstool Sports — a loud U.S. sports-media brand."
+          "explain": "A story about power, plots, and danger in government."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Cover of Pardon My Book",
-      "image_credit": "Photo: Goodreads / Harper cover",
-      "section": "world"
+      "image_alt": "Cover art for Agrippa by Robert Harris",
+      "image_credit": "Photo: Penguin Random House"
     },
     {
       "id": "wd-lit-2",
+      "section": "world",
       "category": "literature",
-      "headline": "The Poison Daughter opens at PW No. 1 hardcover fiction / No. 4 overall (27,068)",
-      "dek": "Sheila Masterson's romantasy rides TikTok into Slowburn; Hulu series interest noted.",
-      "caveman": "Romantasy keeps eating the fiction table. The Poison Daughter by Sheila Masterson debuts at No. 1 on Publishers Weekly's hardcover fiction list and No. 4 overall with 27,068 Circana print copies (week ended Aug. 22; Aug. 31 PW). Masterson self-published earlier work; Slowburn took this title after social buzz, and PW notes Hulu interest. The book joins a crowded U.S. fantasy-romance boom. On the same overall chart, Freida McFadden's Brain Damage sits No. 3 and Allen Levi's Theo of Golden still holds No. 1 — but Poison Daughter is the new hardcover fiction story of the week.",
-      "why_it_matters": "Tracks what U.S. readers actually buy: romantasy and thrillers, not only prize novels.",
-      "camps": "TikTok readers celebrate. Literary purists grumble. Publishers hunt the next Slowburn.",
+      "headline": "Inaugural Black Bookstore Day draws crowds; coalition says it will return in 2027",
+      "dek": "Aug. 29 celebration honored Black-owned shops. Wichita founder: ‘y’all showed up.’",
+      "caveman": "The first Black Bookstore Day was held Saturday, Aug. 29. Founder Latasha Eley Kelly of Left on Read in Wichita said stores and readers showed up nationwide. The day honors Black-owned bookstores as community and literature hubs. Organizers already talk about 2027. Simple talk: a new annual holiday for Black bookstores just took its first victory lap.",
+      "why_it_matters": "Independent Black bookstores keep authors visible and neighborhoods stocked with stories schools skip.",
+      "camps": "Booksellers want year-round support, not one day. Readers celebrate belonging. Publishers watch sales lifts.",
+      "source_name": "Shelf Awareness",
+      "source_url": "https://www.shelf-awareness.com/theshelf/2026-08-31/black_bookstore_day:%C2%A0_we_had_a_magical_day_.html",
+      "published": "2026-08-31",
+      "terms": [
+        {
+          "term": "independent bookstore",
+          "aliases": [
+            "indie bookstore"
+          ],
+          "explain": "A locally owned book shop, not a giant chain."
+        },
+        {
+          "term": "coalition",
+          "aliases": [],
+          "explain": "A group of people or shops working together."
+        },
+        {
+          "term": "proclamation",
+          "aliases": [],
+          "explain": "A public official statement recognizing a day or cause."
+        },
+        {
+          "term": "frontlist",
+          "aliases": [],
+          "explain": "New books a store is pushing right now."
+        }
+      ],
+      "image": "images/wd-lit-2.jpg",
+      "image_alt": "Black Bookstore Day logo or celebration",
+      "image_credit": "Photo: Shelf Awareness"
+    },
+    {
+      "id": "wd-lit-3",
+      "section": "world",
+      "category": "literature",
+      "headline": "PW: The Poison Daughter debuts at No. 1 — and lands a Hulu series development deal",
+      "dek": "Sheila Masterson’s romantasy tops hardcover fiction on the Aug. 31 list.",
+      "caveman": "Publishers Weekly’s Aug. 31 bestsellers say Sheila Masterson’s The Poison Daughter debuted at No. 1 on the hardcover fiction list after Slowburn’s edition arrived with huge social buzz. PW also notes Hulu announced a series development deal in early August. Simple talk: a self-pub romantasy hit the top of the trade chart and Hollywood already wants TV rights.",
+      "why_it_matters": "Chart-toppers decide bookstore tables and what Hollywood shops next.",
+      "camps": "Romantasy readers celebrate. Traditional publishers hunt the next Masterson. TV fans wait for casting news.",
       "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/nielsen/top100.html",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
       "published": "2026-08-31",
       "terms": [
         {
           "term": "romantasy",
           "aliases": [],
-          "explain": "Romance plus fantasy — love stories with magic, fae, or poison kisses."
+          "explain": "Romance plus fantasy — love stories with magic or other worlds."
         },
         {
-          "term": "hardcover fiction",
+          "term": "hardcover fiction list",
           "aliases": [],
-          "explain": "Made-up stories sold in hard covers."
+          "explain": "Weekly ranking of new hard novels by sales."
         },
         {
-          "term": "Slowburn",
+          "term": "development deal",
           "aliases": [],
-          "explain": "A romance publisher imprint named for slow-building chemistry — also this book's house."
-        }
-      ],
-      "image": "images/wd-lit-2.jpg",
-      "image_alt": "Cover of The Poison Daughter",
-      "image_credit": "Photo: Open Library / publisher cover",
-      "section": "world"
-    },
-    {
-      "id": "wd-lit-3",
-      "category": "literature",
-      "headline": "IndieBound: Yesteryear still No. 1 (week 20); Poison Daughter is the new No. 6 Indie Next",
-      "dek": "Independent bookstores keep Caro Claire Burke on top; Stockett and Patchett hold strong.",
-      "caveman": "At U.S. indie bookstores, Yesteryear by Caro Claire Burke is still No. 1 hardcover fiction on the national IndieBound list dated around Aug. 26 — week 20 on the list. The Calamity Club by Kathryn Stockett and Whistler by Ann Patchett stay near the top. The fresh move: The Poison Daughter lands as a September Indie Next Pick and shows as a new entry around No. 6 on indie lists. That split matters — chain/Circana charts love podcasts and TikTok; indies still push literary debuts and book-club novels. Same country, two taste maps.",
-      "why_it_matters": "IndieBound is the pulse of independent shops — often where prize buzz and book clubs start.",
-      "camps": "Indie booksellers champion Burke and Patchett. Mass merchants push McFadden and sports bros. Readers can ignore both and browse.",
-      "source_name": "IndieBound",
-      "source_url": "https://www.indiebound.org/bestseller-list-v2/national/2026-08-26",
-      "published": "2026-08-26",
-      "terms": [
-        {
-          "term": "IndieBound",
-          "aliases": [],
-          "explain": "Bestseller list built from independent U.S. bookstores."
+          "explain": "A studio pays to try turning a book into a show, not a finished series yet."
         },
         {
-          "term": "Indie Next",
+          "term": "self-published",
           "aliases": [
-            "Indie Next Pick"
+            "self-pub"
           ],
-          "explain": "Monthly picks indie booksellers recommend."
-        },
-        {
-          "term": "tradwife",
-          "aliases": [],
-          "explain": "Internet trend romanticizing old-fashioned housewife roles — Yesteryear's satirical spark."
+          "explain": "Author releases a book without a traditional publisher first."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Cover of Yesteryear by Caro Claire Burke",
-      "image_credit": "Photo: Open Library / Knopf cover",
-      "section": "world"
+      "image_alt": "Bestsellers or romantasy books display",
+      "image_credit": "Photo: BookWeb / Indie Next"
     },
     {
       "id": "wd-lit-4",
+      "section": "world",
       "category": "literature",
-      "headline": "The Nerd Reich hits PW hardcover nonfiction No. 6 as Durán warns on tech power",
-      "dek": "Starred PW interview book on billionaire politics sits behind Haberman/Swan's Regime Change.",
-      "caveman": "Not all nonfiction is podcast jokes. Gil Durán's The Nerd Reich appears at No. 6 on Publishers Weekly's hardcover nonfiction list in the Aug. 31 package, with a starred PW take calling it a sharp look at antidemocratic ideas among tech billionaires tied to Trump's second term. Durán's line, paraphrased: the world has billions of people and only thousands of billionaires — pick democracy or billionaire rule. It sits behind chart leaders like Pardon My Book and Maggie Haberman & Jonathan Swan's Regime Change. U.S. readers are buying both meme sports books and dark tech-politics books in the same week.",
-      "why_it_matters": "Shows a serious U.S. appetite for books that audit tech power — not only escapism.",
-      "camps": "Tech critics cheer. Silicon Valley shrugs. Book clubs may actually finish this one.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
-      "published": "2026-08-31",
+      "headline": "September Indie Next List preview: booksellers tip fall fiction and essays",
+      "dek": "ABA flier highlights new staff picks for September shelves.",
+      "caveman": "The American Booksellers Association posted its September 2026 Indie Next List preview — 25 bookseller-loved titles plus paperback picks. The list is how indie shops tell shoppers what to read next after summer. Simple talk: local bookstores already voted on their fall favorites.",
+      "why_it_matters": "Indie Next placement can make a midlist novel suddenly visible across the U.S.",
+      "camps": "Authors chase the sticker. Booksellers defend taste. Big publishers watch which indies move.",
+      "source_name": "BookWeb / ABA",
+      "source_url": "https://www.bookweb.org/news/september-2026-indie-next-list-preview-1633047",
+      "published": "2026-09-01",
       "terms": [
         {
-          "term": "nonfiction",
+          "term": "Indie Next List",
           "aliases": [],
-          "explain": "Books about real people and real events."
+          "explain": "Monthly list of books recommended by U.S. independent booksellers."
         },
         {
-          "term": "starred review",
-          "aliases": [],
-          "explain": "A critic's extra-strong recommendation in trade magazines like PW."
+          "term": "ABA",
+          "aliases": [
+            "American Booksellers Association"
+          ],
+          "explain": "Trade group for indie bookstores."
         },
         {
-          "term": "Regime Change",
+          "term": "staff pick",
           "aliases": [],
-          "explain": "Haberman & Swan book on Trump's imperial presidency style — another NF chart fixture."
+          "explain": "A book a store worker personally recommends."
+        },
+        {
+          "term": "midlist",
+          "aliases": [],
+          "explain": "Books that are not mega-bestsellers but still matter."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Cover of The Nerd Reich",
-      "image_credit": "Photo: Open Library / publisher cover",
-      "section": "world"
+      "image_alt": "September Indie Next List graphic",
+      "image_credit": "Photo: BookWeb.org"
     },
     {
       "id": "wd-soc-1",
+      "section": "world",
       "category": "social",
-      "headline": "Nepal–Tibet floods: death toll passes 1,000; 4,200+ still missing; DNA ID drive",
-      "dek": "UN OCHA Tuesday: glacier collapse disaster enters second week. 43,000 women and girls need aid.",
-      "caveman": "The Himalayan flood disaster got worse on the numbers. UN aid office OCHA said Tuesday the death toll is just over 1,000, with about 4,247 people still missing after a glacier collapse on the Nepal–China border. China side reports are smaller but still deadly. Nepal police asked relatives of missing tourists for DNA and photos because many bodies are hard to identify; some areas already used mass burial with tags after morgues filled. UN Women says about 43,000 women and girls need immediate help. Red Cross teams are only now reaching some cut-off districts. Monsoon and landslide risk continue.",
-      "why_it_matters": "One of 2026's deadliest climate-linked disasters. Missing foreigners make it a global family crisis too.",
-      "camps": "Rescuers beg for speed and money. Climate scientists point at warming glaciers. Locals want water, food, and roads first.",
-      "source_name": "UN News / The Guardian",
-      "source_url": "https://news.un.org/en/story/2026/09/1168234",
-      "published": "2026-09-01",
+      "headline": "Nepal flood toll passes 1,100; rescuers race for tunnel workers a week later",
+      "dek": "Nearly 4,000 still missing. China sending DNA experts and Bailey bridges.",
+      "caveman": "A week after a Himalayan glacier collapse sent flash floods through Nepal, authorities counted at least 1,114 dead and nearly 4,000 missing. Hopes for survivors elsewhere are fading, but teams still try to reach workers who may be alive inside hydropower tunnels. China said it will send more DNA experts and emergency gear. Simple talk: the clock is cruel, but tunnel air gives one last thin hope.",
+      "why_it_matters": "Climate-driven mountain disasters kill across borders and smash power and roads for months.",
+      "camps": "Families want names and bodies. Governments want bridges restored. Scientists say early warnings must improve.",
+      "source_name": "NBC News / Reuters",
+      "source_url": "https://www.nbcnews.com/world/asia/hopes-finding-survivors-dim-week-catastrophic-nepal-flood-rcna595673",
+      "published": "2026-09-02",
       "terms": [
-        {
-          "term": "OCHA",
-          "aliases": [],
-          "explain": "UN Office for the Coordination of Humanitarian Affairs — the UN's emergency aid traffic cop."
-        },
         {
           "term": "glacier collapse",
           "aliases": [],
-          "explain": "When a big ice mass breaks and sends floodwater, mud, and rock downhill fast."
+          "explain": "A big chunk of ice and rock suddenly fails and falls."
         },
         {
-          "term": "DNA profiling",
+          "term": "flash flood",
           "aliases": [],
-          "explain": "Using genetic samples to match unnamed bodies to families."
+          "explain": "Water rises very fast in a valley, often with little warning."
         },
         {
-          "term": "monsoon",
+          "term": "Bailey bridge",
           "aliases": [],
-          "explain": "Seasonal heavy rain pattern in South Asia."
+          "explain": "A quick-build temporary steel bridge used after disasters."
+        },
+        {
+          "term": "DNA identification",
+          "aliases": [],
+          "explain": "Using genetic tests to name unidentified victims."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Destruction after Nepal flash floods",
-      "image_credit": "Photo: Reuters via Al Jazeera",
-      "section": "world"
+      "image_alt": "Nepal flood rescue or Kathmandu relief",
+      "image_credit": "Photo: NBC News"
     },
     {
       "id": "wd-soc-2",
+      "section": "world",
       "category": "social",
-      "headline": "WFP halves West Bank food aid: 400,000 people cut to 200,000 from September",
-      "dek": "Agency needs $386M more in six months for Gaza + West Bank; Gaza cash already cut 40% for some.",
-      "caveman": "Hunger math got crueler. On Tuesday the World Food Programme said funding gaps force it to cut West Bank food help from about 400,000 people to 200,000 starting this month — even though need has more than doubled since 2023 and roughly 900,000 West Bank residents are food insecure. Tiny cash transfers (under $20 a person per month) that acted as a lifeline will shrink. In Gaza, WFP already cut cash value 40% for hundreds of thousands in July and warns more cuts without new money. WFP wants about $386 million extra over six months for some two million hungry people across both territories.",
-      "why_it_matters": "Aid is a pipe, not a speech. When donors quit, families eat less — ceasefire or not.",
-      "camps": "WFP says prioritize the neediest. Families already skipping meals disagree with the math. Donors cite budget fatigue.",
-      "source_name": "WFP / UN News",
-      "source_url": "https://www.wfp.org/news/funding-shortfall-forces-world-food-programme-cut-food-assistance-half-west-bank",
+      "headline": "Indonesia’s Flores quake: nearly 190,000 still displaced; 111 dead",
+      "dek": "BNPB tally Aug. 30. Over 95,000 homes damaged; schools heavily hit.",
+      "caveman": "More than two weeks after a magnitude-7.7 quake hit Indonesia’s Flores region, about 188,000 people were still living away from home, the disaster agency said. The death toll stood at 111, with thousands injured and tens of thousands of homes wrecked. Aftershocks keep coming. Simple talk: the shaking stopped making headlines, but tents are still full.",
+      "why_it_matters": "Displacement this large needs months of shelter, school, and rebuild money — not just first-week rescue photos.",
+      "camps": "Local governments want temporary housing. Parents want schools back. Donors ask where aid goes.",
+      "source_name": "Migrant Times / BNPB",
+      "source_url": "https://migrantimes.com/crisis-displacement/01-09-2026/nearly-190000-ntt-quake-victims-remain-displaced-bnpb",
       "published": "2026-09-01",
       "terms": [
         {
-          "term": "WFP",
-          "aliases": [],
-          "explain": "World Food Programme — the UN's main food-aid agency."
+          "term": "displaced",
+          "aliases": [
+            "IDP"
+          ],
+          "explain": "People forced to leave home because of disaster or war."
         },
         {
-          "term": "food insecure",
+          "term": "magnitude",
           "aliases": [],
-          "explain": "Not sure you can get enough safe food tomorrow."
+          "explain": "A number that describes how strong an earthquake was."
         },
         {
-          "term": "cash assistance",
+          "term": "aftershock",
           "aliases": [],
-          "explain": "Aid given as money or vouchers so people can buy food locally."
+          "explain": "Smaller quakes that follow a big one."
         },
         {
-          "term": "West Bank",
+          "term": "BNPB",
           "aliases": [],
-          "explain": "Palestinian territory west of the Jordan River, under Israeli occupation in large part."
+          "explain": "Indonesia’s national disaster management agency."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "WFP food assistance work in Palestinian territories",
-      "image_credit": "Photo: WFP",
-      "section": "world"
+      "image_alt": "Indonesia earthquake relief supplies",
+      "image_credit": "Photo: BNPB / Migrant Times"
     },
     {
       "id": "wd-soc-3",
+      "section": "world",
       "category": "social",
-      "headline": "Kyiv's sixth deadly night: at least 12 killed, including rail workers; jet drones overwhelm",
-      "dek": "Zelensky: ballistic missiles + jet drones. Air force says interception rates lag on new drones.",
-      "caveman": "Ukraine's capital woke to another body count. Officials said at least 12 people died and about 20 were hurt in overnight Russian missile and drone attacks on Kyiv and nearby towns — the sixth straight day of heavy strikes. About six of the dead were railway workers when a depot was hit. Russia said it aimed at military and energy sites. Ukraine says Moscow is flooding the sky with faster jet-powered drones that are harder to shoot down, wearing out air defenses and nerves as kids head back toward school season. Rescue crews numbered in the hundreds overnight.",
-      "why_it_matters": "Civilian deaths on a European capital's doorstep keep the war on the morning front page.",
-      "camps": "Kyiv begs for more interceptors. Moscow calls targets legitimate. EU ministers talk air defense while apartments burn.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+      "headline": "MSF: urgent needs linger three weeks after Colombia’s Aug. 10 quake",
+      "dek": "Mobile clinics in Buenaventura and Chocó. Conflict and weak services deepen gaps.",
+      "caveman": "Three weeks after a 7.4-magnitude earthquake hit western Colombia on Aug. 10, Doctors Without Borders says thousands still struggle for care, mental health help, food, and rebuild materials. Hardest gaps are in poor and conflict-hit areas like parts of Chocó and Buenaventura. Simple talk: when the cameras leave, the broken clinics stay broken.",
+      "why_it_matters": "Disasters hit unfairly. Places already hurt by violence need longer aid, not a one-week airlift.",
+      "camps": "MSF pushes mobile clinics. Local communities want rebuild materials. Officials face trust gaps.",
+      "source_name": "MSF",
+      "source_url": "https://www.msf.org/urgent-needs-persist-three-weeks-after-earthquake-colombia",
       "published": "2026-09-01",
       "terms": [
         {
-          "term": "ballistic missile",
-          "aliases": [],
-          "explain": "A rocket that flies high then falls fast on a target."
+          "term": "MSF",
+          "aliases": [
+            "Doctors Without Borders"
+          ],
+          "explain": "A medical charity that works in crises."
         },
         {
-          "term": "jet-powered drone",
+          "term": "mobile clinic",
           "aliases": [],
-          "explain": "Uncrewed aircraft with a jet engine — quicker than propeller drones."
+          "explain": "Doctors and nurses who travel to treat people where hospitals are weak."
         },
         {
-          "term": "air defense",
+          "term": "mental health support",
           "aliases": [],
-          "explain": "Systems that try to destroy incoming missiles and drones."
+          "explain": "Help for fear, grief, and trauma after a disaster."
         },
         {
-          "term": "depot",
+          "term": "Afro-Colombian",
           "aliases": [],
-          "explain": "A rail yard or warehouse where trains and gear sit."
+          "explain": "Colombian communities with African heritage, often under-served."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Aftermath of strikes in Kyiv region",
-      "image_credit": "Photo: The Guardian",
-      "section": "world"
+      "image_alt": "MSF response after Colombia earthquake",
+      "image_credit": "Photo: MSF"
     },
     {
       "id": "wd-soc-4",
+      "section": "world",
       "category": "social",
-      "headline": "Sudan: El Obeid 'shockingly overcrowded' as new waves of displaced families arrive",
-      "dek": "EDGE/Save the Children: 15,000+ families since mid-July on top of 200,000 earlier; water still broken.",
-      "caveman": "Away from the headlines about Iran and Kyiv, Sudan's war keeps swallowing cities. Reporting dated Tuesday describes El Obeid and nearby camps as 'dire and deteriorating,' with more than 15,000 families arriving since mid-July after earlier waves above 200,000 people. Volunteers call the city shockingly overcrowded. RSF drone damage earlier wrecked water and power; many still rely on trucked water. Aid groups warn of disease risk in rainy season and of children out of school by the millions nationwide. Sudan remains one of the world's largest displacement crises — even when cameras look elsewhere.",
-      "why_it_matters": "Scale of suffering can be huge and still under-covered. Displacement now shapes famine and disease risk.",
-      "camps": "Aid workers want access and cash. Warring parties keep fighting. Neighbors host refugees with thin budgets.",
-      "source_name": "EDGE News / UN IOM",
-      "source_url": "https://www.edgenews.net/8237",
+      "headline": "FEWS NET: South Sudan faces Emergency hunger and famine risk into 2027",
+      "dek": "Conflict, floods, and high prices. Some counties already see Catastrophe outcomes.",
+      "caveman": "A FEWS NET update warns that conflict and poor rains will keep Emergency-level hunger across much of South Sudan through the harvest and into early 2027. Millions need food help. In hard-to-reach parts of Jonglei and Upper Nile, some people already face Catastrophe. Simple talk: war plus weird weather means empty pots lasting months.",
+      "why_it_matters": "Famine risk is a policy alarm. Delayed aid becomes graves.",
+      "camps": "Aid groups want access. Armed actors block roads. Donors argue about funding cuts.",
+      "source_name": "ReliefWeb / FEWS NET",
+      "source_url": "https://reliefweb.int/report/south-sudan/south-sudan-food-security-outlook-update-conflict-and-poor-rains-sustain-emergency-and-risk-famine-through-harvest-june-2026-january-2027",
       "published": "2026-09-01",
       "terms": [
         {
-          "term": "IDP",
+          "term": "FEWS NET",
+          "aliases": [],
+          "explain": "A U.S.-funded network that warns about hunger crises."
+        },
+        {
+          "term": "IPC Phase",
           "aliases": [
-            "displaced"
+            "Emergency",
+            "Catastrophe"
           ],
-          "explain": "Internally displaced person — someone forced from home who stays inside their country."
+          "explain": "A 1-to-5 hunger scale. Higher numbers mean worse food insecurity."
         },
         {
-          "term": "RSF",
+          "term": "lean season",
           "aliases": [],
-          "explain": "Rapid Support Forces — one main armed side in Sudan's civil war."
+          "explain": "Months when old harvest food runs out before new crops arrive."
         },
         {
-          "term": "El Obeid",
+          "term": "humanitarian access",
           "aliases": [],
-          "explain": "Major city in Sudan's North Kordofan — a hub for people fleeing nearby fighting."
-        },
-        {
-          "term": "water trucking",
-          "aliases": [],
-          "explain": "Hauling drinking water by truck when pipes and wells fail."
+          "explain": "Whether aid workers can safely reach people who need food and medicine."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Displaced Sudanese civilians and crowded shelter conditions",
-      "image_credit": "Photo: The Guardian / file via EDGE",
-      "section": "world"
+      "image_alt": "Humanitarian food assistance scene",
+      "image_credit": "Photo: MSF file / related relief"
     }
   ]
 }
