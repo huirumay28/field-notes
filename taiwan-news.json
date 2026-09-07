@@ -1,44 +1,49 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-04T08:00:00+08:00",
-  "notes": "Friday 4 Sep 2026 Taiwan issue (Taipei ~08:00). Window Wed–Fri morning; leads prefer Thu 3 Sep closes + overnight Fri. Covered: Thu Taiex 45857.66 −307 vol ~9463bn (TSMC 2390/+5); 3-inst −637bn (F−481/IT+11/DL−167); TWD 31.755 −2.7分; 6 financial holdings highs / E.Sun 43.2; +US$20B US investment to ~$55B; Micron Lu fab bottleneck; Unimicron origin-label Gong; ITRI PQC chip; Maanshan nuke tech review + KMT/DPP; Chiang Wan-an exchange row; Lai Armed Forces Day shrine + TAO; NHIA ER boarding reforms; Yang Chin-hua 6-mo leave; Hope premiere; Watanabe Naomi Ancestor Ghost; GHFF slate Lee/Kikuchi; HCV 1062 notified; hourly migrant phase-3; Hermit-crab social housing; Wu firefighter apology follow-up. EXCLUDED recycled without new fact: Wed −784/46164; Wed −1150bn; TWD 31.728; SEMICON Hou 1.9X alone; MTK Tsai ECB ask alone; Hon Hai Made with Taiwan; Unimicron Japan ABF meetings alone; Lai FY116 budget announce alone; Songhe 11/1118 first drop alone; Golden Horse host slate alone. World half same pass.",
+  "fetched_at": "2026-09-07T08:00:00+08:00",
+  "notes": "Monday 7 Sep 2026 Taiwan issue (Taipei ~08:00). Window Fri 4 Sep closes + weekend Sep 5–6; US Labor Day Mon so next cash session Tue. Covered: Fri Taiex 46551.13/+693.47 vol ~8256bn (TSMC 2410/+20, MTK 4415/+1.73%, Yageo limit-up; OTC +1.83%; week +219.68 周線連2紅); 3-inst +628.72bn (F+562/IT+2.89/DL+63.7) week still −857bn; 國巨漲停被動元件+融資上市+31.55bn+台指期夜盤+473 despite Fri US red; TWD 31.63/+1.25角 week −0.2分; Nvidia $3.5B MTK ECB + Tsai SEMICON follow-up; TSMC Hou AI 30yr/20 fabs; TSMC Kaohsiung Baipu advanced packaging; Acer Chen AI capital base Sep4; TPP suspends all Hsinchu electoral coop with KMT (Zhubei Wu/Chiu); 九合一登記截止22縣市長; Lai Taitung Chen Ying; Cho 8×不副署 scholar warning Sep4; Watanabe+Liu presser Sep4 (new fact vs prior night-show promo); Swan&Bat Honda/Matsumura Taipei; Yunho Taipei solo Sep5; Guardians L.S.S. Dome open Sep5; CDC flood leptospirosis/melioidosis Sep6; 共生宅長照3.0 Sep1; Hsinchu hotel Legionnaires Sep6; Kaohsiung Lake Nei Thai migrant fire escape Sep6. EXCLUDED recycled without new fact: Wed Taiex 45857/−307 TSMC2390; prior 3-inst −637bn; TWD31.755; 6 financial holdings highs; US$20B US invest / Micron Lu / Unimicron origin / ITRI PQC; Maanshan nuke / Chiang exchange / Lai Armed Forces Day / NHIA ER; Yang leave / Hope premiere / Watanabe night-show-only / GHFF Lee-Kikuchi slate alone; HCV1062 notified alone; hourly migrant phase-3; Hermit-crab housing alone; Wu firefighter apology.",
   "stories": [
     {
       "id": "tw-fin-1",
       "section": "taiwan",
       "category": "經濟",
-      "headline": "台股3日殺尾盤跌307點收45857，失守46000；台積電小漲收2390",
-      "dek": "高低震盪近680點。電子弱、金融強，成交約9463億。",
-      "caveman": "星期四台股像坐雲霄飛車。加權指數收四萬五千八百五十七點六六，跌三百零七點，跌破四萬六千。盤中高低差近六百八十點。電子指數跌約百分之零點八五，金融指數反而漲超過百分之二。台積電收兩千三百九十元、小漲五元；聯發科收四千三百四十元、漲約百分之一點五；記憶體、載板、被動元件卻摔得很兇。白話：權王有撐，但一堆電子零件股把大盤往下拖。",
-      "why_it_matters": "退休金、ETF、電子供應鏈薪水都跟大盤綁在一起。失守整數關卡常讓人心慌，即使台積電當天沒跌。",
-      "camps": "空方看油價與美伊緊張。多方說金融股與AI長線題材還在，一天震盪不代表整季翻空。",
+      "headline": "台股4日大漲693點收46551，重返46000與五日線；台積電收2410",
+      "dek": "成交約8256億量縮。聯發科+1.73%、國巨漲停；周線連二紅、本周+219.68點。",
+      "caveman": "星期五台股開高震盪，收四萬六千五百五十一點一三，大漲六百九十三點四七，漲幅約百分之一點五一，重新站上四萬六千跟五日線。台積電漲二十元收兩千四百一十元；聯發科收四千四百一十五元、漲約百分之一點七三；聯電漲約百分之四；國巨亮燈漲停。櫃買也漲約百分之一點八三。成交大約八千二百五十六億，比前一天少。整周加起來漲約兩百一十九點，周線連兩根紅K。白話：美股反彈、電子權值回神，大盤把星期三跌掉的關卡又搶回來。",
+      "why_it_matters": "退休金、ETF跟電子供應鏈薪水都跟大盤綁在一起。站回整數關卡，短線氣氛會鬆一點。",
+      "camps": "多方說五日線失而復得、周線連紅有利多頭重整。空方提醒量縮上漲，追價力道還要再觀察，週末又有美國非農變數。",
       "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202609030137.aspx",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/afe/202609040135.aspx",
+      "published": "2026-09-04",
       "terms": [
-        {
-          "term": "殺尾盤",
-          "aliases": [],
-          "explain": "收盤前最後一段時間突然大賣，指數快速往下掉。"
-        },
         {
           "term": "五日線",
           "aliases": [
             "5日線"
           ],
-          "explain": "最近五個交易日收盤平均。失而復得又失，短線很亂。"
+          "explain": "最近五個交易日收盤平均。站回去常被當成短線有撐的訊號。"
+        },
+        {
+          "term": "量縮",
+          "aliases": [],
+          "explain": "成交金額變少。指數漲但量不夠，代表追價的人還不夠多。"
+        },
+        {
+          "term": "周線連二紅",
+          "aliases": [
+            "周K連二紅"
+          ],
+          "explain": "連續兩個禮拜的周線收紅，整周收盤比上周高。"
         },
         {
           "term": "權值股",
-          "aliases": [
-            "權王"
-          ],
-          "explain": "市值很大、對指數影響超強的股票。"
+          "aliases": [],
+          "explain": "市值很大、對指數影響超強的股票，像台積電、聯發科。"
         },
         {
           "term": "櫃買OTC",
           "aliases": [],
-          "explain": "上櫃中小型股市場。那天也跌近百分之三。"
+          "explain": "上櫃中小型股市場。那天也大漲。"
         }
       ],
       "image": "images/tw-fin-1.jpg",
@@ -49,14 +54,14 @@
       "id": "tw-fin-2",
       "section": "taiwan",
       "category": "經濟",
-      "headline": "三大法人3日賣超637億；外資連兩日提款，投信小買11億",
-      "dek": "外資及陸資賣481億，自營賣167億。記憶體與高息ETF遭減碼。",
-      "caveman": "法人星期四又站賣方。三大法人合計賣超約六百三十七億。外資跟陸資賣約四百八十一億，連兩天提款；自營商賣約一百六十七億；只有投信小買約十一億。外資狂賣記憶體、主動ETF和高息ETF，卻有買金融股跟面板。白話：大戶把電子股倒出去，錢有一部分轉進銀行金控。",
-      "why_it_matters": "法人大賣常放大波動。若你追高電子、殺低金融，很容易兩邊挨打。",
-      "camps": "看空派說外資連賣代表避險。謹慎派提醒一天調倉不代表永久撤離台灣。",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202609030137.aspx",
-      "published": "2026-09-03",
+      "headline": "三大法人4日同步買超約629億；本周仍淨賣約857億",
+      "dek": "外資+562億、自營+63.7億、投信小買2.89億。終結連兩日賣超。",
+      "caveman": "星期五法人終於一起站買方。三大法人合計買超約六百二十八點七二億：外資及陸資買約五百六十二億，自營商買約六十三點七億，投信小買約二點八九億，結束連兩天賣超。但把整周加總，法人還是淨賣約八百五十七億，外資本周仍賣超過七百億。白話：一天回補很多，可是這周整體還在提款，籌碼還沒完全翻多。",
+      "why_it_matters": "法人買賣常放大波動。一天大買不代表整周翻多，看趨勢要比看單日。",
+      "camps": "樂觀派說同步買超終結連賣，短線有撐。謹慎派提醒本周仍淨賣八百多億，外資還沒真正回籠。",
+      "source_name": "經濟日報",
+      "source_url": "https://money.udn.com/money/story/5607/9734813",
+      "published": "2026-09-04",
       "terms": [
         {
           "term": "三大法人",
@@ -64,16 +69,16 @@
           "explain": "外資（含陸資）、投信、自營商。"
         },
         {
-          "term": "賣超",
+          "term": "買超",
           "aliases": [
-            "淨賣出"
+            "淨買進"
           ],
-          "explain": "當天賣出比買入多的差額。"
+          "explain": "當天買進比賣出多的差額。"
         },
         {
-          "term": "高息ETF",
+          "term": "回補",
           "aliases": [],
-          "explain": "主打配息的股票型基金。常被外資當現金機調倉。"
+          "explain": "先前賣超之後又回頭買回來。"
         },
         {
           "term": "投信",
@@ -82,704 +87,760 @@
         }
       ],
       "image": "images/tw-fin-2.jpg",
-      "image_alt": "法人買賣示意",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "台股交易大廳示意",
+      "image_credit": "Photo: 經濟日報"
     },
     {
       "id": "tw-fin-3",
       "section": "taiwan",
       "category": "經濟",
-      "headline": "股匯齊挫，新台幣連二黑貶2.7分收31.755元",
-      "dek": "盤中一度貶破31.8；外匯量縮至約27.3億美元，亞幣偏強台幣獨弱。",
-      "caveman": "股跌匯也弱。新台幣兌美元收三十一點七五五元，貶兩點七分，連兩天收黑。盤中最低碰到三十一點八二七元，靠央行尾盤調節才拉回。日元、韓元當天對美元都升，台幣卻獨憔悴。白話：別人把台幣換成美元帶走，台幣就再便宜一點點。",
-      "why_it_matters": "出國消費、進口原物料成本會跟著動。出口商則可能多一點匯差。",
-      "camps": "出口商偏喜貶值。進口商跟要出國的人偏煩。央行要的是波動別太兇。",
-      "source_name": "鉅亨網",
-      "source_url": "https://news.cnyes.com/news/id/6596547",
-      "published": "2026-09-03",
+      "headline": "國巨漲停領軍被動元件；融資+31.55億，台指期夜盤仍揚473點",
+      "dek": "華新科、禾伸堂等同攻漲停。周一美休市，短線看費半與AI族群韌性。",
+      "caveman": "星期五國巨亮燈鎖漲停，華新科、禾伸堂、金山電也攻上漲停，被動元件整族群反彈很兇。散熱、AI伺服器股也強。融資餘額上市增加約三十一點五五億，顯示散戶追價變積極。美國當天非農爆表、美股收黑，但費半逆勢大漲，台積電ADR也揚，台指期夜盤仍大漲約四百七十三點。星期一美國勞工節休市，台股下一個現金交易日是星期二。白話：零件股帶頭衝，散戶融資也跟上；美股紅黑不一定立刻打趴台股夜盤。",
+      "why_it_matters": "被動元件跟AI供應鏈是很多人持股的類股。融資變多代表槓桿增加，漲也快、跌也痛。",
+      "camps": "多方看AI長線訂單與費半韌性。空方擔心融資堆高、量縮追價，一遇利空容易殺。",
+      "source_name": "工商時報",
+      "source_url": "https://www.ctee.com.tw/news/20260904701287-430201",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "貶值",
+          "term": "被動元件",
           "aliases": [
-            "走貶"
+            "電阻電容電感"
           ],
-          "explain": "同樣一塊美元要用更多台幣換。"
+          "explain": "電子產品裡的基礎零件。手機、車用、AI設備都要用。"
         },
         {
-          "term": "連二黑",
+          "term": "漲停",
           "aliases": [],
-          "explain": "連續兩個交易日收盤比前一天弱。"
+          "explain": "當天股價漲到法規上限，常被鎖住買不到。"
         },
         {
-          "term": "調節",
+          "term": "融資",
           "aliases": [],
-          "explain": "央行進場買賣外匯，讓匯率別暴衝。"
+          "explain": "借錢買股票。餘額增加代表有人用槓桿追漲。"
         },
         {
-          "term": "亞幣",
-          "aliases": [],
-          "explain": "亞洲主要貨幣，像日元、韓元、人民幣。"
+          "term": "台指期",
+          "aliases": [
+            "台指期夜盤"
+          ],
+          "explain": "台股指數期貨。夜盤可反映美股與隔日氣氛。"
+        },
+        {
+          "term": "費半",
+          "aliases": [
+            "費城半導體指數"
+          ],
+          "explain": "美國半導體股指數。常當台股電子股風向球。"
         }
       ],
       "image": "images/tw-fin-3.jpg",
-      "image_alt": "新台幣匯率示意",
-      "image_credit": "Photo: 鉅亨網"
+      "image_alt": "台股盤後走勢示意",
+      "image_credit": "Photo: 工商時報"
     },
     {
       "id": "tw-fin-4",
       "section": "taiwan",
       "category": "經濟",
-      "headline": "資金轉進金融股，六大金控盤中齊創新高；玉山金收43.2元",
-      "dek": "玉山金合併三商壽後連漲，盤中一度衝43.5元。金融指數勁揚約2.2%。",
-      "caveman": "大盤殺尾盤，金融股卻成避風港。玉山金、台新新光金、永豐金、凱基金、富邦金、第一金盤中都見過歷史新高。玉山金九月一日剛完成三商壽交割，星期四收四十三點二元、漲二元七角，盤中最高四十三點五元。白話：電子股晃，錢先躲進銀行保險股。",
-      "why_it_matters": "金控股常被當「穩一點的配息來源」。創新高不代表不會回檔，但說明市場在找避險位。",
-      "camps": "樂觀派看併購與股利題材。保守派提醒大盤弱時金融股也可能補跌。",
-      "source_name": "NOWnews",
-      "source_url": "https://www.nownews.com/news/6871794",
-      "published": "2026-09-03",
+      "headline": "新台幣升1.25角收31.63元；央行：下周美國CPI才是關鍵",
+      "dek": "股匯齊揚。本周累計仍小貶0.2分；8月外匯存底重返6000億美元。",
+      "caveman": "星期五新台幣兌美元收三十一點六三元，大升一點二五角，寫一週新高。早上從三十一點七二附近開，午後外資匯入、台股大漲，最高升到約三十一點六二七元。央行外匯局長蔡烱民說，聯準會九月升不升息大概五五波，下週美國CPI物價數字才是關鍵。本周新台幣累計仍小貶零點二分，週線翻貶。白話：一天升很多，但整周其實差不多平盤；真正利率劇本要等美國物價。",
+      "why_it_matters": "匯率影響出國花費、進口成本跟出口商匯差。升太多進口便宜、出口帳面變少。",
+      "camps": "進口商跟要出國的人偏喜升值。出口商偏煩。央行要的是波動別太兇，先看美國CPI。",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/afe/202609040266.aspx",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "金控",
-          "aliases": [],
-          "explain": "金控公司，下面常有銀行、保險、證券。"
+          "term": "升值",
+          "aliases": [
+            "走升"
+          ],
+          "explain": "同樣一塊美元換成比較少台幣。"
         },
         {
-          "term": "歷史新高",
+          "term": "角",
           "aliases": [],
-          "explain": "股價創下有史以來最高。"
+          "explain": "匯率單位。一角等於零點一元，也就是十分。"
         },
         {
-          "term": "避風港",
-          "aliases": [],
-          "explain": "市場亂時，資金比較想待的地方。"
+          "term": "CPI",
+          "aliases": [
+            "消費者物價指數"
+          ],
+          "explain": "衡量一般人買東西貴不貴的通膨指標。"
         },
         {
-          "term": "合併交割",
+          "term": "聯準會",
+          "aliases": [
+            "Fed"
+          ],
+          "explain": "美國中央銀行，決定升息降息，影響全球資金。"
+        },
+        {
+          "term": "外匯存底",
           "aliases": [],
-          "explain": "兩家公司正式完成股權過戶、合成一家。"
+          "explain": "國家手上握有的外匯儲備。八月重返六千億美元。"
         }
       ],
       "image": "images/tw-fin-4.jpg",
-      "image_alt": "金融股示意",
-      "image_credit": "Photo: NOWnews"
+      "image_alt": "新台幣匯率示意",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-tech-1",
       "section": "taiwan",
       "category": "科技",
-      "headline": "經長：台廠三個月再追加200億美元赴美投資，累計約550億",
-      "dek": "聚焦半導體供應鏈與AI伺服器。美方同步研擬半導體關稅。",
-      "caveman": "經濟部長龔明鑫說，最近三個月台灣企業赴美投資意願又多約兩百億美元；加上五月盤點的三百五十億，累計大約五百五十億美元。主要落在半導體相關供應鏈跟AI伺服器。美國商務部長也放話半導體關稅將至，赴美設廠才有優惠。白話：訂單在美國長大，台廠得把一部分廠搬過去，才能少被關稅咬。",
-      "why_it_matters": "這會牽動台灣工程師、設備商與本地擴產節奏。錢跟人往美國走，台灣要守住研發與高階製程。",
-      "camps": "產業派說跟客戶走才能保住訂單。憂慮派怕人才與供應鏈空洞化。",
+      "headline": "輝達砸35億美元認購聯發科ECB；蔡力行：意義比金額重要",
+      "dek": "約合千億台幣準入股。雙方深化XPU與NVLink Fusion；SEMICON上向台積日月光討產能。",
+      "caveman": "輝達（NVIDIA）認購聯發科海外可轉換公司債三十五億美元，約合新台幣一千一百億，佔聯發科這次三十九億美元ECB近九成。黃仁勳說這是長達十年的戰略合作，不是循環融資。聯發科會用NVLink Fusion幫客戶做客製化XPU，接到輝達機櫃級AI工廠。九月二日SEMICON論壇，蔡力行笑著向台積電、日月光喊「產能多多益善」，並說輝達與Google認購代表產業信心。白話：大客戶不只下單，還掏大钱綁更久的合作。",
+      "why_it_matters": "聯發科從手機晶片往資料中心AI ASIC走。這筆錢跟生態系綁定，會牽動台積電先進製程與封裝產能。",
+      "camps": "樂觀派說資本結盟證明台灣IC設計進入AI核心。謹慎派提醒轉債稀釋、產能跟材料瓶頸還在。",
       "source_name": "中央社",
-      "source_url": "https://news.cts.com.tw/cna/money/202609/202609033074681.html",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/afe/202609020309.aspx",
+      "published": "2026-09-02",
       "terms": [
         {
-          "term": "AI伺服器",
-          "aliases": [],
-          "explain": "專門跑人工智慧計算的大型電腦機櫃。"
+          "term": "ECB",
+          "aliases": [
+            "海外可轉換公司債"
+          ],
+          "explain": "公司在海外發的債，未來可按約定換成股票。"
         },
         {
-          "term": "關稅",
+          "term": "XPU",
           "aliases": [],
-          "explain": "進口商品要多繳的稅，會讓價格變貴。"
+          "explain": "客製化加速晶片，給雲端大廠做AI用。"
         },
         {
-          "term": "供應鏈",
+          "term": "NVLink Fusion",
           "aliases": [],
-          "explain": "從材料、零件到組裝出貨的一整串工廠。"
+          "explain": "輝達高速互連技術，讓客製晶片接到自家AI機櫃生態。"
         },
         {
-          "term": "MOU",
+          "term": "循環融資",
           "aliases": [],
-          "explain": "備忘錄，雙方先寫下合作原則的文件。"
+          "explain": "供應鏈互買股票或債券、看起來營收熱絡的資金空轉質疑。黃仁勳否認這次是這種玩法。"
+        },
+        {
+          "term": "ASIC",
+          "aliases": [],
+          "explain": "為特定用途訂做的晶片，不是通用GPU。"
         }
       ],
       "image": "images/tw-tech-1.jpg",
-      "image_alt": "半導體與赴美投資示意",
-      "image_credit": "Photo: ETtoday"
+      "image_alt": "聯發科與半導體產業活動示意",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-tech-2",
       "section": "taiwan",
       "category": "科技",
-      "headline": "美光盧東暉：晶圓產能成瓶頸，盼別拖慢AI基建",
-      "dek": "SEMICON論壇談擴產。缺工、建廠複雜度上升；美光十年計畫投資約3000億美元。",
-      "caveman": "台灣美光董事長盧東暉星期四在半導體展說，AI需求短期看不到轉弱，但蓋晶圓廠愈來愈難：缺工、流程複雜、生態系也卡關。他說美光跟台積電都不想變成AI基礎建設的瓶頸。美光未來十年要投資約三千億美元擴產。白話：大家要更多記憶體晶片，可是蓋廠跟找人跟不上。",
-      "why_it_matters": "記憶體緊，伺服器與手機價格、交期都可能被牽動。台灣供應鏈也會跟著加班或漲價。",
-      "camps": "樂觀派看長期訂單。務實派提醒擴產慢、短線股價仍可能大震盪。",
+      "headline": "台積電侯永清：AI需求30年未見，全球近20座廠仍不夠",
+      "dek": "半年採購預估近翻倍。台灣同步建13廠、海外5至6廠。",
+      "caveman": "九月二日SEMICON大師論壇，台積電副共同營運長侯永清說，AI需求成長是過去三十年沒看過，短短六個月需求幾乎翻倍。台積電現在全球有近二十座晶圓廠同時推進：台灣同步建約十三座，海外五到六座，速度是過去同時間四五座的四五倍，還是滿足不了。他說瓶頸不只台積電，營建人力、設備、材料、封測整座金字塔都要一起放大。白話：客人要的晶片暴增，蓋工廠跟不上。",
+      "why_it_matters": "台積電產能決定全球AI進度，也決定台灣電、水、人力跟地方建設壓力。",
+      "camps": "產業界看旺長線訂單。地方跟環團則擔心蓋廠速度對電力、土地與社區的負荷。",
       "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202609030074.aspx",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/afe/202609020289.aspx",
+      "published": "2026-09-02",
       "terms": [
+        {
+          "term": "SEMICON",
+          "aliases": [
+            "國際半導體展"
+          ],
+          "explain": "每年在台灣辦的大型半導體展覽與論壇。"
+        },
         {
           "term": "晶圓廠",
           "aliases": [
-            "晶圓產能"
+            "fab"
           ],
           "explain": "把矽晶圓做成晶片的工廠。"
         },
         {
-          "term": "DRAM",
+          "term": "先進封裝",
           "aliases": [],
-          "explain": "電腦與伺服器常用的記憶體。"
+          "explain": "把多顆晶片緊密包在一起，讓AI運算更快。"
         },
         {
-          "term": "瓶頸",
+          "term": "產能瓶頸",
           "aliases": [],
-          "explain": "卡住整條線、讓後面都慢下來的那一環。"
-        },
-        {
-          "term": "SEMICON",
-          "aliases": [],
-          "explain": "國際半導體展，台灣每年大型產業聚會。"
+          "explain": "工廠產量跟不上訂單，客人要排隊。"
         }
       ],
       "image": "images/tw-tech-2.jpg",
-      "image_alt": "美光與半導體展示意",
+      "image_alt": "SEMICON論壇產業領袖同台",
       "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-tech-3",
       "section": "taiwan",
       "category": "科技",
-      "headline": "欣興「洗產地」案延燒；經長：未達實質轉型不得改標台灣製",
-      "dek": "附加價值率未達35%原則上不能換產地標。案件已進司法程序。",
-      "caveman": "載板大廠欣興被控把中國產PCB運回台灣改標「台灣製造」。經濟部長龔明鑫星期四說，若只是簡易加工、沒有實質轉型，或附加價值率不到百分之三十五，原則上不能改產地標籤。他提醒就算台灣認定過關，出口到美國還得過美國海關那一關。白話：標籤寫哪裡做的，不能隨便改；改了可能吃官司、也影響對美出貨。",
-      "why_it_matters": "這不只單一公司。很多電子廠兩岸都有產線，原產地規則會決定關稅與訂單能不能接。",
-      "camps": "嚴懲派要杜絕造假。產業派盼政府先把「什麼叫實質轉型」講清楚，別讓合法加工也被抓去墊背。",
-      "source_name": "三立新聞網",
-      "source_url": "https://www.setn.com/news/1901054",
-      "published": "2026-09-03",
+      "headline": "台積電宣布進駐高雄白埔園區，推先進封裝設備供應鏈",
+      "dek": "規劃約3公頃、2棟樓。CoWoS產能年複合成長估逾80%至2027。",
+      "caveman": "九月一日台積電先進封裝副總何軍宣布，配合經濟部與高雄市，規劃進駐高雄白埔產業園區，協助先進封裝設備與材料驗證，效率估可提升百分之二十五到五十。園區會做部分製程研發、小型潔淨室跟人才訓練。何軍說，預估到二零二七年CoWoS先進封裝產能年複合成長率超過百分之八十。經濟部也說白埔約八十八公頃，第三季要招商。白話：南部要多一個封裝跟設備材料聚落，幫AI封裝產能開路。",
+      "why_it_matters": "先進封裝是AI晶片卡關點之一。南部設聚落，影響高雄就業、土地與供應鏈布局。",
+      "camps": "支持者說均衡台灣、補強S廊帶。質疑者會問用水用電、環評與在地居民溝通夠不夠。",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/afe/202609010303.aspx",
+      "published": "2026-09-01",
       "terms": [
         {
-          "term": "洗產地",
+          "term": "白埔園區",
           "aliases": [],
-          "explain": "把商品產地標籤改成別的國家，常為了躲關稅或規定。"
+          "explain": "高雄規劃中的半導體先進封裝材料設備聚落。"
         },
         {
-          "term": "實質轉型",
+          "term": "CoWoS",
           "aliases": [],
-          "explain": "在當地做夠深的加工，才算「真的在這做」。"
+          "explain": "台積電重要先進封裝技術，AI加速卡常用。"
         },
         {
-          "term": "PCB",
+          "term": "驗證平台",
           "aliases": [],
-          "explain": "印刷電路板，電子產品的「底板」。"
+          "explain": "讓設備、材料先試跑合格，再進量產線。"
         },
         {
-          "term": "附加價值率",
+          "term": "S廊帶",
           "aliases": [],
-          "explain": "加工後多出來的價值佔多少比例。"
+          "explain": "南台灣半導體走廊的政策稱呼。"
         }
       ],
       "image": "images/tw-tech-3.jpg",
-      "image_alt": "PCB產業示意",
-      "image_credit": "Photo: 三立新聞網"
+      "image_alt": "台積電與經濟部說明白埔園區",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-tech-4",
       "section": "taiwan",
       "category": "科技",
-      "headline": "工研院亮相首款國產後量子安全晶片，支援三項NIST標準",
-      "dek": "數產署指導、匯智量產整合。可進安控、網通、工控與物聯網設備。",
-      "caveman": "量子電腦將來可能破解現在常用密碼。工研院把後量子密碼技術移轉給匯智安全科技，做成台灣首款支援美國NIST三項後量子標準的通用安全晶片，星期四在半導體展發表。白話：先換更能扛量子攻擊的鎖，以後資料比較不容易被一次打開。",
-      "why_it_matters": "銀行、政府、工廠網路若晚升級，以後可能一次被舊密碼打穿。國產晶片想降低換鎖成本。",
-      "camps": "資安派說要早換。成本派擔心中小企業短期負擔。",
+      "headline": "宏碁陳俊聖：輝達Google注資聯發科，台廠成全球AI資本根基",
+      "dek": "九月四日柏林受訪。指供應鏈大廠發債增資，反映AI對台灣資本需求。",
+      "caveman": "九月四日宏碁董事長陳俊聖在德國柏林接受中央社訪問。談到輝達、Google認購聯發科海外可轉債，他說海外大廠注資台廠，代表台灣不只是製造重鎮，更變成全球AI發展的「資本根基」。他觀察台積電、聯發科等紛紛發債或增資，因為生意越大、週轉資金需求越高。白話：以前台灣賣製造力，現在連全球AI的錢也要停在台灣供應鏈身上。",
+      "why_it_matters": "資本怎麼流動，會影響台廠擴產、研發跟普通人的就業與股市。",
+      "camps": "產業樂觀派視為信心投票。謹慎派提醒發債增資也代表燒錢速度快，要看後續報酬。",
       "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202609030261.aspx",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/afe/202609040026.aspx",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "後量子密碼",
-          "aliases": [
-            "PQC"
-          ],
-          "explain": "就算未來有量子電腦，也比較難被破解的新加密法。"
-        },
-        {
-          "term": "NIST",
+          "term": "資本根基",
           "aliases": [],
-          "explain": "美國訂標準的機構，很多世界規格跟它走。"
+          "explain": "這裡指全球AI擴張時，錢與融資需求大量落在台灣供應鏈。"
         },
         {
-          "term": "矽智財",
-          "aliases": [
-            "IP"
-          ],
-          "explain": "可授權給別人做成晶片的電路設計模組。"
+          "term": "發債",
+          "aliases": [],
+          "explain": "公司發行債券向市場借錢。"
         },
         {
-          "term": "物聯網",
-          "aliases": [
-            "IoT"
-          ],
-          "explain": "一堆連網的小裝置，像感測器、攝影機。"
+          "term": "增資",
+          "aliases": [],
+          "explain": "公司發行新股籌錢，可能稀釋舊股東持股。"
+        },
+        {
+          "term": "供應鏈",
+          "aliases": [],
+          "explain": "從設計、製造到組裝的一串上下游公司。"
         }
       ],
       "image": "images/tw-tech-4.jpg",
-      "image_alt": "後量子晶片發表示意",
+      "image_alt": "宏碁全球發表會相關畫面",
       "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-pol-1",
       "section": "taiwan",
       "category": "政治",
-      "headline": "核安會：核三再運轉計畫技術審查完成，近期將核定；藍綠互槓",
-      "dek": "國民黨要賴清德道歉。民進黨團：最終交公投與核安把關，別跳太快。",
-      "caveman": "核安會說核三廠再運轉計畫技術審查已做完，正走最後核定程序。核定後台電才能依計畫把設備修回可運轉。國民黨說「非核神話破產」，要總統道歉。民進黨團幹事長莊瑞雄說政策可以檢討，但重啟還有核安與社會共識關卡，這次公投綁大選會再問一次老百姓。白話：紙上審查過一關，不等於明天就發電；藍綠先吵誰說錯話。",
-      "why_it_matters": "電價、缺電風險、核廢料都跟你帳單與安全有關。重啟與否會影響未來十年能源路。",
-      "camps": "擁核派看供電穩定。反核派怕安全與廢料。中間選民多分心「到底誰說了算」。",
+      "headline": "竹縣藍白合破局：民眾黨抽出合作協議，站台徐欣瑩最重開除",
+      "dek": "吳旭智與邱臣遠都登記竹北市長。黃國昌批徐欣瑩說法；國民黨縣黨部稱尊重。",
+      "caveman": "九月六日民眾黨開臨時擴大會議。秘書長周榆修說，國民黨與新竹縣長參選人徐欣瑩無法履行承諾，傷害兩年互信，決議新竹縣各級選舉不再受藍白合作協議拘束，全黨力挺邱臣遠選竹北市長。黨員若公開支持或站台非本黨參選人，最重開除黨籍；也禁止公職私下幫徐欣瑩站台。起因是國民黨吳旭智與民眾黨邱臣遠都完成竹北市長登記。白話：竹北市長禮讓談不攏，藍白在新竹縣整包翻桌。",
+      "why_it_matters": "十一月二十八日九合一下，新竹縣藍白拆伙會改變票源與選戰策略，也影響在野合作信任。",
+      "camps": "民眾黨強調誠信與黨紀。國民黨地方說公開信只是黨內提醒、對在野仍尊重。選民看的是誰能治理竹北。",
       "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/aipl/202609030070.aspx",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/aipl/202609060053.aspx",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "核三",
-          "aliases": [],
-          "explain": "屏東恆春的核電廠，也叫馬鞍山電廠。"
+          "term": "藍白合",
+          "aliases": [
+            "藍白合作"
+          ],
+          "explain": "國民黨（藍）與民眾黨（白）的選舉合作協議。"
         },
         {
-          "term": "再運轉",
+          "term": "竹北市長",
           "aliases": [],
-          "explain": "停機後再申請重新運轉發電。"
+          "explain": "新竹縣竹北市首長。兩黨都派人登記，合作破局。"
         },
         {
-          "term": "公投",
-          "aliases": [],
-          "explain": "公民投票，讓全民直接表態。"
+          "term": "中評會",
+          "aliases": [
+            "中央評議委員會"
+          ],
+          "explain": "黨內紀律與評議單位，可議處違紀黨員。"
         },
         {
-          "term": "非核家園",
+          "term": "九合一",
           "aliases": [],
-          "explain": "目標逐步停用核電的政策口號。"
+          "explain": "地方公職人員選舉，今年十一月二十八日投票。"
         }
       ],
       "image": "images/tw-pol-1.jpg",
-      "image_alt": "核電政策示意",
+      "image_alt": "竹北市長參選人相關檔案畫面",
       "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-pol-2",
       "section": "taiwan",
       "category": "政治",
-      "headline": "蔣萬安兒交換生爭議延燒：棄補助仍占名額；美國務院回信被議論",
-      "dek": "計畫限外國國民文化交流。教育局對備取遞補尚未說清楚。",
-      "caveman": "台北市長蔣萬安長子錄取市府赴美加交換計畫，因具美國籍被質疑特權。蔣宣布放棄公費補助，但規定逾期放棄可能不遞補，備取生權益成焦點。有網友向美國國務院詢問，回信強調此類交流計畫對象是「外國國民」，再次掀波。白話：問題不只在錢，而在稀少名額被誰佔走。",
-      "why_it_matters": "公共資源與公平感有關。市長親子案件特別容易變成政治攻防。",
-      "camps": "批評者要查資格與揭露程序。市府強調依法甄選、無關說。法律人提醒利益衝突揭露另有規定。",
-      "source_name": "今周刊",
-      "source_url": "https://www.businesstoday.com.tw/article/category/183027/post/202609030002/",
-      "published": "2026-09-03",
+      "headline": "九合一登記截止：22縣市長名單出爐，北中南對決成形",
+      "dek": "八月三十一日至九月四日登記。台北六人、高雄五人、台南四人角逐。",
+      "caveman": "二零二六年地方公職人員選舉十一月二十八日投開票，參選登記九月四日截止。中央社整理二十二縣市長名單：台北市蔣萬安、沈伯洋等六人；新北蘇巧慧對李四川等三人；桃園黃世杰對尋求連任的張善政；台中何欣純對江啟臣等三人；台南謝龍介、陳亭妃等四人；高雄賴瑞隆、柯志恩等五人。白話：縣市長賽道關門了，十一月正式開打。",
+      "why_it_matters": "地方首長決定捷運、房價政策、長照與防災。名單定了，輔選與民調戰就開始。",
+      "camps": "各黨都說自己人選最好。中間選民更在意治安、交通、房價與空污，不一定吃政黨標籤。",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "交換生",
+          "term": "登記截止",
           "aliases": [],
-          "explain": "去別的國家學校短期讀書交流的學生。"
+          "explain": "超過這天就不能再登記參選。"
         },
         {
-          "term": "備取",
+          "term": "縣市長",
           "aliases": [],
-          "explain": "正取沒去，才輪到候補名單上的人。"
+          "explain": "直轄市市長與縣市長，地方最高行政首長。"
         },
         {
-          "term": "利益衝突",
+          "term": "連任",
           "aliases": [],
-          "explain": "公職人員親屬申請補助時，可能有公私利益打架。"
+          "explain": "現任首長再選下一任。"
         },
         {
-          "term": "外國國民",
+          "term": "輔選",
           "aliases": [],
-          "explain": "不是該國公民的人；美國回信用這個詞。"
+          "explain": "黨中央或大咖幫地方候選人拉票。"
         }
       ],
       "image": "images/tw-pol-2.jpg",
-      "image_alt": "教育資源爭議示意",
-      "image_credit": "Photo: 今周刊"
+      "image_alt": "九合一選舉登記示意",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-pol-3",
       "section": "taiwan",
       "category": "政治",
-      "headline": "軍人節賴清德赴忠烈祠致祭，重申照顧官兵與國防整備",
-      "dek": "明年軍公教加薪百分之四。中國國台辦同日批評台灣「以武拒統」。",
-      "caveman": "九月三日軍人節，總統賴清德到台北忠烈祠獻花，感謝國軍並承諾改善待遇、宿舍與家庭照顧。他重申明年整體國防預算將超過GDP百分之三、達約一點一二兆元。北京國台辦同日批評賴「煽動對立、揮霍民脂」。白話：台灣講備戰與照顧軍人，北京講這是對抗統一。",
-      "why_it_matters": "國防預算與軍人心情影響台海風險。兩岸各說各話，國際也在看錢花去哪。",
-      "camps": "綠營強調自我防衛。藍營常問效率與民生排擠。北京立場是否定台灣主權論述。",
-      "source_name": "中央社",
-      "source_url": "https://focustaiwan.tw/politics/202609030005",
-      "published": "2026-09-03",
+      "headline": "賴清德赴台東挺陳瑩，暗諷「不能在自家門口開路」",
+      "dek": "天后宮參香並提三大承諾。同日出席饒穎奇告別式；蕭美琴桃竹輔選。",
+      "caveman": "九月六日總統賴清德到台東天后宮參香，幫民進黨台東縣長參選人陳瑩、台東市長參選人翁聖惠打氣。他說陳瑩若當選要清廉勤政，每一分錢用在縣民，「不能你家門口在開路」，被解讀暗諷對手吳秀華家族東映渡假村農路爭議。他也提出當選後三承諾：清廉、當每位鄉親的女兒、用立委經驗替台東要中央資源。同日正副總統分進合擊，蕭美琴跑新竹、桃園。白話：選戰進入總統級輔選，地方弊案變成攻擊點。",
+      "why_it_matters": "台東長期綠營不易拿下。總統親征與弊案攻防，會拉高全國對東部選情的關注。",
+      "camps": "綠營打清廉與中央資源。藍營會說這是抹黑與帶風向。選民要查證農路案事實與政見。",
+      "source_name": "三立新聞網",
+      "source_url": "https://www.setn.com/News.aspx?NewsID=1902522",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "軍人節",
+          "term": "輔選",
           "aliases": [],
-          "explain": "台灣每年九月三日紀念國軍與對日抗戰勝利。"
+          "explain": "大人物幫候選人站台拉票。"
         },
         {
-          "term": "忠烈祠",
+          "term": "參香",
           "aliases": [],
-          "explain": "紀念殉職官兵的地方。"
+          "explain": "到廟裡上香祈福，常兼地方拜會。"
         },
         {
-          "term": "GDP百分之三",
+          "term": "東映渡假村",
           "aliases": [],
-          "explain": "國防預算佔全年經濟產出約百分之三，是常見的防衛指標。"
+          "explain": "台東爭議中的開發案名稱，涉及農路開闢質疑。"
         },
         {
-          "term": "國台辦",
+          "term": "最強母雞",
           "aliases": [],
-          "explain": "中國國務院台灣事務辦公室。"
+          "explain": "媒體形容正副總統帶動同黨候選人選票的效應。"
         }
       ],
       "image": "images/tw-pol-3.jpg",
-      "image_alt": "軍人節致祭",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "正副總統輔選行程相關畫面",
+      "image_credit": "Photo: 三立新聞網"
     },
     {
       "id": "tw-pol-4",
       "section": "taiwan",
       "category": "政治",
-      "headline": "健保署端出急診待床五改革，估挹注逾億元、目標年底上路",
-      "dek": "台大與林口長庚先試辦急診暫留給付；下轉雙方各獎三千五百點。",
-      "caveman": "大醫院急診常一等好幾天。健保署署長陳亮妤星期四說，已跟醫學中心與急診學會初步談成五項改革：醫學中心急診暫留特殊給付先在台大、林口長庚試辦；三十六小時內轉加護病房加給；下轉病房雙方各獎三千五百點；醫師訪視費提高；大家醫計畫加急診提醒。預算粗估一到二億。白話：用錢與規則，催醫院別讓病人卡在急診走廊。",
-      "why_it_matters": "你或家人半夜進急診，等不等得到床，直接關係安全。這是醫療正義題，也是選票題。",
-      "camps": "醫界要合理給付。病患要少等。小醫院怕接到重症卻沒資源。",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/ahel/202609030284.aspx",
-      "published": "2026-09-03",
+      "headline": "卓榮泰累計8度不副署引憲政爭議；學者批「超強否決權」",
+      "dek": "九月四日憲法學者示警副署不得當對抗國會終極手段。在野指破壞權力分立。",
+      "caveman": "行政院長卓榮泰對立法院三讀法案累計八次不予副署，包含財劃法、廣電三法與兒少未來帳戶等。九月四日中研院學者轉述英國憲法學者評論：副署不能變成國會無法反制的「超強否決權」，否則行政權所向無敵。在野黨說這讓法案卡在總統府，形同超級否決；行政院則主張是捍衛憲政與財政紀律、被動而為。白話：立法院通過的法，院長不簽名，法就生不了效，朝野吵到憲法層級。",
+      "why_it_matters": "不副署會卡住已三讀的法律，影響地方財政、廣電規範與兒少帳戶等政策能不能上路。",
+      "camps": "在野批濫權、破壞權力分立。行政院說立法院違憲擴權在先。憲政學者提醒兩邊都可能傷制度。",
+      "source_name": "中時新聞網",
+      "source_url": "https://www.chinatimes.com/realtimenews/20260904004517-260407",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "急診待床",
+          "term": "副署",
           "aliases": [],
-          "explain": "急診看完了，卻一直等不到住院病床。"
+          "explain": "行政院長在總統公布法律前簽名。沒副署，法律通常無法生效。"
         },
         {
-          "term": "下轉",
+          "term": "三讀",
           "aliases": [],
-          "explain": "大醫院把適合的病人轉到較小的區域或地區醫院。"
+          "explain": "立法院通過法律的最後程序。"
         },
         {
-          "term": "點數",
+          "term": "權力分立",
           "aliases": [],
-          "explain": "健保給付單位，點數乘上點值才變錢。"
+          "explain": "行政、立法、司法互相制衡，不讓一家獨大。"
         },
         {
-          "term": "醫學中心",
-          "aliases": [],
-          "explain": "等級最高的大型教學醫院。"
+          "term": "財劃法",
+          "aliases": [
+            "財政收支劃分法"
+          ],
+          "explain": "決定中央與地方怎麼分錢的重要法律。"
         }
       ],
       "image": "images/tw-pol-4.jpg",
-      "image_alt": "急診與健保改革示意",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "行政院長卓榮泰",
+      "image_credit": "Photo: 中時新聞網"
     },
     {
       "id": "tw-pop-1",
       "section": "taiwan",
       "category": "流行",
-      "headline": "金鐘影后楊謹華宣布請假半年離開台灣，金鐘頒獎恐缺席",
-      "dek": "與老公赴海外長住充電。直言不是因為得獎，是節奏太快要重整。",
-      "caveman": "楊謹華星期四在活動上說，手頭戲殺青後要正式向公司請假半年，跟老公一起出國長住、放空。她坦言已向金鐘典禮請假，恐怕無法回來頒獎。她說早在得獎前就覺得自己一直撞牆，想停下來整理人生與表演。白話：紅了也要敢休息，不然人會燒乾。",
-      "why_it_matters": "娛樂圈過勞很常見。大咖公開請假，也讓觀眾重新想「明星是不是該全年無休」。",
-      "camps": "粉絲祝福充電。有人覺得金鐘少了影后可惜。她本人說這是給自己年輕力重開機。",
-      "source_name": "ETtoday",
-      "source_url": "https://star.ettoday.net/news/3231202",
-      "published": "2026-09-03",
+      "headline": "渡邊直美合體劉以豪記者會：開工第一場就是床戲，給100分",
+      "dek": "九月四日台北宣傳《祖先鬼》。徐若瑄驚喜合唱；電影9月10日上映。",
+      "caveman": "日本搞笑女王渡邊直美九月四日在台北開電影記者會，合體劉以豪、小薰、撒基努與導演蘇達。她說進組第一場對手戲就是床戲，緊張到不行，卻大讚劉以豪帥、身材好又溫柔，「整個人100分」。劇組還帶她吃米粉、麻油雞，巧遇客串的徐若瑄，兩人即興唱「黑色餅乾」。電影《怎麼可能我家的祖先是你家的鬼》九月十日上映；她週末也續跑夜夜秀特別場。白話：上次只預告來台，這次有正式記者會跟對手戲八卦，是新進度。",
+      "why_it_matters": "跨國喜劇 Guests 來台宣傳，帶動院線與夜市觀光話題，也讓台灣演員國際曝光。",
+      "camps": "影迷樂見日台合作。也有人提醒別只看明星花絮，進戲院再評好不好笑。",
+      "source_name": "三立新聞網",
+      "source_url": "https://www.setn.com/News.aspx?NewsID=1901583",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "金鐘獎",
+          "term": "對手戲",
           "aliases": [],
-          "explain": "台灣電視圈年度大獎。"
+          "explain": "兩個演員面對面演的對手場面。"
         },
         {
-          "term": "影后",
+          "term": "客串",
           "aliases": [],
-          "explain": "最佳女主角得主的暱稱。"
+          "explain": "不是主角，但短暫出現的角色。"
         },
         {
-          "term": "殺青",
-          "aliases": [],
-          "explain": "一部戲正式拍完。"
+          "term": "夜夜秀",
+          "aliases": [
+            "究極山林失控夜夜秀"
+          ],
+          "explain": "渡邊直美在台的脫口秀特別場系列。"
         },
         {
-          "term": "頒獎嘉賓",
+          "term": "院線",
           "aliases": [],
-          "explain": "典禮上負責頒獎的人，不一定是入圍者。"
+          "explain": "在電影院上映的電影通路。"
         }
       ],
       "image": "images/tw-pop-1.jpg",
-      "image_alt": "楊謹華活動畫面",
-      "image_credit": "Photo: ETtoday"
+      "image_alt": "渡邊直美台北電影記者會",
+      "image_credit": "Photo: 三立新聞網"
     },
     {
       "id": "tw-pop-2",
       "section": "taiwan",
       "category": "流行",
-      "headline": "韓片《希望：末日血戰》台上映，瞿友寧范琪斐出席星光首映",
-      "dek": "羅泓軫十年回歸。台灣推IMAX到4DX等八種規格。",
-      "caveman": "導演羅泓軫新作《希望：末日血戰》九月四日全台上映，三日晚間在台北辦星光首映。瞿友寧、范琪斐等人到場，范琪斐笑說最愛趙寅成。片中還有黃晸珉、鄭好娟與麥可法斯賓達。台灣一次推八種廳規格。白話：末日外星動作片來了，想被椅子晃就選4DX。",
-      "why_it_matters": "院線要靠大片拉人潮。規格戰也決定票房跟觀影體驗差多少。",
-      "camps": "影迷衝卡司與特效。有人嫌商業片吵。片商賭特殊廳能多賣。",
-      "source_name": "三立新聞網",
-      "source_url": "https://www.setn.com/news/1901240",
-      "published": "2026-09-04",
+      "headline": "《天鵝與蝙蝠》松村北斗、今田美櫻來台：想帶台灣茶回家",
+      "dek": "東野圭吾改編。台灣攝影師羅偉恩掌鏡；導演岸善幸萌生來台拍片念頭。",
+      "caveman": "九月五日導演岸善幸率松村北斗、今田美櫻來台宣傳電影《天鵝與蝙蝠》。三人說攝影師羅偉恩是台灣人，拍光影很漂亮，片場還流行學中文「明天再見」。松村最愛鹹豆漿，今田想念胡椒餅，岸善幸跟今田都想買台灣茶當伴手禮。導演說早上看雨很新鮮，想來台灣拍片，並點名欣賞桂綸鎂。白話：日片卡司專程來台謝票，順便狂嗑台灣小吃。",
+      "why_it_matters": "影人來台宣傳推高國片與外片話題，也凸顯台灣影視技術人才的跨國合作。",
+      "camps": "影迷開心近距離接觸。文化評論則希望多談作品主題，不只美食行程。",
+      "source_name": "中時新聞網",
+      "source_url": "https://www.chinatimes.com/realtimenews/20260905001641-260404",
+      "published": "2026-09-05",
       "terms": [
         {
-          "term": "星光首映",
+          "term": "東野圭吾",
           "aliases": [],
-          "explain": "上映前請明星與媒體先看的宣傳場。"
+          "explain": "日本暢銷推理作家，多部作品被改編影視。"
         },
         {
-          "term": "4DX",
-          "aliases": [],
-          "explain": "椅子會動、有風有水的特效廳。"
+          "term": "掌鏡",
+          "aliases": [
+            "攝影師"
+          ],
+          "explain": "負責電影畫面拍攝的人。"
         },
         {
-          "term": "IMAX",
+          "term": "伴手禮",
           "aliases": [],
-          "explain": "超大銀幕高解析放映。"
+          "explain": "旅行回家帶給親朋的小禮物。"
         },
         {
-          "term": "羅泓軫",
+          "term": "謝票宣傳",
           "aliases": [],
-          "explain": "韓國導演，作品有《哭聲》《追擊者》。"
+          "explain": "電影上映後，演員出來跟觀眾見面拉票。"
         }
       ],
       "image": "images/tw-pop-2.jpg",
-      "image_alt": "電影首映示意",
-      "image_credit": "Photo: 三立新聞網"
+      "image_alt": "天鵝與蝙蝠卡司來台宣傳",
+      "image_credit": "Photo: 中時新聞網"
     },
     {
       "id": "tw-pop-3",
       "section": "taiwan",
       "category": "流行",
-      "headline": "渡邊直美來台，《祖先鬼》影人夜夜秀九日四、五日開跑",
-      "dek": "與劉以豪、小薰、撒基努同台。電影九月十日上映。",
-      "caveman": "日本喜劇巨星渡邊直美為華語片《怎麼可能我家的祖先是你家的鬼》來台，九月四、五日在台北多家影城辦映後「夜夜秀」，跟劉以豪等人互動約三十分鐘。電影九月十日全台上映。白話：先笑半小時再決定要不要買票進戲院。",
-      "why_it_matters": "跨國卡司能帶動話題與觀光式追星。也測試台灣喜劇片市場胃口。",
-      "camps": "粉絲為直美衝場。本地演員則想借國際星光被更多人看見。",
-      "source_name": "PlayMusic",
-      "source_url": "https://playmusic.tw/column_info.php?id=28381&type=mf_movie",
-      "published": "2026-08-31",
+      "headline": "允浩台北個唱落幕：中文台語喊「你們都是擠霸昏」",
+      "dek": "九月五日新北工商展覽中心。連換五套服裝、唱二十多首；預告首爾安可。",
+      "caveman": "東方神起隊長允浩首度個人巡演台北站，九月五日在新北工商展覽中心開唱。他連換五套服裝，唱二十多首歌，還用中文、台語跟仙后打招呼，學了「你們都是擠霸昏」（一百分）。他說第一次在台北辦個人演唱會又激动又緊張，演唱會走音樂劇形式；原想放天燈祈願卻遇大雨。下一站還有雅加達、胡志明、香港，明年首爾安可。白話：韓星個人秀把台語梗練好再上台。",
+      "why_it_matters": "大型演唱會帶動周邊消費與城市觀光，也是台韓流行文化交流指標。",
+      "camps": "粉絲感動互動細節。附近居民可能在意交通噪音；主辦單位要做好動線。",
+      "source_name": "鏡週刊",
+      "source_url": "https://www.mirrormedia.mg/story/20260905-90ent-213631",
+      "published": "2026-09-05",
       "terms": [
         {
-          "term": "渡邊直美",
-          "aliases": [],
-          "explain": "日本知名喜劇演員與時尚名人。"
+          "term": "個唱",
+          "aliases": [
+            "個人演唱會"
+          ],
+          "explain": "歌手以個人名義辦的演唱會，不是團體名義。"
         },
         {
-          "term": "映後座談",
+          "term": "仙后",
           "aliases": [],
-          "explain": "電影放完，創作者出來跟觀眾聊天。"
+          "explain": "東方神起粉絲的暱稱。"
         },
         {
-          "term": "華語片",
+          "term": "安可場",
           "aliases": [],
-          "explain": "用華語為主的電影。"
+          "explain": "巡演結束後加開的回饋場次。"
         },
         {
-          "term": "卡司",
-          "aliases": [],
-          "explain": "演員陣容。"
+          "term": "擠霸昏",
+          "aliases": [
+            "一百分"
+          ],
+          "explain": "台語「一百分」的發音寫法，這裡是讚美粉絲。"
         }
       ],
       "image": "images/tw-pop-3.jpg",
-      "image_alt": "渡邊直美宣傳示意",
-      "image_credit": "Photo: PlayMusic"
+      "image_alt": "允浩台北演唱會舞台",
+      "image_credit": "Photo: 鏡週刊"
     },
     {
       "id": "tw-pop-4",
       "section": "taiwan",
       "category": "流行",
-      "headline": "金馬影展第二波片單：李滄東新作台灣唯一大銀幕，菊地凜子將來台",
-      "dek": "影展十一月六日至二十二日。十月二十五日開賣。",
-      "caveman": "金馬影展再公布十八部國際片。韓國導演李滄東新作《假如愛有如果》確定是台灣唯一大銀幕機會；日本演員菊地凜子憑《愛到舞春》將來台跟觀眾見面。還有奧利維耶阿薩亞斯、哈維爾巴登等作品。白話：想在大銀幕看這些片，金馬檔期要排進行事曆。",
-      "why_it_matters": "台灣藝術電影窗口有限。影展常是唯一合法大銀幕管道。",
-      "camps": "影迷嗨國際卡司。有人嫌商業片不夠。影展要在藝術與票房間找平衡。",
-      "source_name": "三立新聞網",
-      "source_url": "https://www.setn.com/news/1901011",
-      "published": "2026-09-03",
+      "headline": "悍將中學主題日：SJ L.S.S.大巨蛋開球，始源撩「因為富邦睡不著」",
+      "dek": "九月五日台北大巨蛋。利特、神童、始源連兩年助陣；孝琳賽後開唱。",
+      "caveman": "富邦悍將「悍將中學」主題日週末在台北大巨蛋開打。九月五日SUPER JUNIOR小分隊L.S.S.（利特、神童、始源）擔任開球嘉賓，始源全中文受訪，撩邦迷：「有一陣子怎樣都睡不著，因為富邦。」利特說要把自己當啦啦隊；神童說今年要認真投好球。賽後還有L.S.S.與孝琳開唱；六日輪到SHINee溫流與FLARE U等。白話：看球加追星，大巨蛋變韓流校園祭。",
+      "why_it_matters": "中職主題日結合演唱會，是台灣流行文化與職業運動的交叉現場，也帶動周邊商圈。",
+      "camps": "球迷樂見內容行銷。純棒球迷可能覺得賽事被演唱會搶戲，主辦要平衡兩者。",
+      "source_name": "聯合報",
+      "source_url": "https://udn.com/news/story/7001/9736716",
+      "published": "2026-09-05",
       "terms": [
         {
-          "term": "金馬影展",
+          "term": "開球",
           "aliases": [],
-          "explain": "金馬獎前後的國際電影展。"
+          "explain": "比賽開始前由嘉賓投出象徵性第一球。"
         },
         {
-          "term": "大銀幕",
-          "aliases": [],
-          "explain": "電影院正式放映，不是只在串流看。"
+          "term": "大巨蛋",
+          "aliases": [
+            "台北大巨蛋"
+          ],
+          "explain": "台北市大型室內棒球場館。"
         },
         {
-          "term": "李滄東",
+          "term": "主題日",
           "aliases": [],
-          "explain": "韓國名導，作品常入圍國際影展。"
+          "explain": "球團設計特殊活動、卡司與週邊的比賽日。"
         },
         {
-          "term": "菊地凜子",
-          "aliases": [],
-          "explain": "日本演員，曾入圍奧斯卡女配。"
+          "term": "L.S.S.",
+          "aliases": [
+            "SUPER JUNIOR-L.S.S."
+          ],
+          "explain": "SUPER JUNIOR由利特、神童、始源組成的小分隊。"
         }
       ],
       "image": "images/tw-pop-4.jpg",
-      "image_alt": "金馬影展片單示意",
-      "image_credit": "Photo: 三立新聞網"
+      "image_alt": "SUPER JUNIOR L.S.S.大巨蛋開球",
+      "image_credit": "Photo: 聯合報／富邦悍將提供"
     },
     {
       "id": "tw-soc-1",
       "section": "taiwan",
       "category": "社會",
-      "headline": "板橋C肝群聚：1118人回溯，1062人已接到通知；疾管署駁「小缺失」說",
-      "dek": "下一次進度九月八日說明。呼籲速至新北衛生所抽血。",
-      "caveman": "安泰淞鶴診所C肝群聚持續追。疾管署星期四說，回溯名單一千一百十八人，截至九月二日已通知一千零六十二人。診所負責人稱「小缺失不至於感染」，疾管署反駁：九大感控缺失每一項都有傳播風險，尤其重複取藥、針頭管理。白話：不是小擦傷，是整套打針流程可能都不乾淨。",
-      "why_it_matters": "你若曾在那段期間去該診所打針，健康檢查不能拖。也提醒所有診所感控是基本人權。",
-      "camps": "衛生單位要擴大篩檢。診所方想淡化責任。民眾要的是清楚指引與免費檢驗。",
-      "source_name": "Newtalk",
-      "source_url": "https://newtalk.tw/news/view/2026-09-03/1057612",
-      "published": "2026-09-03",
+      "headline": "疾管署示警豪雨後污水病：小心鉤端螺旋體與類鼻疽",
+      "dek": "九月六日提醒。小腿痠痛可能是警訊；糖尿病等高風險者少碰污泥。",
+      "caveman": "連日豪雨後，疾管署九月六日再提醒：清理家園碰到污水污泥，要小心鉤端螺旋體病跟類鼻疽。發言人林明誠說，皮膚有傷口更危險；污水裡也有腸胃道病原。醫師指出鉤端初期像感冒，「小腿痠痛」較有代表性。類鼻疽常見肺炎與敗血症，南部病例較多，重症死亡率可很高。清理時要穿防護、戴手套口罩，有發燒頭痛肌肉痛黃疸就快就醫並說有接觸污水。白話：雨停清家園，別赤腳踩污水。",
+      "why_it_matters": "颱風季與東北季風前後，淹水地區感染風險上升，慢就醫可能變重症。",
+      "camps": "公衛單位強調預防與通報。也有人抱怨防護資訊要更早、更進到里鄰系統。",
+      "source_name": "知新聞",
+      "source_url": "https://www.knews.com.tw/news/CF4F7F20D504D165C8D87364B3FA49FC",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "C肝",
-          "aliases": [],
-          "explain": "Ｃ型肝炎病毒，可經血液傳染，拖久可能傷肝。"
+          "term": "鉤端螺旋體病",
+          "aliases": [
+            "鉤端"
+          ],
+          "explain": "動物尿液污染水土後，經皮膚傷口進人體的細菌病。"
         },
         {
-          "term": "回溯",
+          "term": "類鼻疽",
           "aliases": [],
-          "explain": "往回找可能接觸過的人。"
+          "explain": "土壤與積水中的細菌引起，可能肺炎、膿瘍甚至敗血性休克。"
         },
         {
-          "term": "感控",
+          "term": "敗血症",
           "aliases": [],
-          "explain": "感染控制，防止醫院診所把病傳給病人。"
+          "explain": "細菌進入血液引發全身嚴重反應，可能致命。"
         },
         {
-          "term": "群聚",
+          "term": "高風險族群",
           "aliases": [],
-          "explain": "短時間同一來源出現多個病例。"
+          "explain": "糖尿病、肺肝腎病、癌症或免疫差的人，感染後較易變重症。"
         }
       ],
       "image": "images/tw-soc-1.jpg",
-      "image_alt": "疫情追蹤示意",
-      "image_credit": "Photo: Newtalk"
+      "image_alt": "雨後積水與防疫提醒示意",
+      "image_credit": "Photo: 知新聞"
     },
     {
       "id": "tw-soc-2",
       "section": "taiwan",
       "category": "社會",
-      "headline": "鐘點移工計畫開第三階段申請，目標二十二縣市都有服務",
-      "dek": "申請到九月二十四日。已服務破一萬人次、逾十萬小時。",
-      "caveman": "勞動部推動「多元陪伴照顧」鐘點移工試辦，目前十三家團體在十六縣市服務。發展署星期四宣布開第三階段申請，希望補齊全台二十二縣市，最快明年初有新單位加入。民眾可自費申請陪醫、陪伴、基本生活照顧。白話：不是全天看護，是臨時需要幾小時有人幫忙。",
-      "why_it_matters": "長照缺口很大。彈性人力能幫雙薪家庭與術後短需求，但費用與品質仍要盯。",
-      "camps": "家屬樂見多選擇。移工權益團體盯勞動條件。地方政府要配套轉介。",
+      "headline": "衛福部推共生宅試辦：失能長輩優先，最快第3季上路",
+      "dek": "長照3.0新選項。參考日本共生之家，約4至7人合住並導入居家醫療。",
+      "caveman": "九月一日衛福部長石崇良宣布，最快今年第三季試辦「共生宅」：彼此沒血緣的長者合住同一屋簷，再把長照跟健保居家醫療送進去，跟養生村不同，優先給失能程度較高（例如第四級以上）的長輩。收費先不統一，但估比養生村便宜；先試辦兩年，偏鄉與土地難取得地區約十處據點（含台中梨山等提案）。白話：不是住大型機構，是幾位長輩當室友，外加照護進門。",
+      "why_it_matters": "台灣超高齡，機構床位與價錢壓力大。共生宅想給失能長輩多一個留在社區的選擇。",
+      "camps": "支持者說更有人情味、可近性高。擔心者問意外責任、收費透明與照顧人力夠不夠。",
       "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/ahel/202609030127.aspx",
-      "published": "2026-09-03",
+      "source_url": "https://www.cna.com.tw/news/ahel/202609010214.aspx",
+      "published": "2026-09-01",
       "terms": [
         {
-          "term": "鐘點移工",
-          "aliases": [],
-          "explain": "按小時計費的移工照顧服務，不是住家外籍看護。"
+          "term": "共生宅",
+          "aliases": [
+            "共生之家"
+          ],
+          "explain": "無血緣長者合租同住，並導入長照與居家醫療的模式。"
         },
         {
-          "term": "長照",
+          "term": "長照3.0",
           "aliases": [],
-          "explain": "長期照顧失能或生病需要協助的人。"
+          "explain": "政府下一階段長期照顧政策版本。"
         },
         {
-          "term": "試辦",
+          "term": "失能等級",
           "aliases": [],
-          "explain": "先小範圍實驗，再決定要不要全面做。"
+          "explain": "評估老人需要多少照顧的分級，數字越高通常需求越大。"
         },
         {
-          "term": "陪同就醫",
+          "term": "居家醫療",
           "aliases": [],
-          "explain": "陪病人去醫院掛號、看診、拿藥。"
+          "explain": "醫師護理到宅看診，減少長者奔波住院。"
+        },
+        {
+          "term": "養生村",
+          "aliases": [],
+          "explain": "多提供健康或較輕度需求長者居住的社區型住宅。"
         }
       ],
       "image": "images/tw-soc-2.jpg",
-      "image_alt": "移工照顧示意",
+      "image_alt": "衛福部長說明共生宅政策",
       "image_credit": "Photo: 中央社"
     },
     {
       "id": "tw-soc-3",
       "section": "taiwan",
       "category": "社會",
-      "headline": "寄居蟹社宅轉銜：國住都籲約千名房東快上網登記",
-      "dek": "八月十日啟動轉銜。未填表恐影響後續包租代管接棒。",
-      "caveman": "社會住宅包租代管業者「寄居蟹」爆出債務危機後，國家住都中心協助房東房客轉銜。星期四說還有大約一千名房東沒上網站填「協助需求登記表」，呼籲快填，才能指定或輪配第五期計畫業者接手。白話：房東不登記，房子可能卡在空窗，房客也不安心。",
-      "why_it_matters": "社宅是弱勢與青年住房安全網。仲介倒了，政府接手速度決定有沒有人流落街頭。",
-      "camps": "房東要租金不斷。房客要合約穩定。公會與住都中心要加速配對。",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202609030309.aspx",
-      "published": "2026-09-03",
+      "headline": "新竹和選旅爆退伍軍人病：水管系統染菌，要求清空清消",
+      "dek": "九月六日衛生局說明。最高可罰30萬；旅客健康關懷進行中。",
+      "caveman": "新竹市接獲外縣市通報退伍軍人病病例，潛伏期曾住「和選旅」飯店。衛生局採檢認為污染是系統性，不是單一樓層，要求相關樓層清空、停止收客，並清消全棟水管與儲水槽。清消後還要淨空至少兩天再複驗，第三方採檢、疾管署與衛生局點頭才能解除。拒絕配合最高罰三十萬。此病不人傳人，多因吸入含菌氣霧。白話：飯店熱水系統髒了會讓人得肺炎樣疾病，先淨空再洗水管。",
+      "why_it_matters": "住宿公共衛生直接影響旅客安全與觀光信任，也提醒老舊管路要定期維護。",
+      "camps": "市府強調旅客健康優先。業者與受影響旅客關注退費改期；消費者要保留證據維權。",
+      "source_name": "中天新聞網",
+      "source_url": "https://ctinews.com/news/items/MyWkpb6oa6",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "社會住宅",
+          "term": "退伍軍人病",
           "aliases": [
-            "社宅"
+            "退伍軍人症"
           ],
-          "explain": "租金較親民、有資格限制的出租住宅。"
+          "explain": "吸入含退伍軍人菌的水霧引起的肺炎，不會人傳人。"
         },
         {
-          "term": "包租代管",
+          "term": "氣霧",
           "aliases": [],
-          "explain": "業者幫房東出租、管理房子的模式。"
+          "explain": "很細的水滴漂在空氣中，淋浴、冷卻水塔都可能產生。"
         },
         {
-          "term": "轉銜",
-          "aliases": [],
-          "explain": "換另一家業者繼續服務，別讓合約斷掉。"
+          "term": "清消",
+          "aliases": [
+            "清潔消毒"
+          ],
+          "explain": "清洗並消毒水管、水塔等設備。"
         },
         {
-          "term": "國住都",
+          "term": "淨空",
           "aliases": [],
-          "explain": "國家住宅及都市更新中心。"
+          "explain": "客房暫時不住人，方便施工與複驗。"
         }
       ],
       "image": "images/tw-soc-3.jpg",
-      "image_alt": "社會住宅示意",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "新竹飯店防疫清消相關畫面",
+      "image_credit": "Photo: 中天新聞網"
     },
     {
       "id": "tw-soc-4",
       "section": "taiwan",
       "category": "社會",
-      "headline": "濁水溪泛舟殉職案後續：獲救者含前水域教官，赴靈堂致歉",
-      "dek": "伍程嶸救援落水殉職。家屬盼同行者也能到場。",
-      "caveman": "南投消防員伍程嶸救援濁水溪受困泛舟客時落水殉職。後來吊掛獲救的人裡，有一位是山難救助協會前水域教官；他與同伴到靈堂上香致歉，坦言輕忽。伍母雖悲痛仍見對方致意。白話：會玩水的人也不一定懂當下的河，救人的人卻可能賠上性命。",
-      "why_it_matters": "極端氣候讓溪水暴漲更難預測。大眾活動安全與消防裝備、編制都要被重新檢討。",
-      "camps": "基層要水域專責與更好裝備。縣府要查法規與預警。戶外活動者要為風險負責。",
-      "source_name": "三立新聞網",
-      "source_url": "https://www.setn.com/news/1900683",
-      "published": "2026-09-03",
+      "headline": "高雄湖內移工宿舍火警：5名泰籍移工全數平安逃出",
+      "dek": "九月六日上午巷弄民宅起火。消防灌救約40分鐘撲滅，原因待查。",
+      "caveman": "九月六日上午約十一點，高雄市湖內區民權路巷弄一處租給移工的民宅起火，濃煙很大。消防出動車輛人員佈水線，約十一點四十分撲滅。屋內五名泰國籍移工都平安逃出，無人傷亡。屋主說房屋租給五名泰籍移工，起火原因交火災調查鑑定。警方呼籲別圍觀擋路。白話：移工宿舍火警驚魂，人沒事，但凸顯群居安全與逃生動線重要。",
+      "why_it_matters": "移工常住較擁擠老屋，火災風險高。每次平安逃出背後都是逃生觀念與雇主管理的考題。",
+      "camps": "勞權團體強調宿舍公安與檢查。地方則先救災再究責；雇主與仲介應檢視滅火器與逃生門。",
+      "source_name": "中天新聞網",
+      "source_url": "https://ctinews.com/news/items/14a12DlRxk",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "殉職",
-          "aliases": [],
-          "explain": "因公務死亡。"
+          "term": "移工",
+          "aliases": [
+            "外籍移工"
+          ],
+          "explain": "在台灣工作的外籍勞動者。"
         },
         {
-          "term": "吊掛",
+          "term": "佈水線",
           "aliases": [],
-          "explain": "直升機用繩索把人吊起來救走。"
+          "explain": "消防隊員把水帶接到現場準備噴水滅火。"
         },
         {
-          "term": "水域救援",
+          "term": "火災調查",
           "aliases": [],
-          "explain": "在河流、海邊救人的高風險任務。"
+          "explain": "事後查起火點與原因的專業鑑定。"
         },
         {
-          "term": "致歉",
-          "aliases": [],
-          "explain": "當面向受害家屬道歉。"
+          "term": "公安",
+          "aliases": [
+            "公共安全"
+          ],
+          "explain": "建築消防逃生等公共安全規範。"
         }
       ],
       "image": "images/tw-soc-4.jpg",
-      "image_alt": "搜救與致意示意",
-      "image_credit": "Photo: 三立新聞網"
+      "image_alt": "高雄湖內火警現場相關畫面",
+      "image_credit": "Photo: 中天新聞網"
     }
   ]
 }

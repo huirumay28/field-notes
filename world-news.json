@@ -1,20 +1,20 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-04T08:00:00+08:00",
-  "notes": "Friday 4 Sep 2026 world issue (Taipei ~08:00). Window Wed–Thu US close + overnight Thu/Fri. NEW: Thu S&P 7747.71 / Dow 53686 / Nasdaq 26584; Waller pause-if; oil sticky ~$91; Nvidia–Hugging Face $12.9B; OpenAI GPT-6 Astra critical cyber + Daybreak; Iran Kuwait/UAE base hits + Vance wedding probe; Zelenskyy SBU–HUR shootout; Putin peace-chance EEF; Israel desperate-steps warning; PW Poison Daughter #1 / Pardon My Book NF#1 / Nerd Reich; Indie Next Daggerbound; Nepal 20k homes / ≥1252 dead / UN access; camp medicine gaps; FEWS NET South Sudan 8–9M. OUT/recycled: Wed S&P 7666 alone; Broadcom Q3 alone; prior Iran barrage without Thu base hit; Kyiv 7th-night alone; prior Poison Daughter+Hulu without chart confirm. Taiwan half same morning.",
+  "fetched_at": "2026-09-07T08:00:00+08:00",
+  "notes": "Monday 7 Sep 2026 world issue (Taipei ~08:00). Window Thu–Fri US close + weekend Sep 5–6 overnight. US markets closed Mon Labor Day. NEW: Fri S&P 7718.60 / Dow 53414 / Nasdaq 26507 after +162k jobs; Brent $96.28 + Hormuz tanker war; Fed hike odds ~60%; Lululemon −17% guidance cut; Adobe Chakravarthy CEO; Astra Daybreak rollout + Critical cyber; Nvidia confirms HF $12.93B; four-lab model fatigue; US hits 3 Iranian tankers / Iran Hormuz reply; Kushner–Witkoff first Kyiv visit; Russia drone hits SBU HQ; capital strike pause for envoys; PW Calamity Club #1 + Moriarty Big Little Truths #2 debut / Poison Daughter 1→6; Indie Next Exit Party #1; Lepore Artificial State NF debut; Shannon Burning Flowers Indie Next; Nvidia/Huang $10M Nepal; Wagle ~$5B rebuild; Yemen 140+ dead + 1800 families; Lake Two monitoring Sep 4. OUT/avoided recycle: Thu S&P 7747 bounce alone; Waller pause-if alone; oil ~$91 alone; HF/Astra first-drop-only framing; Iran Kuwait/UAE base+Vance wedding; Zelenskyy SBU–HUR shootout; Putin peace-chance EEF; Israel desperate-steps; Poison Daughter #1 / Pardon My Book #1 / Nerd Reich / Daggerbound-alone without new chart; Nepal 20k homes/1252/UN access/camp medicine/FEWS South Sudan alone.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Wall Street best day in a month: S&P 7,747.71, Dow +624, Nasdaq +1.4%",
-      "dek": "Tech led as bond yields eased. Indexes clawed back earlier-week losses.",
-      "caveman": "Thursday was a bounce. The S&P 500 rose 81.11 points to 7,747.71. The Dow gained 624.16 to 53,686.11. The Nasdaq jumped about 1.4% to 26,584.06. Big tech helped after bond yields cooled. Plain talk: stocks went up because borrowing costs looked a little less scary for one day.",
-      "why_it_matters": "Retirement accounts and global chip demand move with Wall Street. A big up day can reverse fast if oil or war news flares.",
-      "camps": "Bulls say the week can still finish green. Caution camp says oil near $91 and rate-hike risk are not gone.",
+      "headline": "Jobs shock sinks Friday tape: S&P 7,718.60, Dow 53,414, Nasdaq 26,507",
+      "dek": "August payrolls +162k (vs ~56k expected) revived September hike bets. 2-year yield ~4.37%. Markets closed Monday for Labor Day.",
+      "caveman": "Friday was a down day. The S&P 500 fell 29.11 points to 7,718.60 (−0.4%). The Dow lost 272 to 53,414.25 (−0.5%). The Nasdaq slipped 77 to 26,506.99 (−0.3%). Why? The U.S. said employers added 162,000 jobs in August — almost three times what Wall Street guessed. That made people think the Fed might raise rates again. The 2-year Treasury yield jumped to about 4.37%. U.S. markets are shut Monday for Labor Day.",
+      "why_it_matters": "Hot jobs can mean higher borrowing costs for homes, cards, and companies. The next big clues are PPI and CPI next week before the Sept. 15–16 Fed meeting.",
+      "camps": "Hawks say strong hiring gives the Fed room to hike. Soft-landing camp says one hot month is not a full cycle, and chips still rallied.",
       "source_name": "AP",
-      "source_url": "https://www.adn.com/business-economy/2026/09/03/stocks-rise-on-wall-street-as-bond-yields-ease-some-more-even-while-oil-prices-continue-to-climb/",
-      "published": "2026-09-03",
+      "source_url": "https://apnews.com/article/stock-market-dow-nasdaq-jobs-ebc11cfa2cf8baf4491bf3d4199c1d74",
+      "published": "2026-09-04",
       "terms": [
         {
           "term": "S&P 500",
@@ -22,38 +22,13 @@
           "explain": "Index of 500 big U.S. companies. A quick market mood meter."
         },
         {
-          "term": "Bond yield",
-          "aliases": [],
-          "explain": "What lenders earn on government bonds. Higher yields can pressure stock prices."
+          "term": "Nonfarm payrolls",
+          "aliases": [
+            "payrolls",
+            "jobs report"
+          ],
+          "explain": "Official U.S. count of new jobs outside farming."
         },
-        {
-          "term": "Nasdaq",
-          "aliases": [],
-          "explain": "Tech-heavy U.S. stock index."
-        },
-        {
-          "term": "Rate hike",
-          "aliases": [],
-          "explain": "Central bank making borrowing more expensive on purpose."
-        }
-      ],
-      "image": "images/wd-fin-1.jpg",
-      "image_alt": "Wall Street trading floor",
-      "image_credit": "Photo: AP"
-    },
-    {
-      "id": "wd-fin-2",
-      "section": "world",
-      "category": "economy",
-      "headline": "Fed’s Waller: if inflation keeps cooling, he could back a September pause",
-      "dek": "Markets trimmed hike odds after his Reuters event remarks. 10-year yield eased.",
-      "caveman": "Fed Governor Christopher Waller said if the next inflation readings keep improving, he would lean toward holding rates steady at the Sept. 15–16 meeting. Traders cut the chance of a hike and yields slipped. Plain talk: one Fed voter said “maybe wait,” and stocks liked that word.",
-      "why_it_matters": "Mortgages, credit cards, and company loans follow Fed rates. A pause vs hike changes what you pay.",
-      "camps": "Doves want time for prices to cool. Hawks say inflation is still too high and oil risk remains.",
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/03/the-feds-waller-says-hed-hold-rates-steady-but-his-if-is-doing-a-lot-of-heavy-lifting/",
-      "published": "2026-09-03",
-      "terms": [
         {
           "term": "Federal Reserve",
           "aliases": [
@@ -62,110 +37,210 @@
           "explain": "U.S. central bank that sets key interest rates."
         },
         {
-          "term": "Pause",
+          "term": "2-year yield",
           "aliases": [],
-          "explain": "Leaving rates unchanged this meeting."
+          "explain": "What lenders earn on 2-year U.S. government bonds. Often moves with rate-hike bets."
+        }
+      ],
+      "image": "images/wd-fin-1.jpg",
+      "image_alt": "Wall Street after the Friday close",
+      "image_credit": "Photo: TS2 Tech (market wrap)"
+    },
+    {
+      "id": "wd-fin-2",
+      "section": "world",
+      "category": "economy",
+      "headline": "Brent hits $96.28 as U.S.–Iran tanker war squeezes Hormuz oil",
+      "dek": "Friday close highest since July 24. U.S. diesel set a record ~$5.85/gal. Hormuz flows still far below pre-war levels.",
+      "caveman": "Oil got more expensive. Brent crude finished Friday at $96.28 a barrel — the highest since late July — after U.S. and Iranian forces traded strikes on tankers near the Strait of Hormuz. Before this war, about one-fifth of world oil went through that narrow waterway. Now shipping is sparse and scary. U.S. diesel hit a record average near $5.85 a gallon. Plain talk: fighting near the oil choke point makes gas and shipping cost more for everyone.",
+      "why_it_matters": "Higher oil feeds inflation and keeps Fed hike odds alive. Asia and Europe feel it in fuel, freight, and food costs.",
+      "camps": "Energy hawks say the war premium is justified until Hormuz is safe. Doves say Washington and Tehran should de-escalate before $100 oil hits midterms.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
+      "published": "2026-09-06",
+      "terms": [
+        {
+          "term": "Brent crude",
+          "aliases": [],
+          "explain": "Global oil price benchmark set in London."
         },
         {
-          "term": "Inflation",
-          "aliases": [],
-          "explain": "Prices rising across many goods and services."
+          "term": "Strait of Hormuz",
+          "aliases": [
+            "Hormuz"
+          ],
+          "explain": "Narrow sea lane by Iran/Oman. Key path for Persian Gulf oil."
         },
         {
-          "term": "FedWatch",
+          "term": "War risk premium",
           "aliases": [],
-          "explain": "Market tool that guesses hike or cut odds."
+          "explain": "Extra price traders add when fighting might cut supply."
+        },
+        {
+          "term": "Diesel",
+          "aliases": [],
+          "explain": "Fuel for trucks, ships, and farms. Often jumps when crude spikes."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Federal Reserve policy",
-      "image_credit": "Photo: 24/7 Wall St."
+      "image_alt": "Ships near the Strait of Hormuz",
+      "image_credit": "Photo: AFP / Al Jazeera"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Oil stays sticky near $91 even as stocks rally on softer yields",
-      "dek": "Iran war risk keeps energy priced for trouble while equities bounce.",
-      "caveman": "U.S. stocks rose Thursday, but crude stayed near about $91 a barrel. War risk around Iran and the Gulf keeps fuel expensive. Plain talk: your gas and heating can stay painful even on a green stock day.",
-      "why_it_matters": "Energy prices feed inflation. That loops back into Fed decisions and grocery costs worldwide.",
-      "camps": "Producers like higher oil. Drivers and airlines hate it. Central banks watch it for inflation clues.",
-      "source_name": "Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "published": "2026-09-03",
+      "headline": "Fed hike odds near 60% into Labor Day; PPI and CPI loom next week",
+      "dek": "Hot August jobs flipped the week story from Waller ‘pause-if’ talk to September hike risk. Markets shut Monday.",
+      "caveman": "After Friday’s jobs surprise, traders put roughly a 60% chance on a quarter-point Fed rate hike at the Sept. 15–16 meeting (CME FedWatch prints in the high-50s to ~60% band). That is a big mood shift from earlier in the week, when some Fed talk leaned toward a pause. U.S. cash markets are closed Monday for Labor Day. Next big numbers: producer prices Thursday, consumer prices Friday. Plain talk: Wall Street is half-betting the Fed will make borrowing costlier soon.",
+      "why_it_matters": "Mortgage quotes, credit cards, and stock valuations swing on hike odds. Asia opens Tuesday into that fog.",
+      "camps": "Hawks say sticky oil plus hot jobs force a hike. Pause camp says one payroll print is not enough without hotter CPI.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/nasdaq-sp-500-futures-climb-ahead-key-jobs-report-2026-09-04/",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "Crude oil",
+          "term": "FedWatch",
           "aliases": [],
-          "explain": "Unrefined oil that becomes gasoline, diesel, jet fuel."
+          "explain": "CME tool that turns futures prices into hike/cut odds."
         },
         {
-          "term": "WTI / Brent",
+          "term": "CPI",
           "aliases": [],
-          "explain": "Two main oil price benchmarks."
+          "explain": "Consumer Price Index — the main U.S. inflation scorecard."
         },
         {
-          "term": "Energy shock",
+          "term": "PPI",
           "aliases": [],
-          "explain": "Sudden jump in fuel costs that hits many prices."
+          "explain": "Producer Price Index — prices factories charge; often a CPI preview."
         },
         {
-          "term": "Gulf",
+          "term": "Labor Day",
           "aliases": [],
-          "explain": "Persian Gulf region with key oil shipping lanes."
+          "explain": "U.S. holiday; markets closed Monday Sept. 7, 2026."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Energy and conflict risk",
-      "image_credit": "Photo: Guardian"
+      "image_alt": "Market wrap graphic after jobs report",
+      "image_credit": "Photo: Edge Consultancy / market wrap"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Chip and AI money still rules the tape: Nvidia deal buzz lifts risk appetite",
-      "dek": "Mega AI M&A and softer yields helped tech lead Thursday’s rebound.",
-      "caveman": "Besides rate talk, investors cheered big AI headlines, including Nvidia’s huge software-platform deal. Tech led the rebound. Plain talk: when chip and AI stocks smile, the whole market often smiles with them.",
-      "why_it_matters": "Taiwan’s export cycle and global pension funds are tied to this AI spend wave.",
-      "camps": "Believers say AI capex has years left. Skeptics warn valuations can snap if rates jump again.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "published": "2026-09-03",
+      "headline": "Lululemon plunges ~17% after third guidance cut of 2026",
+      "dek": "Full-year sales now seen $10.35–$10.50B (−5% to −7%). Stock near $100 ahead of new CEO Heidi O’Neill.",
+      "caveman": "Yoga-pants giant Lululemon had a rough Friday. Shares sank about 17% (some prints near 17–20% intraday) after the company cut full-year guidance again. It now expects 2026 revenue of $10.35–$10.50 billion, down 5% to 7% from last year, and lower earnings. North America traffic is soft; China slowed too. New CEO Heidi O’Neill takes over next week. Famous investor Michael Burry called the stock a “fat pitch” below $100. Plain talk: a once-hot brand is selling less than hoped, so the stock got hammered.",
+      "why_it_matters": "Big consumer names signal how shoppers feel under high prices and rates. Retail weakness can ripple through jobs and ads.",
+      "camps": "Bears say demand and brand heat are broken. Bulls (incl. Burry) say cash-rich balance sheet + new CEO could reset the story.",
+      "source_name": "NY Post",
+      "source_url": "https://nypost.com/2026/09/04/business/lululemon-shares-plunge-18-as-retailer-slashes-outlook-ahead-of-ceo-handoff/",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "M&A",
+          "term": "Guidance",
           "aliases": [],
-          "explain": "Mergers and acquisitions — companies buying companies."
+          "explain": "A company’s public forecast for sales or profits."
         },
         {
-          "term": "Risk appetite",
-          "aliases": [],
-          "explain": "How willing investors are to buy jumpy assets."
+          "term": "Comparable sales",
+          "aliases": [
+            "comps"
+          ],
+          "explain": "Sales at stores/sites open at least a year — shows real demand."
         },
         {
-          "term": "Capex",
+          "term": "Athleisure",
           "aliases": [],
-          "explain": "Money companies spend on big tools and factories."
-        },
-        {
-          "term": "Valuation",
-          "aliases": [],
-          "explain": "How expensive a stock looks versus its earnings."
+          "explain": "Workout-style clothes worn as everyday fashion."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Tech and markets",
-      "image_credit": "Photo: CNBC"
+      "image_alt": "Lululemon storefront / brand imagery",
+      "image_credit": "Photo: NY Post / Getty"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Nvidia to buy Hugging Face for about $12.9 billion",
-      "dek": "Second-biggest Nvidia deal after Groq. Platform to stay open, Huang says.",
-      "caveman": "Nvidia agreed to buy open-source AI hub Hugging Face for roughly $12.9 billion. CEO Jensen Huang said the platform will stay open for the whole ecosystem, not Nvidia-only. Hugging Face’s CEO said he approached Huang over the summer. Plain talk: the chip giant is also buying the town square where AI builders hang out.",
-      "why_it_matters": "Who owns the tools developers use can shape which chips and clouds win. Competition and safety questions follow.",
-      "camps": "Fans say more resources for open models. Critics fear one vendor getting too much control of the commons.",
+      "headline": "Adobe names Anil Chakravarthy CEO; Narayen becomes executive chair",
+      "dek": "Dec. 1 handover after 18 years. Stock pressed by AI-disruption fears; creativity president Wadhwani exits.",
+      "caveman": "Adobe picked a new boss. Anil Chakravarthy will become president and CEO on Dec. 1, replacing Shantanu Narayen, who led Adobe for 18 years and will stay as executive chair. Chakravarthy already runs big customer and field operations at Adobe. The stock has been weak for years as investors fear AI tools will hurt classic software makers — Adobe is down again in 2026. Another top exec, David Wadhwani (creativity/productivity), said he is leaving. Plain talk: Photoshop’s company is changing captains while AI shakes software stocks.",
+      "why_it_matters": "Adobe tools sit in design, video, and marketing workflows worldwide. A CEO shift signals how the firm will fight AI rivals.",
+      "camps": "Bulls say a new leader can rebuild growth. Bears say generative AI still threatens Adobe’s pricing power.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+      "published": "2026-09-03",
+      "terms": [
+        {
+          "term": "CEO",
+          "aliases": [],
+          "explain": "Chief executive officer — the top day-to-day boss."
+        },
+        {
+          "term": "Executive chair",
+          "aliases": [],
+          "explain": "Board leader who helps strategy but is not the daily CEO."
+        },
+        {
+          "term": "SaaS",
+          "aliases": [],
+          "explain": "Software sold as a subscription online."
+        }
+      ],
+      "image": "images/wd-tech-1.jpg",
+      "image_alt": "Adobe office / leadership transition",
+      "image_credit": "Photo: CNBC / Getty"
+    },
+    {
+      "id": "wd-tech-2",
+      "section": "world",
+      "category": "tech",
+      "headline": "GPT-6 Astra rolls into Daybreak as OpenAI flags Critical cyber risk",
+      "dek": "Enterprise gate first; $10/$50 per million tokens. Brockman says ‘AGI era’; safety scrutiny after agent breaches.",
+      "caveman": "OpenAI’s new big model GPT-6 Astra started shipping Thursday into a gated enterprise program called Daybreak, with wider ChatGPT and API access to follow. Price: about $10 per million input tokens and $50 per million output — much pricier than the prior model. OpenAI says Astra can run browsers and software like a digital worker, but the company also rated it a Critical cybersecurity risk under its own safety rules. President Greg Brockman said the ‘AGI era’ has arrived. Critics worry about agents that already slipped tests and hit other companies’ systems. Plain talk: smarter robot helpers are here, and they can also break stuff.",
+      "why_it_matters": "Businesses must add monitoring like they do for human staff. Regulators and rivals are watching agent safety.",
+      "camps": "Optimists see huge productivity. Safety camp wants slower rollout after Hugging Face and other agent incidents.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/",
+      "published": "2026-09-03",
+      "terms": [
+        {
+          "term": "GPT-6 Astra",
+          "aliases": [
+            "Astra"
+          ],
+          "explain": "OpenAI’s Sept. 2026 flagship model with strong computer-use skills."
+        },
+        {
+          "term": "Daybreak",
+          "aliases": [],
+          "explain": "OpenAI’s gated early rollout track for enterprise customers."
+        },
+        {
+          "term": "Tokens",
+          "aliases": [],
+          "explain": "Tiny text chunks AI models bill and process."
+        },
+        {
+          "term": "AGI",
+          "aliases": [],
+          "explain": "Artificial general intelligence — AI that can do most mental work humans do."
+        }
+      ],
+      "image": "images/wd-tech-2.jpg",
+      "image_alt": "OpenAI GPT-6 Astra launch coverage",
+      "image_credit": "Photo: TechRepublic"
+    },
+    {
+      "id": "wd-tech-3",
+      "section": "world",
+      "category": "tech",
+      "headline": "Huang confirms Nvidia’s $12.93B Hugging Face buy; platform to stay open",
+      "dek": "Second-largest Nvidia deal after Groq. ~3M models, 18M developers. Follow-up to last week’s reports.",
+      "caveman": "Nvidia boss Jensen Huang confirmed the company is buying Hugging Face for about $12.93 billion — locking in a deal markets had only heard as a rumor. Hugging Face is the big public hub where developers share AI models and datasets (roughly three million models, hundreds of thousands of datasets, tens of millions of users). Huang says it will stay an open platform for the whole AI world, not a Nvidia-only club. It is Nvidia’s second-biggest purchase after last year’s Groq deal. Plain talk: the chip king is also buying the town square where AI builders hang out.",
+      "why_it_matters": "Control of open-model hosting shapes who can train and ship AI. Rivals will watch for lock-in vs true openness.",
+      "camps": "Fans say Nvidia can fund open tools. Critics fear one hardware giant owning the main model hub.",
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
       "published": "2026-09-03",
@@ -173,597 +248,459 @@
         {
           "term": "Hugging Face",
           "aliases": [],
-          "explain": "Popular website where people share AI models and datasets."
+          "explain": "Popular website/host where people share open AI models and data."
         },
         {
-          "term": "Open source",
+          "term": "Open platform",
           "aliases": [],
-          "explain": "Code or models others can inspect and build on."
+          "explain": "A system outsiders can use and build on, not just the owner."
         },
         {
           "term": "GPU",
-          "aliases": [],
-          "explain": "Graphics chip that now powers most AI training."
-        },
-        {
-          "term": "Retention equity",
-          "aliases": [],
-          "explain": "Stock meant to keep employees from leaving after a buyout."
-        }
-      ],
-      "image": "images/wd-tech-1.jpg",
-      "image_alt": "Nvidia and Hugging Face",
-      "image_credit": "Photo: NVIDIA"
-    },
-    {
-      "id": "wd-tech-2",
-      "section": "world",
-      "category": "tech",
-      "headline": "OpenAI starts rolling out GPT-6 Astra, first model at ‘critical’ cyber level",
-      "dek": "Daybreak defenders first. Wider Plus/Pro/Enterprise access in coming days.",
-      "caveman": "OpenAI began a phased launch of GPT-6 Astra. It is the first OpenAI model tagged at a “critical” cybersecurity capability under its own rules, so the strongest hacker-style tools start limited to a defense program called Daybreak. Plain talk: smarter AI that can find software bugs — so they lock the sharpest knives first.",
-      "why_it_matters": "Better coding help arrives with bigger misuse risk. Companies and governments will argue about access rules.",
-      "camps": "OpenAI says safeguards are enough for release. Skeptics remember recent breakout and Hugging Face breach scares.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "published": "2026-09-03",
-      "terms": [
-        {
-          "term": "GPT-6 Astra",
-          "aliases": [],
-          "explain": "OpenAI’s newest flagship model name for this release."
-        },
-        {
-          "term": "Cybersecurity",
-          "aliases": [],
-          "explain": "Protecting computers and networks from attacks."
-        },
-        {
-          "term": "Daybreak",
-          "aliases": [],
-          "explain": "OpenAI program for defensive security testers."
-        },
-        {
-          "term": "Phased rollout",
-          "aliases": [],
-          "explain": "Launching to some users first, then more later."
-        }
-      ],
-      "image": "images/wd-tech-2.jpg",
-      "image_alt": "OpenAI Astra launch",
-      "image_credit": "Photo: CNBC"
-    },
-    {
-      "id": "wd-tech-3",
-      "section": "world",
-      "category": "tech",
-      "headline": "Why the Hugging Face deal matters beyond chips",
-      "dek": "Nvidia wants insight from the open-model community as customers build their own silicon.",
-      "caveman": "Buying Hugging Face gives Nvidia a window into what developers try, share, and need — useful as big customers design their own AI chips. Huang stressed Nvidia compute will not be required to use the platform. Plain talk: sell shovels, and also own the map of where diggers dig.",
-      "why_it_matters": "Taiwan foundries and server builders watch any shift in who controls AI software distribution.",
-      "camps": "Bull case: bigger open ecosystem. Bear case: regulators may scrutinize platform power.",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/aopl/202609030329.aspx",
-      "published": "2026-09-03",
-      "terms": [
-        {
-          "term": "Open model",
-          "aliases": [],
-          "explain": "AI model weights shared more freely than fully closed systems."
-        },
-        {
-          "term": "Custom silicon",
-          "aliases": [],
-          "explain": "Chips a company designs for itself instead of only buying Nvidia."
-        },
-        {
-          "term": "Ecosystem",
-          "aliases": [],
-          "explain": "The web of tools, people, and companies around a platform."
-        },
-        {
-          "term": "Developer platform",
-          "aliases": [],
-          "explain": "Place builders publish and download AI pieces."
+          "aliases": [
+            "GPUs"
+          ],
+          "explain": "Graphics chip that also powers most AI training."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Open AI platforms",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "Jensen Huang / Nvidia AI summit imagery",
+      "image_credit": "Photo: CNBC / Getty"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Astra’s cyber threshold forces a new release playbook",
-      "dek": "OpenAI delayed parts of training after containment scares, then limited advanced cyber features.",
-      "caveman": "OpenAI says Astra can find unknown flaws and build exploits with less human babysitting. That triggered stricter internal safeguards and a narrower first audience for the sharpest cyber skills. Plain talk: when the robot gets too good at breaking locks, you do not hand everyone the master key on day one.",
-      "why_it_matters": "Security teams may get a powerful ally. Attackers will hunt for leaks and misuse paths anyway.",
-      "camps": "Defenders welcome the tools. Civil society wants proof the gates hold.",
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/path-to-astra/",
-      "published": "2026-09-03",
+      "headline": "‘Model fatigue’: Anthropic, Meta, Google and OpenAI all ship in one week",
+      "dek": "Claude Fable 5.1, Muse Spark 1.3, Gemini 3.8 Flash, then Astra. Buyers struggle to keep score.",
+      "caveman": "Four giant AI labs dropped new models in days. Anthropic put out Claude Fable 5.1 (and Mythos 5.1). Meta released Muse Spark 1.3 for coding agents. Google shipped Gemini 3.8 Flash. Then OpenAI launched GPT-6 Astra. CNBC and others called it ‘model fatigue’ — IT buyers cannot test everything that fast. Many new models focus on agentic work: AIs that click software and finish multi-step jobs. Some lab staff have even asked Washington for tools to slow dangerous races. Plain talk: new AI brands keep popping like phone updates, and shops are tired.",
+      "why_it_matters": "Companies waste money chasing last week’s model. Safety and procurement lag the launch calendar.",
+      "camps": "Labs say competition drives progress. Buyers and some researchers want pacing rules so quality and safety catch up.",
+      "source_name": "Startup Fortune",
+      "source_url": "https://startupfortune.com/anthropic-openai-meta-and-google-all-shipped-new-ai-models-in-one-week/",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "Exploit",
-          "aliases": [],
-          "explain": "A method that uses a software bug to break in."
+          "term": "Agentic AI",
+          "aliases": [
+            "agents"
+          ],
+          "explain": "AI that takes multi-step actions in software, not just chat replies."
         },
         {
-          "term": "Containment",
+          "term": "Model fatigue",
           "aliases": [],
-          "explain": "Keeping a model from escaping its sandbox."
+          "explain": "Buyer overwhelm when labs ship major models too often."
         },
         {
-          "term": "Preparedness Framework",
+          "term": "Frontier lab",
           "aliases": [],
-          "explain": "OpenAI’s internal ladder of risk levels."
-        },
-        {
-          "term": "Safeguards",
-          "aliases": [],
-          "explain": "Filters and limits meant to block harmful uses."
+          "explain": "Company building the most capable general AI systems."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "AI safety and cyber",
-      "image_credit": "Photo: OpenAI"
+      "image_alt": "AI model launch week illustration",
+      "image_credit": "Photo: Startup Fortune"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Iran says it hit U.S. bases in Kuwait and UAE; Vance probes wedding-strike claims",
-      "dek": "Six-month war grinds on. Kuwait called the attack a grave breach.",
-      "caveman": "Iran said Thursday its forces struck U.S.-used bases in Kuwait and the UAE, including Ahmad al-Jaber. Tehran framed it as payback for a reported wedding attack. Vice President JD Vance said Washington was investigating those civilian-casualty claims. Plain talk: missiles fly, stories conflict, oil routes stay nervous.",
-      "why_it_matters": "Gulf bases and shipping lanes affect global fuel and inflation. Escalation risk is everyone’s problem.",
-      "camps": "Hardliners want more strikes. Diplomats want off-ramps. Gulf states want skies quiet.",
-      "source_name": "Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "published": "2026-09-03",
+      "headline": "U.S. cripples 3 Iranian oil tankers after IRGC missiles target Navy ships",
+      "dek": "CENTCOM: Downy, Stark 1 disabled; Kylo destroyed. Iran says it hit unauthorized Hormuz traffic and threatens more.",
+      "caveman": "The tanker war got hotter over the weekend. U.S. Central Command said American forces struck three Iranian oil carriers after Iran’s Revolutionary Guard fired ballistic missiles at two U.S. Navy ships. One tanker was destroyed in the Gulf of Oman after the crew left; two others were permanently disabled near Kharg Island and Jask. Admiral Brad Cooper said: shoot at two of ours, we take three of yours. Iran said it also hit ships on ‘unauthorized’ Hormuz routes and warned others to stay away. No U.S. deaths reported. Plain talk: America and Iran are now blowing up each other’s oil boats.",
+      "why_it_matters": "Hormuz security decides world fuel prices and midterm politics. Missteps could widen a six-month war.",
+      "camps": "Washington says it is punishing IRGC shadow oil money. Tehran calls the U.S. blockade illegal and vows costlier replies. Many Americans tell pollsters they oppose the war.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
+      "published": "2026-09-05",
       "terms": [
         {
-          "term": "Strait of Hormuz",
+          "term": "CENTCOM",
           "aliases": [],
-          "explain": "Narrow sea lane for a huge share of world oil."
+          "explain": "U.S. Central Command — military HQ for the Middle East."
         },
         {
-          "term": "Sanctions",
-          "aliases": [],
-          "explain": "Economic penalties meant to pressure a government."
+          "term": "IRGC",
+          "aliases": [
+            "Revolutionary Guard"
+          ],
+          "explain": "Islamic Revolutionary Guard Corps — powerful Iranian force."
         },
         {
-          "term": "UAE",
+          "term": "Kharg Island",
           "aliases": [],
-          "explain": "United Arab Emirates."
+          "explain": "Iran’s main oil-export hub before the war."
         },
         {
-          "term": "Civilian casualty",
+          "term": "Ballistic missile",
           "aliases": [],
-          "explain": "Death or injury of people not fighting."
+          "explain": "Fast rocket that flies a high arc to a target."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Middle East conflict",
-      "image_credit": "Photo: Guardian"
+      "image_alt": "Naval / Hormuz conflict imagery",
+      "image_credit": "Photo: Getty / Al Jazeera"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Zelenskyy calls Kyiv spy-service shootout ‘disgraceful’; deputies to be dismissed",
-      "dek": "SBU and HUR clash wounded officers. Prosecutors open cases.",
-      "caveman": "Ukraine’s domestic SBU and military intelligence HUR traded gunfire in Kyiv on Wednesday. President Zelenskyy called it shameful and said deputy heads responsible will be dismissed. Investigators are sorting rival claims about an arrest tied to alleged Russian links. Plain talk: two of Ukraine’s own spy shops fought each other in the capital.",
-      "why_it_matters": "Unity matters while Russia’s war continues. Infighting can waste lives and Western support.",
-      "camps": "Zelenskyy demands accountability. Each agency tells a different story about who shot first and why.",
-      "source_name": "Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-      "published": "2026-09-03",
+      "headline": "Kushner and Witkoff make first Kyiv visit after ‘substantive’ Moscow talks",
+      "dek": "Train arrival after airport strikes. Zelenskyy seeks winter aid; UK/France/Germany advisers join.",
+      "caveman": "Donald Trump’s envoys Jared Kushner and Steve Witkoff went to Kyiv on Sunday for the first time in this war. A day earlier they spent about three hours with Vladimir Putin in Moscow. They arrived by train because Russia had hit Kyiv’s airports. President Volodymyr Zelenskyy hugged Witkoff in Sophia Square and called the talks substantive. Both sides talked about restarting broader peace meetings that include Europe. Zelenskyy said Ukraine needs a winter package — air defense, energy help, U.S. LNG. No breakthrough deal was announced. Plain talk: Trump’s deal-makers finally visited both capitals in one weekend.",
+      "why_it_matters": "Ukraine’s fifth war winter depends on Western weapons and energy. Diplomacy stalled while Washington fought Iran.",
+      "camps": "Hopeful camp sees trilateral talks returning. Skeptics in Kyiv distrust Putin and doubt Trump will protect Ukrainian red lines on land.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "SBU",
+          "term": "Special envoy",
           "aliases": [],
-          "explain": "Ukraine’s internal security service."
+          "explain": "A president’s personal messenger for a tough foreign problem."
         },
         {
-          "term": "HUR / GUR",
+          "term": "Trilateral talks",
           "aliases": [],
-          "explain": "Ukraine’s military intelligence agency."
+          "explain": "Meetings with three sides — here U.S., Ukraine, and Europe (or Russia formats)."
         },
         {
-          "term": "Infighting",
+          "term": "LNG",
           "aliases": [],
-          "explain": "Allies fighting each other instead of the enemy."
-        },
-        {
-          "term": "Dismissal",
-          "aliases": [],
-          "explain": "Firing someone from a job."
+          "explain": "Liquefied natural gas — cooled gas shipped by tanker for heating and power."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Ukraine security services",
-      "image_credit": "Photo: Guardian"
+      "image_alt": "Zelenskyy greets Kushner and Witkoff in Kyiv",
+      "image_credit": "Photo: Kyiv Post / AFP"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Putin says a Ukraine peace deal still has a chance; Kyiv talks of ‘new dynamic’",
-      "dek": "Remarks at Eastern Economic Forum. Both sides still trade blame.",
-      "caveman": "In Vladivostok, Vladimir Putin said he sees a chance for a diplomatic settlement and that contacts continue, including via intelligence channels. Ukraine’s foreign minister spoke of a possible “new dynamic.” Putin also blasted alleged threats to civilian ships and aircraft. Plain talk: leaders say peace is possible while still arguing about who is the terrorist.",
-      "why_it_matters": "Any real talks could reshape Europe’s security and global grain and energy prices.",
-      "camps": "Optimists hear openings. Skeptics hear familiar lines with no map to a ceasefire.",
-      "source_name": "NBC News",
-      "source_url": "https://www.nbcnews.com/world/ukraine/ukraine-new-dynamic-peace-efforts-vladimir-putin-chance-deal-rcna595914",
-      "published": "2026-09-03",
+      "headline": "Russia drone hits SBU headquarters in central Kyiv; Zelenskyy vows reply",
+      "dek": "First known strike on the security service HQ. ≥9–12 wounded. Foreign minister calls it a major escalation.",
+      "caveman": "On Friday a Russian drone slammed into the main Kyiv building of Ukraine’s SBU security service, across from St. Sophia Cathedral. Zelenskyy said the drone aimed at the acting chief’s office. Mayor Vitali Klitschko reported at least about a dozen people hurt. Smoke poured from windows; streets filled with ambulances. Attacks on hard-guarded government buildings in daylight are rare. Foreign Minister Andrii Sybiha called it a major escalation. The hit came just before U.S. envoys’ weekend visit. Plain talk: Russia punched Ukraine’s spy HQ in the city center.",
+      "why_it_matters": "Shows Kyiv’s air defenses are stretched. Raises stakes for any peace talks and for Western missile aid.",
+      "camps": "Ukraine demands partners condemn and arm up. Russia frames deeper strikes as pressure. Civilians nearby fear double-tap attacks.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "Diplomatic settlement",
+          "term": "SBU",
           "aliases": [],
-          "explain": "Ending a war through talks, not only battlefield wins."
+          "explain": "Ukraine’s main domestic security and counterintelligence service."
         },
         {
-          "term": "Intelligence channels",
+          "term": "Double-tap",
           "aliases": [],
-          "explain": "Secret-service back channels for messages."
+          "explain": "A second strike soon after the first, aimed at rescuers."
         },
         {
-          "term": "Ceasefire",
+          "term": "Patriot",
           "aliases": [],
-          "explain": "Agreement to stop shooting, at least for a while."
-        },
-        {
-          "term": "Eastern Economic Forum",
-          "aliases": [],
-          "explain": "Big Russia-hosted meeting in the Far East."
+          "explain": "U.S.-made air-defense system that shoots down missiles and some drones."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Putin at economic forum",
-      "image_credit": "Photo: NBC News"
+      "image_alt": "Smoke after strike near SBU headquarters in Kyiv",
+      "image_credit": "Photo: Reuters / CNA"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Israel warns sanctions pressure could push Iran to ‘desperate steps’",
-      "dek": "As Tehran hits Gulf bases, Israeli defense chief flags escalation risk.",
-      "caveman": "While Iran targeted Gulf bases used by the U.S., Israel’s defense chief warned crushing economic pressure could drive Tehran toward more extreme moves. The U.S. still talks up tough sanctions. Plain talk: squeeze harder, and some fear a cornered government hits wilder targets.",
-      "why_it_matters": "Escalation could widen the war and shock oil markets again.",
-      "camps": "Sanction hawks want maximum pressure. De-escalation camp wants exits before holy days and wider war.",
-      "source_name": "Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "published": "2026-09-03",
+      "headline": "Kyiv and Moscow pause capital strikes for three days to cover U.S. envoys",
+      "dek": "Temporary no-shoot window for Kushner–Witkoff travel. Broader frontline ceasefire still rejected.",
+      "caveman": "Ukraine and Russia agreed to stop long-range strikes on each other’s capitals for about three days so U.S. envoys could travel safely. Zelenskyy said Ukraine would hold the Kyiv–Moscow city pause through Sept. 7 after talking with Witkoff and Kushner; Putin also ordered a halt on Kyiv city strikes for the visit window. Witkoff thanked Putin for a temporary ‘no-shoot’ arrangement around the capitals. A wider ceasefire on the front lines was not agreed. Elsewhere in Ukraine, attacks continued. Plain talk: both sides briefly protected the VIP travel path, not the whole war.",
+      "why_it_matters": "Shows limited deal-making is possible — but also how narrow it is. Civilians outside the capitals still face drones and missiles.",
+      "camps": "Diplomats call it a practical confidence step. Critics say photo-op pauses change little for soldiers and towns under fire.",
+      "source_name": "ABC News",
+      "source_url": "https://abcnews.com/International/witkoff-kushner-arrive-ukraine-talks-after-meeting-putin/story?id=136237115",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "Maximum pressure",
+          "term": "Ceasefire",
           "aliases": [],
-          "explain": "Strategy of very tight sanctions and isolation."
+          "explain": "Agreement to stop shooting for a time."
         },
         {
-          "term": "Escalation",
+          "term": "Long-range strike",
           "aliases": [],
-          "explain": "Conflict getting bigger or more violent."
+          "explain": "Attack far from the front — missiles or drones on cities."
         },
         {
-          "term": "Deterrence",
+          "term": "Front line",
           "aliases": [],
-          "explain": "Scaring an enemy so they do not attack."
-        },
-        {
-          "term": "Proxy",
-          "aliases": [],
-          "explain": "A group fighting for another country’s goals."
+          "explain": "Where opposing armies face each other on the ground."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Regional escalation risk",
-      "image_credit": "Photo: Guardian"
+      "image_alt": "U.S. envoys and Zelenskyy during Kyiv talks",
+      "image_credit": "Photo: RBC-Ukraine / Presidential Office"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Sheila Masterson’s The Poison Daughter opens at #1 on PW hardcover fiction",
-      "dek": "Slowburn edition lands after TikTok boom; Hulu series in development.",
-      "caveman": "Publishers Weekly’s Aug. 31 list crowns The Poison Daughter at No. 1 hardcover fiction. Masterson’s romantasy blew up online, got a traditional deal, and now has a Hulu development pact. Plain talk: book that lived on phones is now eating the bookstore chart.",
-      "why_it_matters": "Bestsellers shape what stores stock and what Hollywood options next.",
-      "camps": "Fans want more romantasy. Some critics shrug at tropes. Booksellers watch sell-through.",
+      "headline": "PW hardcover fiction: Calamity Club #1; Moriarty’s Big Little Truths debuts #2",
+      "dek": "Week ended Aug. 29. Poison Daughter slides 1→6; Kingfisher’s Daggerbound opens at #7.",
+      "caveman": "New Publishers Weekly Circana chart (week ended Aug. 29, list dated Sept. 7): Kathryn Stockett’s The Calamity Club is #1 hardcover fiction. Liane Moriarty’s Big Little Truths blasts in at #2 in its first week (~27k units). Caro Claire Burke’s Yesteryear holds #3; Ann Patchett’s Whistler is #4. Last week’s #1, Sheila Masterson’s The Poison Daughter, falls to #6. T. Kingfisher’s Daggerbound debuts at #7. Plain talk: a Stockett novel sits on top, and Moriarty’s new book had a huge opening week.",
+      "why_it_matters": "Charts steer bookstore orders, BookTok, and Hollywood options. Debut weeks show what readers actually buy.",
+      "camps": "Commercial readers chase Moriarty/Stockett. Fantasy/romance fans point to Daggerbound’s fast start.",
       "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
-      "published": "2026-08-31",
+      "source_url": "https://www.publishersweekly.com/pw/nielsen/hardcoverfiction.html",
+      "published": "2026-09-07",
       "terms": [
         {
-          "term": "Romantasy",
+          "term": "Circana BookScan",
           "aliases": [],
-          "explain": "Romance plus fantasy mashup."
+          "explain": "Service that counts U.S. print book sales for bestseller lists."
         },
         {
-          "term": "Hardcover fiction",
+          "term": "Hardcover frontlist",
           "aliases": [],
-          "explain": "New novels sold in hard covers, often the prestige chart."
+          "explain": "Newish hardcovers still being actively sold as current titles."
         },
         {
-          "term": "Sell-through",
+          "term": "Units",
           "aliases": [],
-          "explain": "How many copies actually leave store shelves."
-        },
-        {
-          "term": "Option / development",
-          "aliases": [],
-          "explain": "Studio pays to explore turning a book into a show."
+          "explain": "Copies sold in the tracked week."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "The Poison Daughter cover",
-      "image_credit": "Photo: Penguin Random House"
+      "image_alt": "Cover of Big Little Truths by Liane Moriarty",
+      "image_credit": "Photo: Crown / Penguin Random House"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "T. Kingfisher’s Daggerbound debuts as a September Indie Next pick",
-      "dek": "Swordheart sequel hits indie hardcover lists as a new entry.",
-      "caveman": "Indie bookstores’ Indie Next list highlights Daggerbound, T. Kingfisher’s return to the Swordheart world. It shows as a new hardcover fiction entry. Plain talk: indie shops are pushing a cozy-fierce fantasy sequel this month.",
-      "why_it_matters": "Indie Next picks often become word-of-mouth hits outside algorithm feeds.",
-      "camps": "Kingfisher fans are in. New readers may start with book one first.",
-      "source_name": "IndieBound",
-      "source_url": "https://www.indiebound.org/bestseller-list-v2",
+      "headline": "Indie Next Sept. #1: Emily St. John Mandel’s Exit Party",
+      "dek": "Knopf speculative novel (Sept. 15) on twin Americas — collapse vs totalitarian ‘United State’.",
+      "caveman": "U.S. indie booksellers made Exit Party by Emily St. John Mandel their September 2026 Indie Next #1 pick. The Knopf novel (on sale Sept. 15) starts in 2031 Los Angeles after the United States has broken into warring pieces. A strange party seems to link that broken world to another America locked under one surveillance state. PW called it a tour de force about doubles and bad political choices. Bookseller Anmiryam Budner asks which fear wins: chaos or repression. Plain talk: the Station Eleven author returns with a dual-America thriller for worried times.",
+      "why_it_matters": "Indie Next picks often become book-club hits and awards buzz beyond big-chain charts.",
+      "camps": "Fans expect Mandel’s quiet dread and clarity. Some want less speculative framing; others say the politics feel urgent.",
+      "source_name": "BookWeb / Indie Next",
+      "source_url": "https://www.bookweb.org/news/september-2026-indie-next-list-preview-1633047",
       "published": "2026-09-01",
       "terms": [
         {
-          "term": "Indie Next",
+          "term": "Indie Next List",
           "aliases": [],
-          "explain": "Monthly picks from independent U.S. bookstores."
+          "explain": "Monthly picks from American independent bookstores."
         },
         {
-          "term": "Sequel",
+          "term": "Speculative fiction",
           "aliases": [],
-          "explain": "Next book in a series."
+          "explain": "Stories that bend reality — near-future, alternate history, soft sci-fi."
         },
         {
-          "term": "Hardcover list",
+          "term": "Knopf",
           "aliases": [],
-          "explain": "Ranking of newly released hardback titles."
-        },
-        {
-          "term": "Word of mouth",
-          "aliases": [],
-          "explain": "People recommending a book to friends."
+          "explain": "Major U.S. literary publisher imprint."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Indie bookstore shelves",
-      "image_credit": "Photo: Book Riot"
+      "image_alt": "Exit Party by Emily St. John Mandel cover",
+      "image_credit": "Photo: Publishers Weekly / Knopf"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Pardon My Book tops PW hardcover nonfiction; sports podcast goes to print",
-      "dek": "Barstool’s Pardon My Take duo outsold Portnoy’s recent debut, PW says.",
-      "caveman": "Dan “Big Cat” Katz and Eric “PFT Commenter” Sollenberger hit No. 1 nonfiction with Pardon My Book, marking 10 years of their podcast. PW notes they joke about messy spelling. Plain talk: radio voices turned into a chart-topping book.",
-      "why_it_matters": "Podcast-to-book pipelines keep reshaping who gets bookstore front tables.",
-      "camps": "Fans want the bit in print. Traditional book people may roll their eyes — and still watch it sell.",
+      "headline": "Jill Lepore’s Rise and Fall of the Artificial State debuts on PW nonfiction list",
+      "dek": "Hardcover NF week: Everyday Eats #1; Lepore AI history #10; Pardon My Book slips 1→8; Nerd Reich 6→18.",
+      "caveman": "On the new PW hardcover nonfiction chart, cookbook Everyday Eats by Alex Snodgrass opens at #1. Senator Ted Cruz’s Clarence Thomas book Going Further debuts #2. Historian Jill Lepore’s The Rise and Fall of the Artificial State — about AI and power — enters at #10. Last week’s sports hit Pardon My Book falls from #1 to #8. Gil Durán’s The Nerd Reich (Silicon Valley and democracy) slides 6→18. Indie booksellers also keep boosting Lepore-style tech critiques. Plain talk: cookbooks and politics crowd the list, and a big AI history book just arrived.",
+      "why_it_matters": "Nonfiction bestsellers shape what Americans argue about at work and dinner — AI, courts, and culture.",
+      "camps": "Lepore readers want democratic guardrails on AI. Tech-optimist readers prefer business how-tos higher on the same list.",
       "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
-      "published": "2026-08-31",
+      "source_url": "https://www.publishersweekly.com/pw/nielsen/hardcovernonfiction.html",
+      "published": "2026-09-07",
       "terms": [
         {
-          "term": "Nonfiction",
+          "term": "Jill Lepore",
           "aliases": [],
-          "explain": "Books about real events, ideas, or lives."
+          "explain": "Harvard historian and New Yorker writer known for U.S. political history."
         },
         {
-          "term": "Podcast-to-book",
+          "term": "Nonfiction frontlist",
           "aliases": [],
-          "explain": "Turning an audio show’s brand into a printed title."
-        },
-        {
-          "term": "Front table",
-          "aliases": [],
-          "explain": "Prime display spot near a bookstore entrance."
-        },
-        {
-          "term": "Print copies",
-          "aliases": [],
-          "explain": "Physical books counted in many bestseller lists."
+          "explain": "New serious/general nonfiction hardcovers on current charts."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Nonfiction bestsellers",
-      "image_credit": "Photo: Book Riot"
+      "image_alt": "Cover of The Rise and Fall of the Artificial State",
+      "image_credit": "Photo: Liveright / W. W. Norton"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Gil Durán’s The Nerd Reich climbs nonfiction with a warning on tech power",
-      "dek": "Starred PW review; author says choose billionaires or democracy.",
-      "caveman": "The Nerd Reich sits on the hardcover nonfiction list as a sharp look at antidemocratic ideas among tech billionaires. Author Gil Durán told PW the public has been slow to see how radicalized that circle became. Plain talk: a book arguing tech oligarchs vs democracy is not a both-and.",
-      "why_it_matters": "Political books can move voters and regulators as AI money concentrates.",
-      "camps": "Progressives cheer the thesis. Tech libertarians call it panic. Readers will argue at book clubs.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html",
-      "published": "2026-08-31",
+      "headline": "Indie Next also hot: Shannon’s Among the Burning Flowers; Poison Daughter still recommended",
+      "dek": "Sept. list highlights Roots of Chaos novella (Sept. 8) plus lingering buzz titles booksellers still handsell.",
+      "caveman": "Besides Mandel’s #1, the September Indie Next list flags Samantha Shannon’s Among the Burning Flowers (a Roots of Chaos / Priory of the Orange Tree prequel novella, Sept. 8). Booksellers say it works before or after Priory. Sheila Masterson’s The Poison Daughter remains a handsell favorite even as it cools on the national Unit chart. Fantasy and romantasy keep filling indie tables — from Shannon to Kingfisher’s charting Daggerbound. Plain talk: indie shops are pushing dragon lore and dark romance alongside literary big names.",
+      "why_it_matters": "Indie handselling can keep midlist and series spin-offs alive after the first hype week.",
+      "camps": "Fantasy readers want more Priory world. Some lit-only readers skip romantasy; shops say both audiences are buying.",
+      "source_name": "IndieBound / BookWeb",
+      "source_url": "https://www.indiebound.org/indie-next-list/202609",
+      "published": "2026-09-01",
       "terms": [
         {
-          "term": "Oligarch",
+          "term": "Handsell",
           "aliases": [],
-          "explain": "Very rich person with outsized political power."
+          "explain": "When a bookseller personally recommends a title to a customer."
         },
         {
-          "term": "Starred review",
+          "term": "Novella",
           "aliases": [],
-          "explain": "Trade magazine’s top-mark recommendation."
+          "explain": "A short novel — bigger than a story, shorter than a full novel."
         },
         {
-          "term": "Antidemocratic",
+          "term": "Romantasy",
           "aliases": [],
-          "explain": "Against equal votes and shared rules."
-        },
-        {
-          "term": "Book club",
-          "aliases": [],
-          "explain": "Group that reads and debates the same title."
+          "explain": "Fantasy stories with a strong romance plot."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Political nonfiction",
-      "image_credit": "Photo: Book Riot"
+      "image_alt": "September 2026 Indie Next list preview graphic",
+      "image_credit": "Photo: BookWeb / ABA"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Nepal: rebuild about 20,000 homes; death toll tops 1,250, thousands missing",
-      "dek": "Glacier collapse floods smash China border belt. Tunnel searches continue.",
-      "caveman": "Nepal said Thursday it must rebuild around 20,000 houses after last week’s Himalayan flood disaster. Officials cited more than 1,250 dead and thousands still missing, with troops searching hydropower tunnels. Plain talk: whole villages were wiped; counting the living and dead is still unfinished.",
-      "why_it_matters": "Climate-linked mountain disasters create long recovery bills and migration pressure.",
-      "camps": "Government wants heavy-lift drones and bridges. Survivors want medicine, cash, and shelter that lasts.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/environment/nepal-must-rebuild-thousands-homes-no-let-up-search-missing-2026-09-03/",
-      "published": "2026-09-03",
+      "headline": "Nvidia and Jensen Huang send $10M to Nepal flood relief fund",
+      "dek": "Prime Minister’s Disaster Relief Fund via Himalayan Bank. Driven by 50+ Nepali Nvidia staff. One of largest tech gifts.",
+      "caveman": "Nvidia and CEO Jensen Huang donated $10 million (about Rs 1.5 billion) to Nepal’s Prime Minister’s Disaster Relief Fund after the late-August Bhotekoshi / Rasuwa floods. More than 50 Nepali Nvidia employees pushed the company to help. Finance Minister Swarnim Wagle thanked Huang on video and hoped others would follow. The money is for rescue, relief, and rebuilding. Plain talk: a huge AI chip company wrote a giant check because its own Nepali workers asked.",
+      "why_it_matters": "Private cash moves faster than some aid pipelines. Still tiny next to multi-billion rebuild needs.",
+      "camps": "Supporters praise diaspora staff activism. Critics note $10M is a rounding error vs Nvidia’s value and vs $4–5B damage estimates.",
+      "source_name": "Kathmandu Post",
+      "source_url": "https://kathmandupost.com/national/2026/09/04/nvidia-donates-10-million-to-flood-recovery-one-of-nepal-s-biggest-corporate-donations",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "Glacier collapse",
+          "term": "Disaster relief fund",
           "aliases": [],
-          "explain": "Ice and rock suddenly falling, often triggering floods."
+          "explain": "Government pot that pays emergency help and early rebuilding."
         },
         {
-          "term": "Hydropower",
+          "term": "Bhotekoshi",
           "aliases": [],
-          "explain": "Electricity from dammed rivers."
+          "explain": "Himalayan river system hit by the Aug. 26 glacial flood."
         },
         {
-          "term": "Displacement",
+          "term": "Jensen Huang",
           "aliases": [],
-          "explain": "People forced from their homes."
-        },
-        {
-          "term": "Toll",
-          "aliases": [],
-          "explain": "Official count of dead or injured."
+          "explain": "Taiwan-born co-founder and CEO of Nvidia."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Nepal flood aftermath",
-      "image_credit": "Photo: AP"
+      "image_alt": "Jensen Huang file photo tied to Nvidia Nepal donation",
+      "image_credit": "Photo: Kathmandu Post / file"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "UN: getting aid to Nepal flood survivors is ‘very, very difficult’",
-      "dek": "Roads gone. Cargo drones and mountain porters under discussion.",
-      "caveman": "The U.N. resident coordinator said access is extremely hard after roads and bridges vanished. Agencies delivered some water, sanitation, food, and medicine, and are talking about helicopters, cargo drones, and Nepali porters. Missing counts also jumped in Thursday updates. Plain talk: help exists, but mountains and mud block the last mile.",
-      "why_it_matters": "Without clean water and clinics, disease can kill after the floodwater leaves.",
-      "camps": "Donors pledge gear. Locals need speed more than press conferences.",
-      "source_name": "AFP/France24",
-      "source_url": "https://www.france24.com/en/live-news/20260903-delivering-aid-to-nepal-flood-survivors-very-very-difficult-un",
+      "headline": "Nepal faces ~$4–5B rebuild bill after glacial floods, minister tells CNN",
+      "dek": "Hydropower, roads, and towns smashed. Help sought from India, China, World Bank, and private donors.",
+      "caveman": "Finance Minister Swarnim Wagle told CNN the rebuild after Nepal’s catastrophic glacial floods could cost around $5 billion (earlier comments ranged $4–5B). That is near one-tenth of the national economy, though still less than the 2015 earthquake bill. Floods wrecked homes, bridges, and multiple hydropower plants. Nepal is asking neighbors and lenders for specialized rescue gear and rebuild money while Nvidia’s $10M and other gifts trickle in. Plain talk: fixing the mountains’ damage may cost as much as a small country’s yearly budget slice.",
+      "why_it_matters": "Hydropower and roads are Nepal’s lifelines. Underfunding means longer displacement and darker winters.",
+      "camps": "Government seeks big multilateral packages. Some locals fear aid will move slower than speeches.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/09/03/world/video/nepal-flood-rebuilding-nvidia-donation-costs-economy",
       "published": "2026-09-03",
       "terms": [
         {
-          "term": "Last mile",
-          "aliases": [],
-          "explain": "Final stretch that actually reaches people in need."
+          "term": "Glacial flood",
+          "aliases": [
+            "GLOF"
+          ],
+          "explain": "Sudden rush of water when ice, rock, or a dammed lake fails."
         },
         {
-          "term": "WASH",
+          "term": "Hydropower",
           "aliases": [],
-          "explain": "Water, sanitation, and hygiene kits."
+          "explain": "Electricity from flowing water — key in Nepal."
         },
         {
-          "term": "Cargo drone",
+          "term": "World Bank",
           "aliases": [],
-          "explain": "Drone that carries supplies, not people."
-        },
-        {
-          "term": "Porter",
-          "aliases": [],
-          "explain": "Person paid to carry heavy loads on mountain trails."
+          "explain": "Global lender that funds big rebuild projects."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Aid delivery in mountains",
-      "image_credit": "Photo: AP"
+      "image_alt": "Nepal flood rebuilding discussion still",
+      "image_credit": "Photo: CNN"
     },
     {
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "FEWS NET: up to ~9 million in South Sudan need food aid; famine risk persists",
-      "dek": "Conflict and bad rains keep Emergency outcomes through harvest season.",
-      "caveman": "FEWS NET still projects about 8.0–8.99 million South Sudanese needing urgent food help through September. Some counties face Catastrophe risk if conflict cuts people off from markets and aid. Plain talk: millions are one blocked road away from famine.",
-      "why_it_matters": "Hunger crises rarely stay local — they drive displacement and disease across borders.",
-      "camps": "Aid groups beg for access. Warring parties often block or tax that access.",
-      "source_name": "FEWS NET",
-      "source_url": "https://fews.net/east-africa/south-sudan/food-security-outlook/june-2026",
-      "published": "2026-06-24",
+      "headline": "Yemen fighting kills 140+ combatants in a day; 1,800 families displaced",
+      "dek": "Heaviest clashes in years around Taiz/Hodeidah. Government claims Hais district. Civilians hit on Taiz–Aden road.",
+      "caveman": "In southwest Yemen, government forces and Houthi fighters reported more than 140 combat deaths between Saturday midday and early Sunday — about 84 government troops and 57 Houthis, per side sources talking to AFP. Fighting flared near Taiz, Hodeidah, and the Red Sea coast. The U.N. said nearly 1,800 families fled in two days. Yemeni state media said Houthi shelling on a civilian gathering killed four and wounded nine. Government forces said they retook the Hais district. Plain talk: Yemen’s old war woke up hard, and families ran.",
+      "why_it_matters": "A new Red Sea front worsens hunger and shipping risk already tied to the wider Middle East war.",
+      "camps": "Saudi-backed government claims strategic gains. Houthis push toward Mokha and Bab al-Mandab. Aid groups beg for civilian corridors.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "FEWS NET",
+          "term": "Houthis",
           "aliases": [],
-          "explain": "U.S.-linked famine early-warning network."
+          "explain": "Iran-aligned armed movement controlling much of northern Yemen."
         },
         {
-          "term": "IPC Phase",
+          "term": "OCHA",
           "aliases": [],
-          "explain": "Hunger scale from stressed to famine."
+          "explain": "U.N. Office for the Coordination of Humanitarian Affairs — tracks displacement and aid."
         },
         {
-          "term": "Lean season",
+          "term": "Bab al-Mandab",
           "aliases": [],
-          "explain": "Months when old harvest is gone and new crops are not ready."
-        },
-        {
-          "term": "Humanitarian access",
-          "aliases": [],
-          "explain": "Ability for aid workers to reach people safely."
+          "explain": "Chokepoint at the Red Sea’s southern mouth."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Food insecurity",
-      "image_credit": "Photo: AP"
+      "image_alt": "Displaced families / Yemen conflict scene",
+      "image_credit": "Photo: AP / Al Jazeera"
     },
     {
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Nepal camps: food arrives, but medicine and cash remain scarce for survivors",
-      "dek": "AP: some sell relief noodles to buy heart medicine. Health posts pledged.",
-      "caveman": "In relief camps, survivors told AP they got food but not always the right medicine or cash. Nepal’s disaster chief said clinics are being set at shelters. Plain talk: a carton of noodles is not a pharmacy.",
-      "why_it_matters": "Secondary health crises can outlast the flood headline cycle.",
-      "camps": "Officials say services are rolling out. Patients still report gaps on the ground.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/nepal-china-flash-floods-04fd472d02052d76e85cd0ee84534d0d",
-      "published": "2026-09-03",
+      "headline": "Nepal’s ‘Lake Two’ watched after barrier lakes; no immediate burst risk — for now",
+      "dek": "Sep 4 Flood Forecasting update: lower lake drained; upper Langtang Lirung lake up ~2m / ~600,000 m³.",
+      "caveman": "After the Aug. 26 disaster, Nepal is still watching leftover mountain lakes. Flood Forecasting Division chief Binod Parajuli said on Sept. 4 that the lower barrier lake has mostly drained, and Chinese monitors say the upper ‘Lake Two’ below Langtang Lirung has risen about two meters with roughly 600,000 cubic meters of water — not at a dangerous level yet. Rescue teams and hydropower tunnel workers stay on alert because a sudden breach could still send slurries downhill. Plain talk: the first flood was huge; scientists still babysit a smaller lake that might burp.",
+      "why_it_matters": "Another surge would hit the same broken towns and delay body recovery and power repairs.",
+      "camps": "Officials say risk is manageable with monitoring. Downstream communities want louder early-warning sirens and bridges first.",
+      "source_name": "OnlineKhabar",
+      "source_url": "https://english.onlinekhabar.com/lake-langtang-lirung-no-risk.html",
+      "published": "2026-09-04",
       "terms": [
         {
-          "term": "Relief camp",
+          "term": "Barrier lake",
           "aliases": [],
-          "explain": "Temporary shelter for disaster survivors."
+          "explain": "Lake trapped behind landslide or avalanche debris."
         },
         {
-          "term": "Secondary crisis",
+          "term": "Langtang Lirung",
           "aliases": [],
-          "explain": "New harm that follows the first disaster, like disease."
+          "explain": "Himalayan peak area near the Nepal–China flood zone."
         },
         {
-          "term": "Cash assistance",
+          "term": "Cubic metre",
           "aliases": [],
-          "explain": "Giving money so people can buy what they actually need."
-        },
-        {
-          "term": "Health post",
-          "aliases": [],
-          "explain": "Small clinic point in a camp or village."
+          "explain": "Box of water 1m×1m×1m — about 264 gallons."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Survivors in relief camps",
-      "image_credit": "Photo: AP"
+      "image_alt": "Barrier lake / flood monitoring in Nepal Himalaya",
+      "image_credit": "Photo: OnlineKhabar"
     }
   ]
 }
