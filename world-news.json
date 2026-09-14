@@ -1,21 +1,28 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-11T08:00:00+08:00",
-  "notes": "Friday 11 Sep 2026 world issue (Taipei 08:00). Window: Thu 10 Sep US cash close + overnight into Fri. NEW economy: Dow 52,064/−0.6% S&P 7,591.70 Nasdaq 26,081.72 = 4th straight loss; WTI $102.48 first >$100 since May; Brent $107.63; PPI 5.4% + 30y yield ~5.35% (since 2007) + FedWatch ~72% hike ahead of Fri CPI; AAA gas $4.27 (+13¢) + diesel >$6 first time; Europe TTF gas >€80/MWh, stores ~65%. Tech: DOJ→Nvidia–Groq $17B license; Google Dreambeans US-wide; Gemini Windows Alt+Space; Meta Muse agent (Sep 8). Politics: Ukraine Arctic gas Novy Urengoy first; Houthis seize Mocha/Bab el-Mandeb; Trump midterms war-end claim; Trump Pickaxe Mountain warning. Lit USA: NYT Theo of Golden #1 / Moriarty #2 / Patchett Whistler #7; Indie Next Pirate Queen; Lepore Artificial State; Hoffman Witches of Cambridge. Social: Gaza Nasser generator oil crisis; Al-Ahli suspends scans; MSF Sudan clinic closures/aid cuts; UN Türk Sudan ceasefire + FFM war crimes. Avoided recycling 9/10 leads without new fact: Wed Brent>$100 framing; yen/10y-only; Sadara; gold; Apple Duo $1999; OpenAI–Samsung; rogue agents; Qualcomm–Amazon; US 5 tankers/Iran retaliate as lead; IAEA→UNSC; Russia strikes ≥12; Trump–Putin call; Mandel Exit Party #1; Kuang Taipei Story; Benjamin Under Story; Calamity Club PW#1 lead; UN Women Gaza HH; UN Gaza stockpiles; MSF Sudan 37%-facilities-only framing; Kyiv food scarcity.",
+  "fetched_at": "2026-09-14T08:00:00+08:00",
+  "notes": "Monday 14 Sep 2026 world issue (Taipei 08:00). Window: Fri 12 Sep US cash close + weekend into Mon morning. NEW economy: Mon oil +2%+ after Saudi/Hormuz strikes + East-West pipeline shut (Brent ~$107.5 WTI ~$102); Fri Aug CPI 3.4%/core +0.3% MoM → FedWatch >80% hike odds Sep 15–16; Wall St Fri rebound after 5 down days while KOSPI slips back under 7,000; AAA diesel record ~$6.06 + IEA says Ukraine refinery hits compound Iran-war squeeze. Tech: Anthropic tells investors 2nd straight profitable quarter (FT/Reuters Sep 13); REPLACED stale Sep 3 Astra/Huang AGI lead with Altman+Musk backing Amodei ‘pace the frontier’ / independent evaluators (Guardian/Mint Sep 13); Google €13B/$15B Finland AI + Loviisa nuclear PPA; iOS 27 ships Mon 9.14 with Apple Intelligence/Siri AI beta (verified). Politics: Trump tells Zelenskyy stop hitting Russian diesel (Ireland Sun); Houthis seize Perim/Mayyun tightening Bab el-Mandeb (beyond Mocha); Oman Gulf–Iran Hormuz talks postponed + vessel struck; kept wd-pol-4 Kushner/Witkoff Oct talks (Sep 6) — no fresher non-duplicate pol found in one pass. Lit USA: kept wd-lit-1 Moriarty Big Little Truths #1 Sep 13 (Byron Library NYT snapshot) and wd-lit-4 Picoult Hollow Bones Sep 15. LIT REPLACEMENTS: wd-lit-2 → Rachel Gillig The Knave and the Moon #1 on NYT Sep 11 combined fiction (Fussy Librarian); wd-lit-3 → Emma Cline Switzy U.S. on-sale Sep 8 + Indie Next buzz (PRH/ABA). EXCLUDED as recycled (prior Fri 11 Sep issue already avoided them as leads; Aug 5 Indie Next preview too old): Emily St. John Mandel Exit Party; Chloe Benjamin Under Story. Also still avoiding as recycled leads: Lawhon Pirate Queen; Lepore Artificial State; Hoffman Witches; Theo #1 framing. Social: OCHA Gaza winter prep + engine-oil approvals still stalled; UN Women women head ~1 in 4 Gaza HH; IOM 46k+ displaced in Yemen fighting; Sudan cholera deaths West Kordofan + Darfur vaccines. Sanity: oil Saudi/Hormuz jump URL live (Reuters); iOS 27 Mon landing live (Mac Observer/Cult of Mac). Images: new covers for wd-lit-2/3; new wd-tech-2 lead; tw-tech-3 (~201KB) and wd-soc-1 (~345KB) already under 400KB so no magick pass.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Wall Street’s 4th down day as WTI clears $100, Brent hits $107",
-      "dek": "Thu close: Dow −0.6% to 52,064, S&P −0.58% to 7,591.70, Nasdaq −0.65% to 26,081.72. WTI Oct $102.48 (+6.7%); Brent Nov $107.63 (+6.3%) — highest since May.",
-      "caveman": "U.S. stocks fell again Thursday — the fourth day in a row. The Dow dropped about 0.6% to 52,064. The S&P 500 fell about 0.6%. The Nasdaq slipped about 0.7%. Oil jumped hard. U.S. crude (WTI) closed above $100 for the first time since May — about $102.50. World oil (Brent) closed near $108. Traders fear the Iran war and Red Sea fighting will keep fuel scarce. Expensive oil can push up prices for gas, food shipping, and many goods. That makes people worry the Federal Reserve may raise interest rates again.",
-      "why_it_matters": "Four losing days plus oil above $100 can mean costlier gas, tighter loans, and a nervous global market into Friday’s inflation report.",
-      "camps": "Hawks say hot oil forces the Fed to hike. Bulls hope the selloff is short and energy stocks cushion the blow.",
-      "source_name": "The Asia Business Daily",
-      "source_url": "https://www.asiae.co.kr/en/article/2026091105390924589",
-      "published": "2026-09-10",
+      "headline": "Oil jumps Monday after new Saudi and Hormuz strikes",
+      "dek": "Reuters Mon open: Brent +~$2.90 to ~$107.51; WTI +~$2.27 to ~$102.32 after Sunday Houthi hits on Saudi and a vessel strike in the Strait of Hormuz. Saudi East-West pipeline still shut — up to ~4% of global supply at risk.",
+      "caveman": "Oil got more expensive again as Asia markets opened Monday. World oil (Brent) rose about $3 toward $107–$108 a barrel. U.S. oil (WTI) climbed above $102. Why? Over the weekend, Yemen’s Houthis hit parts of southern Saudi Arabia, and a ship in the Strait of Hormuz was struck and caught fire. Saudi Arabia’s big East-West oil pipeline — a backup route that avoids Hormuz — was already shut after a drone attack from Iraq. Analysts say that pipeline can matter for up to about 4% of world oil. Planned Monday talks in Oman about Hormuz were postponed. Expensive oil can lift gas, diesel, and shipping costs for everyone.",
+      "why_it_matters": "Fresh supply scares keep oil above $100 and feed inflation fears right before the Fed meeting.",
+      "camps": "Energy hawks say only a real Hormuz deal or a reopened pipeline cools prices. Bulls hope Oman talks restart and crude fades.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/",
+      "published": "2026-09-14",
       "terms": [
+        {
+          "term": "Brent crude",
+          "aliases": [
+            "Brent"
+          ],
+          "explain": "A key global oil price many countries watch for fuel and shipping costs."
+        },
         {
           "term": "WTI",
           "aliases": [
@@ -25,49 +32,33 @@
           "explain": "The main U.S. oil price. When WTI rises, U.S. gas and diesel often follow."
         },
         {
-          "term": "Brent crude",
-          "aliases": [
-            "Brent"
-          ],
-          "explain": "A key global oil price many countries watch for fuel and shipping costs."
-        },
-        {
-          "term": "Federal Reserve",
-          "aliases": [
-            "Fed"
-          ],
-          "explain": "The U.S. central bank. It sets key interest rates that affect loans and mortgages."
-        },
-        {
-          "term": "Nasdaq",
+          "term": "Strait of Hormuz",
           "aliases": [],
-          "explain": "A U.S. stock index heavy with tech companies like Apple, Nvidia, and Microsoft."
+          "explain": "A narrow waterway by Iran and Oman. In peacetime, a large share of world oil ships through it."
+        },
+        {
+          "term": "East-West pipeline",
+          "aliases": [],
+          "explain": "A Saudi oil pipeline that can move crude across the country and avoid the Strait of Hormuz."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "New York Stock Exchange floor as U.S. indexes close lower",
-      "image_credit": "Photo: Asia Business Daily / Yoonju Hwang"
+      "image_alt": "Saudi oil facilities and tanker routes under supply-risk pressure",
+      "image_credit": "Photo: CNBC / Getty Images (Saudi Aramco Ras Tanura file)"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Hot PPI and oil push 30-year yield to 19-year high; Fed hike odds ~72%",
-      "dek": "Aug PPI +5.4% YoY (vs 5.3% expected). 30-year Treasury ~5.35% highest since 2007; 10-year above 4.9%. CME FedWatch ~72% chance of Sep 16 hike ahead of Fri CPI.",
-      "caveman": "Factory-gate prices rose faster than expected. The August Producer Price Index (PPI) climbed 5.4% from a year ago — a bit hotter than the 5.3% forecast. That, plus expensive oil, pushed U.S. long-term bond yields up. The 30-year Treasury yield touched about 5.35%, a level not seen since 2007. The 10-year yield climbed above 4.9%. Higher yields make home loans and business borrowing costlier. Traders now put roughly a 72% chance on a Federal Reserve rate hike next week. Friday’s consumer price report (CPI) is the next big clue.",
-      "why_it_matters": "Bond yields near multi-decade highs can raise mortgage costs and pressure stocks before the Fed meets.",
-      "camps": "Inflation hawks want another hike. Growth doves warn hiking into war-driven oil shocks risks a stall.",
-      "source_name": "Korea Economic Daily / Bloomberg data",
-      "source_url": "https://en.bloomingbit.io/feed/news/120143",
-      "published": "2026-09-10",
+      "headline": "August CPI holds 3.4%; core hot — Fed hike odds top 80%",
+      "dek": "BLS Fri: Aug CPI +3.4% YoY; core +0.3% MoM (above 0.2% forecast), core ~2.4% YoY. CME FedWatch: markets price >80% chance of a 25 bp hike at the Sep 15–16 FOMC.",
+      "caveman": "The U.S. inflation report for August is out. Overall consumer prices rose 3.4% from a year ago — about what traders expected. But the “core” number, which skips food and energy, rose 0.3% from July. That was hotter than the 0.2% many hoped for. Energy costs from expensive oil are part of the story. Traders now put more than an 80% chance on the Federal Reserve raising interest rates by a quarter point at its meeting Sep 15–16. Higher rates make loans and mortgages cost more. The Fed meets this week under a communications blackout, so the CPI print was a big clue.",
+      "why_it_matters": "A hotter core CPI tilts the Fed toward a hike, which can pressure stocks, housing, and credit cards.",
+      "camps": "Hawks say sticky core inflation leaves little choice. Doves warn hiking into a war-driven oil shock risks hurting jobs.",
+      "source_name": "BLS / Seoul Economic Daily (FedWatch)",
+      "source_url": "https://en.sedaily.com/finance/2026/09/14/kospi-slips-back-below-7000-as-oil-and-yields-surge",
+      "published": "2026-09-11",
       "terms": [
-        {
-          "term": "PPI",
-          "aliases": [
-            "Producer Price Index"
-          ],
-          "explain": "A report that tracks prices at the factory and wholesale level — often an early inflation clue."
-        },
         {
           "term": "CPI",
           "aliases": [
@@ -76,11 +67,17 @@
           "explain": "The main U.S. report on what shoppers pay for everyday goods and services."
         },
         {
-          "term": "Treasury yield",
+          "term": "Core CPI",
+          "aliases": [],
+          "explain": "CPI without food and energy. Officials watch it to see if inflation is sticky underneath fuel spikes."
+        },
+        {
+          "term": "Federal Reserve",
           "aliases": [
-            "bond yield"
+            "Fed",
+            "FOMC"
           ],
-          "explain": "The interest rate the U.S. government pays on its bonds. When yields rise, many loans get costlier."
+          "explain": "The U.S. central bank. It sets key interest rates that affect loans and mortgages."
         },
         {
           "term": "FedWatch",
@@ -91,762 +88,706 @@
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "U.S. Treasury yields surge on inflation and oil pressures",
-      "image_credit": "Photo: Korea Economic Daily / BloomingBit"
+      "image_alt": "Inflation and interest-rate pressure ahead of the Fed meeting",
+      "image_credit": "Photo: Interactive Brokers Campus"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Gas and diesel jump as oil stays above $100",
-      "dek": "OPB/AP: oil surges above $100 amid U.S.–Iran attacks; gasoline rises too. AAA Sep 10: U.S. regular gas +13¢ week to $4.27. Reuters/GasBuddy: national diesel tops $6/gal for first time.",
-      "caveman": "Fuel got more expensive for drivers and truckers. Oil climbed back above $100 a barrel as the U.S.–Iran fight disrupted shipping. AAA said the U.S. average for regular gas rose 13 cents in one week to $4.27 — in a season when prices usually fall. Diesel, the fuel that moves food and goods by truck, crossed $6 a gallon on average for the first time ever, price tracker GasBuddy told Reuters. Higher diesel often means higher store prices later.",
-      "why_it_matters": "Gas and diesel at these levels hit household budgets and the cost of almost everything trucks deliver.",
-      "camps": "Drivers blame the Iran war for pump pain. Officials say reopening shipping lanes is the lasting fix.",
-      "source_name": "OPB (AP) / AAA",
-      "source_url": "https://www.opb.org/article/2026/09/09/oil-surges-above-dollar100-a-barrel-as-us-and-iran-launch-new-attacks-while-gasoline-prices-also-jump/",
-      "published": "2026-09-10",
+      "headline": "Wall St rebounds Friday; KOSPI slips back under 7,000",
+      "dek": "Fri U.S.: Dow +0.98%, S&P +0.86%, Nasdaq +0.96% — first up day together after five losing sessions, helped by a brief oil pullback. Korea: KOSPI closed 6,909.91 Fri after briefly reclaiming 7,000 midweek; oil >$100 and 10y near 5% weighed.",
+      "caveman": "U.S. stocks finally caught a break Friday. The Dow, S&P 500, and Nasdaq all rose about 1% together — the first shared up day after five straight losses. Oil prices eased a bit on hopes of Gulf–Iran talks about Hormuz. In Korea, the KOSPI had climbed back above 7,000 midweek, then fell again to about 6,910 by Friday as oil stayed expensive and the U.S. 10-year yield neared 5%. Chip stocks had helped the rally after OpenAI’s new model, then cooled. Markets now stare at this week’s Fed decision.",
+      "why_it_matters": "A one-day Wall Street rebound does not erase oil-and-rate stress still hitting Asia and global risk appetite.",
+      "camps": "Relief traders call Friday a reset. Caution camps say oil and the Fed can reverse gains fast.",
+      "source_name": "Seoul Economic Daily",
+      "source_url": "https://en.sedaily.com/finance/2026/09/14/kospi-slips-back-below-7000-as-oil-and-yields-surge",
+      "published": "2026-09-14",
       "terms": [
         {
-          "term": "AAA",
+          "term": "KOSPI",
           "aliases": [],
-          "explain": "A U.S. auto club that tracks national average gas and EV charging prices each week."
+          "explain": "South Korea’s main stock index. Big moves often track global tech and chip demand."
         },
+        {
+          "term": "S&P 500",
+          "aliases": [],
+          "explain": "A broad U.S. stock index of 500 large companies — a common snapshot of Wall Street."
+        },
+        {
+          "term": "10-year Treasury yield",
+          "aliases": [],
+          "explain": "The interest rate on a key U.S. government bond. Near 5% can make many loans costlier."
+        },
+        {
+          "term": "Nasdaq",
+          "aliases": [],
+          "explain": "A U.S. stock index heavy with tech companies like Apple, Nvidia, and Microsoft."
+        }
+      ],
+      "image": "images/wd-fin-3.jpg",
+      "image_alt": "Trading screens as Asian stocks react to oil and U.S. yields",
+      "image_credit": "Photo: Seoul Economic Daily / AFP-Yonhap (NYSE file)"
+    },
+    {
+      "id": "wd-fin-4",
+      "section": "world",
+      "category": "economy",
+      "headline": "U.S. diesel hits record ~$6.06 as IEA flags dual war squeeze",
+      "dek": "AAA Fri: national diesel average ~$6.06/gal (vs ~$3.71 a year ago). IEA Sep 11 Oil Market Report: Iran-war shipping losses plus Ukrainian strikes on Russian refining compound the diesel shortage.",
+      "caveman": "Diesel — the fuel that moves trucks, trains, ships, and farm gear — hit a new U.S. record. AAA said Friday’s national average was about $6.06 a gallon, versus about $3.71 a year ago. That matters because diesel costs often show up later in store prices. The International Energy Agency said two wars are squeezing diesel at once: the U.S.–Iran fight still messes up Gulf and Red Sea shipping, and Ukrainian drone hits have cut Russian refining and nearly halted some fuel exports. President Trump blamed Ukraine’s strikes and told Kyiv to stop. Ukraine says Russian refineries are fair military targets.",
+      "why_it_matters": "Record diesel raises the cost of moving food and goods — and becomes a political fight over who is to blame.",
+      "camps": "Truckers and shoppers feel pump pain now. Kyiv says hitting Russia’s fuel system is legitimate wartime strategy.",
+      "source_name": "Al Jazeera / AAA / IEA",
+      "source_url": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies",
+      "published": "2026-09-13",
+      "terms": [
         {
           "term": "Diesel",
           "aliases": [],
           "explain": "Fuel used by most big trucks. When diesel rises, shipping food and goods often costs more."
         },
         {
-          "term": "Strait of Hormuz",
-          "aliases": [
-            "Hormuz"
-          ],
-          "explain": "A narrow sea lane by Iran where a huge share of the world’s oil tankers pass."
+          "term": "AAA",
+          "aliases": [],
+          "explain": "A U.S. auto club that tracks national average gas and diesel prices."
         },
         {
-          "term": "GasBuddy",
+          "term": "IEA",
+          "aliases": [
+            "International Energy Agency"
+          ],
+          "explain": "International Energy Agency — a group of countries that studies oil and energy markets."
+        },
+        {
+          "term": "Refining",
           "aliases": [],
-          "explain": "A fuel-price tracker that reports U.S. average gas and diesel prices."
+          "explain": "Turning crude oil into fuels like gasoline and diesel. Damaged refineries mean less fuel even if crude exists."
         }
       ],
-      "image": "images/wd-fin-3.jpg",
-      "image_alt": "Oil and gasoline prices jump as Middle East conflict disrupts supply",
-      "image_credit": "Photo: OPB / AP"
-    },
-    {
-      "id": "wd-fin-4",
-      "section": "world",
-      "category": "economy",
-      "headline": "Europe gas tops €80/MWh as Hormuz squeeze meets thin winter stores",
-      "dek": "Dutch TTF wholesale gas above €80 ($93)/MWh — highest since 2023. EU stores ~65% vs ~80% a year ago. Auditors say crisis-response goals hard to prove while Hormuz LNG remains disrupted.",
-      "caveman": "Europe’s wholesale gas price jumped above 80 euros per megawatt-hour this week — the highest since 2023, according to the Dutch TTF benchmark. Storage is thinner than last year: about 65% full versus about 80% a year ago. The Strait of Hormuz blockade still blocks a big share of oil and liquefied natural gas (LNG). That makes Europe scramble for other supplies ahead of winter. The European Court of Auditors said member states have not invested enough in alternatives, and crisis plans often cannot be shown to work.",
-      "why_it_matters": "Thin winter gas stores plus blocked Middle East routes can mean higher heating bills and factory costs across Europe.",
-      "camps": "Some urge faster LNG terminals and renewables. Others warn Europe may lean on Russian gas again under pressure.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach",
-      "published": "2026-09-10",
-      "terms": [
-        {
-          "term": "TTF",
-          "aliases": [
-            "Dutch TTF"
-          ],
-          "explain": "Europe’s main wholesale natural-gas price benchmark, set in the Netherlands."
-        },
-        {
-          "term": "LNG",
-          "aliases": [
-            "liquefied natural gas"
-          ],
-          "explain": "Natural gas cooled into liquid so ships can carry it across oceans."
-        },
-        {
-          "term": "Megawatt-hour",
-          "aliases": [
-            "MWh"
-          ],
-          "explain": "A unit of energy. Gas and power prices are often quoted per megawatt-hour."
-        },
-        {
-          "term": "European Court of Auditors",
-          "aliases": [],
-          "explain": "An EU watchdog that checks whether EU money and crisis plans work as claimed."
-        }
-      ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-fin-4.jpg",
+      "image_alt": "U.S. President Trump speaking in Ireland amid diesel price surge",
+      "image_credit": "Photo: Al Jazeera / EPA (Neil Hall)"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "DOJ probes Nvidia’s $17B Groq license deal over antitrust dodge claims",
-      "dek": "NYT/Reuters: Justice Dept investigating whether Nvidia structured Dec 2025 “non-exclusive license” + talent hire with AI chip startup Groq to avoid merger review. Formal info request sent; fines possible.",
-      "caveman": "U.S. antitrust cops are looking at Nvidia’s big deal with AI chip startup Groq. Last December Nvidia announced a roughly $17 billion “non-exclusive license” for Groq’s chip tech and hired key Groq people, including founder Jonathan Ross. The New York Times, citing people familiar with the matter, says the Justice Department is asking whether Nvidia shaped the deal to skip a normal merger review. Regulators sent Nvidia a formal request for information. Nvidia says the deal shows the American system rewarding innovation. Groq and DOJ did not comment to Reuters after hours. Fines are possible; unwinding the deal is seen as unlikely.",
-      "why_it_matters": "If licensing-plus-hiring can replace a merger, it changes how big tech buys rivals — and how hard watchdogs can push back.",
-      "camps": "Critics call it a workaround “killer deal.” Nvidia says it is a normal license that helps consumers.",
-      "source_name": "The Next Web",
-      "source_url": "https://thenextweb.com/news/doj-nvidia-groq-licensing-antitrust-review",
-      "published": "2026-09-10",
+      "headline": "Anthropic tells investors: profitable for a second straight quarter",
+      "dek": "FT via Reuters Sep 13: Anthropic expects positive adjusted operating income again after its first profitable quarter earlier in 2026 — a rare milestone among big AI labs ahead of a possible IPO.",
+      "caveman": "Anthropic, the company behind the Claude AI chatbot, told investors it expects to be profitable for a second quarter in a row. That claim is on an “adjusted” measure — it can leave out some costs like stock pay for workers. Still, it is rare for a big AI lab to say it is making operating money while rivals spend huge sums on chips and data centers. Earlier reports said Anthropic’s revenue jumped many times over as companies paid for Claude. Investors care because Anthropic has been linked to IPO talk. Profit claims can help a company raise money or go public — but “adjusted” profit is not the same as cash left after every expense.",
+      "why_it_matters": "If one major AI lab shows sustained profit, pressure rises on rivals to prove AI spending can pay off.",
+      "camps": "Bulls say enterprise AI demand is real. Skeptics note adjusted metrics can look better than GAAP profit.",
+      "source_name": "Reuters (FT)",
+      "source_url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
+      "published": "2026-09-13",
       "terms": [
         {
-          "term": "Antitrust",
+          "term": "Anthropic",
           "aliases": [],
-          "explain": "Rules meant to stop big companies from crushing competition or buying rivals in unfair ways."
+          "explain": "A U.S. AI company that builds the Claude models, competing with OpenAI and Google."
         },
         {
-          "term": "DOJ",
-          "aliases": [
-            "Justice Department",
-            "U.S. Justice Department"
-          ],
-          "explain": "The U.S. government department that, among other jobs, investigates monopoly and merger cases."
+          "term": "Adjusted operating income",
+          "aliases": [],
+          "explain": "A company-defined profit number that may exclude some costs. Always check what was left out."
         },
         {
-          "term": "Non-exclusive license",
+          "term": "IPO",
           "aliases": [],
-          "explain": "Permission to use someone’s tech without owning the company — and others may still use it too."
+          "explain": "Initial public offering — when a private company first sells shares on the stock market."
         },
         {
-          "term": "Groq",
+          "term": "Claude",
           "aliases": [],
-          "explain": "An AI chip startup known for very fast inference chips; Nvidia licensed its tech and hired key staff."
+          "explain": "Anthropic’s family of AI chat and coding models sold to people and companies."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "U.S. Justice Department building as DOJ probes Nvidia-Groq deal",
-      "image_credit": "Photo: The Next Web"
+      "image_alt": "Anthropic branding as the AI lab reports another profitable quarter",
+      "image_credit": "Photo: TechCrunch / Getty Images"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Google’s Dreambeans AI app opens to everyone in the U.S.",
-      "dek": "Verge: after June tests, Dreambeans rolls out on Android and iOS nationwide. Pulls Search, Gmail, Photos, Calendar, Gemini for shopping, travel, reminders — with storybook-style drawings of you.",
-      "caveman": "Google is opening its Dreambeans AI app to everyone in the United States. It started as a test in June. Now you can download it on Android and iPhone. The app pulls clues from Search, Gmail, Photos, Calendar, and Gemini. It then suggests shopping ideas, travel tips, and event reminders. It also draws slightly weird storybook-style pictures of you. Think of it as a personal helper that already knows your Google stuff — if you let it.",
-      "why_it_matters": "A big Google AI helper tied to your mail and photos raises both convenience and privacy questions for millions of users.",
-      "camps": "Fans want one place for daily planning. Critics worry about how much personal data the app can see.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/993604/googles-dreambeans-ai-app-is-rolling-out-to-everyone-in-the-us",
-      "published": "2026-09-10",
+      "headline": "Altman and Musk back Anthropic call to pace AI frontier",
+      "dek": "After Anthropic CEO Dario Amodei’s Sep 12 essay urging a slowdown and independent evaluators, OpenAI’s Sam Altman said OpenAI will match the evaluator safeguard; Elon Musk agreed Amodei is ‘right.’",
+      "caveman": "Big AI bosses suddenly agree the race should slow down — at least on paper. Anthropic CEO Dario Amodei published an essay arguing companies must pace how fast they improve AI capabilities, and proposed independent outside evaluators with employee-like access. OpenAI CEO Sam Altman replied that he agrees and that OpenAI will adopt the same independent-evaluator idea. Elon Musk also said Amodei is right. The push follows recent fear talk from AI researchers and Altman’s own earlier pause comments on frontier training. None of this stops products shipping next week — but it is a rare public slowdown chorus from rivals.",
+      "why_it_matters": "When rival CEOs echo a slowdown, regulators and investors treat safety talk as industry policy — even if chips keep scaling.",
+      "camps": "Safety advocates want binding shared standards. Skeptics say CEO posts are PR while labs still race for the next model.",
+      "source_name": "The Guardian / Mint",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+      "published": "2026-09-13",
       "terms": [
         {
-          "term": "Dreambeans",
-          "aliases": [],
-          "explain": "Google’s new consumer AI app that mixes your Google apps with storybook-style personal drawings."
+          "term": "Frontier AI",
+          "aliases": [
+            "pace the frontier"
+          ],
+          "explain": "The most advanced AI models labs are racing to build next."
         },
         {
-          "term": "Gemini",
+          "term": "Independent evaluators",
           "aliases": [],
-          "explain": "Google’s main AI chatbot and model family, now also tied into other Google apps."
+          "explain": "Outside experts who can inspect a lab’s models almost like employees — Amodei’s proposed safeguard."
         },
         {
-          "term": "iOS",
+          "term": "Dario Amodei",
           "aliases": [],
-          "explain": "Apple’s operating system for iPhone and iPad."
+          "explain": "CEO of Anthropic, the company behind Claude."
         },
         {
-          "term": "Android",
+          "term": "Sam Altman",
           "aliases": [],
-          "explain": "Google’s operating system for most non-Apple phones."
+          "explain": "CEO of OpenAI, the company behind ChatGPT and GPT models."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Google Dreambeans AI app screenshot",
-      "image_credit": "Photo: The Verge / David Pierce"
+      "image_alt": "AI industry leaders debate slowing frontier model development",
+      "image_credit": "Photo: Mint / Livemint"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Gemini lands on Windows with Alt+Space shortcut",
-      "dek": "Verge: Google ships a Windows app for Gemini; Alt+Space summons it. Download from Gemini site. Follows April macOS app launch.",
-      "caveman": "Google’s Gemini chatbot now has a real Windows app. Press Alt + Space and Gemini pops up when you need it, Google says. You grab the app from Google’s Gemini website. Apple Mac users already got a Gemini app in April. This move puts Google’s AI one keystroke away on the world’s most common desktop computers — right next to Microsoft’s own Copilot tools.",
-      "why_it_matters": "A hotkey on Windows means Gemini can sit beside work apps all day — a direct fight with Microsoft Copilot.",
-      "camps": "Power users like the shortcut. Privacy-minded workers may keep AI apps off work PCs.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/993506/gemini-now-has-a-windows-app",
-      "published": "2026-09-10",
+      "headline": "Google pledges €13B for Finland AI build and nuclear power deal",
+      "dek": "Reuters Sep 9: Alphabet’s Google to invest at least €13B (~$15.1B) in Finnish AI infrastructure over two years — its biggest Europe bet — plus a 22-year deal for up to 50% of Fortum’s Loviisa nuclear plant output.",
+      "caveman": "Google is pouring a huge amount of money into Finland to power AI. The company says it will spend at least €13 billion (about $15 billion) over the next two years on data centers and power projects — its biggest single investment in Europe. Plans include three new northern data centers. Cold weather helps cool servers. Google also signed a 22-year deal to buy up to half the electricity from the Loviisa nuclear plant — its first nuclear power deal outside the U.S. Finland’s prime minister said there is enough electricity. Fortum’s stock jumped. Big tech needs steady, low-carbon power for AI, and nuclear is back in the mix.",
+      "why_it_matters": "AI growth is now a power-and-politics story: who builds reactors and grids may decide who wins computing.",
+      "camps": "Supporters hail jobs and clean baseload power. Critics worry data centers can still push local prices and grids.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+      "published": "2026-09-09",
       "terms": [
         {
-          "term": "Gemini",
+          "term": "Data center",
           "aliases": [],
-          "explain": "Google’s AI assistant. The new Windows app lets you open it with a keyboard shortcut."
+          "explain": "A building full of computers that run cloud and AI services. They use lots of electricity and need cooling."
         },
         {
-          "term": "Alt+Space",
+          "term": "Nuclear power",
           "aliases": [],
-          "explain": "A keyboard shortcut: hold Alt and tap Spacebar to summon the Gemini window."
+          "explain": "Electricity from splitting atoms. It makes steady power with low carbon emissions but has waste and safety debates."
         },
         {
-          "term": "Copilot",
+          "term": "PPA",
           "aliases": [
-            "Microsoft Copilot"
+            "power purchase agreement"
           ],
-          "explain": "Microsoft’s AI helper built into Windows and Office apps — Gemini’s main desktop rival."
+          "explain": "Power purchase agreement — a long contract to buy electricity from a plant at set terms."
         },
         {
-          "term": "macOS",
+          "term": "Alphabet",
           "aliases": [],
-          "explain": "Apple’s operating system for Mac computers."
+          "explain": "Google’s parent company, traded as GOOGL."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-tech-3.jpg",
+      "image_alt": "Alphabet and Google campus imagery tied to big AI infrastructure spending",
+      "image_credit": "Photo: CNBC / Getty Images"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Meta launches Muse, a personal AI agent that can email and shop",
-      "dek": "Meta (Sep 8): Muse agent on iOS/Android/WhatsApp/muse.ai runs in Muse Secure VM; can send mail, book travel, pay via Stripe Link with approval. Free tier + paid plans. U.S. rollout.",
-      "caveman": "Meta launched Muse, a personal AI agent meant to do chores — not just chat. It can draft and send email, book travel, and buy things, but it asks you before sensitive steps. Muse runs inside a locked virtual computer Meta calls Muse Secure VM. A separate “Sentinel” gate checks what goes online. Payments can use Stripe’s Link with one-time cards. It is free for basic use in the U.S., with paid plans for heavier work. It works in its own app, WhatsApp, and on the web.",
-      "why_it_matters": "An AI that can spend money and send mail for you is powerful — and risky if permission and privacy fail.",
-      "camps": "Meta pitches safety-by-design. Skeptics ask whether any big-tech agent can stay truly private.",
-      "source_name": "Meta Newsroom",
-      "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-      "published": "2026-09-08",
+      "headline": "iOS 27 lands Monday with Apple Intelligence and Siri AI beta",
+      "dek": "Apple: iOS 27 available starting 9.14 as a free update for iPhone 11 and later. Siri AI launches in English beta; more languages due in October. Apple has not named a release hour.",
+      "caveman": "Apple’s next iPhone software, iOS 27, is due Monday, September 14. Apple’s own page says “available starting 9.14” but does not name an exact hour — updates often appear gradually. It is a free update for iPhone 11 and newer (including the new iPhone 18 Pro). A big draw is Apple Intelligence and a new Siri AI mode. At launch, Siri AI is a beta in English only; French, Japanese, Korean, Portuguese, and Spanish are planned for October. Users should back up, plug into power, join Wi‑Fi, then check Settings → General → Software Update. Expect wait times if millions check at once.",
+      "why_it_matters": "Phone AI is becoming a default feature — and a privacy and language-access question for everyday users.",
+      "camps": "Fans want smarter Siri on-device. Privacy watchers want clear rules on what leaves the phone.",
+      "source_name": "The Mac Observer / Apple",
+      "source_url": "https://www.macobserver.com/news/ios-27-arrives-september-14-no-release-hour/",
+      "published": "2026-09-13",
       "terms": [
         {
-          "term": "AI agent",
-          "aliases": [
-            "personal AI agent"
-          ],
-          "explain": "Software that not only answers questions but takes actions for you — like booking or buying."
-        },
-        {
-          "term": "Muse Secure VM",
-          "aliases": [
-            "Secure VM"
-          ],
-          "explain": "A private virtual computer where Meta says Muse and your connected data live, apart from other users."
-        },
-        {
-          "term": "Sentinel",
+          "term": "iOS 27",
           "aliases": [],
-          "explain": "Meta’s separate checker that must approve Muse’s internet actions and ask you when needed."
+          "explain": "Apple’s 2026 iPhone operating system update, due September 14."
         },
         {
-          "term": "Stripe Link",
-          "aliases": [
-            "Link"
-          ],
-          "explain": "A checkout tool that can create one-time card numbers so your real card stays hidden."
+          "term": "Apple Intelligence",
+          "aliases": [],
+          "explain": "Apple’s on-device and cloud AI features built into newer iPhones."
+        },
+        {
+          "term": "Siri AI",
+          "aliases": [],
+          "explain": "The newer, more capable Siri mode shipping as an English beta with iOS 27."
+        },
+        {
+          "term": "Beta",
+          "aliases": [],
+          "explain": "A test version. Features can be unfinished or change later."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Meta Muse personal AI agent announcement graphic",
-      "image_credit": "Photo: Meta"
+      "image_alt": "iPhone running Apple software ahead of the iOS 27 release",
+      "image_credit": "Photo: The Mac Observer / Apple"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Ukraine drones hit Russia’s Arctic gas heartland for first time",
-      "dek": "Reuters: fire at Novy Urengoy after drone strike; Ukraine Special Forces say FP-1 hits on Novy Urengoy and Purovsky gas-condensate plants ~3,000 km from border. No deaths reported.",
-      "caveman": "Ukraine says it struck Russia’s far-north gas region for the first time. Drones hit gas-condensate plants near Novy Urengoy and in Purovsky district — about 3,000 kilometers from Ukraine. A fire broke out in Novy Urengoy, the regional governor said. He reported no deaths or injuries. Ukraine’s Special Forces called the plants crucial. President Zelenskyy said the strikes were justified. This Arctic region holds most of Russia’s gas. Hitting it shows Ukraine’s long-range drones can reach places once called safe.",
-      "why_it_matters": "Strikes on Russia’s gas core can hurt export income and reshape how far the war’s energy fight can go.",
-      "camps": "Kyiv calls it fair pressure on the aggressor. Moscow frames it as terrorism against infrastructure.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach",
-      "published": "2026-09-10",
+      "headline": "Trump tells Zelenskyy: stop hitting Russian diesel",
+      "dek": "Reuters/Al Jazeera Sep 13 (Ireland): Trump says Ukrainian strikes on Russian diesel infrastructure are ‘hurting the world’ and driving shortages; Ukraine says refineries are legitimate military targets.",
+      "caveman": "U.S. President Donald Trump, speaking in Ireland on Sunday, called on Ukraine’s president to stop attacking Russian diesel facilities. Trump said those strikes are causing a fuel shortage that hurts the world — and claimed the diesel crunch is more about Russia–Ukraine than the Middle East. Ukraine has used long-range drones against Russian refineries. Kyiv says those sites fund and fuel Russia’s invasion, and Russia also hits Ukraine’s energy system. U.S. diesel prices are near records, and midterm elections are in November. Energy experts say both the Iran war and Ukraine’s refinery campaign can squeeze diesel at the same time.",
+      "why_it_matters": "A public U.S. demand to spare Russian fuel plants shifts wartime politics and alliance pressure on Kyiv.",
+      "camps": "Trump frames it as protecting global fuel. Kyiv frames refineries as fair targets in a defensive war.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/trump-tells-ukraines-zelenskiy-stop-hitting-russian-diesel-2026-09-13/",
+      "published": "2026-09-13",
       "terms": [
         {
-          "term": "Novy Urengoy",
-          "aliases": [],
-          "explain": "A city in northern Siberia nicknamed Russia’s gas capital because of huge nearby gas fields."
-        },
-        {
-          "term": "Gas condensate",
-          "aliases": [],
-          "explain": "A light liquid that comes out with natural gas and is refined into fuels and chemicals."
-        },
-        {
-          "term": "FP-1",
+          "term": "Zelenskyy",
           "aliases": [
-            "Fire Point FP-1"
+            "Zelenskiy"
           ],
-          "explain": "A Ukrainian long-range attack drone said to have flown thousands of kilometers to Siberia."
+          "explain": "Volodymyr Zelenskyy, president of Ukraine."
         },
         {
-          "term": "Yamalo-Nenets",
+          "term": "Refinery",
           "aliases": [],
-          "explain": "The Arctic Russian region that produces most of the country’s natural gas."
+          "explain": "A plant that turns crude oil into fuels like diesel and gasoline."
+        },
+        {
+          "term": "Midterms",
+          "aliases": [],
+          "explain": "U.S. elections in the middle of a president’s term — November 2026 this cycle."
+        },
+        {
+          "term": "Drone strike",
+          "aliases": [],
+          "explain": "An attack using an unmanned aircraft, often from far away."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Ukrainian FP-1 deep-strike drone prepared for a long-range mission",
-      "image_credit": "Photo: Reuters / Valentyn Ogirenko via Al Jazeera"
+      "image_alt": "President Trump speaking to reporters during his Ireland visit",
+      "image_credit": "Photo: Al Jazeera / EPA (Neil Hall)"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Houthis seize Mocha port, press toward Bab el-Mandeb oil route",
-      "dek": "Reuters: Iran-aligned Houthis take Mocha Thu, advance to Hanish islands. UN envoy warns “more dangerous phase.” Saudi Red Sea exports already key after Hormuz squeeze.",
-      "caveman": "Yemen’s Iran-aligned Houthi forces seized the Red Sea port city of Mocha on Thursday and pushed toward strategic islands, military sources told Reuters. That puts them closer to the Bab el-Mandeb Strait — a chokepoint where ships leave the Red Sea for the Indian Ocean. Saudi Arabia has leaned on this Red Sea route since fighting near Hormuz disrupted the other big oil lane. The U.N. envoy for Yemen told the Security Council this is a “new and more dangerous phase.” Houthis say Red Sea shipping is safe except for Saudi vessels. The U.S. blames Iran for enabling the advance.",
-      "why_it_matters": "If both Hormuz and Bab el-Mandeb are at risk, oil and goods can get stuck — and prices can spike again.",
-      "camps": "Saudi-backed forces call it Iranian aggression. Houthis say they are defending Yemen from attacks.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10/",
-      "published": "2026-09-10",
+      "headline": "Houthis seize Perim Island, tighten grip on Bab el-Mandeb",
+      "dek": "BBC: Iran-aligned Houthis take Perim (Mayyun) at the mouth of the Bab al-Mandab after Mocha fell; say navigation is safe except for Saudi vessels. Saudi presses Trump for action; U.S. so far offers intel support.",
+      "caveman": "Yemen’s Houthis say they now hold Perim Island (also called Mayyun), a rock at the mouth of the Bab el-Mandeb Strait — a key Red Sea shipping lane. This comes after they took the port city of Mocha. The strait matters more while the Strait of Hormuz is disrupted by the Iran war; Saudi oil headed to Asia often uses the Red Sea route. The Houthis say ships are safe except Saudi vessels. Saudi Arabia has asked President Trump for military help; U.S. officials say they are talking and have offered intelligence support so far. Fighting has killed hundreds and displaced tens of thousands in Yemen in recent days.",
+      "why_it_matters": "Whoever controls Bab el-Mandeb can scare oil and container ships — and raise prices worldwide.",
+      "camps": "Houthis call it self-defense against Saudi pressure. Riyadh and shipping firms see a growing choke-point threat.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.com/news/articles/c23x72yx2rvo",
+      "published": "2026-09-12",
       "terms": [
         {
           "term": "Houthis",
-          "aliases": [
-            "Ansar Allah"
-          ],
-          "explain": "An armed group that controls much of Yemen and is aligned with Iran."
-        },
-        {
-          "term": "Mocha",
-          "aliases": [
-            "Mokha"
-          ],
-          "explain": "A Yemeni Red Sea port city. Control there affects approaches to a key shipping strait."
+          "aliases": [],
+          "explain": "An armed group that controls much of Yemen, including Sanaa, and is backed by Iran."
         },
         {
           "term": "Bab el-Mandeb",
           "aliases": [
             "Bab al-Mandab"
           ],
-          "explain": "The narrow strait at the south end of the Red Sea — a vital path for oil and cargo ships."
+          "explain": "A narrow strait linking the Red Sea to the Gulf of Aden — a major shipping shortcut."
         },
         {
-          "term": "Security Council",
+          "term": "Perim Island",
           "aliases": [
-            "U.N. Security Council"
+            "Mayyun"
           ],
-          "explain": "The U.N. body that can authorize sanctions or peace actions; five permanent members have veto power."
+          "explain": "A small island at the Bab el-Mandeb mouth, also called Mayyun."
+        },
+        {
+          "term": "Mocha",
+          "aliases": [],
+          "explain": "A Red Sea port city in Yemen (also spelled Mokha) recently seized by Houthi forces."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-pol-2.jpg",
+      "image_alt": "Map context for Houthi advances toward Red Sea shipping lanes",
+      "image_credit": "Photo: BBC / EPA"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Trump: Iran war won’t end until after November midterms",
-      "dek": "BBC: President says war ends “immediately after the election”; claims Iran wants to sway vote; says oil will tumble after. No proof offered. Polls weak; GOP midterm risk. War in seventh month.",
-      "caveman": "President Donald Trump says he does not think the Iran war will end until after the November U.S. midterm elections. “I think the war’s going to end immediately after the election because they can’t hold out any longer,” he said of Iran’s leaders. He also claimed Iran wants to affect the vote so a “weak” Congress takes power — and offered no proof. Tehran denies seeking nuclear weapons. Trump told Americans short-term pain at the gas pump is worth stopping a nuclear Iran. The war is in its seventh month. His approval ratings have fallen as fuel costs rose. Republicans fear losing Congress on Nov. 3.",
-      "why_it_matters": "Tying a war timeline to an election shapes U.S. politics, oil prices, and how allies judge Washington’s endgame.",
-      "camps": "Trump allies say pressure must hold. Critics say voters are being asked to absorb war costs until November.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.com/news/articles/c5ydld0gykpo",
-      "published": "2026-09-10",
+      "headline": "Oman postpones Gulf–Iran Hormuz talks after weekend strikes",
+      "dek": "Reuters: Monday Oman meeting between Gulf states and Iran on the Strait of Hormuz postponed. Sunday: vessel hit in Hormuz; Houthi strikes on Saudi. Saudi East-West pipeline remains shut after Iraq-origin drone hit.",
+      "caveman": "Diplomacy about the Strait of Hormuz hit a snag. Oman said a Monday meeting between Gulf countries and Iran to discuss the strait was postponed. Over the weekend, a vessel in Hormuz was struck and a fire forced the crew off, and Houthis attacked targets in southern Saudi Arabia. Saudi Arabia’s East-West pipeline — a bypass route — stayed closed after a drone strike that Iraq says came from its territory. Without talks, traders fear oil stays expensive. The wider U.S.–Israel war with Iran has already scrambled oil shipping for months. Diplomats say any pause in talks keeps markets jumpy.",
+      "why_it_matters": "When Hormuz diplomacy stalls, oil risk premiums stay high and global inflation fights get harder.",
+      "camps": "Diplomats want a quick restart in Oman. Hardliners on all sides see military pressure as leverage.",
+      "source_name": "Reuters / CNBC",
+      "source_url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/",
+      "published": "2026-09-14",
       "terms": [
         {
-          "term": "Midterm elections",
-          "aliases": [
-            "midterms"
-          ],
-          "explain": "U.S. elections halfway through a president’s term. In 2026 they are on Nov. 3 and decide control of Congress."
-        },
-        {
-          "term": "Congress",
+          "term": "Strait of Hormuz",
           "aliases": [],
-          "explain": "The U.S. lawmaking branch — the House and Senate. It can check a president’s war and spending powers."
+          "explain": "A narrow waterway by Iran and Oman through which a large share of world oil usually ships."
         },
         {
-          "term": "Brent crude",
-          "aliases": [
-            "oil prices"
-          ],
-          "explain": "A global oil benchmark. Trump said prices will fall after the war and the election."
+          "term": "Oman",
+          "aliases": [],
+          "explain": "A Gulf country that often hosts quiet talks between rivals in the region."
         },
         {
-          "term": "IRGC",
-          "aliases": [
-            "Islamic Revolutionary Guard Corps"
-          ],
-          "explain": "A powerful Iranian military force. The U.S. has targeted tankers it links to the IRGC."
+          "term": "UKMTO",
+          "aliases": [],
+          "explain": "UK Maritime Trade Operations — a British office that warns ships about dangers at sea."
+        },
+        {
+          "term": "Risk premium",
+          "aliases": [],
+          "explain": "Extra price traders add when they fear war or blockage could cut supply."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "President Trump discusses Iran war timeline and midterm elections",
-      "image_credit": "Photo: BBC News"
+      "image_alt": "Shipping and energy security tensions around the Strait of Hormuz",
+      "image_credit": "Photo: CNBC / Getty Images"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Trump warns Iran over Pickaxe Mountain: ‘don’t get cute’",
-      "dek": "Reuters: At GOP midterm convention, Trump says U.S. may hit Pickaxe Mountain near Natanz; site has deep tunnel complexes not struck in prior waves. Repeats post-midterms war-end claim.",
-      "caveman": "President Trump warned Iran about activity at Pickaxe Mountain, a fortified site near the damaged Natanz uranium enrichment complex. Speaking at the Republican midterm convention in Dallas, he said: the U.S. noticed “a little activity at Pickaxe” and advised Iran “not to get cute” or “we will have to hit them very hard.” Analysts say Pickaxe has two deeply buried tunnel complexes and was not hit in earlier U.S.–Israeli strikes. Trump has threatened the site since at least mid-July. He again said he thinks the war ends right after November’s midterms. Iran says its nuclear work is peaceful.",
-      "why_it_matters": "A named threat against a deep nuclear-linked site can escalate the war — and shape midterm politics as fuel prices bite.",
-      "camps": "Hawks want credibility through force. Diplomats fear more strikes without talks lock both sides in.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/trump-says-activity-seen-irans-pickaxe-mountain-urges-tehran-not-get-cute-2026-09-10/",
-      "published": "2026-09-09",
+      "headline": "U.S. envoys push October Ukraine–Russia–U.S. talks",
+      "dek": "After Kushner and Witkoff shuttled Moscow and Kyiv, Ukrainian officials prepare for possible trilateral talks in October; Kremlin says it does not rule them out. Territory remains the main obstacle.",
+      "caveman": "The United States is trying again to get Ukraine and Russia into the same room. Envoys Jared Kushner and Steve Witkoff visited Moscow and Kyiv earlier this month. Ukrainian officials have talked about possible three-way talks with Russia and the U.S. in October. The Kremlin says it does not rule that out. But the hard part is land: who controls which regions. Meanwhile Trump has also pressed Ukraine over energy strikes (see diesel story). Peace talks can move on a calendar while fighting and drone attacks continue. Nothing is signed.",
+      "why_it_matters": "Even a fragile talks track can change weapons, sanctions, and refugee planning — or collapse and harden fronts.",
+      "camps": "U.S. mediators sell a deal window. Skeptics say Russia wants freeze lines that reward invasion.",
+      "source_name": "CNN / Kyiv reporting",
+      "source_url": "https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl",
+      "published": "2026-09-06",
       "terms": [
         {
-          "term": "Pickaxe Mountain",
+          "term": "Trilateral talks",
           "aliases": [],
-          "explain": "A fortified Iranian site near Natanz with deep tunnels; U.S. officials watch it as nuclear-linked."
+          "explain": "Meetings with three sides — here, Ukraine, Russia, and the United States."
         },
         {
-          "term": "Natanz",
+          "term": "Kushner",
           "aliases": [],
-          "explain": "Iran’s main uranium enrichment complex. Parts were damaged in earlier U.S.–Israeli strikes."
+          "explain": "Jared Kushner, a Trump envoy involved in Ukraine–Russia diplomacy."
         },
         {
-          "term": "Uranium enrichment",
+          "term": "Witkoff",
           "aliases": [],
-          "explain": "Spinning uranium to make fuel for reactors — or, at high levels, material for a bomb."
+          "explain": "Steve Witkoff, a Trump envoy who has met officials in Moscow and Kyiv."
         },
         {
-          "term": "Midterm convention",
+          "term": "Territory",
           "aliases": [],
-          "explain": "A party rally before U.S. midterm elections. Trump spoke there about Iran and Pickaxe."
+          "explain": "Land and borders — the core fight over which regions Russia claims and Ukraine refuses to cede."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-pol-4.jpg",
+      "image_alt": "Diplomatic shuttle toward possible October Ukraine peace talks",
+      "image_credit": "Photo: CNN / Getty Images"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "NYT fiction: Theo of Golden holds #1; Moriarty and Patchett stay hot",
-      "dek": "Sep 4 NYT combined print+ebook fiction: Allen Levi’s Theo of Golden #1; Liane Moriarty Big Little Truths #2; Kathryn Stockett Calamity Club #3; Ann Patchett Whistler #7.",
-      "caveman": "U.S. book charts still reshuffle under fall releases. On the New York Times combined print-and-ebook fiction list dated Sept. 4, Allen Levi’s Theo of Golden sat at No. 1. Liane Moriarty’s Big Little Truths — a follow-up in the Big Little Lies world — held No. 2. Kathryn Stockett’s Calamity Club was No. 3. Ann Patchett’s Whistler landed at No. 7. That mix shows literary book-club authors and big commercial names still sharing the top shelf as September lists settle.",
-      "why_it_matters": "Chart leaders shape what bookstores stack up front and what book clubs pick next.",
-      "camps": "Some readers chase Moriarty/Patchett comfort. Others want quieter literary debuts like Levi’s to stay on top.",
-      "source_name": "The Fussy Librarian (NYT list)",
-      "source_url": "https://www.thefussylibrarian.com/newswire/for-readers/2026/09/04/new-york-times-bestsellers-september-4-2026",
-      "published": "2026-09-04",
+      "headline": "NYT fiction: Moriarty’s Big Little Truths takes #1; Theo slips",
+      "dek": "Library list of NYT fiction bestsellers for Sep 13, 2026: Liane Moriarty Big Little Truths #1; Kathryn Stockett The Calamity Club #2; Ann Patchett Whistler #4. Allen Levi’s Theo of Golden falls to #11.",
+      "caveman": "On the September 13 New York Times fiction bestseller snapshot, Liane Moriarty’s Big Little Truths is #1 — a sequel world to Big Little Lies, with old secrets colliding as kids hit high school. Kathryn Stockett’s The Calamity Club sits at #2 (Depression-era women scraping by). Ann Patchett’s Whistler is #4. Allen Levi’s gentle Theo of Golden, which led recently, slips to #11. Matt Dinniman’s Dungeon Crawler Carl universe still crowds the list with multiple books. Bestseller churn shows what U.S. readers are buying right now: sequels, book-club fiction, and LitRPG.",
+      "why_it_matters": "Bestseller moves tip bookstores, libraries, and screen adaptations toward what is actually selling.",
+      "camps": "Literary fans cheer Patchett staying visible. Commercial readers drive Moriarty and Stockett to the top.",
+      "source_name": "NYT Bestsellers via Byron Public Library list",
+      "source_url": "https://libraryaware.com/2484/NewsletterIssues/LatestIssueForList/04194983-0b2b-4b97-b59d-8967c388ade7",
+      "published": "2026-09-13",
       "terms": [
         {
           "term": "NYT bestseller list",
-          "aliases": [
-            "New York Times bestseller"
-          ],
-          "explain": "A famous U.S. sales ranking for books. Combined print-and-ebook fiction mixes paper and digital sales."
+          "aliases": [],
+          "explain": "A weekly ranking of top-selling books in the United States compiled by The New York Times."
         },
         {
           "term": "Big Little Truths",
           "aliases": [],
-          "explain": "Liane Moriarty’s 2026 novel tied to the world of her hit Big Little Lies."
+          "explain": "Liane Moriarty’s 2026 sequel set in the Big Little Lies world."
         },
         {
-          "term": "Whistler",
+          "term": "LitRPG",
           "aliases": [],
-          "explain": "Ann Patchett’s latest novel; she also wrote Tom Lake and The Dutch House."
+          "explain": "Stories that mix novels with video-game rules and levels — like Dungeon Crawler Carl."
         },
         {
           "term": "Book club fiction",
           "aliases": [],
-          "explain": "Novels that groups of friends read and discuss — often character-driven and widely stocked."
+          "explain": "Novels picked by big clubs (like Reese’s) that often jump onto bestseller lists."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Cover of Liane Moriarty’s Big Little Truths, high on the NYT fiction list",
-      "image_credit": "Cover: Penguin Random House / Crown"
+      "image_alt": "Cover art for Liane Moriarty’s Big Little Truths",
+      "image_credit": "Photo: Penguin Random House"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Indie Next spotlight: Ariel Lawhon’s Pirate Queen resurrects Grace O’Malley",
-      "dek": "ABA September Indie Next: The Pirate Queen (Doubleday, Sept 8) — historical novel of Irish pirate Grace O’Malley under Elizabeth I. Booksellers praise structure and a woman history nearly erased.",
-      "caveman": "Independent U.S. booksellers put Ariel Lawhon’s The Pirate Queen high on the September Indie Next list. The novel follows Grace O’Malley — a real Irish sea captain, army leader, and defender of her people in the time of Queen Elizabeth I. Carrie Deming of The Dog Eared Book called it a fierce tale about a woman history almost erased. Lawhon is known for carefully researched historical fiction. For fall shelves, this is a “who’s hot” pick outside the usual thriller pile.",
-      "why_it_matters": "Indie Next picks often become the hand-sold favorites that turn into long-tail hits.",
-      "camps": "History fans want O’Malley restored. Some readers prefer pure fantasy pirates over documented lives.",
-      "source_name": "American Booksellers Association / BookWeb",
-      "source_url": "https://www.bookweb.org/news/september-2026-indie-next-list-preview-1633047",
-      "published": "2026-08-05",
+      "headline": "NYT: Gillig’s Knave and the Moon hits #1 on Sep 11 list",
+      "dek": "Fussy Librarian snapshot of NYT combined print & e-book fiction for Sep 11, 2026: Rachel Gillig’s The Knave and the Moon (Orbit, Sep 1) leads; romantasy sequel to The Knight and the Moth.",
+      "caveman": "On the September 11 New York Times combined fiction bestseller list, Rachel Gillig’s The Knave and the Moon sat at #1. It is the sequel to her gothic romantasy hit The Knight and the Moth, out from Orbit on September 1. The story follows Sybil Delling through tournaments and a mysterious knave with no name and no memory. Booksellers and fantasy fans call Gillig a queen of moody, romantic fantasy. By the September 13 library snapshot, the list had already churned (Moriarty took #1) — but the Sep 11 crown shows how hard romantasy still sells in the U.S. right now.",
+      "why_it_matters": "A sequel that can take #1 proves romantasy is still a major U.S. retail engine, not a one-book fad.",
+      "camps": "Fantasy readers want more Stonewater Kingdom. Literary gatekeepers still debate whether romantasy belongs on “serious” lists.",
+      "source_name": "The Fussy Librarian / NYT bestsellers",
+      "source_url": "https://www.thefussylibrarian.com/newswire/2026/09/11/new-york-times-bestsellers-september-11-2026",
+      "published": "2026-09-11",
       "terms": [
         {
-          "term": "Indie Next List",
-          "aliases": [
-            "Indie Next"
-          ],
-          "explain": "A monthly list of books U.S. independent booksellers most want to hand-sell."
-        },
-        {
-          "term": "Grace O’Malley",
-          "aliases": [
-            "Gráinne O'Malley"
-          ],
-          "explain": "A 16th-century Irish pirate and chieftain who faced England’s Elizabeth I."
-        },
-        {
-          "term": "Historical fiction",
+          "term": "Romantasy",
           "aliases": [],
-          "explain": "Novels set in the past that mix real events or people with imagined scenes."
+          "explain": "Fantasy novels that put a love story at the center — often with gothic mood and high stakes."
         },
         {
-          "term": "ABA",
-          "aliases": [
-            "American Booksellers Association"
-          ],
-          "explain": "The trade group for independent U.S. bookstores that runs Indie Next."
+          "term": "The Knave and the Moon",
+          "aliases": [],
+          "explain": "Rachel Gillig’s September 2026 sequel in The Stonewater Kingdom series."
+        },
+        {
+          "term": "Orbit",
+          "aliases": [],
+          "explain": "A Hachette fantasy imprint that publishes Gillig’s Stonewater books."
+        },
+        {
+          "term": "Combined print & e-book list",
+          "aliases": [],
+          "explain": "An NYT ranking that merges paper sales and digital sales into one fiction chart."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Cover of Ariel Lawhon’s The Pirate Queen",
-      "image_credit": "Cover: Doubleday / Penguin Random House"
+      "image_alt": "Cover of The Knave and the Moon by Rachel Gillig",
+      "image_credit": "Photo: Orbit / Hachette Book Group"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Jill Lepore’s Artificial State makes Indie Next’s AI-power warning list",
-      "dek": "Indie Next Sept nonfiction pick: The Rise and Fall of the Artificial State (Liveright, Aug 25). Booksellers flag Lepore’s map of how a few tech billionaires shaped AI politics.",
-      "caveman": "Historian Jill Lepore’s The Rise and Fall of the Artificial State is a September Indie Next nonfiction pick. Amber Taylor of Fonts Books says Lepore lays out how we got here with AI — and the outsize role a small group of tech billionaires play. Lepore is a Harvard historian and New Yorker writer known for clear civic storytelling. In a fall when AI agents flood the news, this book is the “who’s hot” serious read booksellers want next to the novels.",
-      "why_it_matters": "A major U.S. historian explaining AI power helps regular readers judge the tech headlines.",
-      "camps": "Tech skeptics cheer the scrutiny. Industry fans say history books underplay AI’s upside.",
-      "source_name": "American Booksellers Association / BookWeb",
-      "source_url": "https://www.bookweb.org/news/september-2026-indie-next-list-preview-1633047",
-      "published": "2026-08-05",
+      "headline": "Emma Cline’s Switzy hits U.S. shelves; Indie Next buzz",
+      "dek": "Random House put Switzy on sale Sep 8; ABA September Indie Next booksellers praise its inside view of dementia. Also Booker Prize longlisted; NYT and NPR flagged it as a fall must-read.",
+      "caveman": "Emma Cline’s new novel Switzy went on sale in the U.S. on September 8 (Random House). It follows David, a retired executive with dementia, on a last trip toward Zurich — told partly from inside a fading mind. Independent booksellers put it on the September Indie Next list and call the memory-from-the-inside approach remarkable. The book was already longlisted for the 2026 Booker Prize, and big U.S. outlets (NYT, NPR, AP) named it a fall book to watch. Cline wrote The Girls and The Guest. This is literary fiction about aging, money, and what is left when a big life unravels.",
+      "why_it_matters": "A major literary release plus Indie Next hand-selling can keep a serious novel visible past launch week.",
+      "camps": "Lit readers want Cline’s precision on mortality. Some readers skip dementia stories; others say this one avoids cliché.",
+      "source_name": "Penguin Random House / ABA BookWeb",
+      "source_url": "https://www.penguinrandomhouse.com/books/717336/switzy-by-emma-cline/",
+      "published": "2026-09-08",
       "terms": [
         {
-          "term": "Jill Lepore",
+          "term": "Emma Cline",
           "aliases": [],
-          "explain": "A U.S. historian and writer who explains politics and technology in plain language."
+          "explain": "U.S. novelist known for The Girls and The Guest."
         },
         {
-          "term": "Artificial State",
-          "aliases": [
-            "The Rise and Fall of the Artificial State"
-          ],
-          "explain": "Lepore’s 2026 book about AI, power, and how tech billionaires shape public life."
+          "term": "Switzy",
+          "aliases": [],
+          "explain": "Cline’s September 2026 novel about an aging man’s last pilgrimage toward Zurich."
         },
         {
-          "term": "Nonfiction",
+          "term": "Indie Next List",
           "aliases": [],
-          "explain": "Books about real events and ideas — not made-up stories."
+          "explain": "Monthly picks that U.S. independent booksellers recommend most."
         },
         {
-          "term": "Indie Next",
+          "term": "Booker Prize",
           "aliases": [],
-          "explain": "Recommendations from independent U.S. booksellers, updated each month."
+          "explain": "A major annual literary award. A longlist means the book is among the year’s top contenders."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Cover of Jill Lepore’s The Rise and Fall of the Artificial State",
-      "image_credit": "Cover: Liveright / W. W. Norton"
+      "image_alt": "Cover of Switzy by Emma Cline",
+      "image_credit": "Photo: Penguin Random House / Bookshop.org"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Alice Hoffman’s Witches of Cambridge brings cozy sisterhood to fall lists",
-      "dek": "Indie Next Sept: The Witches of Cambridge (Scribner, Sept 8). Booksellers praise New England witchy magic, history callbacks, and found-family sisterhood from the Practical Magic author.",
-      "caveman": "Alice Hoffman returns to witchy New England with The Witches of Cambridge, a September Indie Next fiction pick. Sara Crow of Crow & Co. Books calls it a delightful return to magic with real history and practices woven in — and says Hoffman remains a master of cozy found-family sisterhood. Hoffman wrote Practical Magic decades ago; that world still draws readers. For fall 2026, this is a comfort “who’s hot” title sitting beside darker literary novels.",
-      "why_it_matters": "Comfort witch fiction still sells big — and Indie Next love can keep it on tables for months.",
-      "camps": "Cozy readers want sisterhood and spells. Lit-fiction fans may skip for heavier September novels.",
-      "source_name": "American Booksellers Association / BookWeb",
-      "source_url": "https://www.bookweb.org/news/september-2026-indie-next-list-preview-1633047",
-      "published": "2026-08-05",
+      "headline": "Jodi Picoult’s Hollow Bones hits shelves Sep 15",
+      "dek": "Indie Next + Ballantine: Hollow Bones (Sep 15), Picoult’s latest multi-POV novel on tragedy, forgiveness, and timely issues. Booksellers call it unputdownable; her 30th novel after a People cover reveal.",
+      "caveman": "Jodi Picoult’s Hollow Bones arrives September 15. It is on the September Indie Next list and comes from Ballantine. Picoult is famous for novels that braid several points of view around a hard moral problem. Early bookseller notes mention tragedy, pain, forgiveness, hope, and love — and a pace that keeps pages turning. People magazine ran a cover reveal earlier, calling it her 30th novel. If you like issue-driven mainstream fiction that book clubs argue about, this is the big mid-September Picoult drop.",
+      "why_it_matters": "A Picoult on-sale date usually means packed book-club calendars and long hold lists at libraries.",
+      "camps": "Fans want another ethics-and-heart page-turner. Critics sometimes call the formula familiar — and readers still buy it.",
+      "source_name": "ABA BookWeb / Penguin Random House",
+      "source_url": "https://www.penguinrandomhouse.com/books/744436/hollow-bones-by-jodi-picoult/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Alice Hoffman",
+          "term": "Jodi Picoult",
           "aliases": [],
-          "explain": "A U.S. novelist famous for Practical Magic and other books mixing everyday life with witchcraft."
+          "explain": "Best-selling U.S. novelist known for multi-perspective stories about ethics and family."
         },
         {
-          "term": "Found family",
-          "aliases": [
-            "found-family"
-          ],
-          "explain": "A story theme where friends or neighbors become as close as relatives."
-        },
-        {
-          "term": "Cozy fantasy",
-          "aliases": [
-            "cozy"
-          ],
-          "explain": "Gentler fantasy focused on community and warmth more than epic battles."
-        },
-        {
-          "term": "Scribner",
+          "term": "Hollow Bones",
           "aliases": [],
-          "explain": "A major U.S. book publisher releasing Hoffman’s new Cambridge witches novel."
+          "explain": "Picoult’s September 2026 novel featured on the Indie Next list."
+        },
+        {
+          "term": "Point of view",
+          "aliases": [
+            "POV"
+          ],
+          "explain": "Whose eyes the story is told through — Picoult often rotates among several characters."
+        },
+        {
+          "term": "Book club",
+          "aliases": [],
+          "explain": "A group that reads the same book and meets to discuss it — a big driver of Picoult sales."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Cover of Alice Hoffman’s The Witches of Cambridge",
-      "image_credit": "Cover: Scribner / Simon & Schuster"
+      "image_alt": "Cover art for Jodi Picoult’s Hollow Bones",
+      "image_credit": "Photo: Penguin Random House"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Gaza hospitals ration power as engine oil and spare parts run out",
-      "dek": "Reuters exclusive Sep 10: Nasser Hospital rotates outages; one of four generators dead. MSF: engine oil on local market ~$1,300/L vs ~$3 pre-war. Israel says monitored entry mechanism exists.",
-      "caveman": "Gaza hospitals say they are running out of the oil and parts that keep generators alive. At Nasser Hospital in Khan Younis, doctors told Reuters they rotate power between buildings. One of four generators is dead; the biggest two are under strain. Without grid electricity since 2023, generators are life support for oxygen and surgery. Aid group MSF said engine oil on the local market has soared to about $1,300 a litre from about $3 before the war. Israel’s COGAT agency says it runs a monitored system to let oil and spare parts in so they do not reach Hamas. Families say home generator power now costs many times more.",
-      "why_it_matters": "When hospital generators seize up, patients on oxygen and dialysis can die even if bombs are quieter.",
-      "camps": "Aid groups blame lasting Israeli restrictions. Israel says controls stop dual-use gear reaching militants.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/gazas-hospitals-homes-struggle-keep-generators-running-oil-shortages-bite-2026-09-10/",
-      "published": "2026-09-10",
+      "headline": "Gaza winter prep stalled as engine oil approvals lag",
+      "dek": "OCHA SitRep 11 Sep: overcrowded displacement sites face flood risk; funding and entry limits block winterization. Since 1 Mar, only 13,445 L of engine oil approved vs 92,778 L pending — threatening water, sewage, and health generators.",
+      "caveman": "Aid groups in Gaza are racing the rainy season — and say they are losing. The U.N.’s OCHA report (11 September) says overcrowded tents and poor drainage raise disease risk. Winter kits and building materials are blocked or underfunded. A quiet but deadly shortage: engine oil for generators. Gaza has almost no steady electricity, so wells, sewage pumps, and hospitals run on generators that need oil. Since March 1, only about 13,445 liters of oil were approved; nearly 93,000 liters still wait. Without oil, water and toilets can fail. Partners are even reusing flour sacks as sandbags — a stopgap, not a fix.",
+      "why_it_matters": "If generators stop, clean water and hospital power fail — turning winter weather into a health emergency.",
+      "camps": "Humanitarians demand faster approvals. Israeli authorities cite security checks on dual-use goods.",
+      "source_name": "OCHA oPt",
+      "source_url": "https://www.ochaopt.org/content/humanitarian-situation-report-11-september-2026",
+      "published": "2026-09-12",
       "terms": [
         {
-          "term": "Generator",
+          "term": "OCHA",
           "aliases": [],
-          "explain": "A machine that makes electricity from fuel. Hospitals need them when the power grid is down."
+          "explain": "U.N. Office for the Coordination of Humanitarian Affairs — tracks crises and aid access."
+        },
+        {
+          "term": "Winterization",
+          "aliases": [],
+          "explain": "Preparing shelters for rain, wind, and cold — drainage, stronger tents, and dry supplies."
         },
         {
           "term": "Engine oil",
           "aliases": [],
-          "explain": "Lubricating oil that keeps generators from overheating and seizing. Shortages can kill machines."
+          "explain": "Lubricant generators need to keep running. Without it, machines seize up."
         },
         {
-          "term": "COGAT",
+          "term": "Dual-use",
           "aliases": [],
-          "explain": "The Israeli military unit that controls what goods are allowed into Gaza."
-        },
-        {
-          "term": "MSF",
-          "aliases": [
-            "Médecins Sans Frontières",
-            "Doctors Without Borders"
-          ],
-          "explain": "An international medical charity that treats people in war and crisis zones."
+          "explain": "Items that can help civilians but might also have military uses — often tightly controlled."
         }
       ],
-      "image": "",
-      "image_alt": "",
-      "image_credit": ""
+      "image": "images/wd-soc-1.jpg",
+      "image_alt": "West Bank/Gaza humanitarian conditions in OCHA’s September sitrep imagery",
+      "image_credit": "Photo: OCHA"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Al-Ahli hospital suspends key scans and surgeries after generator fails",
-      "dek": "Arab News / local reports: Gaza’s Al-Ahli Arab Hospital stops CT, X-ray, and some surgeries after main generator failure — including northern Gaza’s only CT in some accounts — as fuel crisis deepens.",
-      "caveman": "Another Gaza hospital hit pause on vital care. Al-Ahli Arab Hospital suspended key services after its main generator failed, Arab News and local reports say. That can mean no CT scans, limited X-rays, and delayed surgeries. In a place with few working machines left, losing one scanner can force patients to travel through dangerous areas — or go without a diagnosis. The failure fits the wider September fuel and spare-parts crunch hitting Gaza’s remaining hospitals.",
-      "why_it_matters": "One dead generator can erase diagnostic care for a whole city when backups and fuel are already scarce.",
-      "camps": "Hospital staff plead for parts and fuel. Controllers say security rules still limit what can enter.",
-      "source_name": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/gazas-al-ahli-arab-hospital-suspends-key-services-after-generator-failure-3001265",
-      "published": "2026-09-10",
+      "headline": "UN Women: women head nearly 1 in 4 Gaza households",
+      "dek": "UN Women brief: ~86,290 women-headed households in Gaza — double the pre-Oct 2023 rate. 68% lack adequate shelter (vs 55% male-headed). ~6 women and girls killed weekly since Oct 2025 ceasefire period.",
+      "caveman": "War has changed who runs families in Gaza. UN Women says women now head nearly one in four households — about 86,000 homes — double the rate before October 2023. Many women are widows, or their husbands are missing, detained, or badly hurt. These households face harder conditions: 68% lack adequate shelter, versus 55% for male-headed homes. They have been displaced more often. Two-thirds urgently need cash to survive. UN Women also notes about six women and girls have been killed every week even after the October 2025 ceasefire framework. Aid, they say, must be designed around women who now carry whole families alone.",
+      "why_it_matters": "If aid ignores women-headed homes, food, cash, and safety programs miss the people holding families together.",
+      "camps": "Rights groups demand gendered aid and a full ceasefire. Others focus only on aggregate tonnage of trucks.",
+      "source_name": "UN Women",
+      "source_url": "https://www.unwomen.org/en/news-stories/press-release/2026/09/women-head-one-in-four-households-in-gaza-as-war-tears-families-apart-and-reshapes-household-structures",
+      "published": "2026-09-08",
       "terms": [
         {
-          "term": "Al-Ahli Arab Hospital",
-          "aliases": [
-            "Al-Ahli"
-          ],
-          "explain": "A major hospital in Gaza City that has kept operating under war damage and shortages."
-        },
-        {
-          "term": "CT scan",
-          "aliases": [
-            "CT"
-          ],
-          "explain": "A detailed medical imaging scan. Without it, doctors may miss internal injuries or disease."
-        },
-        {
-          "term": "Diagnostic care",
+          "term": "Women-headed household",
           "aliases": [],
-          "explain": "Tests that find out what is wrong — scans, X-rays, labs — before treatment can start."
+          "explain": "A home where a woman is the main adult responsible for care and survival decisions."
         },
         {
-          "term": "Fuel crisis",
+          "term": "UN Women",
           "aliases": [],
-          "explain": "When diesel, engine oil, or parts run so low that machines and clinics cannot stay on."
+          "explain": "The U.N. agency focused on gender equality and women’s rights."
+        },
+        {
+          "term": "Ceasefire",
+          "aliases": [],
+          "explain": "An agreement to stop fighting. It can be partial, broken, or unevenly enforced."
+        },
+        {
+          "term": "Displacement",
+          "aliases": [],
+          "explain": "Being forced to leave home because of war, demolition, or danger."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Gaza’s Al-Ahli Arab Hospital after generator failure disrupts care",
-      "image_credit": "Photo: Arab News"
+      "image_alt": "Nour, a mother of four, stands in the rubble of her home in North Gaza",
+      "image_credit": "Photo: UN Women / Saud Al Nawajha"
     },
     {
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "MSF: aid cuts force mass clinic closures across Sudan",
-      "dek": "MSF Sep 8: war drives needs while donor cuts close clinics; Central Darfur saw 45 centres lose support in May alone. UN plan ~41% funded; WHO: ~37% of health facilities out of service.",
-      "caveman": "In Sudan, war already wrecks health care — and money is running out too. Médecins Sans Frontières (MSF) warns that big donor cuts are closing clinics across the country. In Central Darfur alone, 45 general health centres lost support in May when a partner ran out of funds. Patients then walk farther through danger to the few hospitals still open. MSF says admissions at some of its sites jumped more than 20% early this year. The U.N. appeal is only about 41% funded. WHO estimates roughly 37% of Sudan’s health facilities are fully out of service.",
-      "why_it_matters": "Closing clinics does not erase patients — it dumps them on the last open wards, often sicker and later.",
-      "camps": "Aid groups beg donors to protect health budgets. Some governments say they still fund U.N. channels.",
-      "source_name": "Médecins Sans Frontières (MSF)",
-      "source_url": "https://www.msf.org/aid-cuts-force-mass-clinic-closures-across-sudan",
-      "published": "2026-09-08",
+      "headline": "IOM: 46,000+ displaced as Yemen fighting surges",
+      "dek": "BBC citing IOM: at least 46,000 people displaced in Yemen since recent Houthi–Saudi-backed fighting escalated; IOM chief Amy Pope says numbers are ‘alarmingly rising by the hour’ and many flee a second or third time.",
+      "caveman": "While the world watches oil routes, families in Yemen are packing again. The International Organization for Migration says more than 46,000 people have been displaced since fighting surged between Houthis and Saudi-backed forces. IOM’s director general said the number is rising by the hour, and many families are fleeing for the second or third time with almost nothing. Hundreds have been reported killed. Displacement means lost homes, schools, and clinics — not only a map change on a shipping lane. Aid groups need access and money while airstrikes and ground battles continue.",
+      "why_it_matters": "A shipping-lane crisis is also a civilian crisis — displacement can outlast any ceasefire headline.",
+      "camps": "Humanitarians plead for corridors and funding. Warring parties prioritize military gains on the Red Sea coast.",
+      "source_name": "BBC News / IOM",
+      "source_url": "https://www.bbc.com/news/articles/c23x72yx2rvo",
+      "published": "2026-09-12",
       "terms": [
         {
-          "term": "Aid cuts",
-          "aliases": [
-            "funding cuts"
-          ],
-          "explain": "When rich governments give less money to humanitarian programs, forcing projects to close."
+          "term": "IOM",
+          "aliases": [],
+          "explain": "International Organization for Migration — a U.N.-related agency that tracks and helps displaced people."
         },
         {
-          "term": "Central Darfur",
-          "aliases": [
-            "Darfur"
-          ],
-          "explain": "A region of Sudan hard-hit by war, displacement, and clinic closures."
+          "term": "Displacement",
+          "aliases": [],
+          "explain": "When people must leave home because of war or violence."
         },
         {
-          "term": "WHO",
-          "aliases": [
-            "World Health Organization"
-          ],
-          "explain": "The U.N. health agency that tracks hospitals and disease worldwide."
+          "term": "Houthis",
+          "aliases": [],
+          "explain": "An armed group controlling much of Yemen; recent fighting has surged on the Red Sea coast."
         },
         {
-          "term": "Humanitarian appeal",
-          "aliases": [
-            "U.N. response plan"
-          ],
-          "explain": "A yearly U.N. request for donor money to feed, shelter, and treat people in a crisis."
+          "term": "Secondary displacement",
+          "aliases": [],
+          "explain": "Fleeing again after already being forced from home once before."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "MSF paediatrician examines a child at a feeding centre in Central Darfur",
-      "image_credit": "Photo: MSF / Tadeu Andre"
+      "image_alt": "Coverage of Yemen conflict and civilian flight tied to Red Sea fighting",
+      "image_credit": "Photo: BBC / EPA"
     },
     {
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "UN rights chief Türk: end Sudan war as drones hit civilians",
-      "dek": "UN News Sep 7: Volker Türk urges ceasefire and end to foreign involvement. Fact-Finding Mission: SAF and RSF may have committed war crimes; long-range drones hit homes, schools, hospitals.",
-      "caveman": "The U.N. human rights chief, Volker Türk, told the Human Rights Council the Sudan war must stop. He called for an immediate ceasefire, an end to foreign involvement, and a return to civilian rule. Independent investigators said both the Sudanese army (SAF) and the Rapid Support Forces (RSF) may have committed war crimes. They warned that long-range drones now hit homes, schools, hospitals, and markets far from front lines. More than six million people are displaced inside Sudan; about 4.5 million have fled abroad. WHO also described wrecked teaching hospitals in Khartoum.",
-      "why_it_matters": "Naming possible war crimes and foreign backers keeps pressure on a conflict the world often forgets.",
-      "camps": "Rights officials demand accountability. Warring parties deny targeting civilians and blame each other.",
-      "source_name": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/09/1168287",
-      "published": "2026-09-07",
+      "headline": "Sudan: cholera deaths in West Kordofan as Darfur vaccines roll out",
+      "dek": "Dabanga: ~16 cholera deaths reported in West Kordofan amid wider outbreak; UN-backed vaccination drives begin in Darfur localities. Sudan still faces mass hunger risk and huge aid needs.",
+      "caveman": "Sudan’s war keeps making people sick as well as hungry. Local reporting says about 16 people died of cholera in West Kordofan as cases spread. Cholera is a disease from dirty water that can kill fast without treatment. Vaccination campaigns are starting in parts of Darfur to protect tens of thousands. Across Sudan, U.N. figures still describe tens of millions needing help and many areas at famine risk. Clinics have already been strained by funding cuts. Clean water, vaccines, and open roads for aid matter as much as ceasefire speeches.",
+      "why_it_matters": "Disease spikes in war zones can kill civilians even far from the front line — especially kids.",
+      "camps": "Health agencies push vaccines and water repair. Warring parties and donors argue over access and funding.",
+      "source_name": "Dabanga Sudan",
+      "source_url": "https://www.dabangasudan.org/en/all-news/article/16-cholera-deaths-reported-in-west-kordofan-darfur-vaccination-drive-begins",
+      "published": "2026-09-12",
       "terms": [
         {
-          "term": "Volker Türk",
-          "aliases": [
-            "UN High Commissioner for Human Rights"
-          ],
-          "explain": "The U.N.’s top human-rights official, who speaks out when civilians are attacked."
-        },
-        {
-          "term": "SAF",
-          "aliases": [
-            "Sudanese Armed Forces"
-          ],
-          "explain": "Sudan’s national army, one side in the civil war."
-        },
-        {
-          "term": "RSF",
-          "aliases": [
-            "Rapid Support Forces"
-          ],
-          "explain": "A powerful paramilitary force fighting the army for control of Sudan."
-        },
-        {
-          "term": "War crimes",
+          "term": "Cholera",
           "aliases": [],
-          "explain": "Serious attacks on civilians or protected places that break the laws of war."
+          "explain": "A dangerous diarrheal disease spread by contaminated water or food. Treatable, but deadly if care is late."
+        },
+        {
+          "term": "West Kordofan",
+          "aliases": [],
+          "explain": "A state in Sudan where new cholera deaths were reported."
+        },
+        {
+          "term": "Darfur",
+          "aliases": [],
+          "explain": "A large region of western Sudan long hit by conflict and displacement."
+        },
+        {
+          "term": "Famine risk",
+          "aliases": [],
+          "explain": "When hunger is so severe that many people may starve without urgent food aid."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Sudanese people seeking shelter from war in a neighboring country",
-      "image_credit": "Photo: UN News / Ala Kheir"
+      "image_alt": "A child receives a cholera vaccine in Sudan",
+      "image_credit": "Photo: Dabanga / UN"
     }
   ]
 }
