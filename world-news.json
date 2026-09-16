@@ -1,457 +1,462 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-15T08:00:00+08:00",
-  "notes": "Tuesday 15 Sep 2026 world issue (Taipei 08:00). Window: Mon 14 Sep US/Asia cash + overnight into Tue morning. NEW economy: Brent ~$107.51 / WTI ~$102.32 Mon (+~2.7%/+~2.3%) after Hormuz vessel strike + Saudi East-West still shut; FedWatch/Reuters poll ~85–91% odds of Wed 25bp hike (first since 2023) under Warsh; US stocks Mon lower (Dow ~52421, S&P ~7620, Nasdaq ~26186); AAA diesel new high ~$6.23, regular gas ~$4.31. NEW tech: OpenAI buys Glass Imaging >$300M (WSJ/TC); Siri AI third-party Claude/ChatGPT swap code (MacRumors); xAI drops Apple antitrust suit; AI majors discuss standards body (CNN). NEW politics: Trump claims energy-strike halt, Zelenskyy conditional only; Gulf–Iran Hormuz talks postponed with Saudi/Yemen context; Trump says open to Iran deal / Pezeshkian sets terms; UN flags civilians in Iran strikes + Yemen displacement. NEW lit (USA): hardcover fiction Sep 13 — Moriarty #1, Stockett Calamity Club #2, Burke Yesteryear #3, Patchett Whistler #4 (exclude Mon Gillig/Cline/Picoult-on-sale-preview as primary). NEW social: Sudan aid networks risk collapse; Al Jazeera/UN Sudan hunger; Yemen displacement surge; WFP shipping turmoil chokes Sudan/Yemen food. Excluded Mon recycled leads without new fact (oil open-only scare without Mon settle; Aug CPI 3.4% as sole Fed lead; Fri Wall St rebound/KOSPI; diesel $6.06 Fri-only; Anthropic profit; Altman/Musk pace-AI as sole tech; Google Finland €13B; iOS 27 launch-day; Trump diesel ask without deal claim; Houthis Perim seize-only; Oman postpone one-liner; Oct talks push; Gillig Knave #1; Cline Switzy; Picoult Hollow Bones shelf preview; Gaza engine-oil sitrep; UN Women Gaza households; IOM 46k Yemen; Sudan cholera West Kordofan).",
+  "fetched_at": "2026-09-16T08:00:00+08:00",
+  "notes": "Wednesday 16 Sep 2026 world issue (Taipei 08:00). Window: Tue 15 US/Asia cash + overnight into Wed morning. Fed FOMC decision due ~02:00 Thu Taipei (2pm ET Wed) — NOT yet out at fetch; still ~90% hike odds story. NEW economy: Brent settle ~$108.75 (+$3.07)/WTI ~$105.83 (+$4.44) on Saudi Red Sea loadings halt + Libya fields + Hormuz squeeze; AAA diesel record ~$6.27, regular ~$4.33; Dow 52093/−328 S&P 7586/−34 Nasdaq 25982/−205 as 10y ~5%; FedWatch ~90–95% 25bp. NEW tech: OpenAI+Anthropic+Google deepen AI standards-body talks (FINRA-like); Apple ships Siri AI beta with iOS 27 waitlist; Anthropic/OpenAI risk warnings continue; skip Glass Imaging / xAI Apple suit (Tue leads). NEW politics: Houthis claim strikes on Saudi Khamis Mushait, 13 civilians wounded, Hormuz talks postponed; Trump energy-truce claim vs Zelenskyy conditions + Kremlin “good idea” with tanker/sanctions caveats; Russia–Ukraine strikes continue. NEW lit vs Tue NYT-only: PW Sep 14 Gillig The Knave and the Moon tops again; NYT hardcover fiction Sep 13 still Moriarty #1 / Stockett #2 but PW had Calamity Club ahead earlier — rivalry angle; Hillier Heart of Glass #5; Dinniman Dungeon Crawler Carl multi-slot; Marlon James The Disappearers NYT rave / PW nonfiction chart note. NEW social: UN Sudan system collapse weeks; Yemen >100k displaced; WFP Sudan funding ~1/3; shipping/fuel squeeze hits aid. Excluded Tue without new fact: OpenAI Glass Imaging $300M; Siri third-party code leak mainline; xAI drops Apple suit; USA lit Burke/Patchett as sole leads; duplicate Sudan twin blurbs.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Oil holds near $108 after Hormuz hit and Saudi pipeline stay shut",
-      "dek": "Mon Reuters-style settle: Brent ~$107.51 (+~$2.90); WTI ~$102.32 (+~$2.27). Sunday vessel strike in Hormuz; East-West pipeline still offline.",
-      "caveman": "Oil stayed expensive Monday. World oil (Brent) rose about $3 to around $107–$108 a barrel. U.S. oil (WTI) climbed above $102. A ship in the Strait of Hormuz was hit and caught fire over the weekend. Saudi Arabia’s East-West pipeline — a backup route that skips Hormuz — remains shut after attacks. Analysts say that line can matter for a few percent of global supply. Planned Gulf–Iran talks on Hormuz were delayed. Costly oil can lift gas, diesel, and shipping bills.",
-      "why_it_matters": "Supply scares keep crude above $100 and feed inflation fears right before the Fed decision.",
-      "camps": "Hawks say only a real Hormuz deal or a reopened pipeline cools prices. Optimists hope talks restart and crude fades.",
-      "source_name": "Euronews / market reports",
-      "source_url": "https://www.euronews.com/business/2026/09/14/oil-surges-past-107-as-hormuz-attack-and-saudi-pipeline-shutdown-rattle-markets",
-      "published": "2026-09-14",
+      "headline": "Brent settles near $108.75 as Saudi loadings halt and Libya outages bite",
+      "dek": "WTI jumps about $4.44 to ~$105.83; Hormuz traffic still tight after fresh Houthi–Saudi strikes.",
+      "caveman": "Oil went up again Tuesday. Brent crude finished about $108.75 a barrel, up roughly $3. Oil traders pointed to Saudi Arabia pausing some Red Sea loadings, Libya shutting fields, and still-messy shipping near the Strait of Hormuz. Simple talk: less oil moving freely means higher prices at the pump later.",
+      "why_it_matters": "Expensive oil feeds inflation and makes a Fed hike feel more likely — bad combo for stocks and poorer countries that import fuel.",
+      "camps": "Bulls say supply shocks are real. Bears say prices already baked in war risk and could snap back if talks reopen Hormuz.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Brent crude",
-          "aliases": [
-            "Brent"
-          ],
-          "explain": "A key global oil price many countries watch."
+          "term": "Brent",
+          "aliases": [],
+          "explain": "A global benchmark price for oil."
         },
         {
           "term": "WTI",
-          "aliases": [
-            "U.S. crude"
-          ],
-          "explain": "The main U.S. oil price. When it rises, U.S. fuel often follows."
+          "aliases": [],
+          "explain": "The main U.S. oil benchmark."
         },
         {
           "term": "Strait of Hormuz",
-          "aliases": [],
-          "explain": "A narrow waterway by Iran and Oman. In peacetime, much of world oil ships through it."
+          "aliases": [
+            "Hormuz"
+          ],
+          "explain": "A narrow waterway where a huge share of world oil tankers pass."
         },
         {
-          "term": "East-West pipeline",
+          "term": "Loadings",
           "aliases": [],
-          "explain": "A Saudi pipeline that can move crude across the country and avoid Hormuz."
+          "explain": "Putting oil onto ships to export."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Saudi oil facilities and tanker-route risk",
-      "image_credit": "Photo: Euronews / AP file"
+      "image_alt": "Oil tanker or energy market illustration",
+      "image_credit": "Photo: RTÉ (Middle East / energy coverage)"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Fed hike Wednesday now ~90% likely — first increase since 2023",
-      "dek": "Reuters poll: 85% of economists expect +25 bp to 3.75%–4.00%. CME FedWatch around 90–91%. Decision Wed 2 p.m. ET under Chair Warsh.",
-      "caveman": "Markets now expect the U.S. central bank to raise rates this week. After firm August inflation, a Reuters poll found 85 of 101 economists want a quarter-point hike. Futures tools put the odds near 90%. That would lift the policy range to about 3.75%–4.00% — the first hike since 2023, and the first big test for Chair Kevin Warsh. The Fed meets Tuesday–Wednesday and speaks Wednesday afternoon. Higher rates can cool loans, houses, and stocks — but may help fight prices.",
-      "why_it_matters": "A hike plus tough forecasts could shake global markets and the Taiwan dollar story too.",
-      "camps": "Hawks say inflation is still too hot with oil above $100. Doves fear hiking into fragile growth.",
-      "source_name": "Reuters / 24/7 Wall St.",
-      "source_url": "https://www.reuters.com/business/fed-rate-hike-wednesday-now-likely-say-economists-least-one-more-follow-2026-09-14/",
-      "published": "2026-09-14",
+      "headline": "Fed decision day: markets still price ~90% odds of a 25bp hike",
+      "dek": "Announcement due 2pm ET Wednesday (~2am Thursday Taipei); first hike since 2023 if delivered under Chair Warsh.",
+      "caveman": "The U.S. Federal Reserve finishes its two-day meeting Wednesday afternoon New York time. As of Taipei Wednesday morning, the statement is not out yet. Futures markets still put roughly a 90% chance on a quarter-point rate hike to 3.75%–4.00%. Economists are less united than traders. Simple talk: America may make borrowing a bit more expensive tonight.",
+      "why_it_matters": "Fed moves swing mortgages, credit cards, the dollar, and Asian markets the next morning.",
+      "camps": "Hawks want a hike after hot inflation prints. Doves warn hiking into fragile growth and oil shock pain.",
+      "source_name": "Newsquawk",
+      "source_url": "https://www.newsquawk.com/headlines/preview-the-fomc-rate-decision-and-seps-due-wednesday-16th-september-2026-at-1900bst1400edt",
+      "published": "2026-09-16",
       "terms": [
         {
           "term": "Federal Reserve",
           "aliases": [
-            "the Fed"
+            "Fed",
+            "FOMC"
           ],
-          "explain": "America’s central bank. It sets a key interest rate."
+          "explain": "The U.S. central bank that sets key interest rates."
         },
         {
           "term": "Basis point",
           "aliases": [
             "bp"
           ],
-          "explain": "One hundredth of a percent. 25 bp = 0.25%."
+          "explain": "One hundredth of a percent. 25bp = 0.25%."
         },
         {
-          "term": "FedWatch",
-          "aliases": [],
-          "explain": "A CME tool that turns futures prices into hike/cut odds."
+          "term": "Dot plot",
+          "aliases": [
+            "SEP"
+          ],
+          "explain": "Fed officials' private guesses for future rates, published with some meetings."
         },
         {
-          "term": "Kevin Warsh",
+          "term": "Hike",
           "aliases": [],
-          "explain": "Current Fed chair facing his first major rate decision."
+          "explain": "Raising interest rates."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Fed Chair Kevin Warsh and rate-decision focus",
-      "image_credit": "Photo: 24/7 Wall St."
+      "image_alt": "Federal Reserve building or rate decision graphic",
+      "image_credit": "Photo: FinancialJuice"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. stocks slip Monday as rate-hike and AI nerves hit",
-      "dek": "Dow ~52,421; S&P ~7,620 (−~0.5%); Nasdaq ~26,186. Chip names soft; oil strength adds to caution.",
-      "caveman": "U.S. stocks finished Monday lower. The Dow fell about a quarter percent near 52,421. The S&P 500 lost roughly half a percent near 7,620. The Nasdaq also slipped toward 26,186. Traders worried about a Fed hike this week and about AI spending after big AI bosses talked about slowing frontier models. Oil strength added to the uneasy mood. After Friday’s rebound, Monday felt like a pause.",
-      "why_it_matters": "Global risk appetite sets the tone for Asia Tuesday — including Taiwan tech.",
-      "camps": "Bears say expensive tech plus higher rates is a bad mix. Bulls say a priced-in hike need not crash markets.",
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/cards/the-s-p-500-gave-up-35-points-to-close-at-7-621-54-twice-th-gspc-market-bell-01m2gr98zp1m5f1z5dydnx4wzv",
-      "published": "2026-09-14",
+      "headline": "Dow drops 328 as 10-year yield hits 5% and oil spike sting Wall Street",
+      "dek": "S&P ~7586 (−0.4%), Nasdaq ~25982 (−0.8%); investors brace for Fed hike odds near 95%.",
+      "caveman": "U.S. stocks fell Tuesday. The Dow lost about 328 points to finish near 52,093. The S&P 500 slipped to about 7,586 and the Nasdaq to about 25,982. A 10-year Treasury yield around 5% plus rising oil made investors nervous before the Fed. Simple talk: expensive money + expensive oil = stock prices go down.",
+      "why_it_matters": "Wall Street closes set the tone for Wednesday Asia trading, including Taiwan tech.",
+      "camps": "Bears say higher yields crush valuations. Bulls say a clear Fed hike could end the guesswork rally later.",
+      "source_name": "WTOP/AP",
+      "source_url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-tuesday-9-15-2026/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Dow Jones",
+          "term": "Dow",
           "aliases": [
-            "Dow"
+            "Dow Jones"
           ],
-          "explain": "A stock average of 30 big U.S. companies."
+          "explain": "An index of 30 big U.S. companies."
         },
         {
-          "term": "S&P 500",
-          "aliases": [],
-          "explain": "A broader U.S. stock index of 500 large firms."
+          "term": "Treasury yield",
+          "aliases": [
+            "10-year"
+          ],
+          "explain": "The interest rate investors demand to lend the U.S. government money for 10 years."
         },
         {
           "term": "Nasdaq",
           "aliases": [],
-          "explain": "A U.S. index heavy with tech companies."
+          "explain": "A stock index heavy with tech companies."
         },
         {
-          "term": "Risk appetite",
+          "term": "Valuation",
           "aliases": [],
-          "explain": "How willing investors are to buy risky assets like stocks."
+          "explain": "How expensive stocks look versus earnings."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Wall Street trading floor mood Monday",
-      "image_credit": "Photo: 24/7 Wall St."
+      "image_alt": "New York Stock Exchange trading floor",
+      "image_credit": "Photo: AP via WTOP"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. diesel hits new record ~$6.23; regular gas ~$4.31",
-      "dek": "AAA: diesel all-time high as Saudi pipeline shut and Hormuz talks slip. Trump blames Ukraine war for diesel; markets also price Iran/Hormuz risk.",
-      "caveman": "American diesel just got even pricier. AAA data cited Monday put the national diesel average near a record $6.23 a gallon. Regular gasoline was about $4.31. Oil jumped after Saudi Arabia kept a key pipeline shut and Hormuz diplomacy stalled. President Trump said Ukraine’s war is the main diesel villain, not Iran — but traders also watch Gulf shipping chaos. Diesel powers trucks, farms, and factories, so this hits grocery shelves later.",
-      "why_it_matters": "Record diesel is an inflation channel that can keep the Fed hawkish.",
-      "camps": "Truckers and farmers demand relief. Energy bulls say only more barrels or peace cools the pump.",
-      "source_name": "NBC News",
-      "source_url": "https://www.nbcnews.com/business/business-news/diesel-oil-prices-jump-saudi-pipeline-shut-hormuz-talks-postponed-iran-rcna597579",
-      "published": "2026-09-14",
+      "headline": "U.S. diesel hits new AAA record ~$6.27; regular gas ~$4.33",
+      "dek": "Fuel squeeze tied to Middle East shipping turmoil; trucking and food costs feel it first.",
+      "caveman": "AAA said the national average diesel price set another record near $6.27 a gallon. Regular gasoline sat around $4.33. Diesel matters because trucks move almost everything. Simple talk: war and shipping problems make the fuel that carries your groceries more expensive.",
+      "why_it_matters": "Diesel spikes flow into food prices and small-business costs faster than many other inflation gauges.",
+      "camps": "Consumer advocates blame supply shocks and urge releases from reserves. Producers say geopolitics, not gouging, is the driver.",
+      "source_name": "WSJ",
+      "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-diesel-prices-hit-new-record-high-as-fuel-squeeze-bites-455c4983",
+      "published": "2026-09-15",
       "terms": [
-        {
-          "term": "AAA",
-          "aliases": [],
-          "explain": "A U.S. auto group that tracks average gas and diesel prices."
-        },
         {
           "term": "Diesel",
           "aliases": [],
-          "explain": "Fuel for many trucks, buses, and heavy machines."
+          "explain": "Fuel used by most trucks, ships, and farm machines."
         },
         {
-          "term": "Pump price",
+          "term": "AAA",
           "aliases": [],
-          "explain": "What you pay at the gas station."
+          "explain": "A U.S. auto group that tracks average pump prices."
         },
         {
-          "term": "Inflation channel",
+          "term": "Strategic reserve",
           "aliases": [],
-          "explain": "A path that pushes everyday prices higher."
+          "explain": "Government-held oil stored for emergencies."
+        },
+        {
+          "term": "Pass-through",
+          "aliases": [],
+          "explain": "When higher fuel costs get added into food and package prices."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "U.S. gas station pumps as fuel prices jump",
-      "image_credit": "Photo: NBC News"
+      "image_alt": "Fuel pump diesel price board",
+      "image_credit": "Photo: CBS News"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "OpenAI buys camera startup Glass Imaging for $300M+",
-      "dek": "WSJ/TechCrunch: ex-Apple Portrait Mode engineers; AI improves phone photos at shutter time. Fits Altman–Ive device rumors.",
-      "caveman": "OpenAI reportedly bought Glass Imaging for more than $300 million. The Los Altos startup was founded by former Apple engineers who helped build Portrait Mode. Their trick: use AI to understand each phone camera so pictures look better the moment you shoot — not only with filters later. OpenAI did not confirm plans, but it has been linked to future gadgets with designer Jony Ive. Better cameras would matter a lot for AI phones and companions.",
-      "why_it_matters": "A hardware-flavored buy shows big AI labs racing beyond chatbots into devices.",
-      "camps": "Fans say vision talent is scarce and strategic. Skeptics say $300M is pricey before a shipping product.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "published": "2026-09-14",
+      "headline": "OpenAI, Anthropic and Google deepen talks on an AI safety standards body",
+      "dek": "Ideas float a FINRA-like auditor for frontier models; no antitrust waiver needed, OpenAI says.",
+      "caveman": "OpenAI, Anthropic, and Google DeepMind said they have been talking for weeks about building shared AI safety standards — testing, audits, and maybe a new industry body a bit like Wall Street’s FINRA. OpenAI argued they do not need a special antitrust waiver to cooperate on safety. Simple talk: the biggest AI labs say they want a common rulebook, not only company PR.",
+      "why_it_matters": "If the labs set the rules themselves, governments and the public must decide whether that is enough oversight.",
+      "camps": "Supporters call it overdue self-regulation. Critics fear a club that locks out rivals and soft-pedals risk.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "OpenAI",
+          "term": "Frontier model",
           "aliases": [],
-          "explain": "The company behind ChatGPT."
+          "explain": "The most powerful new AI systems."
         },
         {
-          "term": "Glass Imaging",
+          "term": "FINRA",
           "aliases": [],
-          "explain": "A startup that uses AI to improve smartphone cameras."
+          "explain": "A U.S. industry regulator for stockbrokers — used here as a comparison."
         },
         {
-          "term": "Portrait Mode",
+          "term": "Antitrust",
           "aliases": [],
-          "explain": "A phone camera look that blurs the background."
+          "explain": "Laws against big companies teaming up to hurt competition."
         },
         {
-          "term": "Jony Ive",
+          "term": "Audit",
           "aliases": [],
-          "explain": "Famous Apple designer now linked to OpenAI hardware ideas."
+          "explain": "An outside check that a system does what it claims safely."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Smartphone camera and AI imaging concept",
-      "image_credit": "Photo: TechCrunch / Getty"
+      "image_alt": "AI executives or tech summit imagery",
+      "image_credit": "Photo: CNBC / Getty"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Siri AI code shows Claude or ChatGPT could deeply power Apple assistant",
-      "dek": "MacRumors: Model Delegation and Inference Provider hooks in iOS/macOS 27. EU DMA pressure in background.",
-      "caveman": "Apple’s new Siri AI may not stay Apple-only. Code explorers found hooks that let Claude act like a Siri extension, and even let another model such as GPT sit where Apple’s server brain usually sits. In demos, Claude made a reminder through Siri, and ChatGPT fetched mail then sent a message. The EU’s Digital Markets Act pushes Apple to open more system features. Public users do not have full swap yet — but the plumbing is there.",
-      "why_it_matters": "If Siri becomes a shell for many AIs, phone power shifts to whoever you trust most.",
-      "camps": "Open-choice fans cheer. Privacy hawks worry third-party models may see more personal data.",
-      "source_name": "MacRumors",
-      "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "headline": "Apple ships Siri AI beta with iOS 27 — waitlist, English first, EU delay",
+      "dek": "New Siri gets personal context, onscreen awareness, and deeper app actions; more languages eyed in October.",
+      "caveman": "Apple turned on a beta of its new Siri AI with the latest software updates. You need a supported device, English settings, and a waitlist toggle in Settings. Apple promises a more personal assistant that understands what is on your screen and can do more inside apps. Some languages come later; EU phones start without it. Simple talk: Siri is trying to catch ChatGPT-style helpers, but not everyone gets it day one.",
+      "why_it_matters": "Billions of iPhones make Apple’s AI choices a mass-market privacy and competition story.",
+      "camps": "Fans cheer on-device smarts. Skeptics note waitlists, limits, and late EU access.",
+      "source_name": "Apple Newsroom",
+      "source_url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
       "published": "2026-09-14",
       "terms": [
         {
           "term": "Siri AI",
           "aliases": [],
-          "explain": "Apple’s upgraded voice assistant with smarter AI."
+          "explain": "Apple’s rebuilt voice assistant with generative AI features."
         },
         {
-          "term": "Claude",
+          "term": "Beta",
           "aliases": [],
-          "explain": "Anthropic’s AI chatbot, a rival to ChatGPT."
+          "explain": "A test version that can still have bugs."
         },
         {
-          "term": "Digital Markets Act",
-          "aliases": [
-            "DMA"
-          ],
-          "explain": "EU law that forces big platforms to open some doors to rivals."
-        },
-        {
-          "term": "Model Delegation",
+          "term": "Apple Intelligence",
           "aliases": [],
-          "explain": "A design that lets another AI handle parts of a request."
+          "explain": "Apple’s brand for on-device and cloud AI features."
+        },
+        {
+          "term": "Waitlist",
+          "aliases": [],
+          "explain": "A queue before you are allowed to try the feature."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Apple Siri AI on iPhone",
-      "image_credit": "Photo: MacRumors / Apple"
+      "image_alt": "Apple Siri AI product imagery",
+      "image_credit": "Photo: Apple Newsroom"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Musk’s xAI drops antitrust lawsuit against Apple",
-      "dek": "Bloomberg: claims over AI competition vs Apple resolved; suit against OpenAI continues.",
-      "caveman": "Elon Musk’s xAI dropped its antitrust case against Apple. The fight was about how AI apps compete inside Apple’s world. The OpenAI-related case is still going. Ending the Apple case removes one legal storm while AI companies keep battling for phones, defaults, and distribution. Apple is rolling out deeper Siri AI at the same time.",
-      "why_it_matters": "Distribution on iPhone can make or break an AI product — lawsuits were a pressure tool.",
-      "camps": "Apple allies call it noise ending. Critics say competition issues on mobile AI remain unresolved.",
-      "source_name": "Bloomberg (via reports)",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-14/musk-s-xai-resolves-claims-against-apple-over-ai-competition",
-      "published": "2026-09-14",
+      "headline": "AI risk alarms grow as researchers urge slowdowns alongside lab talks",
+      "dek": "Public warnings from Anthropic/OpenAI circles land the same week as standards-body discussions.",
+      "caveman": "While big labs talk about shared safety rules, researchers and executives keep warning that frontier AI is moving too fast. Time and other outlets highlighted staff exits and open letters calling for slower releases and stronger independent checks. Simple talk: even people inside AI companies say “maybe hit the brakes.”",
+      "why_it_matters": "Investor panic about slower AI spending already hit chip stocks — rhetoric has market consequences.",
+      "camps": "Safety advocates want hard pauses. Accelerationists say competition with rivals makes slowdowns naive.",
+      "source_name": "TIME",
+      "source_url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "xAI",
+          "term": "Slowdown",
           "aliases": [],
-          "explain": "Elon Musk’s artificial-intelligence company."
+          "explain": "Intentionally releasing powerful AI more slowly."
         },
         {
-          "term": "Antitrust",
+          "term": "Independent oversight",
           "aliases": [],
-          "explain": "Laws against unfair monopoly power."
+          "explain": "Watchdogs not paid only by the company being watched."
         },
         {
-          "term": "Distribution",
+          "term": "Chip stocks",
           "aliases": [],
-          "explain": "How an app reaches users — stores, defaults, and links."
+          "explain": "Shares of companies that make computer chips for AI."
         },
         {
-          "term": "Default",
+          "term": "Frontier lab",
           "aliases": [],
-          "explain": "The app a phone picks unless you change it."
+          "explain": "A company building the most advanced AI models."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Apple campus and AI competition theme",
-      "image_credit": "Photo: Apple Newsroom tile"
+      "image_alt": "AI research and safety debate imagery",
+      "image_credit": "Photo: TIME"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Google, OpenAI, Anthropic discuss an industry AI standards body",
-      "dek": "CNN: top labs explore shared rules as safety and race pressure rise. Microsoft also pushes human-control ideas.",
-      "caveman": "Big AI companies have talked about creating their own standards group. CNN reported Google, OpenAI, and Anthropic among names in the mix. The idea: write shared rules as governments move slower than the models. This lands in the same week bosses warned about racing too fast. A private standards body could help — or look like industry writing its own report card.",
-      "why_it_matters": "Whoever sets the yardstick can shape safety, liability, and product design worldwide.",
-      "camps": "Supporters say speed beats waiting for law. Critics want elected governments, not labs, to set limits.",
-      "source_name": "CNN Business",
-      "source_url": "https://www.cnn.com/2026/09/14/tech/ai-standards-body",
-      "published": "2026-09-14",
+      "headline": "Asian markets waver into Fed week as AI and oil nerves overlap",
+      "dek": "Reuters: shares cautious while yields and crude rise ahead of Fed and BOJ meetings.",
+      "caveman": "Asia trading stayed jumpy as traders watched U.S. bond yields, oil, and AI spending fears at the same time. Chip-linked names remained sensitive after the U.S. semiconductor selloff. Simple talk: when America sneezes on rates and AI, Asia’s tech factories feel the draft.",
+      "why_it_matters": "Taiwan, Korea, and Japan exporters are early mirrors of global tech demand.",
+      "camps": "Some see a healthy reset. Others fear a deeper AI capex air pocket.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-09-15/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Standards body",
-          "aliases": [],
-          "explain": "A group that writes shared technical or safety rules."
+          "term": "Capex",
+          "aliases": [
+            "capital expenditure"
+          ],
+          "explain": "Big company spending on buildings and machines."
         },
         {
-          "term": "Anthropic",
+          "term": "BOJ",
           "aliases": [],
-          "explain": "AI company known for Claude and safety talk."
+          "explain": "Bank of Japan — Japan’s central bank."
         },
         {
-          "term": "Frontier model",
+          "term": "Risk-off",
           "aliases": [],
-          "explain": "The newest, most powerful AI systems."
+          "explain": "When investors sell risky assets and hide in safer ones."
         },
         {
-          "term": "Self-regulation",
-          "aliases": [],
-          "explain": "Industry making rules for itself instead of waiting for law."
+          "term": "Semiconductor",
+          "aliases": [
+            "chip"
+          ],
+          "explain": "Tiny parts that run phones, PCs, and AI servers."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "AI industry leaders and standards debate",
-      "image_credit": "Photo: CNN / Getty"
+      "image_alt": "Asian stock exchange traders",
+      "image_credit": "Photo: Los Angeles Times"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Trump claims Ukraine–Russia energy truce; Zelenskyy says only if Russia truly stops",
-      "dek": "Trump: both sides agreed not to hit energy. Zelenskyy: Kyiv will pause if partners can guarantee Moscow keeps its word.",
-      "caveman": "President Trump said Monday that Ukraine and Russia agreed to stop striking each other’s energy sites. About an hour later, President Zelenskyy posted a careful reply: Ukraine can halt attacks on Russian energy and key infrastructure if partners make sure Russia really stops hitting Ukraine’s power, energy, and food routes. He said Kyiv is not convinced Russia will keep any deal. Trump had urged Ukraine to stop hitting Russian diesel, blaming that for global fuel pain.",
-      "why_it_matters": "An energy ceasefire could cool diesel prices — or collapse fast if either side cheats.",
-      "camps": "Trump allies hail progress. Ukrainian voices demand verification first, not slogans.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-      "published": "2026-09-14",
+      "headline": "Houthis hit Saudi targets again as Hormuz reopening talks stall",
+      "dek": "Group claims strikes near Khamis Mushait; reports of civilian wounded; Oman postpones Gulf–Iran talks.",
+      "caveman": "Yemen’s Houthi forces said they fired missiles and drones at Saudi sites, including an airbase area. Saudi cities saw alerts; reports said some civilians were hurt. At the same time, planned talks about reopening the Strait of Hormuz were postponed. Simple talk: shooting continues, talking pauses, oil stays nervous.",
+      "why_it_matters": "Every failed diplomacy day keeps shipping insurance and fuel prices elevated worldwide.",
+      "camps": "Saudi-led side blames Houthi/Iranian escalation. Houthis cast strikes as retaliation. Mediators urge a corridor deal.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-strike-saudi-targets-anew-talks-over-strait-hormuz-stall-2026-09-15/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Energy infrastructure",
+          "term": "Houthis",
           "aliases": [],
-          "explain": "Power plants, refineries, pipelines, and fuel sites."
+          "explain": "An armed group that controls much of northern Yemen and is aligned with Iran."
         },
         {
-          "term": "Zelenskyy",
+          "term": "Khamis Mushait",
           "aliases": [],
-          "explain": "President of Ukraine."
+          "explain": "A city in southern Saudi Arabia with a major airbase."
         },
         {
-          "term": "Verification",
+          "term": "Mediation",
           "aliases": [],
-          "explain": "Proof that both sides keep a promise."
+          "explain": "A third country helping enemies talk."
         },
         {
-          "term": "Diesel",
+          "term": "Shipping insurance",
           "aliases": [],
-          "explain": "Truck and machine fuel; prices jumped with war and oil shocks."
+          "explain": "Extra money ship owners pay when seas are dangerous."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Trump in Oval Office amid Ukraine energy talks",
-      "image_credit": "Photo: CNBC / Getty"
+      "image_alt": "Middle East conflict and Red Sea shipping",
+      "image_credit": "Photo: RTÉ"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Gulf states postpone Hormuz talks with Iran as Yemen war flares",
-      "dek": "Guardian: Oman meeting delayed amid Saudi objections and Houthi advances; pipeline and Bab el-Mandeb risks stack up.",
-      "caveman": "Talks meant to ease shipping through the Strait of Hormuz did not happen Monday. Oman delayed a meeting of Iran and Gulf foreign ministers. Reports say Saudi Arabia pushed for more consensus while Houthi forces pressed gains in Yemen, including pressure near the Bab el-Mandeb Strait. With Saudi’s East-West pipeline already shut, traders see fewer safe oil exits. Diplomacy is stuck while tankers stay nervous.",
-      "why_it_matters": "Failed talks keep oil geopolitics hot and raise costs for food and fuel importers.",
-      "camps": "Gulf hawks want Yemen leverage settled first. Mediators say delay itself worsens prices.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through",
-      "published": "2026-09-14",
+      "headline": "Trump claims energy truce; Kyiv wants guarantees as strikes go on",
+      "dek": "Kremlin calls idea “good” but ties it to tankers and sanctions; refineries and cities still hit.",
+      "caveman": "Donald Trump said Russia and Ukraine agreed not to hit energy sites. Ukraine’s side said any pause needs proof Russia will stop hitting power and heat. The Kremlin called the idea good but added conditions about tanker safety and sanctions. Meanwhile both sides still struck energy targets. Simple talk: politicians announce a truce; bombs have not fully listened.",
+      "why_it_matters": "Energy attacks shape winter heat in Ukraine and diesel markets far beyond Europe.",
+      "camps": "Trump sells diplomacy wins. Kyiv demands verification. Moscow wants sanctions relief attached.",
+      "source_name": "UPI",
+      "source_url": "https://www.upi.com/Top_News/World-News/2026/09/15/ukraine-russia-strikes-trump/1171789493257/",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Gulf states",
-          "aliases": [
-            "GCC"
-          ],
-          "explain": "Oil-rich Arab countries around the Persian Gulf."
+          "term": "Energy infrastructure",
+          "aliases": [],
+          "explain": "Power plants, grids, and fuel facilities."
         },
         {
-          "term": "Houthis",
+          "term": "Sanctions",
           "aliases": [],
-          "explain": "An armed group in Yemen backed in part by Iran."
+          "explain": "Economic penalties meant to pressure a country."
         },
         {
-          "term": "Bab el-Mandeb",
+          "term": "Verification",
           "aliases": [],
-          "explain": "A narrow strait by Yemen and Djibouti for Red Sea shipping."
+          "explain": "Checking that both sides really stop shooting."
         },
         {
-          "term": "Oman",
+          "term": "Kremlin",
           "aliases": [],
-          "explain": "A Gulf country often used as a quiet go-between."
+          "explain": "Russia’s central government leadership."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Gulf shipping and Hormuz diplomacy strain",
-      "image_credit": "Photo: Al Jazeera / Getty"
+      "image_alt": "Ukraine conflict and diplomacy",
+      "image_credit": "Photo: UPI"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Trump says U.S. open to Iran deal; Tehran demands end to pressure",
-      "dek": "Iran International: Trump claims Iran wants a deal; President Pezeshkian says talks need sanctions relief and less unilateralism.",
-      "caveman": "On the same day Hormuz diplomacy slipped, Trump said Iran wants a deal and the U.S. is open to talking. Iran’s president answered that talks need an end to heavy pressure and unilateral moves. The messages are soft on TV, hard in conditions. Meanwhile the U.N. warned civilians are paying for strikes and displacement across the wider war zone. A real deal would need more than dueling quotes.",
-      "why_it_matters": "Any U.S.–Iran opening could move oil, sanctions, and Asia energy bills overnight.",
-      "camps": "Deal hunters hear an opening. Skeptics hear talking points with no calendar.",
-      "source_name": "Kyiv Independent / Iran coverage context",
-      "source_url": "https://kyivindependent.com/breaking-trump-claims-ukraine-russia-agree-to-halt-strikes-on-energy-targets/",
-      "published": "2026-09-14",
+      "headline": "Russia says Trump ceasefire idea is a “good idea” — with strings",
+      "dek": "Moscow links any energy pause to safe tanker shipping and pressure relief; fighting continues.",
+      "caveman": "Russian officials publicly warmed to Trump’s ceasefire talk on energy targets, calling it a good idea, then listed conditions. Ukraine kept asking for solid guarantees. Fighting and refinery strikes did not fully stop. Simple talk: saying yes in a speech is easier than stopping missiles.",
+      "why_it_matters": "Diplomatic wording moves markets even before a real deal exists.",
+      "camps": "Diplomacy optimists see an opening. Skeptics call it delay theater while armies keep fighting.",
+      "source_name": "DW",
+      "source_url": "https://www.dw.com/en/russia-trumps-ukraine-ceasefire-proposal-is-good-idea/a-79280087",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Sanctions",
+          "term": "Ceasefire",
           "aliases": [],
-          "explain": "Penalties that block trade, money, or travel."
+          "explain": "An agreement to stop shooting for a time."
         },
         {
-          "term": "Unilateralism",
+          "term": "Tanker",
           "aliases": [],
-          "explain": "One country acting alone without partners."
+          "explain": "A ship that carries oil or fuel."
         },
         {
-          "term": "Pezeshkian",
-          "aliases": [],
-          "explain": "President of Iran."
+          "term": "Conditionality",
+          "aliases": [
+            "strings"
+          ],
+          "explain": "“We agree only if you also do X.”"
         },
         {
-          "term": "Ceasefire diplomacy",
+          "term": "Refinery",
           "aliases": [],
-          "explain": "Talks aimed at stopping or limiting fighting."
+          "explain": "A plant that turns crude oil into usable fuels."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Diplomacy and energy-war pressure imagery",
-      "image_credit": "Photo: Kyiv Independent / Getty"
+      "image_alt": "Diplomatic talks on Ukraine war",
+      "image_credit": "Photo: DW"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "U.N.: civilians bear brunt as Iran war strikes and Yemen displacement surge",
-      "dek": "UN News: deadly strikes reported; tens of thousands displaced in Yemen since early September fighting.",
-      "caveman": "The United Nations said civilians are taking the hit. It pointed to deadly strikes linked to the wider Iran conflict and to a sharp jump in people fleeing fighting in Yemen — figures in recent briefings run into the tens of thousands since early September, with some tallies far higher as battles spread. Aid access is hard. When wars overlap — Iran, Yemen, Red Sea — ordinary families lose homes first.",
-      "why_it_matters": "Humanitarian warnings are also political signals: pressure for ceasefires and corridors.",
-      "camps": "Aid agencies demand pauses and access. Warring parties blame each other for civilian harm.",
-      "source_name": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/09/1168328",
-      "published": "2026-09-14",
+      "headline": "Yemenis flee south as Houthi attacks and Red Sea war widen",
+      "dek": "UN: renewed fighting displaces well over 100,000; damaged roads block aid.",
+      "caveman": "People in Yemen are leaving home again as fighting spreads and Houthi attacks continue. The United Nations said more than 100,000 people have been displaced in the latest wave. Broken roads and insecurity slow food and medicine. Simple talk: another war spike means families walking with bags, again.",
+      "why_it_matters": "Yemen’s crisis links Red Sea shipping security to a long humanitarian emergency.",
+      "camps": "Aid groups beg for access and money. Warring parties blame each other for civilian harm.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/alarmed-yemenis-flee-south-as-houthis-keep-up-attacks-2026-09-15/",
+      "published": "2026-09-15",
       "terms": [
         {
           "term": "Displacement",
           "aliases": [],
-          "explain": "People forced to leave home because of war or disaster."
+          "explain": "Being forced to leave your home because of danger."
         },
         {
           "term": "Humanitarian access",
@@ -459,299 +464,221 @@
           "explain": "Permission and safety for aid workers to reach people."
         },
         {
-          "term": "Civilian",
+          "term": "Red Sea",
           "aliases": [],
-          "explain": "A person who is not a soldier."
+          "explain": "Sea beside Yemen and Saudi Arabia used by global shipping."
         },
         {
-          "term": "Red Sea corridor",
+          "term": "UN",
           "aliases": [],
-          "explain": "Shipping and aid routes through the Red Sea region."
+          "explain": "United Nations — global forum and aid coordinator."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Civilians and aid strain in Middle East conflicts",
-      "image_credit": "Photo: UN News"
+      "image_alt": "Yemenis fleeing conflict",
+      "image_credit": "Photo: RTÉ"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "NYT hardcover fiction Sep 13: Moriarty’s Big Little Truths holds #1",
-      "dek": "Library list mirrors Times hardcover ranking: sequel energy keeps Liane Moriarty on top into mid-September.",
-      "caveman": "Liane Moriarty is still the U.S. fiction queen this week. On the September 13 hardcover fiction snapshot, Big Little Truths sits at No. 1 — a sequel spirit to Big Little Lies. Readers keep showing up for secrets, schools, and sharp suburban drama. Other new names crowd the rest of the list, but Moriarty owns the crown for now.",
-      "why_it_matters": "Bestseller heat decides bookstore tables, book-club picks, and screen adaptation buzz.",
-      "camps": "Fans want more Moriarty worlds. Fatigue camp says sequels crowd fresher voices.",
-      "source_name": "NYT list via library roundup",
+      "headline": "Rachel Gillig’s The Knave and the Moon tops PW fiction again",
+      "dek": "Romantasy closer beats book-one first-week print sales by ~36k; gargoyle merch sells too.",
+      "caveman": "Publishers Weekly’s bestsellers note for the Sep 14 week says romantasy author Rachel Gillig hit No. 1 again with The Knave and the Moon, the end of her Stonewater Kingdom duology. Print sales beat the first book’s opening week by about 36,000 copies. Even a talking gargoyle figurine sold thousands. Simple talk: dragon-kiss fantasy still owns the cash register.",
+      "why_it_matters": "PW charts show what U.S. bookstores actually sold last week — useful beyond one NYT snapshot.",
+      "camps": "Romantasy fans celebrate. Lit-fiction readers grumble that commercial fantasy crowds shelves.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101224-this-week-s-bestsellers-september-14-2026.html",
+      "published": "2026-09-14",
+      "terms": [
+        {
+          "term": "Romantasy",
+          "aliases": [],
+          "explain": "Fantasy stories with a big romance plot."
+        },
+        {
+          "term": "Duology",
+          "aliases": [],
+          "explain": "A story told in two books."
+        },
+        {
+          "term": "BookScan",
+          "aliases": [],
+          "explain": "A service that counts many U.S. print book sales."
+        },
+        {
+          "term": "Merch",
+          "aliases": [],
+          "explain": "Toys and extras sold with a book brand."
+        }
+      ],
+      "image": "images/wd-lit-1.jpg",
+      "image_alt": "Bestsellers and romantasy bookshelf",
+      "image_credit": "Photo: Publishers Weekly / book cover"
+    },
+    {
+      "id": "wd-lit-2",
+      "section": "world",
+      "category": "literature",
+      "headline": "NYT Sep 13 fiction: Moriarty still #1, Stockett #2 in Big Little / Calamity duel",
+      "dek": "Big Little Truths holds hardcover fiction crown; The Calamity Club close behind after PW spells earlier.",
+      "caveman": "On the New York Times hardcover fiction list dated Sep 13, Liane Moriarty’s Big Little Truths sat at No. 1 and Kathryn Stockett’s The Calamity Club at No. 2. Publishers Weekly had recently shown Stockett ahead in some weekly tallies — so the two books are trading blows. Simple talk: two huge authors fighting for the top shelf.",
+      "why_it_matters": "List rivalry drives bookstore displays and book-club picks into autumn.",
+      "camps": "Moriarty readers want more Big Little Lies universe. Stockett fans want another The Help-scale hit.",
+      "source_name": "NYT via library lists",
       "source_url": "https://libraryaware.com/2484/NewsletterIssues/LatestIssueForList/04194983-0b2b-4b97-b59d-8967c388ade7",
       "published": "2026-09-13",
       "terms": [
         {
           "term": "Hardcover fiction",
           "aliases": [],
-          "explain": "New novels sold as sturdy hardback books."
-        },
-        {
-          "term": "Bestseller list",
-          "aliases": [],
-          "explain": "A ranking of what sold most in a period."
-        },
-        {
-          "term": "Liane Moriarty",
-          "aliases": [],
-          "explain": "Australian author of Big Little Lies and related hits."
-        },
-        {
-          "term": "Sequel",
-          "aliases": [],
-          "explain": "A story that continues after an earlier book."
-        }
-      ],
-      "image": "images/wd-lit-1.jpg",
-      "image_alt": "Big Little Truths bestseller display",
-      "image_credit": "Photo: publisher / list roundup"
-    },
-    {
-      "id": "wd-lit-2",
-      "section": "world",
-      "category": "literature",
-      "headline": "Kathryn Stockett’s The Calamity Club hits #2 on Sep 13 hardcover list",
-      "dek": "Depression-era women’s story climbs just behind Moriarty; Stockett known for The Help.",
-      "caveman": "Kathryn Stockett is back near the top. The Calamity Club lands at No. 2 on the September 13 hardcover fiction list. The book follows women trying to improve hard lives in the Great Depression. Stockett’s name still carries The Help fame, so bookstores are stacking this high.",
-      "why_it_matters": "A No. 2 debut-level climb shows appetite for historical women’s fiction in the U.S.",
-      "camps": "Admirers praise grit and heart. Critics will watch whether it escapes Help comparisons.",
-      "source_name": "NYT list via library roundup",
-      "source_url": "https://libraryaware.com/2484/NewsletterIssues/LatestIssueForList/04194983-0b2b-4b97-b59d-8967c388ade7",
-      "published": "2026-09-13",
-      "terms": [
-        {
-          "term": "Kathryn Stockett",
-          "aliases": [],
-          "explain": "U.S. author best known for The Help."
-        },
-        {
-          "term": "Great Depression",
-          "aliases": [],
-          "explain": "A severe 1930s economic crash in the U.S. and beyond."
-        },
-        {
-          "term": "Historical fiction",
-          "aliases": [],
-          "explain": "Made-up stories set in real past times."
+          "explain": "New novels sold in hard covers — a prestige bestseller list."
         },
         {
           "term": "Book club",
           "aliases": [],
-          "explain": "A group that reads and discusses the same book."
+          "explain": "Groups that read the same book and talk about it."
+        },
+        {
+          "term": "Sequel",
+          "aliases": [],
+          "explain": "A follow-up story in the same world."
+        },
+        {
+          "term": "Bestseller list",
+          "aliases": [],
+          "explain": "A ranked chart of what sold most."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "The Calamity Club novel attention",
-      "image_credit": "Photo: list roundup"
+      "image_alt": "Hardcover fiction bestsellers display",
+      "image_credit": "Photo: Penguin Random House"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Caro Claire Burke’s Yesteryear enters at #3 — tradwife influencer wakes in 1855",
-      "dek": "High-concept time-slip satire: social-media privilege meets hard 19th-century reality.",
-      "caveman": "Yesteryear by Caro Claire Burke sits at No. 3. The pitch is sticky: a privileged “tradwife” influencer wakes up stuck in 1855. Soft filters meet hard laundry. U.S. readers love high-concept mashups that roast internet culture while delivering a plot. Early chatter says it is built for BookTok and airplane bags.",
-      "why_it_matters": "Internet-culture novels can dominate lists when the joke also works as a story.",
-      "camps": "Fans call it sharp satire. Others may find influencer plots overdone.",
-      "source_name": "Penguin Random House / NYT list",
-      "source_url": "https://www.penguinrandomhouse.com/books/746123/yesteryear-by-caro-claire-burke/",
+      "headline": "Jennifer Hillier’s Heart of Glass climbs to #5 on Sep 13 NYT list",
+      "dek": "Carnival Killer thriller returns as two women revisit a 25-year-old murder case.",
+      "caveman": "Jennifer Hillier’s Heart of Glass landed at No. 5 on the Sep 13 New York Times hardcover fiction list. The plot: a man called the Carnival Killer takes back his confession, and two women who lost a friend 25 years ago must face the past. Simple talk: cold-case thriller readers have a new chart climber.",
+      "why_it_matters": "Midlist thrillers breaking top five show demand beyond the biggest brand names.",
+      "camps": "Crime fans praise twisty pacing. Some reviewers tire of serial-killer framing.",
+      "source_name": "NYT list via Byron Library",
+      "source_url": "https://libraryaware.com/2484/NewsletterIssues/LatestIssueForList/04194983-0b2b-4b97-b59d-8967c388ade7",
       "published": "2026-09-13",
       "terms": [
         {
-          "term": "Tradwife",
+          "term": "Thriller",
           "aliases": [],
-          "explain": "An online trend romanticizing old-fashioned housewife roles."
+          "explain": "A tense story built on danger and secrets."
         },
         {
-          "term": "BookTok",
+          "term": "Cold case",
           "aliases": [],
-          "explain": "Book recommendations that go viral on TikTok."
+          "explain": "An old crime that was never fully solved."
         },
         {
-          "term": "High-concept",
+          "term": "Confession",
           "aliases": [],
-          "explain": "A story you can pitch in one wild sentence."
+          "explain": "Saying you did the crime — here, later taken back."
         },
         {
-          "term": "Satire",
+          "term": "Midlist",
           "aliases": [],
-          "explain": "Fiction that mocks social trends to make a point."
+          "explain": "Books that sell well but are not always household-name megahits."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Yesteryear novel buzz",
-      "image_credit": "Photo: Penguin Random House"
+      "image_alt": "Thriller novel bestseller imagery",
+      "image_credit": "Photo: Macmillan / Minotaur cover"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Ann Patchett’s Whistler lands at #4; stepfather reunion story draws serious readers",
-      "dek": "Decades later, a woman reconnects with her stepfather and looks back at life’s forks.",
-      "caveman": "Literary favorite Ann Patchett hits No. 4 with Whistler. The novel follows a woman who reconnects with her stepfather long after their shared past. Patchett fans expect careful sentences and big feelings more than plot fireworks. Seeing her this high on a commercial hardcover list means the serious-fiction lane still sells in the U.S.",
-      "why_it_matters": "Patchett’s chart spot keeps independent bookstores and library holds busy.",
-      "camps": "Literary fans celebrate craft. Bestseller chasers may prefer faster thrillers higher up.",
-      "source_name": "NYT list via library roundup",
+      "headline": "Dungeon Crawler Carl swarm: three Matt Dinniman titles inside NYT top 15",
+      "dek": "LitRPG series holds multiple slots as audiobook-to-print phenomenon keeps selling.",
+      "caveman": "Matt Dinniman’s Dungeon Crawler Carl universe crowded the Sep 13 list: The Dungeon Anarchist's Cookbook around No. 7, the first book lower in the teens, and The Gate of the Feral Gods also charting. Carl and his ex’s cat Princess Donut keep punching monsters for cash-register wins. Simple talk: game-like novels are eating adult bestseller space.",
+      "why_it_matters": "Shows how podcast/audible-born series can dominate print charts in 2026 America.",
+      "camps": "LitRPG fans spam “more floors.” Traditionalists call it junk food — that still sells.",
+      "source_name": "NYT list via Byron Library",
       "source_url": "https://libraryaware.com/2484/NewsletterIssues/LatestIssueForList/04194983-0b2b-4b97-b59d-8967c388ade7",
       "published": "2026-09-13",
       "terms": [
         {
-          "term": "Ann Patchett",
+          "term": "LitRPG",
           "aliases": [],
-          "explain": "Acclaimed U.S. novelist and bookstore owner."
+          "explain": "Stories written like a video game with levels and stats."
         },
         {
-          "term": "Literary fiction",
+          "term": "Audiobook",
           "aliases": [],
-          "explain": "Novels prized for style and character more than pure plot."
+          "explain": "A book you listen to."
         },
         {
-          "term": "Library hold",
+          "term": "Series",
           "aliases": [],
-          "explain": "A wait list to borrow a popular book."
+          "explain": "Many books following the same characters."
         },
         {
-          "term": "Indie bookstore",
+          "term": "Chart",
           "aliases": [],
-          "explain": "A small independent shop that often handsells novels."
+          "explain": "The ranked bestseller list."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Whistler by Ann Patchett",
-      "image_credit": "Photo: publisher cover via Amazon ISBN"
+      "image_alt": "LitRPG series books stacked",
+      "image_credit": "Photo: Open Library / book cover"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "U.N. agencies warn Sudan aid networks could collapse within weeks",
-      "dek": "Al Jazeera/UN: supplies may run out by month’s end; about 19.5 million face crisis hunger as warehouses empty.",
-      "caveman": "Aid groups in Sudan say the help system is near breaking. U.N. agencies warned networks could collapse within weeks and some supplies may run dry by month’s end. About 19.5 million people already face crisis-level hunger. Fighting, blocked roads, and empty warehouses make food and medicine hard to move. If the pipeline fails, famine risk jumps fast.",
-      "why_it_matters": "A collapsing aid system means preventable deaths at huge scale.",
-      "camps": "Humanitarians demand funding and access. Parties to the conflict blame each other for blockages.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn",
-      "published": "2026-09-14",
+      "headline": "UN: Sudan’s humanitarian system could collapse within weeks",
+      "dek": "Agencies warn supplies may run dry by month-end without urgent funding.",
+      "caveman": "United Nations agencies said Sudan’s aid network might fall apart in weeks if money does not arrive. Warehouses could empty before October. Millions already need food and medicine after years of war. Simple talk: the helpers are running out of stuff to help with.",
+      "why_it_matters": "Sudan is one of the world’s worst hunger emergencies; collapse means more deaths fast.",
+      "camps": "UN and NGOs plead for cash. Donors juggle many crises. Warring parties are blamed for blocking access.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/09/1168331",
+      "published": "2026-09-15",
       "terms": [
         {
-          "term": "Aid pipeline",
+          "term": "Humanitarian system",
           "aliases": [],
-          "explain": "The chain that moves food, medicine, and money to people in need."
+          "explain": "The network of agencies that deliver emergency aid."
         },
         {
-          "term": "Crisis hunger",
+          "term": "Funding gap",
           "aliases": [],
-          "explain": "A severe food shortage level used by U.N. scales."
+          "explain": "When appeals ask for money but get only part of it."
         },
         {
-          "term": "Famine",
+          "term": "NGO",
           "aliases": [],
-          "explain": "Extreme hunger with mass death risk."
+          "explain": "Non-governmental organization — a charity or aid group."
         },
         {
-          "term": "Humanitarian network",
+          "term": "Famine risk",
           "aliases": [],
-          "explain": "Groups and routes that deliver emergency help."
+          "explain": "Danger that many people will starve."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Sudan humanitarian aid strain",
-      "image_credit": "Photo: Al Jazeera / AP"
+      "image_alt": "Aid distribution in Sudan",
+      "image_credit": "Photo: UN News"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Sudan hunger emergency deepens as aid networks fray",
-      "dek": "Al Jazeera: U.N. warning lands as war and empty stocks threaten millions.",
-      "caveman": "Reporting Monday underlined the same alarm: Sudan’s aid networks are fraying while hunger spreads. Warehouses thin out. Local partners cannot restock. Families already skipping meals face worse if international pipelines fail. This is not a far-off forecast — agencies say the clock is weeks, not years.",
-      "why_it_matters": "Second-source confirmation matters: the risk is system failure, not one bad week.",
-      "camps": "Donors debate scale-up. Civilians need corridors more than statements.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn",
-      "published": "2026-09-14",
-      "terms": [
-        {
-          "term": "Restock",
-          "aliases": [],
-          "explain": "Refill food and medicine supplies."
-        },
-        {
-          "term": "Local partners",
-          "aliases": [],
-          "explain": "Community groups that deliver aid on the ground."
-        },
-        {
-          "term": "Humanitarian corridor",
-          "aliases": [],
-          "explain": "A safe route agreed so aid can pass."
-        },
-        {
-          "term": "Donor",
-          "aliases": [],
-          "explain": "A country or group that gives money for aid."
-        }
-      ],
-      "image": "images/wd-soc-2.jpg",
-      "image_alt": "Sudan aid and hunger reporting",
-      "image_credit": "Photo: Al Jazeera / AP"
-    },
-    {
-      "id": "wd-soc-3",
-      "section": "world",
-      "category": "social",
-      "headline": "Yemen fighting displaces tens of thousands as Red Sea war expands",
-      "dek": "UN: civilians flee surging battles; shipping turmoil also starves supply lines.",
-      "caveman": "Fighting in Yemen forced huge new displacement in early September. U.N. briefings describe tens of thousands on the move, with some tallies much higher as front lines shift. Families leave with little. Ports and roads are unsafe. When Bab el-Mandeb and Red Sea routes shake, food and fuel imports suffer too — so war pain hits twice.",
-      "why_it_matters": "Displacement plus shipping cuts means hunger can rise even far from front lines.",
-      "camps": "Aid groups beg for pauses. Combatants claim advances justify the fighting.",
-      "source_name": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/09/1168328",
-      "published": "2026-09-14",
-      "terms": [
-        {
-          "term": "Front line",
-          "aliases": [],
-          "explain": "Where opposing forces are actively fighting."
-        },
-        {
-          "term": "Import squeeze",
-          "aliases": [],
-          "explain": "When a country cannot bring in enough food or fuel."
-        },
-        {
-          "term": "IDP",
-          "aliases": [
-            "internally displaced person"
-          ],
-          "explain": "Someone forced from home but still inside their country."
-        },
-        {
-          "term": "Red Sea",
-          "aliases": [],
-          "explain": "Sea between Africa and Arabia; key for ships and aid."
-        }
-      ],
-      "image": "images/wd-soc-3.jpg",
-      "image_alt": "Yemen displacement and conflict strain",
-      "image_credit": "Photo: Al Jazeera / Reuters (Yemen conflict)"
-    },
-    {
-      "id": "wd-soc-4",
-      "section": "world",
-      "category": "social",
-      "headline": "WFP chief: shipping turmoil chokes food and fertilizer for Sudan and Yemen",
-      "dek": "Arab News: sea-lane chaos raises costs and delays for hunger hotspots already on the edge.",
-      "caveman": "The World Food Programme’s leadership warned that shipping turmoil is choking food and fertilizer flows to places like Sudan and Yemen. When tankers and cargo ships reroute or wait, prices jump and deliveries slip. Hungry countries then pay more for less. War at sea becomes hunger on land.",
-      "why_it_matters": "Global freight risk is now a food-security story, not only an energy story.",
-      "camps": "WFP wants protected lanes and funding. Shippers want security guarantees before sailing.",
-      "source_name": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/sudan-and-yemen-starve-as-shipping-turmoil-chokes-food-and-fertilizer-supplies-says-wfp-chief-3001715",
+      "headline": "WFP: Sudan program only about one-third funded as hunger widens",
+      "dek": "Food agency chief says money collapse meets soaring needs.",
+      "caveman": "The World Food Programme said its Sudan work is only about one-third funded while more people go hungry. Shipping chaos and expensive fuel also make deliveries harder. Simple talk: not enough donations, harder roads, emptier bowls.",
+      "why_it_matters": "When WFP scales back, local kitchens and clinics lose the backbone of food aid.",
+      "camps": "WFP wants urgent pledges. Some governments say budgets are stretched by other wars.",
+      "source_name": "The Star / WFP",
+      "source_url": "https://www.thestar.com.my/news/world/2026/09/14/world-food-programme-funding-for-sudan-plummets-as-more-go-hungry-head-says",
       "published": "2026-09-14",
       "terms": [
         {
@@ -759,27 +686,105 @@
           "aliases": [
             "World Food Programme"
           ],
-          "explain": "The U.N.’s main food-aid agency."
+          "explain": "The UN’s main food-aid agency."
         },
         {
-          "term": "Fertilizer",
+          "term": "Pledge",
           "aliases": [],
-          "explain": "Farm nutrients. Without them, future harvests shrink."
+          "explain": "A promise to give money."
         },
+        {
+          "term": "Pipeline",
+          "aliases": [],
+          "explain": "The flow of food from donors to hungry people."
+        },
+        {
+          "term": "Malnutrition",
+          "aliases": [],
+          "explain": "Being sick because the body lacks enough food."
+        }
+      ],
+      "image": "images/wd-soc-2.jpg",
+      "image_alt": "World Food Programme aid",
+      "image_credit": "Photo: WFP via The Star"
+    },
+    {
+      "id": "wd-soc-3",
+      "section": "world",
+      "category": "social",
+      "headline": "Yemen conflict displaces over 100,000 people, UN says",
+      "dek": "Insecurity and ruined infrastructure block aid as Red Sea fighting expands.",
+      "caveman": "The UN said renewed Yemen fighting has pushed more than 100,000 people from their homes. Aid trucks struggle with unsafe roads and broken bridges. Simple talk: a hundred thousand people suddenly need shelter and food.",
+      "why_it_matters": "Displacement numbers are an early warning for disease and hunger spikes.",
+      "camps": "Humanitarians demand ceasefires for aid corridors. Military actors prioritize front lines.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/yemen-conflict-displaces-over-100000-people-un-says-2026-09-15/",
+      "published": "2026-09-15",
+      "terms": [
+        {
+          "term": "IDP",
+          "aliases": [
+            "internally displaced"
+          ],
+          "explain": "Someone forced from home but still inside their country."
+        },
+        {
+          "term": "Aid corridor",
+          "aliases": [],
+          "explain": "A safe route agreed so food and medicine can pass."
+        },
+        {
+          "term": "Infrastructure",
+          "aliases": [],
+          "explain": "Roads, bridges, power, water systems."
+        },
+        {
+          "term": "Ceasefire",
+          "aliases": [],
+          "explain": "A pause in fighting."
+        }
+      ],
+      "image": "images/wd-soc-3.jpg",
+      "image_alt": "Displaced families in Yemen",
+      "image_credit": "Photo: Reuters"
+    },
+    {
+      "id": "wd-soc-4",
+      "section": "world",
+      "category": "social",
+      "headline": "Shipping turmoil and record diesel choke food aid to Sudan and Yemen",
+      "dek": "Higher freight and fuel costs shrink how far each donated dollar can go.",
+      "caveman": "Aid chiefs warn that Red Sea shipping problems and record diesel prices make every food shipment cost more. That means the same donation buys fewer meals for Sudan and Yemen. Simple talk: war raises the delivery fee on charity.",
+      "why_it_matters": "Logistics inflation can starve people even when warehouses elsewhere are full.",
+      "camps": "Aid agencies beg for flexible cash. Shipping insurers price war risk higher. Governments debate naval escorts.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
+      "published": "2026-09-15",
+      "terms": [
         {
           "term": "Freight",
           "aliases": [],
-          "explain": "Goods moved by ship, truck, or plane."
+          "explain": "The cost to move goods by ship or truck."
         },
         {
-          "term": "Food security",
+          "term": "War-risk premium",
           "aliases": [],
-          "explain": "Whether people can reliably get enough food."
+          "explain": "Extra insurance cost when sailing near fighting."
+        },
+        {
+          "term": "Logistics",
+          "aliases": [],
+          "explain": "The practical work of moving and storing supplies."
+        },
+        {
+          "term": "Flexible cash",
+          "aliases": [],
+          "explain": "Donations that agencies can spend where needs shift."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Food aid and disrupted shipping lanes",
-      "image_credit": "Photo: Arab News"
+      "image_alt": "Cargo ship and humanitarian logistics",
+      "image_credit": "Photo: Reuters"
     }
   ]
 }
