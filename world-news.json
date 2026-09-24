@@ -1,70 +1,63 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-09-23T08:00:00+08:00",
-  "notes": "Wednesday 23 Sep 2026 world issue (Taipei 08:00). Window: Tue 22 US close + Xi visit day-one Wed morning. NEW vs Tue 22: Wall St mixed — Nasdaq +0.45% second straight record 27,244; Dow −0.36%; S&P flat; Brent settles $99.25 (−1.1%) after dipping under $98 (replaces Mon broad rally lead); oil flows from Middle East improve narrative; Asia ticks up as Alibaba unveils Zhenwu V900 AI chip ahead of Trump–Xi; OpenAI ships GPT-6 Sol & Luna at half prior API cost; Apple pushes local-AI Macs vs cloud token bills (Reuters angle); Zelenskyy after ~40-min UN sitdown says energy ceasefire discussed, no unilateral Ukraine halt, US to convey to Moscow; Xi US visit live Sep 23–25, presses Trump to halt Taiwan arms sales under 1982 communique / even stop deliveries (Reuters exclusive); Xi skips UNGA to frame equal bilateral summit (Nikkei); Lit: LA Times Sep 20 list — Patchett Whistler #1, Cline Switzy #2, Lawhon Pirate Queen #3, Gillig still in national chat; Social: Sudan system-collapse funding warning still active; Yemen displacement >112k in two weeks; household fuel pain persists even as crude eases. Excluded stale Mon-only without Tue close update (Mon S&P +1.5% Nasdaq +2.3% as sole lead; diesel $6.50 as unchanged primary without crude-ease contrast; Googlebook preorder-only; Apple M8 Ultra rumor-only; pure 'Xi visit announced' without arms-sale ask; recycled Mandel/Benjamin).",
+  "fetched_at": "2026-09-24T08:00:00+08:00",
+  "notes": "Thursday 24 Sep 2026 world issue (Taipei 08:00). Window: Wed 23 US close + Xi–Trump summit morning. NEW vs Wed 23: Wall St sinks — S&P −0.8% to 7,706, Dow −0.7%, Nasdaq −1.1% to 26,936 from record as 10-year yield ~5.11% (replaces Tue Nasdaq record/mixed tape); Brent settles ~$103.08 (+~3.9%) snapping slide (replaces Tue sub-$100 ease); Taiwan Cement €750m Ukraine IFCEM plan; ChatGPT mobile voice-agentic Work tools (TechCrunch); OpenAI moves to end xAI Apple-deal antitrust case citing SpaceX SEC papers; imec IC-Link joins TSMC OIP Cloud Alliance; Xi–Trump summit day Taiwan arms focus; Zelenskyy ready for mutual energy ceasefire + pushes trilateral with Putin; Taiwan says arms sales should continue; Lit: NYT hardcover Sept 27 — Stockett Calamity Club #2, Kuang Taipei Story #3, Lawhon #4, Gillig #5; Patchett Whistler cooler at #11; Social: Yemen displacement >130k since early Sept; Sudan funding-collapse warning still active; fuel pain as Brent reclaims $100; Djibouti refugee funding gap. Excluded stale Tue-only (Nasdaq second record as sole lead; Brent $99 ease without Wed rebound; GPT-6 Sol/Luna launch-only; recycled Patchett #1 / Cline Switzy / pure Xi-arrival without summit-day frame).",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Nasdaq hits second straight record; Dow slips as Brent settles near $99",
-      "dek": "S&P roughly flat; oil eased after briefly dipping under $98.",
-      "caveman": "On Tuesday, U.S. stocks split. Nasdaq rose about 0.45% to a record 27,244. The Dow fell about 0.36%. The S&P 500 barely moved and stayed close to its high. Brent crude settled near $99.25, down about 1.1%, after briefly slipping under $98. Simple: tech kept climbing while cheaper oil helped mood, but not every index joined the party.",
-      "why_it_matters": "U.S. closes set overnight risk for Asia funds and Taiwan tech ADRs.",
-      "camps": "Bulls point to AI profits. Worriers say banks and oil stocks show the rally is narrow.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/business/story/2026-09-22/wall-street-holds-near-its-record-after-brent-oil-falls-below-100-per-barrel",
-      "published": "2026-09-22",
+      "headline": "Wall Street sinks as yields spike; Nasdaq −1.1% from record",
+      "dek": "S&P 500 −0.8% to 7,706; Dow −0.7%; 10-year Treasury near 5.11%.",
+      "caveman": "On Wednesday, U.S. stocks fell hard. A strong business report made people fear inflation again. The S&P 500 dropped 0.8% to 7,706. The Dow fell 0.7%. Nasdaq slid 1.1% from its record, closing at 26,936. The 10-year Treasury yield jumped to about 5.11%, a level last seen around 2007. Simple: when bond yields jump, stock prices often get punched.",
+      "why_it_matters": "U.S. closes set the overnight mood for Asia funds and Taiwan tech ADRs after the holiday.",
+      "camps": "Hawks say hotter data means more rate pressure. Bulls call it a healthy pause after records.",
+      "source_name": "Associated Press",
+      "source_url": "https://www.seattletimes.com/business/how-major-us-stock-indexes-fared-wednesday-9-23-2026/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "Nasdaq",
+          "term": "yield",
           "aliases": [],
-          "explain": "U.S. stock index heavy with technology companies."
-        },
-        {
-          "term": "Dow",
-          "aliases": [
-            "Dow Jones"
-          ],
-          "explain": "Index of 30 big, well-known U.S. companies."
-        },
-        {
-          "term": "Brent",
-          "aliases": [],
-          "explain": "A global benchmark price for a barrel of oil."
+          "explain": "The interest rate return on a government bond."
         },
         {
           "term": "S&P 500",
           "aliases": [],
           "explain": "Index of 500 large U.S. companies."
+        },
+        {
+          "term": "Nasdaq",
+          "aliases": [],
+          "explain": "U.S. stock index heavy with tech companies."
+        },
+        {
+          "term": "Treasury",
+          "aliases": [],
+          "explain": "U.S. government debt that investors buy and sell."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Traders on the New York Stock Exchange floor",
-      "image_credit": "Photo: AP / Seth Wenig"
+      "image_alt": "Stock trading screens and market activity",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Oil settles below $100 as Middle East crude flows improve",
-      "dek": "Brent −1.1% to $99.25; WTI near $95 after last week’s spike.",
-      "caveman": "Oil cooled again on Tuesday. Brent finished about $99.25 a barrel. Reports said more crude was moving out of the Middle East than during last week’s scare. Prices are still far above pre-Iran-war levels near the low $70s. Simple: supply fear eased a bit, so the price stepped down from nearly $110.",
-      "why_it_matters": "Oil moves inflation, shipping costs, and stock-market risk appetite worldwide.",
-      "camps": "Optimists hope diplomacy keeps flows open. Hawks warn one new strike can reverse the drop.",
-      "source_name": "Channel NewsAsia",
-      "source_url": "https://www.channelnewsasia.com/business/oil-prices-settle-lower-crude-flows-middle-east-improve-6400951",
-      "published": "2026-09-22",
+      "headline": "Oil snaps losing streak; Brent settles near $103",
+      "dek": "Brent +3.86% to $103.08 as Hormuz diplomacy stays stuck.",
+      "caveman": "Oil bounced on Wednesday. Brent crude settled about $103.08 a barrel, up roughly 3.9%. Reports tied the jump to stalled talks on the Strait of Hormuz and Iran’s hard line, even after some Gulf supply looked better earlier. Simple: supply fear came back, so the price climbed above $100 again.",
+      "why_it_matters": "Dearer oil feeds inflation, shipping costs, and politics before U.S. midterms.",
+      "camps": "Bulls on oil cite geopolitics. Bears say any ceasefire headline can reverse the spike.",
+      "source_name": "Financial Juice / market reports",
+      "source_url": "https://fazen.markets/en/oil-jumps-hormuz-stalemate-us-crude-build-brent-103",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "crude",
+          "term": "Brent",
           "aliases": [],
-          "explain": "Raw oil before it is turned into gasoline or diesel."
-        },
-        {
-          "term": "WTI",
-          "aliases": [],
-          "explain": "A U.S. oil price benchmark."
+          "explain": "A global benchmark price for a barrel of oil."
         },
         {
           "term": "Strait of Hormuz",
@@ -75,721 +68,700 @@
           "term": "settled",
           "aliases": [],
           "explain": "The official end-of-day futures price."
+        },
+        {
+          "term": "crude",
+          "aliases": [],
+          "explain": "Raw oil before refining into gasoline or diesel."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Oil prices and energy markets",
-      "image_credit": "Photo: CNA / Reuters"
+      "image_alt": "Oil market and energy prices",
+      "image_credit": "Photo: Channel NewsAsia / Mediacorp"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Asia stocks edge up; Alibaba AI-chip news lifts China shares",
-      "dek": "Hong Kong +0.2%, Shanghai +0.1% ahead of Trump–Xi meetings.",
-      "caveman": "Asian markets mostly ticked higher on Tuesday. Hong Kong rose about 0.2% and Shanghai about 0.1% after Alibaba showed new AI chip plans. Investors also watched the coming U.S.–China leader talks. Simple: tech headlines and summit hopes nudged buyers back in.",
-      "why_it_matters": "Asia closes feed into Taiwan’s next session and global chip supply stories.",
-      "camps": "Bulls like domestic AI hardware. Skeptics say chip claims need real mass production.",
+      "headline": "10-year U.S. yield hits about 5.11%; hottest business costs in years",
+      "dek": "Bond squeeze followed a strong activity-and-costs report.",
+      "caveman": "The bond market yelled louder than stocks. After a report said U.S. business activity and costs rose at the fastest pace in years, the 10-year Treasury yield jumped to about 5.11%. That is back near levels last common around 2007. Simple: loans get more expensive when yields jump, so companies and home buyers feel it.",
+      "why_it_matters": "Higher long rates pressure tech valuations, mortgages, and emerging-market money flows.",
+      "camps": "Some Fed voices say more hikes may be needed. Others warn overtightening could break growth.",
       "source_name": "Associated Press",
-      "source_url": "https://www.latimes.com/business/story/2026-09-22/wall-street-holds-near-its-record-after-brent-oil-falls-below-100-per-barrel",
-      "published": "2026-09-22",
+      "source_url": "https://www.seattletimes.com/business/how-major-us-stock-indexes-fared-wednesday-9-23-2026/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "Hang Seng",
-          "aliases": [
-            "Hong Kong stocks"
-          ],
-          "explain": "Major stock index for Hong Kong companies."
+          "term": "10-year Treasury",
+          "aliases": [],
+          "explain": "A key U.S. government bond that sets many loan rates."
         },
         {
-          "term": "Shanghai Composite",
+          "term": "inflation",
           "aliases": [],
-          "explain": "Main stock index for mainland China shares."
+          "explain": "When prices for everyday things rise quickly."
         },
         {
-          "term": "AI chip",
+          "term": "rate hike",
           "aliases": [],
-          "explain": "A chip built to train or run artificial-intelligence models."
+          "explain": "When the central bank makes short-term interest rates higher."
         },
         {
-          "term": "summit",
+          "term": "valuation",
           "aliases": [],
-          "explain": "A meeting of top national leaders."
+          "explain": "How expensive a stock looks versus its profits or growth."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Asian stock trading screens",
-      "image_credit": "Photo: AP"
+      "image_alt": "U.S. Treasury and bond market concept",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Banks drag the Dow after Fed’s first hike in three years",
-      "dek": "JPMorgan among heaviest S&P weights; 10-year yield near 4.95%.",
-      "caveman": "Bank stocks kept hurting the Dow on Tuesday. JPMorgan fell about 3.4% and weighed on the S&P 500. Last week the Federal Reserve raised its short-term rate for the first time in three years. When short rates rise toward long rates, bank profits can get squeezed. The 10-year Treasury yield sat near 4.95%. Simple: higher policy rates made lenders look less fun to own.",
-      "why_it_matters": "Bank weakness can slow a broad rally even when tech is strong.",
-      "camps": "Some say the Fed is fighting inflation. Others fear tighter money hits jobs and loans.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/business/story/2026-09-22/wall-street-holds-near-its-record-after-brent-oil-falls-below-100-per-barrel",
-      "published": "2026-09-22",
+      "headline": "Taiwan Cement plans up to €750m Ukraine cement deal",
+      "dek": "Board OKs buying IFCEM and three firms; still needs approvals.",
+      "caveman": "Taiwan’s TCC Group said its Dutch unit may buy Ukraine’s No. 2 cement maker IFCEM and three related firms for up to €750 million. The plant is in western Ukraine and kept running during the war. TCC wants a bigger East Europe footprint and a role in rebuilding. Simple: a Taiwan company is betting cement will be needed when cities are rebuilt.",
+      "why_it_matters": "Private reconstruction bets are an early signal of who wants post-war industrial exposure.",
+      "camps": "Supporters cite rebuild demand. Critics flag war, sanctions, and currency risk.",
+      "source_name": "Focus Taiwan",
+      "source_url": "https://focustaiwan.tw/business/202609230010",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "aliases": [
-            "Fed"
-          ],
-          "explain": "The U.S. central bank that sets key interest rates."
+          "term": "enterprise value",
+          "aliases": [],
+          "explain": "Deal price idea that includes equity plus net debt."
         },
         {
-          "term": "rate hike",
+          "term": "reconstruction",
           "aliases": [],
-          "explain": "When the central bank makes borrowing more expensive."
+          "explain": "Rebuilding homes, roads, and factories after war."
         },
         {
-          "term": "Treasury yield",
+          "term": "regulatory approval",
           "aliases": [],
-          "explain": "Interest rate on U.S. government bonds."
+          "explain": "Permission from governments before a deal can close."
         },
         {
-          "term": "spread",
+          "term": "market share",
           "aliases": [],
-          "explain": "Gap between two interest rates; banks often earn on that gap."
+          "explain": "How much of total sales one company controls."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Wall Street banks and interest-rate pressure",
-      "image_credit": "Photo: AP / LA Times"
+      "image_alt": "IFCEM cement plant in western Ukraine",
+      "image_credit": "Photo: TCC / CNA"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "OpenAI launches GPT-6 Sol and Luna at about half prior API cost",
-      "dek": "Claims fewer factual mistakes; Luna for Free/Go desktop users.",
-      "caveman": "OpenAI on Tuesday expanded its GPT-6 family with Sol and Luna. Sol aims at harder work like coding. Luna aims at high-volume chores like summaries. The company says API prices are about half the old 5.6 versions, with better caching. It also claims Sol makes about half as many factual mistakes as its predecessor. Simple: smarter models, cheaper tokens.",
-      "why_it_matters": "Lower AI costs change what startups, schools, and big firms can afford to automate.",
-      "camps": "Fans cheer access. Critics still worry about errors, jobs, and safety races with rivals.",
+      "headline": "ChatGPT mobile app adds voice-based agentic work tools",
+      "dek": "Plus/Pro can draft docs, mail, Slack summaries by voice.",
+      "caveman": "OpenAI said Wednesday that ChatGPT on phones can now take voice orders for real work. Plus and Pro users can use a Work tab to make documents, draft email, summarize Slack, build sites, or open connected apps. Free users get lighter plugin access. You can start on a phone and finish on a desktop. Simple: talk to the phone, and it tries to do the task, not just chat.",
+      "why_it_matters": "Voice agents on phones could change how office work happens on the go.",
+      "camps": "Fans love hands-free speed. Critics worry about privacy, wrong actions, and job disruption.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "published": "2026-09-22",
+      "source_url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "API",
+          "term": "agentic",
           "aliases": [],
-          "explain": "A way for other apps to call OpenAI’s models with code."
+          "explain": "AI that can take multi-step actions, not only answer questions."
         },
         {
-          "term": "token",
+          "term": "Work tab",
           "aliases": [],
-          "explain": "A small chunk of text the model reads or writes; billing often uses tokens."
+          "explain": "ChatGPT area for documents, mail, and task tools."
         },
         {
-          "term": "caching",
+          "term": "connected apps",
           "aliases": [],
-          "explain": "Reusing earlier work so the system spends less compute next time."
+          "explain": "Outside apps ChatGPT is allowed to use, like Slack."
         },
         {
-          "term": "GPT-6",
+          "term": "Plus/Pro",
           "aliases": [],
-          "explain": "OpenAI’s current generation name for its flagship model family."
+          "explain": "Paid ChatGPT plans with more features."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "OpenAI GPT-6 Sol and Luna launch",
-      "image_credit": "Photo: TechCrunch"
+      "image_alt": "OpenAI ChatGPT mobile voice features",
+      "image_credit": "Photo: TechCrunch / Getty"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Apple pitches new Macs as local AI machines to cut cloud costs",
-      "dek": "Unified memory and clustered Macs offered as Nvidia/Microsoft alternative.",
-      "caveman": "Apple is selling the idea that new Macs can run a lot of AI at home or in an office, not only in rented cloud servers. Big unified memory and linking Macs together are part of the pitch against pricey cloud tokens and Nvidia-heavy racks. Simple: buy computers once, pay less per question later — if your workload fits.",
-      "why_it_matters": "Where AI runs — laptop, office cluster, or hyperscale cloud — shapes cost and privacy.",
-      "camps": "Apple fans like on-device control. Cloud vendors say giant models still need giant data centers.",
+      "headline": "OpenAI asks court to kill xAI antitrust case over Apple deal",
+      "dek": "Points to SpaceX SEC filings; says ChatGPT-on-iPhone underperformed.",
+      "caveman": "OpenAI asked a Texas judge on Wednesday to throw out Elon Musk’s xAI antitrust lawsuit before trial. Musk’s side claims Apple locked rivals out by putting ChatGPT into Apple Intelligence. OpenAI says Apple’s deal was not exclusive, the integration started slowly, and SpaceX’s own SEC papers do not describe the doom xAI claims in court. Trial is still set for January. Simple: OpenAI says the paperwork and the user numbers undermine the monopoly story.",
+      "why_it_matters": "The case could shape how phone makers pick default AI partners.",
+      "camps": "OpenAI calls the suit weak. Musk’s companies say Apple–OpenAI still hurts competition.",
       "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/retail-consumer/with-new-macs-apple-aims-take-microsoft-nvidia-rush-lower-ai-costs-2026-09-22/",
-      "published": "2026-09-22",
+      "source_url": "https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "unified memory",
+          "term": "antitrust",
           "aliases": [],
-          "explain": "RAM shared by the CPU and GPU so big models can load more easily."
+          "explain": "Laws against unfair monopoly power."
         },
         {
-          "term": "cloud",
+          "term": "summary judgment",
           "aliases": [],
-          "explain": "Someone else’s data center that you rent by the hour or token."
+          "explain": "A judge decides the case on facts already known, without full trial."
         },
         {
-          "term": "on-device AI",
-          "aliases": [
-            "local AI"
-          ],
-          "explain": "Running the model on your own computer instead of sending data away."
+          "term": "SEC disclosures",
+          "aliases": [],
+          "explain": "Official papers companies file about business risks and facts."
         },
         {
-          "term": "hyperscale",
+          "term": "exclusive deal",
           "aliases": [],
-          "explain": "Huge data-center operators that rent computing at massive scale."
+          "explain": "A contract that blocks rivals from the same access."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Apple Mac computers for local AI workloads",
-      "image_credit": "Photo: Apple"
+      "image_alt": "OpenAI logo at a technology event",
+      "image_credit": "Photo: Reuters / Carlos Barria"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Alibaba unveils Zhenwu V900 AI chip; aims at 2027 mass production",
-      "dek": "Claims ~3× prior performance; huge clusters for multi-trillion-parameter models.",
-      "caveman": "Alibaba’s chip arm showed Zhenwu V900, saying it is about three times faster than its last chip and carries 216GB of memory. Mass production is targeted for early 2027. The company also talked about training enormous AI models. Simple: China wants its own AI engines, not only Nvidia’s.",
-      "why_it_matters": "A credible China AI-chip stack would reshape export controls, markets, and supply chains.",
-      "camps": "Supporters hail tech self-reliance. Skeptics ask whether software and yield can match Nvidia.",
-      "source_name": "TechNode",
-      "source_url": "https://technode.com/2026/09/22/t-head-unveils-zhenwu-v900-ai-chip-in-alibabas-push-to-expand-its-ai-infrastructure-stack/",
-      "published": "2026-09-22",
+      "headline": "imec’s IC-Link joins TSMC OIP Cloud Alliance",
+      "dek": "Secure cloud PDKs and mixed EDA flows for advanced chips.",
+      "caveman": "Belgium’s imec said its IC-Link unit joined TSMC’s OIP Cloud Alliance. Design teams can use TSMC advanced-node PDKs in a secure cloud, scale computing as needed, and keep their usual EDA tools. The pitch is lower startup cost for AI and custom chips. Simple: TSMC is selling easier on-ramps to advanced design, not only wafer slots.",
+      "why_it_matters": "Cloud design access can widen who can build leading-edge chips outside big giants.",
+      "camps": "Startups welcome lower barriers. Security hawks watch how PDKs are guarded in the cloud.",
+      "source_name": "imec",
+      "source_url": "https://www.imec-int.com/en/press/ic-link-imec-expands-collaboration-tsmc-accelerate-customer-access-advanced-node-chip-design",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "mass production",
+          "term": "OIP Cloud Alliance",
           "aliases": [],
-          "explain": "Making large numbers of chips to sell, not just lab samples."
+          "explain": "TSMC partner group for cloud-based chip design."
         },
         {
-          "term": "parameters",
+          "term": "PDK",
           "aliases": [],
-          "explain": "Adjustable numbers inside an AI model; bigger often means heavier compute."
+          "explain": "Process design kit: rules and files for a chip process."
         },
         {
-          "term": "yield",
+          "term": "EDA",
           "aliases": [],
-          "explain": "Share of manufactured chips that work correctly."
+          "explain": "Software used to design and check chips."
         },
         {
-          "term": "export controls",
+          "term": "advanced node",
           "aliases": [],
-          "explain": "Government rules that limit selling advanced tech abroad."
+          "explain": "A newer, finer manufacturing process generation."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Alibaba Zhenwu AI chip announcement",
-      "image_credit": "Photo: TechNode"
+      "image_alt": "imec IC-Link and TSMC cloud design collaboration",
+      "image_credit": "Photo: imec"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "AI model race heats up as Anthropic drops Opus update minutes before OpenAI",
-      "dek": "Same-day dueling releases underline fierce U.S. lab competition.",
-      "caveman": "On the same Tuesday OpenAI launched Sol and Luna, Anthropic released a new Opus update about 90 minutes earlier, TechCrunch noted. Both labs claimed big gains. Users get faster product cycles — and more confusion about which model to pick. Simple: the AI arms race is measured in hours, not years.",
-      "why_it_matters": "Rapid releases raise capability — and pressure on safety testing and workplace rules.",
-      "camps": "Builders celebrate choice. Watchdogs want clearer evals before wide rollout.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "published": "2026-09-22",
+      "headline": "Apple–OpenAI fight spills into device-file discovery fight",
+      "dek": "Court fight continues as ChatGPT integration stays under legal fire.",
+      "caveman": "While OpenAI fights Musk in Texas, Apple and OpenAI are also sparring in other U.S. cases about records and devices tied to AI features. OpenAI’s ChatGPT integration with Apple remains a legal magnet: rivals say it locks markets; Apple and OpenAI say it is not exclusive and has not crushed competitors. Simple: the phone AI partnership is now a courtroom product, not only a software feature.",
+      "why_it_matters": "Discovery fights decide what evidence juries later see about AI platform power.",
+      "camps": "Platform critics want more sunlight. Apple and OpenAI call many requests overbroad.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "Anthropic",
+          "term": "discovery",
           "aliases": [],
-          "explain": "A major U.S. AI company and OpenAI rival."
+          "explain": "The pre-trial step where sides demand documents and data."
         },
         {
-          "term": "Opus",
+          "term": "Apple Intelligence",
           "aliases": [],
-          "explain": "One of Anthropic’s high-end model names."
+          "explain": "Apple’s on-device and cloud AI feature brand."
         },
         {
-          "term": "evals",
-          "aliases": [
-            "evaluations"
-          ],
-          "explain": "Tests that check how accurate or safe a model is."
+          "term": "integration",
+          "aliases": [],
+          "explain": "When one company’s AI is built into another company’s product."
         },
         {
-          "term": "rollout",
+          "term": "platform power",
           "aliases": [],
-          "explain": "How quickly a new product is turned on for users."
+          "explain": "Control that comes from owning a popular phone or app store."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "AI labs racing to release new models",
-      "image_credit": "Photo: TechCrunch"
+      "image_alt": "Smartphone AI assistant concept",
+      "image_credit": "Photo: Reuters / file"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Zelenskyy: Trump talks covered energy ceasefire; no unilateral halt asked",
-      "dek": "About 40 minutes at UNGA; Kyiv says U.S. will convey proposal to Moscow.",
-      "caveman": "After meeting President Trump for about 40 minutes at the U.N., Ukraine’s Zelenskyy said they discussed how to end the war and an energy ceasefire. Kyiv says it will stop hitting Russian energy sites if Russia stops hitting Ukraine’s power and heat. He said Trump did not demand Ukraine stop alone. Simple: talk about pausing energy strikes, not a one-sided quiet.",
-      "why_it_matters": "An energy truce could cut civilian blackouts — or fail and refill the battlefield.",
-      "camps": "Kyiv wants reciprocity. Moscow’s answer is still the missing piece.",
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/ukraines-zelenskiy-says-he-discussed-peace-efforts-energy-ceasefire-with-trump-2026-09-22/",
-      "published": "2026-09-22",
+      "headline": "Xi–Trump Washington summit day; Taiwan arms sales in focus",
+      "dek": "Beijing wants a halt under 1982 communique; $14bn package still pending.",
+      "caveman": "Xi Jinping and Donald Trump are set for formal talks in Washington on Thursday U.S. time. Sources told Reuters Xi may press Trump to halt Taiwan arms sales under a 1982 joint statement, and even stop deliveries already ordered. A roughly $14 billion package has sat unsigned for months. Simple: the world’s two biggest powers meet, and Taiwan weapons are on the table.",
+      "why_it_matters": "Any pause or green light on arms sales ripples through East Asia security overnight.",
+      "camps": "Beijing calls arms sales provocation. Taipei and U.S. hawks say Taiwan needs tools to deter war.",
+      "source_name": "Reuters / Taipei Times",
+      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864741",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "energy ceasefire",
-          "aliases": [
-            "energy truce"
-          ],
-          "explain": "A pause in attacks on power plants, refineries, and related systems."
-        },
-        {
-          "term": "UNGA",
-          "aliases": [
-            "U.N. General Assembly"
-          ],
-          "explain": "Yearly meeting of world leaders at the United Nations."
-        },
-        {
-          "term": "unilateral",
+          "term": "joint communique",
           "aliases": [],
-          "explain": "Done by one side only, without the other side matching."
+          "explain": "Formal written understanding between two countries."
         },
         {
-          "term": "refinery",
+          "term": "arms sales",
           "aliases": [],
-          "explain": "Factory that turns crude oil into fuels."
+          "explain": "Government-approved weapons deals."
+        },
+        {
+          "term": "deterrence",
+          "aliases": [],
+          "explain": "Having enough defense that an attack looks too costly."
+        },
+        {
+          "term": "pending package",
+          "aliases": [],
+          "explain": "A deal waiting for final political approval."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Trump and Zelenskyy meet at United Nations",
-      "image_credit": "Photo: Kyiv Post"
+      "image_alt": "U.S.-China summit and Taiwan security focus",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Xi arrives for U.S. visit; expected to press halt to Taiwan arms sales",
-      "dek": "Sep 23–25 trip; sources cite 1982 communique and possible Iran leverage.",
-      "caveman": "Chinese President Xi Jinping’s U.S. visit runs September 23–25, with formal talks expected September 24. Reuters sources say Beijing will push Trump to stop arms sales to Taiwan under a 1982 U.S.–China statement — and even pause deliveries already ordered. China may offer help pressuring Iran in return. Simple: Taiwan weapons are on the bargaining table.",
-      "why_it_matters": "Any freeze on arms would shake Taiwan’s defense planning and Asian alliances.",
-      "camps": "Beijing calls arms sales interference. Washington is bound by law to help Taiwan self-defend.",
-      "source_name": "Taipei Times",
-      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864741",
+      "headline": "Zelenskyy: Ukraine ready for energy ceasefire after Trump talks",
+      "dek": "Says no unilateral halt; wants Russia to stop hitting power and heat.",
+      "caveman": "After a about 40-minute meeting with Trump in New York, Ukraine’s Zelenskyy said Kyiv is ready for an energy ceasefire: stop hitting Russian fuel sites if Moscow stops striking Ukraine’s electricity, heating, and water. He said Trump did not ask Ukraine to stop alone. He also warned of a possible new massive Russian attack. Simple: both sides hurt each other’s energy; Zelenskyy says pause must be mutual.",
+      "why_it_matters": "An energy truce could ease diesel prices and winter blackout risk — if it sticks.",
+      "camps": "Diplomats want de-escalation before winter. Hardliners distrust Russia to honor any pause.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
       "published": "2026-09-23",
       "terms": [
         {
-          "term": "arms sales",
+          "term": "energy ceasefire",
           "aliases": [],
-          "explain": "Government-approved weapons deals between countries."
+          "explain": "A pause on attacks against power and fuel sites."
         },
         {
-          "term": "communiques",
-          "aliases": [
-            "joint communiques"
-          ],
-          "explain": "Formal written statements that shape U.S.–China diplomacy."
+          "term": "unilateral",
+          "aliases": [],
+          "explain": "One side acts alone without matching steps."
         },
         {
-          "term": "one China policy",
+          "term": "Patriot",
           "aliases": [],
-          "explain": "U.S. diplomatic formula that acknowledges Beijing’s position without endorsing it."
+          "explain": "A U.S. air-defense system that can hit ballistic missiles."
         },
         {
-          "term": "six assurances",
+          "term": "refinery",
           "aliases": [],
-          "explain": "U.S. promises to Taiwan, including no set end date for arms sales."
+          "explain": "A plant that turns crude oil into fuels like diesel."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Xi Jinping and Donald Trump summit diplomacy",
-      "image_credit": "Photo: 經濟日報 / Reuters coverage"
+      "image_alt": "Zelenskyy and Trump meet at UN General Assembly",
+      "image_credit": "Photo: AFP / Brendan Smialowski"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Xi skips UN address to cast U.S. trip as equal bilateral summit",
-      "dek": "Three-day Washington schedule mirrors Trump’s May China visit length.",
-      "caveman": "Xi is skipping a United Nations speech on this trip, Nikkei reported. Beijing wants the visit read as an equal leaders’ summit with Washington, not a UN side stop. The three-day length mirrors Trump’s May visit to China. Simple: stagecraft is part of the message.",
-      "why_it_matters": "Optics shape how other countries read U.S.–China power balance this week.",
-      "camps": "Supporters say symmetry builds respect. Critics say skipping UN weakens multilateral theater.",
-      "source_name": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-skips-un-address-to-show-china-as-equal-to-rival-us",
+      "headline": "Zelenskyy pushes trilateral meeting with Trump and Putin",
+      "dek": "Also seeks winter Patriots; says licensed production talks continue.",
+      "caveman": "Zelenskyy also said he wants Trump to help set a three-way meeting with Vladimir Putin. Separately, he asked for more Patriot interceptors for winter and floated swapping future German-bound missiles for nearer-term U.S. stock. He said licensed Patriot production in Ukraine is still under discussion. Simple: Kyiv wants talks and missiles at the same time.",
+      "why_it_matters": "A Trump–Putin–Zelenskyy sit-down would be the biggest diplomacy signal of the war so far.",
+      "camps": "Peace-talk supporters see a path. Skeptics say Russia uses talks to buy time for more strikes.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
       "published": "2026-09-23",
       "terms": [
         {
-          "term": "bilateral",
+          "term": "trilateral",
           "aliases": [],
-          "explain": "Between two countries only."
+          "explain": "A meeting with three sides at the table."
         },
         {
-          "term": "multilateral",
+          "term": "interceptor",
           "aliases": [],
-          "explain": "Involving many countries, like the U.N."
+          "explain": "A missile that destroys another missile or drone."
         },
         {
-          "term": "summit optics",
-          "aliases": [
-            "stagecraft"
-          ],
-          "explain": "How a meeting is staged to send a political message."
+          "term": "licensed production",
+          "aliases": [],
+          "explain": "Building a weapon at home under the owner’s permission."
         },
         {
-          "term": "APEC",
+          "term": "winter package",
           "aliases": [],
-          "explain": "Asia-Pacific economic forum where leaders also meet."
+          "explain": "Extra air-defense and energy aid for cold months."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Xi Jinping U.S. visit and UN General Assembly week",
-      "image_credit": "Photo: Nikkei Asia / Reuters"
+      "image_alt": "Ukraine diplomacy and air-defense discussions",
+      "image_credit": "Photo: CNBC / Getty"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Bessent–He talks float U.S.–China AI incident hotline before summit",
-      "dek": "Treasury chief hails long New York meeting; trade truce also on agenda.",
-      "caveman": "Before the leaders meet, U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng held a long New York session. Bessent talked up a possible notification channel if an AI incident hits national security. Trade truce details remain central too. Simple: staff try to nail small guardrails before the big handshake.",
-      "why_it_matters": "An AI hotline would be a rare new rule of the road between rivals.",
-      "camps": "Diplomats call it risk reduction. Hawks fear talk without hard limits on exports.",
-      "source_name": "The Silicon Review",
-      "source_url": "https://thesiliconreview.com/2026/09/bessent-he-lifeng--us-china-ai-dialogue-vice-premier-trump-xi-jinping",
-      "published": "2026-09-22",
+      "headline": "Taiwan says U.S. arms sales should continue despite Xi pressure",
+      "dek": "Defense ministry: stay in close contact with Washington.",
+      "caveman": "As Xi arrived for his U.S. visit, Taiwan’s Defense Ministry said it still expects U.S. arms sales to continue. A spokesperson said Washington and Congress have repeatedly backed Taiwan’s self-defense, and Taipei will keep pushing procurement plans. Hours earlier, Taiwan held a live-fire drill with a domestic armored vehicle. Simple: Taiwan’s public line is calm confidence, not panic.",
+      "why_it_matters": "Taipei’s messaging aims to stop markets and allies from assuming a quiet arms freeze.",
+      "camps": "Taiwan officials stress legal U.S. commitments. Beijing says any sale crosses a red line.",
+      "source_name": "AP",
+      "source_url": "https://www.seattletimes.com/business/taiwan-is-watching-closely-as-xi-and-trump-meet-and-hopes-us-will-keep-up-its-arms-sales/",
+      "published": "2026-09-23",
       "terms": [
         {
-          "term": "hotline",
-          "aliases": [
-            "notification mechanism"
-          ],
-          "explain": "A fast official channel to warn the other side about a dangerous event."
+          "term": "procurement",
+          "aliases": [],
+          "explain": "The process of buying weapons and gear."
         },
         {
-          "term": "trade truce",
+          "term": "self-defense capabilities",
           "aliases": [],
-          "explain": "Temporary pause or ease in tariff fights."
+          "explain": "Tools a country needs to protect itself."
         },
         {
-          "term": "Vice Premier",
+          "term": "live-fire drill",
           "aliases": [],
-          "explain": "A top Chinese economic official under the premier."
+          "explain": "A military exercise using real ammunition."
         },
         {
-          "term": "Treasury Secretary",
+          "term": "Congress",
           "aliases": [],
-          "explain": "Top U.S. official for money, markets, and many economic talks."
+          "explain": "The U.S. lawmaking body that also oversees major arms notices."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "U.S.–China economic and AI dialogue",
-      "image_credit": "Photo: The Silicon Review"
+      "image_alt": "Taiwan watches U.S.-China summit over arms sales",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Ann Patchett’s Whistler still No. 1 on LA Times hardcover fiction list",
-      "dek": "Museum reunion novel holds top indie-bookstore slot for Sep 20 week.",
-      "caveman": "On the Los Angeles Times bestseller list for the week of September 20, Ann Patchett’s novel Whistler stayed No. 1 in hardcover fiction. It follows a woman who reconnects with a former stepfather at a museum long after trauma split them. Simple: bookstores are still pushing Patchett hard.",
-      "why_it_matters": "Indie list leaders often guide U.S. reading groups and holiday orders.",
-      "camps": "Fans praise emotional craft. Some readers want newer debuts higher up.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-16/the-weeks-bestselling-books-september-20",
-      "published": "2026-09-20",
+      "headline": "Kathryn Stockett’s The Calamity Club hits NYT hardcover top tier",
+      "dek": "Depression-era women’s story sits at No. 2 on Sept. 27 list.",
+      "caveman": "Kathryn Stockett, famous for The Help, is hot again. Her new novel The Calamity Club sits at No. 2 on the New York Times hardcover fiction list dated Sept. 27. It follows women trying to improve hard lives in the Depression. Simple: an old-time setting is selling like a new event.",
+      "why_it_matters": "A No. 2 debut/climb shows big-name historical fiction still moves hardcover units.",
+      "camps": "Fans love Stockett’s ensemble stories. Some critics want fresher voices ahead of celebrity authors.",
+      "source_name": "New York Times list via libraries",
+      "source_url": "https://libraryaware.com/3162/NewsletterIssues/LatestIssueForList/03be6389-922e-4b90-8467-37b0b0202449",
+      "published": "2026-09-27",
       "terms": [
         {
           "term": "hardcover fiction",
           "aliases": [],
-          "explain": "New novels sold in hard covers, usually higher priced."
-        },
-        {
-          "term": "indie bookstore",
-          "aliases": [],
-          "explain": "A locally owned bookshop, not a huge chain."
+          "explain": "New novels sold as hardback books."
         },
         {
           "term": "bestseller list",
           "aliases": [],
-          "explain": "A ranking of books selling fastest in a period."
+          "explain": "A ranked weekly sales chart."
         },
         {
-          "term": "Ann Patchett",
+          "term": "Great Depression",
           "aliases": [],
-          "explain": "U.S. novelist known for character-driven literary fiction."
+          "explain": "The 1930s economic collapse in the U.S."
+        },
+        {
+          "term": "ensemble",
+          "aliases": [],
+          "explain": "A story with several main characters sharing the spotlight."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Ann Patchett Whistler on bestseller lists",
-      "image_credit": "Photo: Los Angeles Times"
+      "image_alt": "The Calamity Club by Kathryn Stockett book cover",
+      "image_credit": "Photo: publisher"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Emma Cline’s Switzy sits No. 2; dementia end-of-life story keeps heat",
-      "dek": "Random House novel also in Booker chatter; strong indie demand.",
-      "caveman": "Emma Cline’s Switzy held No. 2 on the same LA Times hardcover fiction list. The book follows a man with dementia preparing to end his life. Critics have called it among her strongest work, and prize talk continues. Simple: a hard subject is still selling.",
-      "why_it_matters": "Prize buzz plus indie sales can keep a literary novel alive for months.",
-      "camps": "Admirers cite sharp prose. Others find the premise too bleak.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-16/the-weeks-bestselling-books-september-20",
-      "published": "2026-09-20",
+      "headline": "R.F. Kuang’s Taipei Story debuts at No. 3 on NYT list",
+      "dek": "Yale freshman spends a summer in Taipei facing family history.",
+      "caveman": "R.F. Kuang’s Taipei Story lands at No. 3 on the Sept. 27 New York Times hardcover fiction list. It follows a Chinese American college freshman in Taipei for a language summer, wrestling with family history and belonging. Publishers Weekly earlier flagged the book’s strong hardcover start. Simple: a Taiwan-set literary novel is a U.S. bestseller right now.",
+      "why_it_matters": "A Taipei-set hit widens what mainstream U.S. fiction readers will buy.",
+      "camps": "Admirers praise Kuang’s range. Some readers debate whether diaspora stories are over-covered.",
+      "source_name": "New York Times list / Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101288-this-week-s-bestsellers-september-21-2026.html",
+      "published": "2026-09-21",
       "terms": [
         {
-          "term": "Booker Prize",
-          "aliases": [
-            "Booker"
-          ],
-          "explain": "Major annual literary prize that boosts global book sales."
-        },
-        {
-          "term": "dementia",
+          "term": "diaspora",
           "aliases": [],
-          "explain": "Illness that slowly damages memory and thinking."
+          "explain": "People living away from their ancestral country."
         },
         {
           "term": "literary fiction",
           "aliases": [],
-          "explain": "Novels focused more on style and ideas than pure plot thrills."
+          "explain": "Novels focused on character and language more than pure plot."
         },
         {
-          "term": "Emma Cline",
+          "term": "debut week",
           "aliases": [],
-          "explain": "U.S. author of The Girls and other acclaimed novels."
+          "explain": "A book’s first stretch on a major sales chart."
+        },
+        {
+          "term": "language immersion",
+          "aliases": [],
+          "explain": "Learning a language by living where it is spoken."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Emma Cline novel Switzy",
-      "image_credit": "Photo: Los Angeles Times / Random House"
+      "image_alt": "Taipei Story by R.F. Kuang book cover",
+      "image_credit": "Photo: HarperCollins"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Ariel Lawhon’s The Pirate Queen climbs; Grace O’Malley tale at No. 3",
-      "dek": "Historical adventure based on Ireland’s famous sea captain.",
-      "caveman": "Ariel Lawhon’s The Pirate Queen ranked No. 3 on the LA Times hardcover fiction list. It fictionalizes the adventures of Grace O’Malley, a real Irish sea captain. Historical adventure is having a moment beside quieter literary books. Simple: swashbuckling is back on the front table.",
-      "why_it_matters": "Strong historical fiction often becomes book-club and gift-season fuel.",
-      "camps": "Readers love the true-story hook. Purists argue over how much history is bent.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-16/the-weeks-bestselling-books-september-20",
-      "published": "2026-09-20",
+      "headline": "Who’s hot: Lawhon’s Pirate Queen and Gillig’s Knave still chart",
+      "dek": "Pirate Queen No. 4; Knave and the Moon No. 5 on Sept. 27 list.",
+      "caveman": "Two fantasy-leaning books stay loud. Ariel Lawhon’s The Pirate Queen, about Irish sea leader Grace O’Malley, sits at No. 4. Rachel Gillig’s The Knave and the Moon is No. 5 after recently leading chats. Simple: pirates and romantasy keep selling even when new names arrive.",
+      "why_it_matters": "Sustained top-five slots mean bookstores keep restocking, not just one-week spikes.",
+      "camps": "Genre readers say the wave is real. Some literary snobs still shrug at romantasy.",
+      "source_name": "New York Times list via libraries",
+      "source_url": "https://libraryaware.com/3162/NewsletterIssues/LatestIssueForList/03be6389-922e-4b90-8467-37b0b0202449",
+      "published": "2026-09-27",
       "terms": [
         {
-          "term": "historical fiction",
+          "term": "romantasy",
           "aliases": [],
-          "explain": "Novels set in the past, mixing real events with invented scenes."
+          "explain": "Romance stories wrapped in fantasy worlds."
         },
         {
-          "term": "Grace O’Malley",
+          "term": "backlist heat",
           "aliases": [],
-          "explain": "Famous 16th-century Irish seafarer sometimes called a pirate queen."
+          "explain": "Older or prior books that keep selling beside new ones."
         },
         {
-          "term": "book club",
+          "term": "sea yarn",
           "aliases": [],
-          "explain": "A group that reads and discusses the same book."
+          "explain": "A story about ships, sailors, and ocean power."
         },
         {
-          "term": "front table",
+          "term": "chart",
           "aliases": [],
-          "explain": "The display table at the front of a bookstore."
+          "explain": "Slang for a bestseller ranking."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "The Pirate Queen by Ariel Lawhon",
-      "image_credit": "Photo: Los Angeles Times / Doubleday"
+      "image_alt": "Hardcover fiction bestsellers pirate and fantasy titles",
+      "image_credit": "Photo: Penguin"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Who’s hot: Stockett, James, Burke; cooler: last month’s midlist holdovers",
-      "dek": "Calamity Club, Disappearers, Yesteryear rising; some August titles fade.",
-      "caveman": "On the same U.S. indie list, Kathryn Stockett’s The Calamity Club, Marlon James’s The Disappearers, and Caro Claire Burke’s Yesteryear are among the books stores are still moving. Some midlist titles that crowded August tables are quieter now. Rachel Gillig’s fantasy Knave and the Moon remains part of the national conversation even when not atop this particular list. Simple: September shelves are reshuffling winners.",
-      "why_it_matters": "What’s “hot” guides what publishers reprint and what readers see first.",
-      "camps": "Booksellers chase momentum. Some authors feel lists undervalue quieter work.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-16/the-weeks-bestselling-books-september-20",
-      "published": "2026-09-20",
+      "headline": "Who’s cooler: Patchett’s Whistler slips; last week’s No. 1 cools",
+      "dek": "Whistler at No. 11; prior leaders lose the very top slot.",
+      "caveman": "Not every recent favorite stays on the throne. Ann Patchett’s Whistler, recently a No. 1 chatter book, shows at No. 11 on the Sept. 27 hardcover fiction list. Earlier leaders such as Gillig have also slid from the tippy-top as Stockett and Kuang surge. Simple: bestsellers rotate fast; last month’s crown may be this week’s mid-list.",
+      "why_it_matters": "Cooling titles free shelf space and marketing for newer hardcovers.",
+      "camps": "Patchett fans say quality outlasts one chart week. Chart-watchers treat slips as normal churn.",
+      "source_name": "New York Times list via libraries",
+      "source_url": "https://libraryaware.com/3162/NewsletterIssues/LatestIssueForList/03be6389-922e-4b90-8467-37b0b0202449",
+      "published": "2026-09-27",
       "terms": [
         {
-          "term": "midlist",
+          "term": "mid-list",
           "aliases": [],
-          "explain": "Books that sell okay but are not huge blockbusters."
+          "explain": "Books selling okay but not at the very top."
         },
         {
-          "term": "reprint",
+          "term": "churn",
           "aliases": [],
-          "explain": "Printing more copies after the first batch sells."
+          "explain": "How quickly names move up and down a chart."
         },
         {
-          "term": "fantasy",
+          "term": "frontlist",
           "aliases": [],
-          "explain": "Stories with magic or invented worlds."
+          "explain": "The newest books a publisher is pushing now."
         },
         {
-          "term": "momentum",
+          "term": "slip",
           "aliases": [],
-          "explain": "When sales and buzz keep feeding each other."
+          "explain": "When a title falls several ranks week to week."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "U.S. bookstore bestseller table",
-      "image_credit": "Photo: Los Angeles Times"
+      "image_alt": "Ann Patchett Whistler and shifting bestseller ranks",
+      "image_credit": "Photo: HarperCollins"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "UN agencies: Sudan aid system could collapse within weeks without cash",
-      "dek": "About 19.5 million face crisis hunger; WFP only about one-third funded.",
-      "caveman": "U.N. aid chiefs warn Sudan’s humanitarian system could collapse within weeks if donors do not send more money. Roughly 19.5 million people face crisis-level hunger. WFP says it can deliver but is only about one-third funded. Simple: the world’s worst hunger crisis is running out of cash, not trucks.",
-      "why_it_matters": "Funding gaps mean rations shrink and displacement camps lose shelter and water.",
-      "camps": "Aid agencies beg for attention. Donor governments juggle many wars and budgets.",
+      "headline": "Yemen displacement tops 130,000 since early September",
+      "dek": "UNHCR: Taiz is epicenter; women and children majority.",
+      "caveman": "The UN refugee agency said fighting in Yemen has forced more than 130,000 people from their homes since the start of September. Taiz accounts for over 60% of the new displacement. Many families cannot move farther because roads are blocked or fuel is scarce. More than 3,000 have already reached Djibouti by sea. Simple: war widened, so people ran — again.",
+      "why_it_matters": "Fast displacement overwhelms food, shelter, and medical aid before winter sea crossings rise.",
+      "camps": "Aid groups beg for funds and access. Warring parties blame each other for civilian harm.",
       "source_name": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/09/1168331",
-      "published": "2026-09-14",
+      "source_url": "https://news.un.org/en/story/2026/09/1168390",
+      "published": "2026-09-22",
       "terms": [
         {
-          "term": "WFP",
-          "aliases": [
-            "World Food Programme"
-          ],
-          "explain": "U.N. agency that delivers food aid."
+          "term": "displacement",
+          "aliases": [],
+          "explain": "When people must leave home because of danger."
+        },
+        {
+          "term": "UNHCR",
+          "aliases": [],
+          "explain": "The UN Refugee Agency."
+        },
+        {
+          "term": "front line",
+          "aliases": [],
+          "explain": "Where opposing forces are actively fighting."
         },
         {
           "term": "internally displaced",
-          "aliases": [
-            "IDP"
-          ],
-          "explain": "People forced from home who stay inside their country."
-        },
-        {
-          "term": "rations",
           "aliases": [],
-          "explain": "The food portion each person receives."
-        },
-        {
-          "term": "humanitarian system",
-          "aliases": [],
-          "explain": "The network of aid groups, warehouses, and funding that keeps relief moving."
+          "explain": "People who flee but stay inside their country."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "WFP trucks delivering aid in Sudan",
-      "image_credit": "Photo: UN / WFP"
+      "image_alt": "Displaced families collect aid in Taiz, Yemen",
+      "image_credit": "Photo: IOM / UN"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Yemen displacement tops 112,000 in two weeks as fighting surges",
-      "dek": "IOM warns stocks will run out soon; thousands flee by boat to Djibouti.",
-      "caveman": "Renewed fighting in Yemen displaced more than 112,000 people in about two weeks across several governorates. Aid workers describe families running under shelling with almost nothing. More than 3,000 people took risky boats to Djibouti. IOM says supplies are nearly gone. Simple: a long war just got suddenly worse for civilians.",
-      "why_it_matters": "Displacement spikes drive hunger, disease, and dangerous sea crossings.",
-      "camps": "UN urges de-escalation. Parties on the ground keep fighting for territory.",
-      "source_name": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/09/1168364",
-      "published": "2026-09-18",
-      "terms": [
-        {
-          "term": "displacement",
-          "aliases": [],
-          "explain": "Being forced to leave home because of war or disaster."
-        },
-        {
-          "term": "IOM",
-          "aliases": [],
-          "explain": "U.N. migration agency that helps displaced people."
-        },
-        {
-          "term": "Houthi",
-          "aliases": [],
-          "explain": "Armed group controlling much of northern Yemen."
-        },
-        {
-          "term": "Bab el-Mandeb",
-          "aliases": [],
-          "explain": "Narrow strait between Yemen and Djibouti."
-        }
-      ],
-      "image": "images/wd-soc-2.jpg",
-      "image_alt": "People in Yemen queue for humanitarian aid",
-      "image_credit": "Photo: UN / IOM"
-    },
-    {
-      "id": "wd-soc-3",
-      "section": "world",
-      "category": "social",
-      "headline": "Crude eases, but war-time fuel pain still hits trucking and food costs",
-      "dek": "Brent near $99 still far above pre-Iran-war ~$72; households feel freight.",
-      "caveman": "Oil prices cooled toward $99, yet that is still much higher than about $72 before the Iran war. Diesel and shipping costs stay painful for trucking, farms, and grocery prices. Simple: a small drop from last week’s spike does not mean life suddenly got cheap.",
-      "why_it_matters": "Energy costs shape inflation politics and hunger risks in import-dependent countries.",
-      "camps": "Drivers want faster relief. Analysts say geopolitics still sets a high floor.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/business/story/2026-09-22/wall-street-holds-near-its-record-after-brent-oil-falls-below-100-per-barrel",
-      "published": "2026-09-22",
-      "terms": [
-        {
-          "term": "diesel",
-          "aliases": [],
-          "explain": "Fuel used by many trucks, ships, and trains."
-        },
-        {
-          "term": "freight",
-          "aliases": [],
-          "explain": "The cost of moving goods."
-        },
-        {
-          "term": "inflation",
-          "aliases": [],
-          "explain": "When prices across the economy rise."
-        },
-        {
-          "term": "geopolitics",
-          "aliases": [],
-          "explain": "How wars and country rivalries affect markets and daily life."
-        }
-      ],
-      "image": "images/wd-soc-3.jpg",
-      "image_alt": "Fuel and freight cost pressure on households",
-      "image_credit": "Photo: AP / LA Times"
-    },
-    {
-      "id": "wd-soc-4",
-      "section": "world",
-      "category": "social",
-      "headline": "El Fasher aftermath shows why ending Sudan’s war is urgent, WFP says",
-      "dek": "Acting director describes hollowed city after long siege; half rations common.",
-      "caveman": "After visiting Sudan, WFP’s Carl Skau said El Fasher showed what years of siege leave behind — a hollowed city and people living in endless grass huts nearby. Many get only half rations. He called ending the war urgent. Simple: aid can help, but bullets keep making new hunger.",
-      "why_it_matters": "Without a political end to fighting, food aid is a temporary patch.",
-      "camps": "Humanitarians prioritize access and funding. Diplomats struggle to force a ceasefire.",
+      "headline": "UN agencies: Sudan aid system could still collapse within weeks",
+      "dek": "Funding gap threatens food and displacement response.",
+      "caveman": "UN agencies keep warning that Sudan’s humanitarian system could scale down within weeks without cash. Millions already face acute hunger and internal displacement after years of war. Stockouts and unpaid logistics mean aid groups may have to choose who gets help. Simple: the war is not the only emergency — the money to help is running out too.",
+      "why_it_matters": "A collapse in aid would mean more preventable deaths far from camera crews.",
+      "camps": "UN leaders plead for donor cash. Donor governments say budgets are stretched by many wars.",
       "source_name": "UN News",
       "source_url": "https://news.un.org/en/story/2026/09/1168331",
       "published": "2026-09-14",
       "terms": [
         {
-          "term": "siege",
+          "term": "humanitarian system",
           "aliases": [],
-          "explain": "When fighters surround a city and block food, fuel, or escape."
+          "explain": "The network of aid agencies, warehouses, and staff."
         },
         {
-          "term": "half rations",
+          "term": "acute hunger",
           "aliases": [],
-          "explain": "Getting only about half the normal food package."
+          "explain": "Severe lack of food that harms health quickly."
         },
         {
-          "term": "RSF",
-          "aliases": [
-            "Rapid Support Forces"
-          ],
-          "explain": "One of the main armed groups fighting in Sudan’s war."
+          "term": "donor",
+          "aliases": [],
+          "explain": "A country or group that gives aid money."
         },
         {
-          "term": "ceasefire",
+          "term": "scale down",
           "aliases": [],
-          "explain": "An agreement to stop shooting, at least for a while."
+          "explain": "Cut programs because money or access is gone."
+        }
+      ],
+      "image": "images/wd-soc-2.jpg",
+      "image_alt": "Aid operations in Sudan under funding pressure",
+      "image_credit": "Photo: UN"
+    },
+    {
+      "id": "wd-soc-3",
+      "section": "world",
+      "category": "social",
+      "headline": "Household fuel pain returns as Brent jumps back above $100",
+      "dek": "Diesel and transport costs stay politically sensitive before midterms.",
+      "caveman": "Even when oil dipped earlier in the week, trucking and household fuel still hurt. Wednesday’s rebound in Brent above $100 puts pressure back on diesel, food delivery, and heating fears. Trump has fretted that Ukrainian strikes on Russian refineries lift diesel prices. Simple: big oil numbers show up as smaller, angrier receipts at the pump.",
+      "why_it_matters": "Fuel costs shape elections, food prices, and support for foreign wars.",
+      "camps": "Consumers want relief now. Energy hawks say security costs are the price of pressure on Iran and Russia.",
+      "source_name": "Al Jazeera / market reports",
+      "source_url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
+      "published": "2026-09-23",
+      "terms": [
+        {
+          "term": "diesel",
+          "aliases": [],
+          "explain": "Fuel widely used by trucks and some heaters."
+        },
+        {
+          "term": "pump price",
+          "aliases": [],
+          "explain": "What drivers pay at the gas station."
+        },
+        {
+          "term": "midterms",
+          "aliases": [],
+          "explain": "U.S. congressional elections in the middle of a president’s term."
+        },
+        {
+          "term": "pass-through",
+          "aliases": [],
+          "explain": "When higher crude costs show up in store and transport prices."
+        }
+      ],
+      "image": "images/wd-soc-3.jpg",
+      "image_alt": "Fuel prices and household energy costs",
+      "image_credit": "Photo: AFP / Reuters"
+    },
+    {
+      "id": "wd-soc-4",
+      "section": "world",
+      "category": "social",
+      "headline": "Djibouti faces new Yemeni refugee wave; UNHCR only 15% funded",
+      "dek": "Over 3,000 arrivals so far; 10,000+ possible as seas calm.",
+      "caveman": "As Yemenis flee by boat, Djibouti is absorbing a new surge. UNHCR said more than 3,000 have arrived and more than 10,000 could come when sea conditions improve in mid-October. The Djibouti operation is only about 15% funded. Inside Yemen, UNHCR has a fraction of what it asked for in 2026. Simple: people are crossing the water faster than money is arriving.",
+      "why_it_matters": "Underfunded host countries cannot keep shelters, health care, and rescue capacity online.",
+      "camps": "UNHCR asks donors to top up now. Host communities fear strain on jobs and services.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/09/1168390",
+      "published": "2026-09-22",
+      "terms": [
+        {
+          "term": "refugee",
+          "aliases": [],
+          "explain": "A person who flees across a border for safety."
+        },
+        {
+          "term": "host country",
+          "aliases": [],
+          "explain": "The country receiving refugees."
+        },
+        {
+          "term": "funding gap",
+          "aliases": [],
+          "explain": "The money asked for minus the money received."
+        },
+        {
+          "term": "sea crossing",
+          "aliases": [],
+          "explain": "Traveling by boat to escape danger."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Humanitarian conditions in Sudan displacement areas",
-      "image_credit": "Photo: UN / WFP"
+      "image_alt": "Yemeni refugees and aid response in the Horn of Africa",
+      "image_credit": "Photo: UNHCR / UN"
     }
   ]
 }
