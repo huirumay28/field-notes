@@ -1,619 +1,767 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-01T08:00:00+08:00",
-  "notes": "Thursday 1 Oct 2026 world issue (Taipei 08:00). Window: Wed 30 Sep U.S. close + overnight into Thu Asia morning. NEW vs Wed 30 paper: Wall St Wed mixed after cooler PCE — Nasdaq green, Dow soft; core PCE 3.0% below forecast but spending hot and long yields still sticky; oil firmer as Trump denies Iran sanctions-relief ‘deal’ while Qatar still mediates. Tech lead flips from AMD–World Labs / OpenAI Dots splash to Google Gemini 4 Argon (limited to trusted cyber defenders) + White House voluntary Super Intelligence accord (self-police, no penalties). Politics: Hormuz crude near prewar, fuels tight; Ukraine winter air-war dread. Lit (USA): PW Sept 28 still — Thoroughbreds #1, Dead Beat #2, Exit Party #6; cookbook debut swarm. Social: Nepal flood mothers in tents (1,400+ dead); PH climate-displacement funding push; Bangladesh–Malaysia migrant labour protections. Not recycling Wed AMD $8.2B / consumer-confidence-only / Dots-as-sole-AI-lead.",
+  "fetched_at": "2026-10-02T08:00:00+08:00",
+  "notes": "Friday 2 Oct 2026 world issue (Taipei ~08:00). Window: Thu 1 Oct U.S. close + overnight into Fri morning. NEW vs Thu 1 paper: U.S. stocks slight rebound as Treasury yields ease from multi-decade spike; Hormuz crude transit near prewar but refined fuels still tight; Micron record AI-memory quarter. Tech: California AG subpoenas OpenAI (replaces Gemini 4 Argon as lead); Micron/chip sentiment; Apple–OpenAI injunction hearing slip; session breadth notes. Politics: Kyiv drone/school/bridge strikes; senators press Taiwan arms delivery; Iran talks still stuck. Literature: Theo of Golden cross-list lock; CA indies John Green #1 + Steinem memoir; Borison/Picoult hot; Kuang/Dinniman/Lawhon slip some top-10s (Thoroughbreds/Dead Beat/Exit Party no longer the only frame). Social: fresh Nepal landslide deaths; Himlung avalanche; Ukrainian families still waiting; climate attribution debate continues.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. stocks close mixed after cooler inflation print",
-      "dek": "Nasdaq edges up; Dow slips. Soft PCE cheers rate-hike skeptics, but sticky long yields and oil keep nerves up.",
-      "caveman": "On Wednesday Wall Street could not agree. A softer inflation report helped the Nasdaq finish a bit higher, while the Dow still fell. Simple version: prices did not jump as much as feared, so some people bought tech. But long-term bond rates and oil stayed annoying, so other stocks stayed grumpy. October Fed rate-hike odds cooled toward the mid-30% range after softer data and Fed speak.",
-      "why_it_matters": "Sets the tone for October risk appetite — especially for expensive tech stocks Taiwan’s market watches overnight.",
-      "camps": "Doves say cooler PCE means less need to hike. Hawks say hot spending and high long yields still look inflationary.",
-      "source_name": "MarketScreener / Reuters wire",
-      "source_url": "https://www.marketscreener.com/news/s-p-500-dips-nasdaq-higher-after-data-shows-moderate-inflation-rise-ce785ad3db89fe24",
-      "published": "2026-09-30",
+      "headline": "U.S. stocks edge up as bond yields retreat from spike",
+      "dek": "S&P 500 +0.2% snaps a 3-day skid; Dow and Nasdaq barely green after wild Treasuries.",
+      "caveman": "On Thursday (Oct 1), Wall Street finished slightly higher. The S&P 500 rose about 0.2% to 7,666 and broke a three-day losing streak. The Dow closed at 50,926.56 (+0.04%) and the Nasdaq at 26,871.60 (+0.04%). Earlier, bond yields jumped and scared markets; later the selling in Treasuries cooled, so stocks could climb back. Europe had a rougher day, with big indexes down around 1–1.7%. Simple: U.S. stocks stopped falling, but nobody ran a victory lap.",
+      "why_it_matters": "When bond yields whip around, mortgage rates, company borrowing costs, and stock prices all shake.",
+      "camps": "Optimists say cooler yields + AI/chip strength can stabilize the tape. Caution camp says the week is still down and rate-cut hopes keep getting delayed.",
+      "source_name": "Associated Press／WTOP",
+      "source_url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-thursday-10-1-2026/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "PCE",
+          "term": "S&P 500",
           "aliases": [],
-          "explain": "Personal Consumption Expenditures price index — the Fed’s favorite inflation gauge."
+          "explain": "Index of 500 big U.S. companies — a main scoreboard for U.S. stocks."
         },
         {
-          "term": "Nasdaq",
+          "term": "Treasury yield",
           "aliases": [],
-          "explain": "U.S. stock index heavy on tech companies."
+          "explain": "The interest rate on U.S. government bonds; when it jumps, risk assets often wobble."
         },
         {
-          "term": "Yield",
+          "term": "Dow",
           "aliases": [],
-          "explain": "The interest rate bond investors demand; when it rises, stock valuations often get squeezed."
+          "explain": "Dow Jones Industrial Average — 30 large U.S. companies."
+        },
+        {
+          "term": "Losing streak",
+          "aliases": [],
+          "explain": "Several days in a row of closing lower."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Wall Street trading floor mood",
-      "image_credit": "Photo: MarketScreener"
+      "image_alt": "U.S. stock market trading screen",
+      "image_credit": "Photo: Investing.com"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. core PCE rises 3.0% — below forecast; spending jumps 0.9%",
-      "dek": "Headline PCE about 3.4% year over year. Inflation relief meets a still-strong consumer.",
-      "caveman": "August inflation news: core PCE rose about 3.0% from a year earlier — less than many economists guessed. Headline PCE was about 3.4%. At the same time, people spent a lot more — consumer spending up about 0.9%. Simple: prices cooled a little, but shoppers did not go quiet. That mix confuses the Fed: softer prices say “relax,” hot spending says “maybe not yet.”",
-      "why_it_matters": "This single report moves bond yields, mortgage rates talk, and global stock futures the next morning.",
-      "camps": "Markets friendly to the miss on inflation. Labor/cost hawks note spending strength can reheat prices later.",
-      "source_name": "Honolulu Star-Advertiser / AP",
-      "source_url": "https://www.staradvertiser.com/2026/09/30/breaking-news/u-s-inflation-rises-below-expectations-consumer-spending-robust/",
-      "published": "2026-09-30",
+      "headline": "Hormuz crude flows rebound — but diesel and gasoline stay tight",
+      "dek": "Tankers near prewar levels; damaged Gulf refining keeps fuel prices sticky.",
+      "caveman": "Fresh reporting on Oct 1 says crude oil moving through the Strait of Hormuz is largely back near prewar levels. That sounds like good news. The catch: refined fuels such as diesel and gasoline are still constrained because Gulf refineries were damaged or underfed, and some export limits elsewhere did not help. So the ‘black goo’ can leave, but the ‘ready-to-burn’ fuel is still scarce. Brent stayed elevated, around the low-$100s in recent sessions.",
+      "why_it_matters": "Drivers and shippers feel pump prices and freight costs even when crude headlines look calmer.",
+      "camps": "Relief camp focuses on crude transit recovery. Skeptic camp says the real inflation bite is in refined products until refineries fully recover.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Core PCE",
+          "term": "Strait of Hormuz",
           "aliases": [],
-          "explain": "PCE inflation that skips food and energy, which jump around a lot."
+          "explain": "Narrow sea lane by Iran/Gulf states that a huge share of world oil must pass through."
         },
         {
-          "term": "Consumer spending",
+          "term": "Crude oil",
           "aliases": [],
-          "explain": "How much households buy — the engine of the U.S. economy."
+          "explain": "Unrefined oil pumped from the ground."
         },
         {
-          "term": "Fed",
-          "aliases": [
-            "Federal Reserve"
-          ],
-          "explain": "The U.S. central bank that sets short-term interest rates."
+          "term": "Refined products",
+          "aliases": [],
+          "explain": "Fuel made from crude, like gasoline, diesel, and jet fuel."
+        },
+        {
+          "term": "Brent",
+          "aliases": [],
+          "explain": "A global oil price benchmark."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Inflation and consumer data charts",
-      "image_credit": "Photo: AP"
+      "image_alt": "Oil tanker traffic near the Gulf",
+      "image_credit": "Photo: The Guardian"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Oil firms as Iran talks stall; Brent holds near $103",
-      "dek": "Trump denies offering sanctions relief. Crude flows through Hormuz recover; refined fuels still tight.",
-      "caveman": "Oil prices moved up again. Brent sat near $103–$104 a barrel after news that peace talks with Iran remain messy. President Trump said he offered Iran “nothing” on sanctions, pushing back on deal rumors. Simple: ships carrying crude through the Strait of Hormuz are closer to normal, but fuel products stay squeezed, so drivers and airlines still feel a war premium.",
-      "why_it_matters": "Energy prices feed inflation, airline costs, and Asian import bills — including Taiwan.",
-      "camps": "Bulls on oil cite geopolitics and fuel constraints. Bears hope mediation + recovering crude flows will cool prices.",
+      "headline": "Micron posts record quarter on AI memory boom; peers rise, MU flat",
+      "dek": "Q4 revenue $54.23B; FY2027 guide strong — Wall Street still debating how much is priced in.",
+      "caveman": "Memory chipmaker Micron reported a record fiscal Q4: about $54.23 billion in revenue and $33.42 non-GAAP EPS. Full-year revenue hit about $133 billion. Bosses say AI demand is morphing into ‘super intelligence’ needs and they guided Q1 revenue around $61.5 billion. On Oct 1 trading, Nvidia/AMD/Intel got a sentiment bounce, but Micron’s own stock barely moved — because the bar was already sky high. Simple: memory is the hot grocery for AI, but the stock price already knew.",
+      "why_it_matters": "AI servers need mountains of memory; Micron’s numbers are a real-economy check on whether the boom is still shipping.",
+      "camps": "Bulls see multi-year supply tightness. Bears say margins and expectations leave little room for disappointment.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-30",
+      "source_url": "https://www.cnbc.com/2026/10/01/mu-barely-budged-on-earnings-wall-street-thinks-gains-will-come.html",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Brent",
+          "term": "EPS",
           "aliases": [],
-          "explain": "A global oil price benchmark used outside the U.S."
+          "explain": "Earnings per share — profit divided by shares."
         },
         {
-          "term": "Strait of Hormuz",
+          "term": "Guidance",
           "aliases": [],
-          "explain": "A narrow waterway where a huge share of the world’s oil tankers pass."
+          "explain": "A company’s forecast for the next quarter."
         },
         {
-          "term": "Sanctions",
+          "term": "HBM",
           "aliases": [],
-          "explain": "Penalties that block trade or money to pressure a country."
+          "explain": "Very fast memory chips used next to AI accelerators."
+        },
+        {
+          "term": "Priced in",
+          "aliases": [],
+          "explain": "When a stock already reflects the good (or bad) news."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Oil tanker and energy markets",
-      "image_credit": "Photo: CNBC"
+      "image_alt": "Micron and semiconductor memory industry",
+      "image_credit": "Photo: CNBC／Getty"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Softer PCE fails to crush long yields; Dow’s September ends weak",
-      "dek": "Investors cheer less-urgent hikes, then watch 10-year yields and oil refuse to behave.",
-      "caveman": "Even after cooler inflation, long-term U.S. bond yields did not crash lower. The Dow’s September finish looked soft compared with early-summer levels. Simple: one good inflation print is not a magic wand. Traders still price war risk, deficits, and “higher for longer” rates. Rate-hike chances for October fell, but nobody declared victory.",
-      "why_it_matters": "Sticky long yields hurt housing, growth stocks, and emerging-market money flows.",
-      "camps": "Optimists focus on falling hike odds. Pessimists say yields and oil can still spoil the party.",
-      "source_name": "investingLive",
-      "source_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-sept-softer-pce-fails-to-hold-yields-down-dow-ends-september-at-june-lows/",
-      "published": "2026-09-30",
+      "headline": "10-year Treasury yield falls back after tagging a multi-decade high",
+      "dek": "Yield dropped toward ~5.21% after touching ~5.34%; stocks used the pause to climb.",
+      "caveman": "U.S. government borrowing costs went on a roller coaster. Reports said the 10-year Treasury yield had spiked to about 5.338% — talked about as a roughly 24-year high — then eased toward about 5.213% on Thursday as selling pressure cooled. That retreat helped stocks finish green. Simple: when lenders demand much higher interest to lend to the U.S., almost everything else gets more expensive and scarier.",
+      "why_it_matters": "The 10-year yield influences mortgages, car loans, and how investors value tech stocks.",
+      "camps": "Hawks say strong data keeps rates higher for longer. Doves hope the spike was an overshoot that markets can digest.",
+      "source_name": "Financial News／LSE",
+      "source_url": "https://www.lse.co.uk/news/us-close-stocks-rise-as-treasury-selling-pressure-subsides-t1pb5pifk1fwltk.html",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "10-year yield",
+          "term": "10-year Treasury",
           "aliases": [],
-          "explain": "Interest rate on 10-year U.S. Treasury bonds; a key global benchmark."
+          "explain": "A U.S. government bond that matures in 10 years; its yield is a key rate benchmark."
         },
         {
-          "term": "Higher for longer",
+          "term": "Yield",
           "aliases": [],
-          "explain": "Idea that rates stay high for a long time, not a quick cut cycle."
+          "explain": "The return bond buyers demand; higher yield = higher borrowing cost."
+        },
+        {
+          "term": "Hawk",
+          "aliases": [],
+          "explain": "Someone who prefers higher rates to fight inflation."
+        },
+        {
+          "term": "Dove",
+          "aliases": [],
+          "explain": "Someone more willing to cut rates to support growth/jobs."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "U.S. Treasury yields and stock indices",
-      "image_credit": "Photo: investingLive"
+      "image_alt": "Global markets and bond trading mood",
+      "image_credit": "Photo: EL PAÍS"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Google unveils Gemini 4 Argon — only ‘trusted cyber defenders’ first",
-      "dek": "Frontier model claims lead on coding, enterprise work, cyber defense; broader paid access later.",
-      "caveman": "A day after OpenAI’s big agent show, Google answered with Gemini 4 Argon. Bosses say it is great at hard coding, legal/finance workflows, and cyber defense. But you cannot just download it: first users are a small set of trusted security defenders while Google watches for misuse and “misalignment.” Simple: the model is so strong they are scared to hand it to everyone yet. Charts claim it beats rival OpenAI and Anthropic scores — for now.",
-      "why_it_matters": "Restarts the frontier-model race and shows safety staging (limited release) becoming normal for top AI.",
-      "camps": "Google fans cheer the comeback. Critics say benchmark charts are marketing; safety advocates want even slower rollouts.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "published": "2026-09-30",
+      "headline": "California AG subpoenas OpenAI over AI-related cyber incidents",
+      "dek": "Bonta seeks more records after model-misuse probes, including Hugging Face-linked concerns.",
+      "caveman": "On Oct 1, California Attorney General Rob Bonta said his office served an investigative subpoena on OpenAI. Officials want more information about cybersecurity incidents and risks tied to OpenAI models — including issues discussed around Hugging Face — and warned developers may face legal accountability if tools enable cyberattacks. Simple: the state is not just writing polite letters; it is demanding documents.",
+      "why_it_matters": "State probes can force safer defaults — or chill model releases — for the whole AI industry.",
+      "camps": "Safety advocates cheer oversight. Industry voices worry overlapping probes become politics-by-subpoena.",
+      "source_name": "California DOJ",
+      "source_url": "https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Frontier model",
+          "term": "Subpoena",
           "aliases": [],
-          "explain": "One of the most capable AI systems available at the time."
+          "explain": "A legal order that forces a company to hand over documents or testimony."
         },
         {
-          "term": "Misalignment",
+          "term": "Attorney General",
           "aliases": [],
-          "explain": "When an AI pursues goals or behaviors humans did not intend."
+          "explain": "A state’s top lawyer and law-enforcement officer for civil cases like this."
         },
         {
-          "term": "Prompt injection",
+          "term": "Model misuse",
           "aliases": [],
-          "explain": "A trick where hidden instructions make an AI ignore its rules."
+          "explain": "When people use an AI system to hack, scam, or cause other harm."
+        },
+        {
+          "term": "Hugging Face",
+          "aliases": [],
+          "explain": "A popular platform for sharing AI models and tools."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Google Gemini AI announcement",
-      "image_credit": "Photo: The Verge"
+      "image_alt": "California Department of Justice announcement",
+      "image_credit": "Photo: California DOJ / OAG"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "White House AI ‘Super Intelligence’ accord: voluntary self-policing",
-      "dek": "OpenAI, Google, Meta, Anthropic, Nvidia, xAI sign four-layer safety pledge — no fines, no forced public audits.",
-      "caveman": "President Trump brought big AI bosses to the White House lawn for a voluntary pact. Companies promise internal controls, monitoring teams, outside auditors, and a board committee. Simple: they pinky-promise to be careful. The deal is not a law. No automatic penalties. Audit results need not go public. Some of the same firms also ask Congress for real rules — so critics call this a PR shield.",
-      "why_it_matters": "Shapes whether the U.S. regulates AI with soft norms or hard law — and how fast safety claims get checked.",
-      "camps": "White House says moral self-policing is enough for now. Lawmakers like Sanders/Casar push bans or hard pauses; transparency bills seek disclosure.",
-      "source_name": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/09/30/how-does-trumps-white-house-ai-accord-work",
-      "published": "2026-09-30",
+      "headline": "Micron’s AI memory surge lifts chip sentiment — MU stock shrugs",
+      "dek": "Record results re-rate the memory story; Nvidia, AMD, Intel catch a bounce.",
+      "caveman": "After Micron’s monster print, traders on Oct 1 pushed other chip names higher even while Micron itself stayed roughly flat. Commentary framed memory supply as a bottleneck for AI systems through 2027–28. Simple: the industry party kept going; the host’s stock already arrived early.",
+      "why_it_matters": "Chip sentiment moves retirement accounts and Taiwan’s export cycle too.",
+      "camps": "Bulls call it confirmation of a multi-year AI hardware upcycle. Skeptics say valuations assume perfection.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/01/mu-barely-budged-on-earnings-wall-street-thinks-gains-will-come.html",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Voluntary accord",
+          "term": "Memory chips",
           "aliases": [],
-          "explain": "A promise companies make without legal force."
+          "explain": "DRAM/HBM/NAND parts that store data for computers and AI servers."
         },
         {
-          "term": "External auditor",
+          "term": "Sentiment",
           "aliases": [],
-          "explain": "An outside firm that checks whether safety claims are real."
+          "explain": "The market’s mood — fear or greed — often moving prices before facts change."
         },
         {
-          "term": "Superintelligence",
+          "term": "Upside",
           "aliases": [],
-          "explain": "Hypothetical AI smarter than humans across most tasks; here also Trump’s preferred label for AI."
+          "explain": "Room for a stock to rise if news is better than expected."
+        },
+        {
+          "term": "Bottleneck",
+          "aliases": [],
+          "explain": "The slowest part of a system that limits everything else."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "White House meeting with AI executives",
-      "image_credit": "Photo: Reuters / Al Jazeera"
+      "image_alt": "AI chip and memory manufacturing",
+      "image_credit": "Photo: CNBC／Getty"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "After DevDay agents: OpenAI Dots land in a crowded personal-AI race",
-      "dek": "Always-on agents follow Meta’s Muse push; Google answers with Gemini 4. What’s new: the field is now a four-way sprint.",
-      "caveman": "OpenAI’s Dots — always-on helper agents — are no longer yesterday’s only headline. Meta’s Muse-style assistants, Google’s new model, and other bots are all racing to live on your phone and cloud PC. Simple: instead of one chatbot you poke, companies want little workers that keep going in the background across apps. Cool for chores; scary for privacy and mistakes that run while you sleep.",
-      "why_it_matters": "Agent apps could change daily work and also create new scam, privacy, and safety failure modes.",
-      "camps": "Product fans want automation. Privacy advocates want clear off switches, logs, and liability when agents mess up.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
-      "published": "2026-09-30",
+      "headline": "Apple–OpenAI trade-secrets fight: injunction hearing pushed to Oct 14",
+      "dek": "Apple wants device imaging and bans on alleged secret use; court continues the combined hearing.",
+      "caveman": "In federal court in San Jose, Apple’s trade-secrets case against OpenAI and related parties is still live. Coverage of the docket says Apple’s preliminary-injunction push — asking the court to block use of alleged secrets and preserve evidence — had a hearing window that slipped from around Oct 1 to Oct 14. Simple: Big Tech is fighting in court over people, files, and hardware know-how, not just chatbots.",
+      "why_it_matters": "Talent wars + secret recipes decide who ships the next devices and AI features.",
+      "camps": "Apple allies say poaching and file walks need hard brakes. Critics say injunctions can be used to intimidate rivals and ex-employees.",
+      "source_name": "CourtListener／case docket reporting",
+      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.38.0.pdf",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "AI agent",
+          "term": "Trade secret",
           "aliases": [],
-          "explain": "Software that takes multi-step actions for you, not just answers a question."
+          "explain": "Valuable confidential business info, like a process or design not shared publicly."
         },
         {
-          "term": "Always-on",
+          "term": "Preliminary injunction",
           "aliases": [],
-          "explain": "Keeps running in the background instead of waiting for each click."
+          "explain": "A temporary court order that freezes behavior before the full trial ends."
         },
         {
-          "term": "DevDay",
+          "term": "Poaching",
           "aliases": [],
-          "explain": "OpenAI’s developer conference where new tools get launched."
+          "explain": "Hiring away a rival’s employees to get skills or knowledge fast."
+        },
+        {
+          "term": "Docket",
+          "aliases": [],
+          "explain": "The court’s official list of filings and hearing dates."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Personal AI agents concept",
-      "image_credit": "Photo: CNBC"
+      "image_alt": "Legal documents and technology dispute imagery",
+      "image_credit": "Photo: Book Riot (generic bookstore; article is court PDF)"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "OpenAI says it disrupted a coordinated model-distillation campaign",
-      "dek": "Company details efforts against large-scale copying of model behavior — a shadow war over AI IP.",
-      "caveman": "OpenAI published a note about stopping a big, organized attempt to “distill” its models — basically training knockoff systems by milking answers at huge scale. Simple: someone tried to photocopy the teacher by asking millions of questions. OpenAI says it broke up the campaign. This sits beside the flashy product launches: the quiet fight is who owns model brains.",
-      "why_it_matters": "Shows AI competition is also about theft, scraping, and API abuse — not only bigger demos.",
-      "camps": "Labs call it necessary IP defense. Open-research voices worry crackdowns also hit legitimate evals and academia.",
-      "source_name": "OpenAI",
-      "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
-      "published": "2026-09-30",
+      "headline": "AI and chip names help Wall Street climb after Micron’s record print",
+      "dek": "Oil & gas and industrials also led; Accenture spiked on its own headlines in the session tape.",
+      "caveman": "Market wrap notes from Oct 1 said gains in oil & gas, industrials, and utilities helped the tape, while AI/chip stocks got a lift after Micron. Some software names swung hard — Accenture was cited among top S&P gainers in one close report. Simple: tech did not carry the day alone, but silicon still set the mood music.",
+      "why_it_matters": "Breadth matters: a rally led by a few mega chips feels different from one with many sectors up.",
+      "camps": "Bulls like multi-sector green. Bears note Dow/Nasdaq barely moved and weekly performance is still negative.",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Distillation",
+          "term": "Breadth",
           "aliases": [],
-          "explain": "Training a smaller/copy model to mimic a bigger model’s answers."
+          "explain": "How many stocks are rising versus falling — a health check for a rally."
         },
         {
-          "term": "API abuse",
+          "term": "Mega chip",
           "aliases": [],
-          "explain": "Using a company’s interface in ways that break rules — here, to vacuum knowledge."
+          "explain": "Very large semiconductor companies that dominate indexes."
         },
         {
-          "term": "IP",
+          "term": "Session",
           "aliases": [],
-          "explain": "Intellectual property — legal ownership of inventions and creative work."
+          "explain": "One trading day from open to close."
+        },
+        {
+          "term": "Utilities",
+          "aliases": [],
+          "explain": "Electric/gas/water companies — often treated as steadier stocks."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "AI security and model protection",
-      "image_credit": "Photo: Ars Technica / Getty"
+      "image_alt": "Wall Street trading day wrap",
+      "image_credit": "Photo: Investing.com"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Trump denies Iran sanctions-relief offer as Qatar keeps mediating",
-      "dek": "Tehran says it received a U.S. proposal after Doha talks; Trump calls sanctions-relief reports a ‘hoax.’",
-      "caveman": "Peace talks about the Iran war are messy. Iran’s foreign minister told the cabinet about a U.S. proposal after meetings in Qatar. Trump blasted reports that he offered sanctions relief and frozen-fund releases, writing he offered “NOTHING.” Simple: mediators still talk, leaders still contradict each other, and markets still jump on every rumor.",
-      "why_it_matters": "Any real deal — or collapse — moves oil, shipping insurance, and regional civilian risk overnight.",
-      "camps": "Diplomacy camp wants Qatar’s channel to keep going. Hardliners on both sides reject big concessions.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-30",
+      "headline": "Hormuz tankers near prewar levels as Gulf fuel bottleneck lingers",
+      "dek": "Crude transit recovers; geopolitics still price a risk premium into energy.",
+      "caveman": "EL PAÍS and other outlets reported Oct 1 that tanker trips through Hormuz are approaching prewar figures. Diplomats and markets still treat the Gulf as fragile because Iran-related tensions and damaged refining capacity have not fully normalized. Simple: more ships are moving, but politics can slam the door again.",
+      "why_it_matters": "Energy chokepoints sit at the crossing of war risk, inflation, and alliance politics.",
+      "camps": "De-escalation camp sees logistics healing. Hardliners say without a durable Iran deal the risk premium stays.",
+      "source_name": "EL PAÍS English",
+      "source_url": "https://english.elpais.com/international/2026-10-01/tanker-transits-through-strait-of-hormuz-approach-prewar-figures.html",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Mediation",
+          "term": "Risk premium",
           "aliases": [],
-          "explain": "A third party helping enemies talk toward a deal."
+          "explain": "Extra price markets add when war or chaos seems possible."
         },
         {
-          "term": "Frozen funds",
+          "term": "Chokepoint",
           "aliases": [],
-          "explain": "Money a country cannot use because other countries locked it."
+          "explain": "A narrow place where traffic can be blocked easily."
         },
         {
-          "term": "Doha",
+          "term": "De-escalation",
           "aliases": [],
-          "explain": "Capital of Qatar, often used for quiet diplomacy."
+          "explain": "Steps that lower the chance of fighting."
+        },
+        {
+          "term": "Refining capacity",
+          "aliases": [],
+          "explain": "How much crude a region can turn into usable fuel."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Diplomacy and Middle East talks",
-      "image_credit": "Photo: CNBC"
+      "image_alt": "Tankers in the Strait of Hormuz region",
+      "image_credit": "Photo: EL PAÍS"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Hormuz crude near prewar levels; fuel shipments still constrained",
-      "dek": "Tankers move more oil again, but refined-product flows and war risk keep a premium in prices.",
-      "caveman": "Good-ish shipping news: crude oil moving through the Strait of Hormuz is closer to how things looked before the war. Bad news: fuels like diesel and jet fuel still face constraints, and insurance stays pricey. Simple: the faucet for raw oil is opener; the finished-gas pipeline is still kinked. That is why pump prices and airline costs may not calm as fast as crude charts.",
-      "why_it_matters": "Separates “oil is fine” headlines from what households and airlines actually pay.",
-      "camps": "Energy bulls stress remaining risk premium. Shipping optimists highlight crude recovery toward ~80% of prewar flows.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
-      "published": "2026-09-30",
+      "headline": "Russia hits Kyiv with drones — school shelter and Southern Bridge struck",
+      "dek": "Overnight wave of ~107 drones; energy grid attacks bring more blackouts.",
+      "caveman": "Ukrainian and international reports on Oct 1 describe a large Russian drone attack — about 107 drones overnight, with air defenses claiming most were shot down. Still, drones hit a Kyiv school area where students were sheltering and struck near the Southern Bridge, disrupting transit. Separately, strikes on energy infrastructure caused more power cuts as winter approaches. Simple: even ‘intercepted’ waves can wreck daily life.",
+      "why_it_matters": "Attacks on schools, bridges, and power are pressure tactics ahead of another cold season.",
+      "camps": "Ukraine and allies call it terror against civilians. Moscow frames strikes as hits on military-linked infrastructure — a claim Kyiv rejects.",
+      "source_name": "The Kyiv Independent／Meduza／France 24",
+      "source_url": "https://kyivindependent.com/2-russian-drones-strike-near-supports-of-kyiv-bridge-linking-eastern-western-banks-klitshchko-says/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Refined fuels",
+          "term": "Shahed-style drone",
           "aliases": [],
-          "explain": "Products made from crude oil — gasoline, diesel, jet fuel."
+          "explain": "Low-cost attack drones Russia has used in waves against Ukraine."
         },
         {
-          "term": "Risk premium",
+          "term": "Air defense",
           "aliases": [],
-          "explain": "Extra price because traders fear war or shocks."
+          "explain": "Missiles and guns meant to shoot down incoming drones and missiles."
+        },
+        {
+          "term": "Blackout",
+          "aliases": [],
+          "explain": "When electricity goes out across a neighborhood or city."
+        },
+        {
+          "term": "Critical infrastructure",
+          "aliases": [],
+          "explain": "Power, water, bridges, hospitals — systems life depends on."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Strait of Hormuz shipping",
-      "image_credit": "Photo: CNBC"
+      "image_alt": "Conflict and infrastructure risk imagery",
+      "image_credit": "Photo: The Guardian (energy/geopolitics desk imagery)"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Kyiv braces for another winter of Russian drones and missiles",
-      "dek": "Energy and city infrastructure again in the crosshairs as cold months approach.",
-      "caveman": "Ukraine is getting ready for winter attacks again. Russia has used drones and missiles to hit cities and power gear in past winters, making heat and light scarce. Simple: war does not pause for snow. Governments stockpile repairs and air defenses; families plan for blackouts. Diplomacy tracks remain sticky elsewhere, so civilians prepare for the sky.",
-      "why_it_matters": "Civilian harm, refugee pressure, and European energy politics all worsen if power grids fail in cold weather.",
-      "camps": "Ukraine and allies push more air defense. Moscow frames strikes as strategic pressure; human-rights groups call attacks on energy civilian punishment.",
-      "source_name": "Newswav / wire reports",
-      "source_url": "https://newswav.com/article/the-war-in-the-sky-kyiv-braces-for-another-winter-of-russian-attacks-A2610_wUg9Sk",
-      "published": "2026-10-01",
+      "headline": "U.S. senators press Trump to speed already-approved Taiwan arms",
+      "dek": "21 Democrats cite $14B package delays after Trump–Xi meeting optics.",
+      "caveman": "Taipei Times reported a joint statement from 21 Democratic U.S. senators urging President Trump to immediately deliver congressionally approved defense aid and arms to Taiwan — including a roughly $14 billion package approved months earlier — after his meeting with China’s Xi Jinping. They argued support for Taiwan’s self-defense is ‘non-negotiable.’ Separately, Taiwan’s first new F-16V jets were due to arrive around Oct 2. Simple: Congress is yelling ‘ship the weapons already.’",
+      "why_it_matters": "Delivery speed affects Taiwan’s readiness and how Beijing reads U.S. commitment.",
+      "camps": "China hawks want faster deliveries. Restraint voices warn arms races and summit diplomacy need balance.",
+      "source_name": "Taipei Times",
+      "source_url": "https://www.taipeitimes.com/News/front/archives/2026/10/02/2003865245",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Air defense",
+          "term": "Arms sale",
           "aliases": [],
-          "explain": "Systems that shoot down or jam attacking missiles and drones."
+          "explain": "Government-approved deal to sell weapons to another country."
         },
         {
-          "term": "Critical infrastructure",
+          "term": "Self-defense",
           "aliases": [],
-          "explain": "Power plants, grids, water, and other systems cities need to live."
+          "explain": "A country’s right to protect itself if attacked."
+        },
+        {
+          "term": "Joint statement",
+          "aliases": [],
+          "explain": "A public message signed by many lawmakers together."
+        },
+        {
+          "term": "Indo-Pacific",
+          "aliases": [],
+          "explain": "The big region spanning the Indian and Pacific Oceans where U.S.–China rivalry is hottest."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Kyiv skyline and air-raid preparedness",
-      "image_credit": "Photo: Newswav"
+      "image_alt": "Taiwan defense and F-16 related imagery",
+      "image_credit": "Photo: 中央社"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Mediators still hunting a U.S.–Iran off-ramp; major hurdles remain",
-      "dek": "Qatar and others shuttle ideas; core demands on nukes, sanctions, and military end states still clash.",
-      "caveman": "Lots of meetings, not a finished peace. Mediators try to find a ladder both Washington and Tehran can climb down. Simple: each side wants the other to give up more first — nuclear steps, sanctions, military positions. Trump says the war may end “very soon” without details; Iran’s messaging stays hard. Until signatures exist, treat victory speeches as politics.",
-      "why_it_matters": "False hope or sudden breakthrough both move markets and civilian risk within hours.",
-      "camps": "Diplomats urge patience with Qatar’s channel. Skeptics say maximalist demands make a deal unlikely soon.",
-      "source_name": "Religion News Service / AP",
-      "source_url": "https://religionnews.com/2026/09/30/mediators-are-working-to-broker-a-us-iran-deal-but-major-hurdles-remain/",
-      "published": "2026-09-30",
+      "headline": "Iran talks still stalled as markets keep a Hormuz surcharge",
+      "dek": "Mediation continues, but sanctions-relief disputes block a clean off-ramp.",
+      "caveman": "Energy and diplomatic coverage into Oct 1 still describes U.S.–Iran talks as stuck, with mediators trying to find an off-ramp while neither side fully trusts the other on sanctions relief and regional security. That deadlock helps keep oil risk priced in even when tanker counts improve. Simple: phones are ringing, deals are not done.",
+      "why_it_matters": "No deal means higher odds of sudden shocks to fuel, shipping insurance, and alliances.",
+      "camps": "Diplomacy camp wants any credible ceasefire framework. Maximalist camps on each side demand the other blink first.",
+      "source_name": "Anadolu Agency／energy wires",
+      "source_url": "https://www.aa.com.tr/en/energy/oil/brent-rises-above-100-as-stalled-us-iran-talks-fuel-supply-concerns/59983",
+      "published": "2026-10-01",
       "terms": [
+        {
+          "term": "Sanctions",
+          "aliases": [],
+          "explain": "Penalties that block trade, banking, or travel to pressure a government."
+        },
         {
           "term": "Off-ramp",
           "aliases": [],
-          "explain": "A face-saving way to stop fighting without total surrender."
+          "explain": "A face-saving way to exit a crisis without more fighting."
         },
         {
-          "term": "End state",
+          "term": "Mediator",
           "aliases": [],
-          "explain": "What the map and rules look like when a war is supposed to be over."
+          "explain": "A third party that tries to help rivals talk."
+        },
+        {
+          "term": "Deadlock",
+          "aliases": [],
+          "explain": "When talks stop moving because nobody will compromise."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "International mediation talks",
-      "image_credit": "Photo: AP"
+      "image_alt": "Oil market and Middle East diplomacy",
+      "image_credit": "Photo: The Independent／wire"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "PW bestsellers: Hilderbrand & Cunningham’s Thoroughbreds hold #1",
-      "dek": "Beach-read duo returns to prep-school drama; hardcover fiction crown for week of Sept 28 list.",
-      "caveman": "Publishers Weekly’s latest hardcover fiction king is still The Thoroughbreds by Elin Hilderbrand and her daughter Shelby Cunningham. It follows their earlier school story The Academy. Simple: rich-campus drama sells. Reviewers call it irresistible messy fun — students and grown-ups both cause trouble.",
-      "why_it_matters": "Shows commercial fiction power couples/families and that “school thriller-lite” remains a cash engine.",
-      "camps": "Fans want more campus soap. Lit snobs shrug; bookstores cash the receipts either way.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101352-this-week-s-bestsellers-september-28-2026.html",
-      "published": "2026-09-30",
+      "headline": "Book Riot chart mashup: Theo of Golden still unshakeable",
+      "dek": "Allen Levi’s novel hits all five major lists; several last-week fixtures fall out of the top 10.",
+      "caveman": "Book Riot’s Oct 1 roundup — combining NYT, Amazon, PW, USA Today, and Indie lists — says Theo of Golden by Allen Levi remains the rare title on all five. Grim Tidings (B.K. Borison) and Hollow Bones (Jodi Picoult) also show wide strength. Meanwhile Taipei Story, Dungeon Crawler Carl, and Pirate Queen slipped from some top-10 slots. Simple: one quiet novel keeps winning the popularity contest.",
+      "why_it_matters": "Cross-list staying power often predicts holiday inventory and book-club picks.",
+      "camps": "Indie booksellers celebrate sticky word-of-mouth. Diversity critics note the combined chart is still too white/male-skewed.",
+      "source_name": "Book Riot",
+      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Hardcover fiction",
+          "term": "Bestseller list",
           "aliases": [],
-          "explain": "New novels sold in hard covers — the prestige bestseller list many watch."
+          "explain": "A ranking of what sold the most in a period, by one data source."
         },
         {
-          "term": "BookScan",
+          "term": "Indie list",
           "aliases": [],
-          "explain": "Sales-tracking service behind many bestseller rankings."
+          "explain": "Sales ranking from independent bookstores."
+        },
+        {
+          "term": "Word of mouth",
+          "aliases": [],
+          "explain": "People recommending a book to friends without big ads."
+        },
+        {
+          "term": "Cross-list",
+          "aliases": [],
+          "explain": "Appearing on several different bestseller charts at once."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "The Thoroughbreds bestseller feature",
-      "image_credit": "Photo: Publishers Weekly"
+      "image_alt": "Bookstore shelves and bestseller tables",
+      "image_credit": "Photo: Book Riot"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Leigh Bardugo’s Dead Beat locks #2 — Yale dark-academia trilogy ends",
-      "dek": "Ninth House saga wraps; Amazon Studios still sits on earlier adaptation rights.",
-      "caveman": "Right under the beach-read queen sits darker magic: Leigh Bardugo’s Dead Beat at #2. It finishes the trilogy that began with Ninth House — secret societies, Yale-ish campuses, ghosts and crime. Simple: fall = dark academia season. Bardugo even joked that TV execs once said her pilot was “too funny” compared with her own book.",
-      "why_it_matters": "Proves trilogy finales can still debut huge when the world is already built.",
-      "camps": "Series readers rush the ending. Newcomers may start at book one; screen fans wait on Amazon’s long-gestating take.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101352-this-week-s-bestsellers-september-28-2026.html",
+      "headline": "California indies: John Green’s Hollywood, Ending debuts at #1 fiction",
+      "dek": "LA Times/CALIBA list also puts Mandel’s Exit Party at #2; Steinem memoir leads nonfiction.",
+      "caveman": "The California Independent Booksellers Alliance list for the week of Oct 4 (published Sept 30) crowns John Green’s Hollywood, Ending as #1 hardcover fiction. Emily St. John Mandel’s Exit Party sits at #2, with Marlon James, Ann Patchett, and Elizabeth Strout close behind. On hardcover nonfiction, Gloria Steinem’s An Unexpected Life opens at #1 over Charles Spencer’s Diana book and Ari Emanuel’s Roll the Calls. Simple: West Coast bookstores are buying big-name storytellers and big memoirs.",
+      "why_it_matters": "Regional indie charts often preview what becomes national book-club fuel.",
+      "camps": "Fans cheer star authors returning. Others want more midlist risk on the front tables.",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-30/the-weeks-bestselling-books-october-4",
       "published": "2026-09-30",
       "terms": [
         {
-          "term": "Dark academia",
+          "term": "CALIBA",
           "aliases": [],
-          "explain": "Moody school/campus stories with secrets, classics vibes, sometimes magic or murder."
+          "explain": "California Independent Booksellers Alliance — organizes the state indie bestseller list."
         },
         {
-          "term": "Trilogy",
+          "term": "Hardcover",
           "aliases": [],
-          "explain": "A story told across three books."
+          "explain": "A book with a stiff cover, usually the first expensive edition."
+        },
+        {
+          "term": "Memoir",
+          "aliases": [],
+          "explain": "A true story from someone’s life, told by them (or with them)."
+        },
+        {
+          "term": "Frontlist",
+          "aliases": [],
+          "explain": "The new/just-out titles stores push hardest."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Dead Beat and dark academia books",
-      "image_credit": "Photo: Publishers Weekly"
+      "image_alt": "Los Angeles Times books coverage",
+      "image_credit": "Photo: Los Angeles Times"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Emily St. John Mandel’s Exit Party debuts at #6 with a starred PW review",
-      "dek": "Station Eleven author returns; reviewers flag surveillance and divisiveness themes.",
-      "caveman": "Emily St. John Mandel — the Station Eleven writer — lands Exit Party at #6 on the hardcover fiction list. PW gave it a starred review for sharp talk about how divided and watched modern life feels. Simple: not pure beach fluff; more “smart worry” fiction that still sells into the top ten.",
-      "why_it_matters": "Keeps literary-crossover authors on commercial lists alongside pure entertainment novels.",
-      "camps": "Lit readers cheer ideas + plot. Some bestseller hunters may prefer lighter campus drama higher on the chart.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101352-this-week-s-bestsellers-september-28-2026.html",
-      "published": "2026-09-30",
+      "headline": "Who’s hot: Grim Tidings & Hollow Bones widen their bestseller footprint",
+      "dek": "Borison’s paranormal romance and Picoult’s Hollow Bones show up across PW/USA Today/Indie stacks.",
+      "caveman": "Beyond the usual dark-academia chatter, Book Riot flags Grim Tidings by B.K. Borison and Hollow Bones by Jodi Picoult as multi-list winners this week. Seasonal vibes (fall, ghosts, secrets) are doing work. Simple: romance-with-bite and Picoult’s issue-driven fiction are both selling.",
+      "why_it_matters": "When romance and book-club fiction surge together, publishers reshuffle spring advances and marketing dollars.",
+      "camps": "Genre fans say the wall between ‘serious’ and ‘fun’ is fake. Traditionalists still separate literary prize bait from romance shelves.",
+      "source_name": "Book Riot",
+      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Starred review",
+          "term": "Paranormal romance",
           "aliases": [],
-          "explain": "A critic’s extra-strong recommendation in trade magazines like PW."
+          "explain": "Love stories with vampires, witches, ghosts, or other supernatural elements."
         },
         {
-          "term": "Surveillance",
+          "term": "Book-club fiction",
           "aliases": [],
-          "explain": "Being watched — by states, companies, or neighbors — often through tech."
+          "explain": "Novels designed for group discussion — big themes, talkable plots."
+        },
+        {
+          "term": "Dark academia",
+          "aliases": [],
+          "explain": "Campus stories with secrets, elites, and often murder."
+        },
+        {
+          "term": "Advance",
+          "aliases": [],
+          "explain": "Money a publisher pays an author before the book comes out."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Exit Party novel coverage",
+      "image_alt": "Publishers Weekly bestseller branding",
       "image_credit": "Photo: Publishers Weekly"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Cookbook swarm: Oversharing, Veg Everything, Eat (Like) the Rich hit nonfiction",
-      "dek": "Instagram chefs invade hardcover nonfiction — cheese boards, NYT veg, Hamptons private-chef heat.",
-      "caveman": "Not only novels: three debut cookbooks crash the hardcover nonfiction list. Oversharing by cheese-board star Cortney LaCorte sits high; Tanya Sichynsky’s Veg Everything brings 101 veggie recipes; Olivia Tiedemann’s Eat (Like) the Rich serves spicy Hamptons private-chef energy. Simple: if you already teach cooking on Instagram, bookstores will try to sell your photos on paper.",
-      "why_it_matters": "Shows how social media fame now prints straight into bestseller nonfiction slots.",
-      "camps": "Home cooks love usable recipes. Traditional food writers debate whether follower counts beat testing rigor.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101352-this-week-s-bestsellers-september-28-2026.html",
-      "published": "2026-09-30",
+      "headline": "Who’s not (as hot): Kuang, Dinniman, Lawhon slip some top-10 slots",
+      "dek": "Still selling — just not everywhere in the combined top tier this week.",
+      "caveman": "Book Riot notes that R.F. Kuang’s Taipei Story, Matt Dinniman’s Dungeon Crawler Carl, and Ariel Lawhon’s Pirate Queen got knocked out of some combined top-10 positions versus last week, even though they remain on overall lists. New seasonal titles crowded in. Simple: not a flop story — more like musical chairs on the podium.",
+      "why_it_matters": "A one-week slip can change bookstore display space even when absolute sales are still strong.",
+      "camps": "Authors’ fans shrug and point to long tails. Chart-watchers treat any drop as a narrative.",
+      "source_name": "Book Riot",
+      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Hardcover nonfiction",
+          "term": "Long tail",
           "aliases": [],
-          "explain": "Fact/lifestyle books in hard cover, including memoirs and cookbooks."
+          "explain": "Steady sales over many months after the first big week."
         },
         {
-          "term": "BookTok / Instagram cookbook",
+          "term": "LitRPG",
           "aliases": [],
-          "explain": "Recipes that blow up on social video or photo apps before becoming books."
+          "explain": "Stories that use game stats/levels as part of the plot (Dungeon Crawler Carl’s lane)."
+        },
+        {
+          "term": "Podium",
+          "aliases": [],
+          "explain": "The very top ranked slots people screenshot."
+        },
+        {
+          "term": "Display space",
+          "aliases": [],
+          "explain": "The front table or window where stores put books you notice first."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Cookbook bestseller display",
-      "image_credit": "Photo: Publishers Weekly"
+      "image_alt": "Bestsellers table in a bookstore",
+      "image_credit": "Photo: Book Riot"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Nepal flood survivors: young mothers describe ‘living hell’ in tents",
-      "dek": "Unicef: 1,400+ dead, 5,700+ missing, 80,000+ need aid after Himalayan flash floods.",
-      "caveman": "After August flash floods in Nepal, mothers and babies are still stuck in crowded tents. One woman spent three days on a hospital roof with her infant before a helicopter came. Unicef numbers are brutal: more than 1,400 dead, thousands missing, tens of thousands needing help. Simple: the water left, the trauma and housing crisis did not. Pregnant women face risky births in temporary shelters.",
-      "why_it_matters": "A live climate-disaster human story — not abstract degrees, but roofs, milk supply, and pneumonia.",
-      "camps": "Aid groups demand faster shelter and maternal care. Climate-justice voices ask whether rich emitters owe loss-and-damage cash.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/sep/30/mothers-trauma-women-children-nepal-flash-floods",
-      "published": "2026-09-30",
+      "headline": "Nepal: new landslides kill at least 30 as monsoon misery continues",
+      "dek": "Trekkers stranded on Annapurna routes; country still reeling from earlier mega-floods.",
+      "caveman": "The Independent reports at least 30 people dead in fresh landslides and floods in Nepal on/around Oct 1, with climbers and trekkers forced to abandon routes or wait for helicopter rescues. The country is still recovering from an earlier catastrophic flood season. Simple: the ground keeps giving way, and rescue crews are exhausted.",
+      "why_it_matters": "Repeated disasters wipe out homes, farms, and tourism income — the cash many families need to rebuild.",
+      "camps": "Local officials plead for faster aid. Climate advocates tie the pattern to warmer air holding more rain.",
+      "source_name": "The Independent",
+      "source_url": "https://www.independent.co.uk/asia/south-asia/nepal-death-toll-landslides-trekking-annapurna-circuit-b3059508.html",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Flash flood",
+          "term": "Landslide",
           "aliases": [],
-          "explain": "Water that rises very fast, often after extreme rain or a glacial burst."
+          "explain": "When a hillside of mud/rock suddenly slides down."
         },
         {
-          "term": "Unicef",
+          "term": "Monsoon",
           "aliases": [],
-          "explain": "UN agency focused on children’s health and protection."
+          "explain": "Seasonal heavy rains in South Asia."
         },
         {
-          "term": "Loss and damage",
+          "term": "Trekking route",
           "aliases": [],
-          "explain": "Money for countries already hurt by climate disasters they did little to cause."
+          "explain": "Mountain walking path used by tourists and guides."
+        },
+        {
+          "term": "Humanitarian aid",
+          "aliases": [],
+          "explain": "Food, tents, medicine, and money sent to help disaster survivors."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Nepal flood survivors in temporary shelter",
-      "image_credit": "Photo: The Guardian / Jigyasa Mishra"
+      "image_alt": "Nepal landslide and rescue aftermath",
+      "image_credit": "Photo: The Independent"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Nepal climate-justice debate: can flood-hit nations sue big emitters?",
-      "dek": "ABC News explores legal paths after repeated Himalayan disasters and huge death tolls.",
-      "caveman": "After another deadly flood season, reporters ask a hard question: can a poorer country take richer, high-polluting countries to court for climate damage? Simple: the mountain falls on your village, but the carbon that warmed the ice mostly came from somewhere else. Lawyers explore treaties and lawsuits; politics may move faster than courts.",
-      "why_it_matters": "Tests whether climate harm becomes a legal debt, not only charity after TV images.",
-      "camps": "Vulnerable nations want enforceable cash and courts. Big emitters prefer voluntary funds and slow diplomacy.",
-      "source_name": "ABC News (Australia)",
-      "source_url": "https://www.abc.net.au/news/2026-10-01/fight-for-climate-justice-after-another-wave-of-floods-in-nepal/107213838",
+      "headline": "Nepal avalanche/flood toll climbs; Himlung deaths add to grief",
+      "dek": "Watchers tally: floods/landslides ≥32 dead; Himlung avalanche toll reaches 11.",
+      "caveman": "Disaster monitors on Oct 1 tallied at least 32 dead from floods and landslides in Nepal, with a separate Himlung avalanche death toll reported at 11. Search teams dug through debris as weather stayed unstable. Simple: multiple mountains, multiple tragedies, one overwhelmed country.",
+      "why_it_matters": "Layered disasters make it harder to bury the dead, house the living, and keep clinics open.",
+      "camps": "Government spokespeople stress rescue first. Critics ask why early-warning guidance did not reach remote valleys faster.",
+      "source_name": "The Watchers",
+      "source_url": "https://watchers.news/2026/10/01/floods-and-landslides-kill-at-least-32-in-nepal-himlung-avalanche-toll-reaches-11/",
       "published": "2026-10-01",
       "terms": [
         {
-          "term": "Climate justice",
+          "term": "Avalanche",
           "aliases": [],
-          "explain": "Idea that those who polluted most should help those hurt most."
+          "explain": "A sudden slide of snow and ice down a mountain."
         },
         {
-          "term": "Emitter",
+          "term": "Death toll",
           "aliases": [],
-          "explain": "A country or company that releases large amounts of greenhouse gases."
+          "explain": "The counted number of people killed."
+        },
+        {
+          "term": "Early warning",
+          "aliases": [],
+          "explain": "Alerts that tell people to move before a disaster hits."
+        },
+        {
+          "term": "Remote valley",
+          "aliases": [],
+          "explain": "A mountain community hard to reach by road."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Nepal flood damage and climate justice",
-      "image_credit": "Photo: The Guardian / Jigyasa Mishra"
+      "image_alt": "Rescue teams searching after Nepal avalanche",
+      "image_credit": "Photo: The Watchers"
     },
     {
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Philippines pushes global funding for climate displacement",
-      "dek": "Manila seeks money and dignified relocation paths for communities forced to move.",
-      "caveman": "The Philippines is telling the world: storms and rising seas already push people from their homes — pay for real relocation, not only emergency rice bags. Simple: when your barangay floods every year, “build back” is not enough; some towns need a planned new place with jobs and schools.",
-      "why_it_matters": "Climate migration is becoming a budget and human-rights issue, not a future sci-fi plot.",
-      "camps": "Island and developing states want direct community finance. Donor governments fear open-ended liability.",
-      "source_name": "InsiderPH",
-      "source_url": "https://insiderph.com/ph-pushes-global-action-funding-for-climate-displacement",
-      "published": "2026-09-30",
+      "headline": "A month on: Ukrainian families still wait for answers after Nepal–China floods",
+      "dek": "Dozens of Ukrainians among the missing; identification and repatriation remain slow.",
+      "caveman": "Reporting around Oct 1 says Ukrainian families are still desperate for information more than a month after deadly floods spanning Nepal–China border regions. Dozens of Ukrainian citizens were among those missing; relatives describe opaque updates and slow identification. Simple: disaster grief becomes worse when you cannot even confirm a goodbye.",
+      "why_it_matters": "Missing-persons limbo blocks funerals, insurance, custody, and mental recovery.",
+      "camps": "Families demand faster DNA ID and diplomacy. Officials cite destroyed roads and overwhelmed morgues.",
+      "source_name": "iNFOnews.ca",
+      "source_url": "https://infonews.ca/news/7883174/a-month-after-nepal-china-floods-ukrainian-families-still-desperate-for-answers/",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Climate displacement",
+          "term": "Repatriation",
           "aliases": [],
-          "explain": "People forced to leave home because of climate-linked disasters or slow changes."
+          "explain": "Bringing a person’s remains (or a survivor) back to their home country."
         },
         {
-          "term": "Relocation",
+          "term": "DNA identification",
           "aliases": [],
-          "explain": "Moving a whole community to safer ground with housing and services."
+          "explain": "Using genetic tests to confirm who a body is."
+        },
+        {
+          "term": "Missing person",
+          "aliases": [],
+          "explain": "Someone not proven dead or alive after a disaster."
+        },
+        {
+          "term": "Consular help",
+          "aliases": [],
+          "explain": "Aid from a country’s embassy/consulate to its citizens abroad."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Climate displacement and relocation planning",
-      "image_credit": "Photo: InsiderPH"
+      "image_alt": "Families seeking answers after disaster",
+      "image_credit": "Photo: iNFOnews.ca"
     },
     {
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Rights group: Bangladesh–Malaysia need a binding migrant-labour deal",
-      "dek": "Fortify Rights flags debt bondage, wage theft, and abusive recruitment on the corridor.",
-      "caveman": "Many Bangladeshi workers go to Malaysia for jobs. A rights group says handshake promises are not enough — the two countries should sign a binding deal against recruitment scams, withheld wages, and debt bondage. Simple: if you must borrow huge fees to get a factory job, you may work like a trapped person. Rules on paper with enforcement beat slogans.",
-      "why_it_matters": "Labor migration builds Gulf and Asian economies; abuse exports poverty across borders.",
-      "camps": "Rights NGOs want enforceable contracts and joint policing of agents. Employers warn red tape could shrink hiring.",
-      "source_name": "United News of Bangladesh",
-      "source_url": "https://unb.com.bd/category/Bangladesh/bangladesh-malaysia-should-establish-binding-labour-deal-to-protect-migrant-workers-fortify-rights/196652",
-      "published": "2026-09-30",
+      "headline": "Climate lens: scientists say warming helped uncork Nepal’s glacier disaster",
+      "dek": "Attribution work links thinner ice and thawing slopes to the earlier collapse — local geology still matters.",
+      "caveman": "Scientific coverage (Reuters/BBC earlier, still shaping Oct debate) finds climate change likely helped trigger Nepal’s catastrophic glacier/slope collapse by thinning ice and thawing mountain permafrost — though geology and past quakes also matter. Survivors and diplomats use that science in fights over who should pay for loss and damage. Simple: the mountain failed for many reasons; heat loaded the dice.",
+      "why_it_matters": "Attribution science is becoming a courtroom and COP bargaining chip for poorer nations.",
+      "camps": "Climate-justice voices want emitter funds. Opponents say local factors dominate and cash fights distract from adaptation.",
+      "source_name": "BBC／Reuters science desks",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo",
+      "published": "2026-10-01",
       "terms": [
         {
-          "term": "Debt bondage",
+          "term": "Attribution science",
           "aliases": [],
-          "explain": "When loan debt for a job traps a worker so they cannot freely leave."
+          "explain": "Research that estimates how much climate change raised the odds of a disaster."
         },
         {
-          "term": "Wage theft",
+          "term": "Permafrost",
           "aliases": [],
-          "explain": "Employers not paying the full salary that was promised."
+          "explain": "Ground that usually stays frozen; when it thaws, slopes can fail."
         },
         {
-          "term": "Recruitment agent",
+          "term": "Loss and damage",
           "aliases": [],
-          "explain": "Middleman who arranges overseas jobs — sometimes honestly, sometimes abusively."
+          "explain": "Money/help for irreversible climate harm already done."
+        },
+        {
+          "term": "COP",
+          "aliases": [],
+          "explain": "The big annual UN climate negotiation meeting."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Migrant workers and labour rights",
-      "image_credit": "Photo: UNB"
+      "image_alt": "Himalayan flood and climate aftermath",
+      "image_credit": "Photo: The Independent"
     }
   ]
 }
