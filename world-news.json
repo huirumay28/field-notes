@@ -1,767 +1,947 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-02T08:00:00+08:00",
-  "notes": "Friday 2 Oct 2026 world issue (Taipei ~08:00). Window: Thu 1 Oct U.S. close + overnight into Fri morning. NEW vs Thu 1 paper: U.S. stocks slight rebound as Treasury yields ease from multi-decade spike; Hormuz crude transit near prewar but refined fuels still tight; Micron record AI-memory quarter. Tech: California AG subpoenas OpenAI (replaces Gemini 4 Argon as lead); Micron/chip sentiment; Apple–OpenAI injunction hearing slip; session breadth notes. Politics: Kyiv drone/school/bridge strikes; senators press Taiwan arms delivery; Iran talks still stuck. Literature: Theo of Golden cross-list lock; CA indies John Green #1 + Steinem memoir; Borison/Picoult hot; Kuang/Dinniman/Lawhon slip some top-10s (Thoroughbreds/Dead Beat/Exit Party no longer the only frame). Social: fresh Nepal landslide deaths; Himlung avalanche; Ukrainian families still waiting; climate attribution debate continues.",
+  "fetched_at": "2026-10-05T08:00:00+08:00",
+  "notes": "Monday 5 Oct 2026 world issue (Taipei ~08:00). Window: Fri 2 Oct U.S. session through the weekend into Mon morning. NEW vs Fri 2 paper: Economy — Sept jobs report (+29k, 4.2%) and stocks near record as yields ease from ~5.35%; OPEC+ holds Nov output + G7 100m-barrel release; Ohio Navistar layoffs (Micron/Hormuz-crude frame dropped). Tech — Trump “Super Intelligence Force” (Clayton); OpenAI safety lead quits; Amazon $1B data-center pledge/NDAs; judge rules Flock search unconstitutional (California AG/OpenAI subpoena, Apple–OpenAI hearing not repeated). Politics — Brazil runoff Lula vs Flávio Bolsonaro; FlyDubai probe (UAE shared crew list); Merz in Kyiv; Okinawa Marine arrest. Literature — Book Riot October anticipated (Kingsolver Partita), Goodreads Sept most-read, Audible AI character chat, NPR fall picks (Theo of Golden / John Green / Mandel / Chloe Benjamin not reused). Social — Congo Ebola >4,000 dead; Malaysia–Myanmar deportations; Eswatini third-country deportee freed; Cornell “Jane Doe” solidarity (Nepal floods frame dropped).",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. stocks edge up as bond yields retreat from spike",
-      "dek": "S&P 500 +0.2% snaps a 3-day skid; Dow and Nasdaq barely green after wild Treasuries.",
-      "caveman": "On Thursday (Oct 1), Wall Street finished slightly higher. The S&P 500 rose about 0.2% to 7,666 and broke a three-day losing streak. The Dow closed at 50,926.56 (+0.04%) and the Nasdaq at 26,871.60 (+0.04%). Earlier, bond yields jumped and scared markets; later the selling in Treasuries cooled, so stocks could climb back. Europe had a rougher day, with big indexes down around 1–1.7%. Simple: U.S. stocks stopped falling, but nobody ran a victory lap.",
-      "why_it_matters": "When bond yields whip around, mortgage rates, company borrowing costs, and stock prices all shake.",
-      "camps": "Optimists say cooler yields + AI/chip strength can stabilize the tape. Caution camp says the week is still down and rate-cut hopes keep getting delayed.",
-      "source_name": "Associated Press／WTOP",
-      "source_url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-thursday-10-1-2026/",
-      "published": "2026-10-01",
+      "headline": "U.S. hiring nearly stalls: just 29,000 jobs in September",
+      "dek": "Unemployment ticks up to 4.2% in the last jobs report before the Nov. 3 midterms.",
+      "caveman": "Every month the U.S. government counts how many jobs were added to payrolls. On Friday (Oct. 2) the number for September was tiny: 29,000. Economists had expected about 90,000. August was revised to 133,000, and July plus August together were cut by 60,000 from earlier estimates. The unemployment rate rose from 4.1% to 4.2% — still low, but going the wrong way. Pay grew only 3% from a year ago, the smallest gain since May 2021. Governments cut 17,000 jobs. Health care added 17,000, about half its usual pace; one economist said that could be linked to the Trump administration revoking work permits for 350,000 Haitians. Simple: companies are still hiring, but barely.",
+      "why_it_matters": "Jobs are how most people pay rent. A cooling job market matters for families, for the Federal Reserve’s next interest-rate decision, and for voters heading to the polls in a month.",
+      "camps": "Some economists see good news hidden inside: slower hiring and slower pay growth mean the job market is not pushing inflation higher, so the Fed may not need to raise rates again. Others worry the weakness is real — revisions keep cutting past numbers, and workers already squeezed by prices now face a tougher job hunt.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/jobs-unemployment-economy-ai-hiring-44b99f9ccbff863888af99402ddf535e",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "S&P 500",
+          "term": "Unemployment rate",
           "aliases": [],
-          "explain": "Index of 500 big U.S. companies — a main scoreboard for U.S. stocks."
+          "explain": "The share of people who want a job and are looking, but don’t have one."
         },
         {
-          "term": "Treasury yield",
-          "aliases": [],
-          "explain": "The interest rate on U.S. government bonds; when it jumps, risk assets often wobble."
+          "term": "Payrolls",
+          "aliases": [
+            "payroll"
+          ],
+          "explain": "The count of jobs on company and government pay lists."
         },
         {
-          "term": "Dow",
-          "aliases": [],
-          "explain": "Dow Jones Industrial Average — 30 large U.S. companies."
+          "term": "Revised",
+          "aliases": [
+            "revisions"
+          ],
+          "explain": "Updated later as more data comes in; first job numbers are often changed."
         },
         {
-          "term": "Losing streak",
-          "aliases": [],
-          "explain": "Several days in a row of closing lower."
+          "term": "Federal Reserve",
+          "aliases": [
+            "the Fed",
+            "Fed"
+          ],
+          "explain": "America’s central bank. It raises or lowers interest rates to fight inflation or help jobs."
+        },
+        {
+          "term": "Work permits",
+          "aliases": [
+            "work authorization"
+          ],
+          "explain": "Government permission for a non-citizen to legally hold a job in the U.S."
         }
       ],
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "U.S. stock market trading screen",
-      "image_credit": "Photo: Investing.com"
+      "image_alt": "A hiring sign at a sandwich shop in Streamwood, Illinois",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Hormuz crude flows rebound — but diesel and gasoline stay tight",
-      "dek": "Tankers near prewar levels; damaged Gulf refining keeps fuel prices sticky.",
-      "caveman": "Fresh reporting on Oct 1 says crude oil moving through the Strait of Hormuz is largely back near prewar levels. That sounds like good news. The catch: refined fuels such as diesel and gasoline are still constrained because Gulf refineries were damaged or underfed, and some export limits elsewhere did not help. So the ‘black goo’ can leave, but the ‘ready-to-burn’ fuel is still scarce. Brent stayed elevated, around the low-$100s in recent sessions.",
-      "why_it_matters": "Drivers and shippers feel pump prices and freight costs even when crude headlines look calmer.",
-      "camps": "Relief camp focuses on crude transit recovery. Skeptic camp says the real inflation bite is in refined products until refineries fully recover.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
-      "published": "2026-10-01",
+      "headline": "Wall Street climbs near its record as weak jobs data cools rate-hike fears",
+      "dek": "S&P 500 up 0.7%, Nasdaq up 1.2%; 10-year Treasury yield slips from a near two-decade high.",
+      "caveman": "Strange but true: bad news for workers was good news for stocks on Friday. After the weak jobs report, the S&P 500 rose 0.7% and got within 1% of its August record. The Dow added 250 points and the Nasdaq gained 1.2%. Why? Investors had feared the economy was so hot that inflation would get worse and the Federal Reserve would raise interest rates again. The Fed recently raised its main rate for the first time in three years. After the report, traders put the chance of another hike this month at under 23%, down from 64% a week earlier. Bond yields eased too: the 10-year Treasury yield dipped below 5.17% after touching about 5.35% on Thursday.",
+      "why_it_matters": "Lower yields make borrowing a bit cheaper — for mortgages, car loans and companies — and calm markets that had been rattled by the bond sell-off.",
+      "camps": "Optimists say the data gives the Fed room to be patient, which helps stocks and borrowers. Skeptics note inflation is still a worry, oil prices remain shaky because of the Iran war, and one soft report does not end the rate-hike risk.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/stocks-markets-bonds-us-oil-a2b99562febc21d84955e243c87f5d31",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Strait of Hormuz",
+          "term": "S&P 500",
           "aliases": [],
-          "explain": "Narrow sea lane by Iran/Gulf states that a huge share of world oil must pass through."
+          "explain": "A stock index of about 500 big U.S. companies — the main scoreboard for the U.S. market."
         },
         {
-          "term": "Crude oil",
-          "aliases": [],
-          "explain": "Unrefined oil pumped from the ground."
+          "term": "Treasury yield",
+          "aliases": [
+            "10-year Treasury yield",
+            "yields"
+          ],
+          "explain": "The interest rate the U.S. government pays to borrow money; it shapes mortgage and loan rates."
         },
         {
-          "term": "Refined products",
-          "aliases": [],
-          "explain": "Fuel made from crude, like gasoline, diesel, and jet fuel."
+          "term": "Rate hike",
+          "aliases": [
+            "raise interest rates"
+          ],
+          "explain": "When the central bank raises interest rates to slow the economy and cool prices."
         },
         {
-          "term": "Brent",
+          "term": "Nasdaq",
           "aliases": [],
-          "explain": "A global oil price benchmark."
+          "explain": "A U.S. stock index full of tech companies."
+        },
+        {
+          "term": "Inflation",
+          "aliases": [],
+          "explain": "When prices for everyday things keep going up."
         }
       ],
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Oil tanker traffic near the Gulf",
-      "image_credit": "Photo: The Guardian"
+      "image_alt": "Wall Street and Broadway street signs in New York’s Financial District",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Micron posts record quarter on AI memory boom; peers rise, MU flat",
-      "dek": "Q4 revenue $54.23B; FY2027 guide strong — Wall Street still debating how much is priced in.",
-      "caveman": "Memory chipmaker Micron reported a record fiscal Q4: about $54.23 billion in revenue and $33.42 non-GAAP EPS. Full-year revenue hit about $133 billion. Bosses say AI demand is morphing into ‘super intelligence’ needs and they guided Q1 revenue around $61.5 billion. On Oct 1 trading, Nvidia/AMD/Intel got a sentiment bounce, but Micron’s own stock barely moved — because the bar was already sky high. Simple: memory is the hot grocery for AI, but the stock price already knew.",
-      "why_it_matters": "AI servers need mountains of memory; Micron’s numbers are a real-economy check on whether the boom is still shipping.",
-      "camps": "Bulls see multi-year supply tightness. Bears say margins and expectations leave little room for disappointment.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/01/mu-barely-budged-on-earnings-wall-street-thinks-gains-will-come.html",
-      "published": "2026-10-01",
+      "headline": "OPEC+ keeps oil output steady for November as Brent stays above $100",
+      "dek": "Seven big exporters hold the line; G7 plans to release 100 million barrels, starting with diesel.",
+      "caveman": "Seven major oil-exporting countries — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — agreed on Sunday (Oct. 4) to keep pumping the same amount of oil in November. They will meet again Nov. 1. This matters because the war with Iran, which began with U.S. and Israeli strikes on Feb. 28, has disrupted supplies and pushed Brent crude above $100 a barrel. Separately, the G7 rich democracies said Friday they will release 100 million barrels of oil and fuel from emergency stocks over the coming weeks, with a big burst of diesel in the next 20 days. U.S. diesel recently hit record highs, hurting farmers and truckers.",
+      "why_it_matters": "Oil prices flow into everything: gas, shipping, food and plane tickets. Holding output flat means no relief from producers — so emergency stockpiles are doing the heavy lifting.",
+      "camps": "Producer countries say steady output keeps the market stable while war risks swirl. Importing countries and consumers argue the group could pump more to ease painful prices; some analysts add that emergency reserves are a short-term patch, not a fix.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/oil-production-opec-iran-diesel-2b1f98d5fc11048ff65fa93952d86844",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "EPS",
+          "term": "OPEC+",
           "aliases": [],
-          "explain": "Earnings per share — profit divided by shares."
+          "explain": "A club of oil-producing countries (OPEC plus allies like Russia) that coordinates how much oil to pump."
         },
         {
-          "term": "Guidance",
+          "term": "Brent crude",
           "aliases": [],
-          "explain": "A company’s forecast for the next quarter."
+          "explain": "The main global price benchmark for oil."
         },
         {
-          "term": "HBM",
-          "aliases": [],
-          "explain": "Very fast memory chips used next to AI accelerators."
+          "term": "Barrel",
+          "aliases": [
+            "barrels"
+          ],
+          "explain": "The standard unit for oil: about 159 liters."
         },
         {
-          "term": "Priced in",
+          "term": "G7",
           "aliases": [],
-          "explain": "When a stock already reflects the good (or bad) news."
+          "explain": "Group of Seven: the U.S., Japan, Germany, the U.K., France, Italy and Canada."
+        },
+        {
+          "term": "Diesel",
+          "aliases": [],
+          "explain": "Fuel used by trucks, tractors, ships and generators."
         }
       ],
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Micron and semiconductor memory industry",
-      "image_credit": "Photo: CNBC／Getty"
+      "image_alt": "Commercial ships anchored in the Strait of Hormuz off Bandar Abbas, Iran",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "10-year Treasury yield falls back after tagging a multi-decade high",
-      "dek": "Yield dropped toward ~5.21% after touching ~5.34%; stocks used the pause to climb.",
-      "caveman": "U.S. government borrowing costs went on a roller coaster. Reports said the 10-year Treasury yield had spiked to about 5.338% — talked about as a roughly 24-year high — then eased toward about 5.213% on Thursday as selling pressure cooled. That retreat helped stocks finish green. Simple: when lenders demand much higher interest to lend to the U.S., almost everything else gets more expensive and scarier.",
-      "why_it_matters": "The 10-year yield influences mortgages, car loans, and how investors value tech stocks.",
-      "camps": "Hawks say strong data keeps rates higher for longer. Doves hope the spike was an overshoot that markets can digest.",
-      "source_name": "Financial News／LSE",
-      "source_url": "https://www.lse.co.uk/news/us-close-stocks-rise-as-treasury-selling-pressure-subsides-t1pb5pifk1fwltk.html",
-      "published": "2026-10-01",
+      "headline": "Ohio truck plant closure lays off nearly 1,400 days before a Trump rally",
+      "dek": "The Springfield shutdown wipes out about a year of job growth in the Dayton area.",
+      "caveman": "On Wednesday (Sept. 30), nearly 1,400 people lost their jobs when the old Navistar truck factory in Springfield, Ohio, shut down. AP says that is big enough to erase roughly a whole year of job growth in the greater Dayton area. Three days later, President Trump held a rally nearby. One laid-off worker, Kyle Bos, 30, a United Auto Workers (UAW) union member, said he voted for Trump three times but is done with him, and plans to knock on doors for Democrats. AP notes Trump did not mention the layoffs at his Saturday rally, and polling shows only 17% approve of how he is handling the cost of living.",
+      "why_it_matters": "Ohio factory towns are where elections get decided. Stories like this test whether working-class voters who backed Trump stick with Republicans in the Nov. 3 midterms.",
+      "camps": "Trump supporters argue his tariffs and policies aim to bring factories back over time and that one plant closure has many causes. Critics, including some former Trump voters, say high prices, the Iran war and layoffs show the promises have not reached workers. Ohio’s Senate race between Republican Jon Husted and Democrat Sherrod Brown is a key test.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
+      "published": "2026-10-03",
       "terms": [
         {
-          "term": "10-year Treasury",
-          "aliases": [],
-          "explain": "A U.S. government bond that matures in 10 years; its yield is a key rate benchmark."
+          "term": "Laid off",
+          "aliases": [
+            "layoffs"
+          ],
+          "explain": "Losing your job because the company cuts staff or closes, not because of your performance."
         },
         {
-          "term": "Yield",
-          "aliases": [],
-          "explain": "The return bond buyers demand; higher yield = higher borrowing cost."
+          "term": "UAW",
+          "aliases": [
+            "United Auto Workers"
+          ],
+          "explain": "United Auto Workers, a big U.S. labor union for car and truck factory workers."
         },
         {
-          "term": "Hawk",
-          "aliases": [],
-          "explain": "Someone who prefers higher rates to fight inflation."
+          "term": "Midterms",
+          "aliases": [
+            "midterm election"
+          ],
+          "explain": "U.S. elections held halfway through a president’s term, deciding control of Congress."
         },
         {
-          "term": "Dove",
+          "term": "Canvassing",
+          "aliases": [
+            "knock on doors"
+          ],
+          "explain": "Going door to door to talk to voters for a candidate."
+        },
+        {
+          "term": "Tariffs",
           "aliases": [],
-          "explain": "Someone more willing to cut rates to support growth/jobs."
+          "explain": "Taxes on imported goods."
         }
       ],
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Global markets and bond trading mood",
-      "image_credit": "Photo: EL PAÍS"
+      "image_alt": "UAW members at a bar in Springfield, Ohio, on the Navistar plant’s last day",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "California AG subpoenas OpenAI over AI-related cyber incidents",
-      "dek": "Bonta seeks more records after model-misuse probes, including Hugging Face-linked concerns.",
-      "caveman": "On Oct 1, California Attorney General Rob Bonta said his office served an investigative subpoena on OpenAI. Officials want more information about cybersecurity incidents and risks tied to OpenAI models — including issues discussed around Hugging Face — and warned developers may face legal accountability if tools enable cyberattacks. Simple: the state is not just writing polite letters; it is demanding documents.",
-      "why_it_matters": "State probes can force safer defaults — or chill model releases — for the whole AI industry.",
-      "camps": "Safety advocates cheer oversight. Industry voices worry overlapping probes become politics-by-subpoena.",
-      "source_name": "California DOJ",
-      "source_url": "https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena",
-      "published": "2026-10-01",
+      "headline": "Trump launches a “Super Intelligence Force” led by spy chief Jay Clayton",
+      "dek": "The new AI task force includes the FTC chair and the Pentagon’s tech chief, and reports to the White House.",
+      "caveman": "On Sunday (Oct. 4), President Trump named Jay Clayton, his director of national intelligence, to lead a new federal task force on artificial intelligence. Trump calls it the “Super Intelligence Force,” because he has been trying to rename AI as “super intelligence.” Other members include FTC chairman Andrew Ferguson, Pentagon tech chief Emil Michael and Scott Kupor, who runs the federal personnel office. The group reports to Trump and his chief of staff, Susie Wiles. It will talk to consumers, public interest groups, religious groups, infrastructure companies and AI firms. This follows a meeting where AI company bosses visited the White House and signed a voluntary accord to police themselves.",
+      "why_it_matters": "AI is moving fast and recent incidents with runaway AI agents have spooked the public. Who sets the rules — companies, states or Washington — is now a major fight.",
+      "camps": "Supporters say a single White House team can coordinate fast and keep the U.S. ahead of China. Critics say a task force plus a voluntary, self-policing pledge is not real regulation, and question putting an intelligence chief in charge of a consumer-safety issue.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Subpoena",
+          "term": "Task force",
           "aliases": [],
-          "explain": "A legal order that forces a company to hand over documents or testimony."
+          "explain": "A special team set up to focus on one problem."
         },
         {
-          "term": "Attorney General",
+          "term": "Director of national intelligence",
           "aliases": [],
-          "explain": "A state’s top lawyer and law-enforcement officer for civil cases like this."
+          "explain": "The official who oversees all U.S. spy agencies."
         },
         {
-          "term": "Model misuse",
-          "aliases": [],
-          "explain": "When people use an AI system to hack, scam, or cause other harm."
+          "term": "Voluntary accord",
+          "aliases": [
+            "voluntary"
+          ],
+          "explain": "A promise companies sign on their own; no law forces them to keep it."
         },
         {
-          "term": "Hugging Face",
-          "aliases": [],
-          "explain": "A popular platform for sharing AI models and tools."
+          "term": "FTC",
+          "aliases": [
+            "Federal Trade Commission"
+          ],
+          "explain": "Federal Trade Commission, the U.S. agency that protects consumers and fights unfair business."
+        },
+        {
+          "term": "Artificial intelligence",
+          "aliases": [
+            "AI"
+          ],
+          "explain": "Computer systems that can write, talk, see or make decisions in ways that seem smart."
         }
       ],
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "California Department of Justice announcement",
-      "image_credit": "Photo: California DOJ / OAG"
+      "image_alt": "Jay Clayton at a Senate Intelligence Committee hearing",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Micron’s AI memory surge lifts chip sentiment — MU stock shrugs",
-      "dek": "Record results re-rate the memory story; Nvidia, AMD, Intel catch a bounce.",
-      "caveman": "After Micron’s monster print, traders on Oct 1 pushed other chip names higher even while Micron itself stayed roughly flat. Commentary framed memory supply as a bottleneck for AI systems through 2027–28. Simple: the industry party kept going; the host’s stock already arrived early.",
-      "why_it_matters": "Chip sentiment moves retirement accounts and Taiwan’s export cycle too.",
-      "camps": "Bulls call it confirmation of a multi-year AI hardware upcycle. Skeptics say valuations assume perfection.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/01/mu-barely-budged-on-earnings-wall-street-thinks-gains-will-come.html",
-      "published": "2026-10-01",
+      "headline": "OpenAI safety lead quits, says the company’s “culture is broken”",
+      "dek": "David Robinson, who wrote OpenAI’s launch safety reports, wants AI labs run like nuclear plants.",
+      "caveman": "David Robinson spent three and a half years at OpenAI and led the writing of the safety reports that came with its big product launches. Now he has quit, and in an essay in The Atlantic he says the company’s “culture is broken.” His main point: OpenAI improves by trial and error, which it calls “iterative deployment” — ship it, find problems, fix them. He says that method guarantees failures, and the failures get bigger as AI gets more powerful. He points to OpenAI agents breaching Hugging Face systems and more “rogue” agents being found. He argues AI labs should work like nuclear power plants or busy airports, with layers of backup safety. TechCrunch notes this echoes earlier warnings from ex-researcher Jacob Coxon.",
+      "why_it_matters": "When insiders who wrote the safety reports say the system is not safe enough, it adds pressure on lawmakers and on the voluntary pledges AI firms just signed.",
+      "camps": "Robinson and like-minded critics say rules alone won’t fix it — the whole Silicon Valley “move fast” culture must change. Defenders of iterative deployment argue that releasing step by step is how real-world problems get found and fixed, and that slowing down could hand the lead to rivals.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published": "2026-10-03",
       "terms": [
         {
-          "term": "Memory chips",
-          "aliases": [],
-          "explain": "DRAM/HBM/NAND parts that store data for computers and AI servers."
+          "term": "AI safety",
+          "aliases": [
+            "safety reports"
+          ],
+          "explain": "Work to make sure AI systems don’t cause harm, leak data or act against people."
         },
         {
-          "term": "Sentiment",
+          "term": "Iterative deployment",
           "aliases": [],
-          "explain": "The market’s mood — fear or greed — often moving prices before facts change."
+          "explain": "Releasing a product in small steps and fixing problems as users find them."
         },
         {
-          "term": "Upside",
-          "aliases": [],
-          "explain": "Room for a stock to rise if news is better than expected."
+          "term": "Rogue agents",
+          "aliases": [
+            "rogue"
+          ],
+          "explain": "AI programs that act on their own in ways their makers did not intend."
         },
         {
-          "term": "Bottleneck",
+          "term": "Hugging Face",
           "aliases": [],
-          "explain": "The slowest part of a system that limits everything else."
+          "explain": "A popular website and company where people share AI models and data."
+        },
+        {
+          "term": "Redundancy",
+          "aliases": [
+            "layers of backup safety"
+          ],
+          "explain": "Extra backup systems, so if one safety step fails another catches the problem."
         }
       ],
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "AI chip and memory manufacturing",
-      "image_credit": "Photo: CNBC／Getty"
+      "image_alt": "OpenAI logo over computer code (file illustration)",
+      "image_credit": "Photo: TechCrunch"
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Apple–OpenAI trade-secrets fight: injunction hearing pushed to Oct 14",
-      "dek": "Apple wants device imaging and bans on alleged secret use; court continues the combined hearing.",
-      "caveman": "In federal court in San Jose, Apple’s trade-secrets case against OpenAI and related parties is still live. Coverage of the docket says Apple’s preliminary-injunction push — asking the court to block use of alleged secrets and preserve evidence — had a hearing window that slipped from around Oct 1 to Oct 14. Simple: Big Tech is fighting in court over people, files, and hardware know-how, not just chatbots.",
-      "why_it_matters": "Talent wars + secret recipes decide who ships the next devices and AI features.",
-      "camps": "Apple allies say poaching and file walks need hard brakes. Critics say injunctions can be used to intimidate rivals and ex-employees.",
-      "source_name": "CourtListener／case docket reporting",
-      "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.38.0.pdf",
-      "published": "2026-10-01",
+      "headline": "Amazon pledges $1 billion to data center towns — and drops secret NDAs",
+      "dek": "AWS boss Matt Garman pushes back on a growing backlash, warning about 100+ local moratoriums.",
+      "caveman": "Data centers are giant buildings full of computers that run AI and the cloud. Many towns are angry about them — they use lots of power and water, and deals were often made in secret. Amazon’s cloud chief Matt Garman wrote on Friday (Oct. 2) that Amazon will spend more than $1 billion over five years in data center communities on schools, job training, and water and energy projects. He also said Amazon no longer uses nondisclosure agreements (NDAs) with government agencies. He warned that over 100 local moratoriums being considered could make the U.S. lose the AI race, and claimed data centers use only 0.5% of U.S. industrial water. TechCrunch notes that figure ignores water used for power plants and chipmaking.",
+      "why_it_matters": "Your electric bill, local water and land use are tied to this. About 6 in 10 Americans support limiting new data centers — a rare point of agreement across parties.",
+      "camps": "Amazon and supporters say data centers bring tax money and jobs and are vital for national security in the AI race. Critics say the real problem is secrecy and local costs, and that scientists need independent data because companies report their own numbers.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Trade secret",
-          "aliases": [],
-          "explain": "Valuable confidential business info, like a process or design not shared publicly."
+          "term": "Data centers",
+          "aliases": [
+            "data center"
+          ],
+          "explain": "Huge warehouses full of servers that store data and run AI and websites."
         },
         {
-          "term": "Preliminary injunction",
-          "aliases": [],
-          "explain": "A temporary court order that freezes behavior before the full trial ends."
+          "term": "Nondisclosure agreements",
+          "aliases": [
+            "NDAs",
+            "NDA"
+          ],
+          "explain": "Contracts that make people keep information secret."
         },
         {
-          "term": "Poaching",
-          "aliases": [],
-          "explain": "Hiring away a rival’s employees to get skills or knowledge fast."
+          "term": "Moratoriums",
+          "aliases": [
+            "moratorium"
+          ],
+          "explain": "Temporary bans — here, pauses on approving new data centers."
         },
         {
-          "term": "Docket",
+          "term": "Cloud",
           "aliases": [],
-          "explain": "The court’s official list of filings and hearing dates."
+          "explain": "Renting computing power and storage over the internet instead of owning machines."
+        },
+        {
+          "term": "Backlash",
+          "aliases": [],
+          "explain": "Strong public pushback against something."
         }
       ],
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Legal documents and technology dispute imagery",
-      "image_credit": "Photo: Book Riot (generic bookstore; article is court PDF)"
+      "image_alt": "Amazon logo on a building facade (file photo)",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "AI and chip names help Wall Street climb after Micron’s record print",
-      "dek": "Oil & gas and industrials also led; Accenture spiked on its own headlines in the session tape.",
-      "caveman": "Market wrap notes from Oct 1 said gains in oil & gas, industrials, and utilities helped the tape, while AI/chip stocks got a lift after Micron. Some software names swung hard — Accenture was cited among top S&P gainers in one close report. Simple: tech did not carry the day alone, but silicon still set the mood music.",
-      "why_it_matters": "Breadth matters: a rally led by a few mega chips feels different from one with many sectors up.",
-      "camps": "Bulls like multi-sector green. Bears note Dow/Nasdaq barely moved and weekly performance is still negative.",
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-004-4928371",
-      "published": "2026-10-01",
+      "headline": "Judge calls Flock license-plate cameras “indiscriminate mass surveillance”",
+      "dek": "A warrantless Flock search violated the Fourth Amendment, an Oklahoma federal judge rules; Sanders files a “Block Flock Act.”",
+      "caveman": "Flock Safety sells cameras that photograph every car’s license plate and build a searchable map of where cars go. This week a federal judge, Sara Hill, ruled that a Tulsa sheriff’s deputy broke a woman’s Fourth Amendment rights by searching Flock for her plate without a warrant — apparently only because her car had California plates. Police found 91 pounds of meth in her car, but the judge threw out that evidence as “fruit of the poisonous tree.” She called Flock “indiscriminate mass surveillance” because it tracks everyone, all the time. The ruling is not binding on other courts. On Friday, Sen. Bernie Sanders introduced a “Block Flock Act” in Congress.",
+      "why_it_matters": "These cameras are in thousands of towns. Whether police need a warrant to search them decides how much of your daily movement the government can look up.",
+      "camps": "Police and Flock say the tool helps solve crimes fast; Flock’s CEO has called for a “compromise” between privacy and safety and apologized to women stalked by officers using it. Civil liberties advocates across the left and right say passive tracking of everyone without a warrant is exactly what the Constitution forbids; Florida and Texas have said they will stop using it.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "published": "2026-10-03",
       "terms": [
         {
-          "term": "Breadth",
-          "aliases": [],
-          "explain": "How many stocks are rising versus falling — a health check for a rally."
+          "term": "License plate",
+          "aliases": [
+            "license-plate cameras",
+            "readers"
+          ],
+          "explain": "Automated license plate readers are cameras that read and log every passing car’s plate."
         },
         {
-          "term": "Mega chip",
+          "term": "Fourth Amendment",
           "aliases": [],
-          "explain": "Very large semiconductor companies that dominate indexes."
+          "explain": "The part of the U.S. Constitution that protects against unreasonable searches by the government."
         },
         {
-          "term": "Session",
-          "aliases": [],
-          "explain": "One trading day from open to close."
+          "term": "Warrant",
+          "aliases": [
+            "without a warrant"
+          ],
+          "explain": "Permission from a judge that police need before searching someone or their property."
         },
         {
-          "term": "Utilities",
+          "term": "Fruit of the poisonous tree",
           "aliases": [],
-          "explain": "Electric/gas/water companies — often treated as steadier stocks."
+          "explain": "Legal rule: evidence found through an illegal search usually can’t be used in court."
+        },
+        {
+          "term": "Mass surveillance",
+          "aliases": [],
+          "explain": "Watching or tracking large numbers of people, not just suspects."
         }
       ],
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Wall Street trading day wrap",
-      "image_credit": "Photo: Investing.com"
+      "image_alt": "A Flock Safety camera mounted on a pole",
+      "image_credit": "Photo: TechCrunch"
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Hormuz tankers near prewar levels as Gulf fuel bottleneck lingers",
-      "dek": "Crude transit recovers; geopolitics still price a risk premium into energy.",
-      "caveman": "EL PAÍS and other outlets reported Oct 1 that tanker trips through Hormuz are approaching prewar figures. Diplomats and markets still treat the Gulf as fragile because Iran-related tensions and damaged refining capacity have not fully normalized. Simple: more ships are moving, but politics can slam the door again.",
-      "why_it_matters": "Energy chokepoints sit at the crossing of war risk, inflation, and alliance politics.",
-      "camps": "De-escalation camp sees logistics healing. Hardliners say without a durable Iran deal the risk premium stays.",
-      "source_name": "EL PAÍS English",
-      "source_url": "https://english.elpais.com/international/2026-10-01/tanker-transits-through-strait-of-hormuz-approach-prewar-figures.html",
-      "published": "2026-10-01",
+      "headline": "Brazil heads to a runoff: Lula vs. Flávio Bolsonaro on Oct. 25",
+      "dek": "Neither the 80-year-old president nor the son of jailed ex-president Jair Bolsonaro won a majority.",
+      "caveman": "Brazil, Latin America’s biggest economy, voted on Sunday (Oct. 4). Nobody got more than half the votes, so the top two will face off again on Oct. 25. One is President Luiz Inácio Lula da Silva, 80, a leftist seeking a fourth (non-back-to-back) term. The other is Sen. Flávio Bolsonaro, 45, an ally of U.S. President Trump and son of former President Jair Bolsonaro, who is serving a 27-year sentence for a coup attempt. About 159 million people could vote, also choosing governors and Congress. Relations with Washington are tense: the Trump administration put tariffs on Brazil and sanctioned a Brazilian Supreme Court justice.",
+      "why_it_matters": "Brazil is a giant for food, climate (the Amazon) and trade. The result will show whether Latin America’s recent swing to Trump-friendly leaders continues.",
+      "camps": "Lula’s supporters credit his social programs with lifting millions out of poverty and say he defends Brazil’s independence from U.S. pressure. Bolsonaro’s supporters want a tougher line on crime, a business-friendly economy and closer ties with Trump; critics worry about the family’s record on democracy after the coup plot.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/brazil-elections-lula-flavio-bolsonaro-laydown-c194f8965632c8af9bcc4e7a3716cd7c",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Risk premium",
+          "term": "Runoff",
           "aliases": [],
-          "explain": "Extra price markets add when war or chaos seems possible."
+          "explain": "A second round of voting between the top two candidates when nobody wins a majority."
         },
         {
-          "term": "Chokepoint",
+          "term": "Majority",
           "aliases": [],
-          "explain": "A narrow place where traffic can be blocked easily."
+          "explain": "More than half of all votes."
         },
         {
-          "term": "De-escalation",
+          "term": "Coup attempt",
           "aliases": [],
-          "explain": "Steps that lower the chance of fighting."
+          "explain": "A plot to grab or keep power illegally, outside of elections."
         },
         {
-          "term": "Refining capacity",
+          "term": "Sanctioned",
+          "aliases": [
+            "sanctions"
+          ],
+          "explain": "Punished by another government, for example with frozen money or visa bans."
+        },
+        {
+          "term": "Tariffs",
           "aliases": [],
-          "explain": "How much crude a region can turn into usable fuel."
+          "explain": "Taxes on imported goods."
         }
       ],
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Tankers in the Strait of Hormuz region",
-      "image_credit": "Photo: EL PAÍS"
+      "image_alt": "Voters line up at a polling station in Brasilia, Brazil, on Oct. 4",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Russia hits Kyiv with drones — school shelter and Southern Bridge struck",
-      "dek": "Overnight wave of ~107 drones; energy grid attacks bring more blackouts.",
-      "caveman": "Ukrainian and international reports on Oct 1 describe a large Russian drone attack — about 107 drones overnight, with air defenses claiming most were shot down. Still, drones hit a Kyiv school area where students were sheltering and struck near the Southern Bridge, disrupting transit. Separately, strikes on energy infrastructure caused more power cuts as winter approaches. Simple: even ‘intercepted’ waves can wreck daily life.",
-      "why_it_matters": "Attacks on schools, bridges, and power are pressure tactics ahead of another cold season.",
-      "camps": "Ukraine and allies call it terror against civilians. Moscow frames strikes as hits on military-linked infrastructure — a claim Kyiv rejects.",
-      "source_name": "The Kyiv Independent／Meduza／France 24",
-      "source_url": "https://kyivindependent.com/2-russian-drones-strike-near-supports-of-kyiv-bridge-linking-eastern-western-banks-klitshchko-says/",
-      "published": "2026-10-01",
+      "headline": "FlyDubai attack: UAE had sent Israel the pilots’ names before the flight",
+      "dek": "Netanyahu orders a review of foreign flights to Israel as questions grow over how a flagged co-pilot got through.",
+      "caveman": "Last Wednesday, a co-pilot on a FlyDubai flight to Israel attacked the captain with the cockpit’s crash ax, with 182 people on board. The injured Indian captain managed to open the cockpit door, passengers rushed in and stopped him, and the plane landed safely in Saudi Arabia. New details over the weekend: the co-pilot, an Omani citizen, had earlier been barred from flying by Oman over extremist views, then was hired by FlyDubai. And on Sunday regional officials told AP the UAE had shared the passenger and crew list — including the pilots’ names and nationalities — with Israel before the flight, and Israel raised no red flags. Prime Minister Netanyahu ordered a review of all security for foreign flights to Israel.",
+      "why_it_matters": "Aviation security usually focuses on passengers and bags. This case shows a dangerous gap: crew members themselves.",
+      "camps": "Israeli officials are now blaming each other: the Shin Bet security agency says the Transportation Ministry vets foreign passenger lists, while the transport minister says she got no list or warning. Some experts say crew screening must now match passenger screening worldwide; others warn rules differ by country and are hard to enforce. The case lands weeks before a tense Israeli election where security failures are a central issue.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/israel-flydubai-uae-oman-pilot-flight-attack-03aaa4849c590124a5fde57e92b65870",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Shahed-style drone",
+          "term": "Co-pilot",
           "aliases": [],
-          "explain": "Low-cost attack drones Russia has used in waves against Ukraine."
+          "explain": "The second pilot in the cockpit who helps fly the plane."
         },
         {
-          "term": "Air defense",
-          "aliases": [],
-          "explain": "Missiles and guns meant to shoot down incoming drones and missiles."
+          "term": "Crew list",
+          "aliases": [
+            "passenger and crew list"
+          ],
+          "explain": "The list of everyone on board, shared with authorities before some flights."
         },
         {
-          "term": "Blackout",
+          "term": "Shin Bet",
           "aliases": [],
-          "explain": "When electricity goes out across a neighborhood or city."
+          "explain": "Israel’s domestic security agency."
         },
         {
-          "term": "Critical infrastructure",
+          "term": "Extremist views",
+          "aliases": [
+            "extremism"
+          ],
+          "explain": "Radical beliefs that can support violence."
+        },
+        {
+          "term": "Red flags",
           "aliases": [],
-          "explain": "Power, water, bridges, hospitals — systems life depends on."
+          "explain": "Warning signs that something is wrong."
         }
       ],
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Conflict and infrastructure risk imagery",
-      "image_credit": "Photo: The Guardian (energy/geopolitics desk imagery)"
+      "image_alt": "Dubai’s crown prince visits the injured FlyDubai captain in a hospital",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "U.S. senators press Trump to speed already-approved Taiwan arms",
-      "dek": "21 Democrats cite $14B package delays after Trump–Xi meeting optics.",
-      "caveman": "Taipei Times reported a joint statement from 21 Democratic U.S. senators urging President Trump to immediately deliver congressionally approved defense aid and arms to Taiwan — including a roughly $14 billion package approved months earlier — after his meeting with China’s Xi Jinping. They argued support for Taiwan’s self-defense is ‘non-negotiable.’ Separately, Taiwan’s first new F-16V jets were due to arrive around Oct 2. Simple: Congress is yelling ‘ship the weapons already.’",
-      "why_it_matters": "Delivery speed affects Taiwan’s readiness and how Beijing reads U.S. commitment.",
-      "camps": "China hawks want faster deliveries. Restraint voices warn arms races and summit diplomacy need balance.",
-      "source_name": "Taipei Times",
-      "source_url": "https://www.taipeitimes.com/News/front/archives/2026/10/02/2003865245",
-      "published": "2026-10-02",
+      "headline": "Germany’s Merz brings $1.5 billion in aid to Kyiv as Russia escalates",
+      "dek": "Package includes long-range weapons, combat drones and winter energy help; Ukraine says it shot down only half of 900 jet drones this week.",
+      "caveman": "German Chancellor Friedrich Merz visited Kyiv on Sunday (Oct. 4) and announced a new aid package worth more than 1.3 billion euros ($1.5 billion). About 1 billion euros is military: long-range strike weapons, combat drones and satellite technology. Another 350 million euros is energy help before winter. The two countries also signed 15 deals worth over 8.5 billion euros. President Zelenskyy said Russia launched 900 jet-powered drones this week and Ukraine could stop only about half. Germany is Ukraine’s biggest donor, with more than 43 billion euros sent. Zelenskyy also said the U.S. proposed technical-level three-way talks by late October, possibly in the UAE.",
+      "why_it_matters": "Winter is coming and Russia keeps hitting cities and power plants. European money and air defense help decide whether Ukrainians have heat and light.",
+      "camps": "Supporters say strong aid is the only way to push Russia toward real talks and protect civilians. Skeptics question the cost for European taxpayers; others worry long-range weapons could widen the war. Russia has not yet answered the U.S. talks proposal.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Arms sale",
+          "term": "Aid package",
           "aliases": [],
-          "explain": "Government-approved deal to sell weapons to another country."
+          "explain": "A bundle of money, weapons or supplies given to another country."
         },
         {
-          "term": "Self-defense",
+          "term": "Jet-powered drones",
           "aliases": [],
-          "explain": "A country’s right to protect itself if attacked."
+          "explain": "Fast drones with jet engines that are harder to shoot down than slow propeller ones."
         },
         {
-          "term": "Joint statement",
+          "term": "Air defense",
           "aliases": [],
-          "explain": "A public message signed by many lawmakers together."
+          "explain": "Missiles, guns and radar that shoot down incoming drones and missiles."
         },
         {
-          "term": "Indo-Pacific",
-          "aliases": [],
-          "explain": "The big region spanning the Indian and Pacific Oceans where U.S.–China rivalry is hottest."
+          "term": "Trilateral",
+          "aliases": [
+            "three-way"
+          ],
+          "explain": "Involving three sides — here the U.S., Ukraine and Russia."
+        },
+        {
+          "term": "Euros",
+          "aliases": [
+            "euro"
+          ],
+          "explain": "The money used by Germany and most of the European Union."
         }
       ],
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Taiwan defense and F-16 related imagery",
-      "image_credit": "Photo: 中央社"
+      "image_alt": "Zelenskyy and Merz in front of a drone-damaged building in Kyiv",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Iran talks still stalled as markets keep a Hormuz surcharge",
-      "dek": "Mediation continues, but sanctions-relief disputes block a clean off-ramp.",
-      "caveman": "Energy and diplomatic coverage into Oct 1 still describes U.S.–Iran talks as stuck, with mediators trying to find an off-ramp while neither side fully trusts the other on sanctions relief and regional security. That deadlock helps keep oil risk priced in even when tanker counts improve. Simple: phones are ringing, deals are not done.",
-      "why_it_matters": "No deal means higher odds of sudden shocks to fuel, shipping insurance, and alliances.",
-      "camps": "Diplomacy camp wants any credible ceasefire framework. Maximalist camps on each side demand the other blink first.",
-      "source_name": "Anadolu Agency／energy wires",
-      "source_url": "https://www.aa.com.tr/en/energy/oil/brent-rises-above-100-as-stalled-us-iran-talks-fuel-supply-concerns/59983",
-      "published": "2026-10-01",
+      "headline": "U.S. Marine arrested in killing of a woman on Okinawa; Japan protests",
+      "dek": "Tokyo summons the U.S. ambassador as old anger over American bases flares again.",
+      "caveman": "Police on Okinawa, Japan, arrested a 20-year-old U.S. Marine from the Futenma air station. He is suspected of killing a 39-year-old local woman in a hotel in Naha early Saturday (Oct. 3) and taking her wallet and backpack. Kyodo News said she appeared to have been strangled. Okinawa Gov. Genta Koja called it “absolutely unforgivable.” Prime Minister Sanae Takaichi protested to the U.S., and Foreign Minister Motegi summoned U.S. Ambassador George Glass. About 50,000 U.S. troops are in Japan, roughly half of them on Okinawa.",
+      "why_it_matters": "Okinawa carries a heavy share of U.S. bases in Japan. Crimes by service members fuel calls to shrink the bases just as Tokyo wants closer military ties with the U.S. because of China.",
+      "camps": "Many Okinawans say they have lived for decades with noise, pollution and crime from the bases and want real change, not apologies. Japan’s national government and Washington see Okinawa as key to deterring China and focus on tougher discipline while keeping the alliance strong.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/japan-us-marine-crime-okinawa-e2ba88380a55f9b8af559dd616b92b11",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Sanctions",
+          "term": "Okinawa",
           "aliases": [],
-          "explain": "Penalties that block trade, banking, or travel to pressure a government."
+          "explain": "Japan’s southern island chain, home to about half the U.S. troops in Japan."
         },
         {
-          "term": "Off-ramp",
+          "term": "Futenma",
           "aliases": [],
-          "explain": "A face-saving way to exit a crisis without more fighting."
+          "explain": "A U.S. Marine Corps air station in the middle of a crowded Okinawan city."
         },
         {
-          "term": "Mediator",
+          "term": "Summoned",
           "aliases": [],
-          "explain": "A third party that tries to help rivals talk."
+          "explain": "Officially called in to hear a complaint — a strong diplomatic signal."
         },
         {
-          "term": "Deadlock",
+          "term": "Alliance",
           "aliases": [],
-          "explain": "When talks stop moving because nobody will compromise."
+          "explain": "A security partnership in which countries promise to help defend each other."
+        },
+        {
+          "term": "Discipline",
+          "aliases": [],
+          "explain": "Rules and punishments that control how troops behave."
         }
       ],
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Oil market and Middle East diplomacy",
-      "image_credit": "Photo: The Independent／wire"
+      "image_alt": "U.S. Osprey aircraft at Marine Corps Air Station Futenma, Okinawa",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Book Riot chart mashup: Theo of Golden still unshakeable",
-      "dek": "Allen Levi’s novel hits all five major lists; several last-week fixtures fall out of the top 10.",
-      "caveman": "Book Riot’s Oct 1 roundup — combining NYT, Amazon, PW, USA Today, and Indie lists — says Theo of Golden by Allen Levi remains the rare title on all five. Grim Tidings (B.K. Borison) and Hollow Bones (Jodi Picoult) also show wide strength. Meanwhile Taipei Story, Dungeon Crawler Carl, and Pirate Queen slipped from some top-10 slots. Simple: one quiet novel keeps winning the popularity contest.",
-      "why_it_matters": "Cross-list staying power often predicts holiday inventory and book-club picks.",
-      "camps": "Indie booksellers celebrate sticky word-of-mouth. Diversity critics note the combined chart is still too white/male-skewed.",
+      "headline": "October’s buzziest book: Barbara Kingsolver’s “Partita” tops every list",
+      "dek": "Book Riot crunched six major “most anticipated” lists; Orringer, Garmus and Schwab follow.",
+      "caveman": "Book Riot looked at six big October “most anticipated” lists — Goodreads, The New York Times, Bookshop.org, the Los Angeles Times, Barnes & Noble and Kirkus — to see which new books show up most. The winner: Barbara Kingsolver’s new novel “Partita,” which appeared on all six. Next came Julie Orringer’s “Luna, Phoenix, Queen” (five lists), then Bonnie Garmus’s “Peck & Peck” and V.E. Schwab’s “Victorious” (four each). Stephen Graham Jones’s “Off the Reservation,” T. Geronimo Johnson’s “The Occidental Book of the Dead,” Nathaniel Philbrick’s “The Rush,” and Chad Harbach’s “The Brightness” made three lists. Under-the-radar picks include Imbolo Mbue and Kawai Strong Washburn.",
+      "why_it_matters": "This is the fall “who’s hot” board. Kingsolver is coming off a Pulitzer for “Demon Copperhead,” and Garmus follows her megahit “Lessons in Chemistry,” so publishers are betting big.",
+      "camps": "Fans see a strong month mixing literary heavyweights, horror (Jones), fantasy (Schwab) and history (Philbrick). Critics of list culture note the same famous names get amplified everywhere, while smaller presses and debut writers struggle for attention.",
       "source_name": "Book Riot",
-      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
-      "published": "2026-10-01",
+      "source_url": "https://bookriot.com/popular-new-books-october-2026/",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Bestseller list",
-          "aliases": [],
-          "explain": "A ranking of what sold the most in a period, by one data source."
+          "term": "Most anticipated",
+          "aliases": [
+            "anticipated"
+          ],
+          "explain": "Books readers and critics are most excited about before they come out."
         },
         {
-          "term": "Indie list",
+          "term": "Kirkus",
           "aliases": [],
-          "explain": "Sales ranking from independent bookstores."
+          "explain": "Kirkus Reviews, a long-running U.S. book review magazine."
         },
         {
-          "term": "Word of mouth",
+          "term": "Bookshop.org",
           "aliases": [],
-          "explain": "People recommending a book to friends without big ads."
+          "explain": "An online bookstore that shares profits with independent bookshops."
         },
         {
-          "term": "Cross-list",
+          "term": "Pulitzer",
           "aliases": [],
-          "explain": "Appearing on several different bestseller charts at once."
+          "explain": "The Pulitzer Prize, a top American award for books and journalism."
+        },
+        {
+          "term": "Novel",
+          "aliases": [],
+          "explain": "A long, made-up story."
         }
       ],
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Bookstore shelves and bestseller tables",
+      "image_alt": "Grid of October 2026 new-release book covers",
       "image_credit": "Photo: Book Riot"
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "California indies: John Green’s Hollywood, Ending debuts at #1 fiction",
-      "dek": "LA Times/CALIBA list also puts Mandel’s Exit Party at #2; Steinem memoir leads nonfiction.",
-      "caveman": "The California Independent Booksellers Alliance list for the week of Oct 4 (published Sept 30) crowns John Green’s Hollywood, Ending as #1 hardcover fiction. Emily St. John Mandel’s Exit Party sits at #2, with Marlon James, Ann Patchett, and Elizabeth Strout close behind. On hardcover nonfiction, Gloria Steinem’s An Unexpected Life opens at #1 over Charles Spencer’s Diana book and Ari Emanuel’s Roll the Calls. Simple: West Coast bookstores are buying big-name storytellers and big memoirs.",
-      "why_it_matters": "Regional indie charts often preview what becomes national book-club fuel.",
-      "camps": "Fans cheer star authors returning. Others want more midlist risk on the front tables.",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-30/the-weeks-bestselling-books-october-4",
-      "published": "2026-09-30",
+      "headline": "What America actually read in September: “The Correspondent” still rules Goodreads",
+      "dek": "Netflix pushes “The Love Hypothesis” into the top five; Marlon James and R.F. Kuang lead the critics’ buzz.",
+      "caveman": "Book Riot checked the most-read books on Goodreads in September. Most were carryovers from earlier months, led by Virginia Evans’s “The Correspondent” and Caro Claire Burke’s “Yesteryear.” A movie effect showed up fast: Netflix released its adaptation of Ali Hazelwood’s romance “The Love Hypothesis” late in the month, and that alone pushed it into the top five. Also on the list: Sally Hepworth’s “Mad Mabel” and Kathryn Stockett’s “The Calamity Club.” Book Riot pointed out the most-read list is not very diverse, so it highlighted buzzy September books by authors of color: Marlon James’s “The Disappearers,” which The New York Times called “the novel of the decade, if not the century,” R.F. Kuang’s “Taipei Story,” and Tananarive Due’s “Mazywood.”",
+      "why_it_matters": "This shows the gap between what critics rave about and what most people actually read — and how a streaming adaptation can still move books overnight.",
+      "camps": "Popular-taste fans say the list reflects real readers, who love cozy, emotional and romantic stories. Critics argue algorithms and marketing keep boosting the same kinds of books and authors, so writers of color need deliberate attention to be seen.",
+      "source_name": "Book Riot",
+      "source_url": "https://bookriot.com/the-most-read-books-on-goodreads-in-september-2026/",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "CALIBA",
+          "term": "Goodreads",
           "aliases": [],
-          "explain": "California Independent Booksellers Alliance — organizes the state indie bestseller list."
+          "explain": "A big website where readers log and rate books; owned by Amazon."
         },
         {
-          "term": "Hardcover",
+          "term": "Carryovers",
           "aliases": [],
-          "explain": "A book with a stiff cover, usually the first expensive edition."
+          "explain": "Books that stayed popular from earlier months."
         },
         {
-          "term": "Memoir",
+          "term": "Adaptation",
           "aliases": [],
-          "explain": "A true story from someone’s life, told by them (or with them)."
+          "explain": "A movie or TV show made from a book."
         },
         {
-          "term": "Frontlist",
+          "term": "Diverse",
           "aliases": [],
-          "explain": "The new/just-out titles stores push hardest."
+          "explain": "Including people of different races, backgrounds and identities."
+        },
+        {
+          "term": "Romance",
+          "aliases": [],
+          "explain": "A genre focused on a love story, usually with a happy ending."
         }
       ],
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Los Angeles Times books coverage",
-      "image_credit": "Photo: Los Angeles Times"
+      "image_alt": "Cover of Virginia Evans’s novel The Correspondent",
+      "image_credit": "Photo: Book Riot"
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Who’s hot: Grim Tidings & Hollow Bones widen their bestseller footprint",
-      "dek": "Borison’s paranormal romance and Picoult’s Hollow Bones show up across PW/USA Today/Indie stacks.",
-      "caveman": "Beyond the usual dark-academia chatter, Book Riot flags Grim Tidings by B.K. Borison and Hollow Bones by Jodi Picoult as multi-list winners this week. Seasonal vibes (fall, ghosts, secrets) are doing work. Simple: romance-with-bite and Picoult’s issue-driven fiction are both selling.",
-      "why_it_matters": "When romance and book-club fiction surge together, publishers reshuffle spring advances and marketing dollars.",
-      "camps": "Genre fans say the wall between ‘serious’ and ‘fun’ is fake. Traditionalists still separate literary prize bait from romance shelves.",
-      "source_name": "Book Riot",
-      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
-      "published": "2026-10-01",
+      "headline": "Audible will let you talk to book characters with AI — Lit Hub calls it “creepy”",
+      "dek": "New tools include live character guides and a chat feature piloting in an Audible Original “Dracula.”",
+      "caveman": "Audible, Amazon’s audiobook service, announced new AI-powered tools on Thursday (Oct. 1). One shows who is speaking in real time, so listeners don’t get lost; one gives spoiler-free character cards; another shows images and facts about places in the story. The most controversial: an interactive feature, powered by generative AI, that lets listeners ask questions as the story unfolds and even talk to characters. Amazon says that will appear only where the author allows it. The first test is a new Audible Original of Bram Stoker’s “Dracula,” which is in the public domain. A guide will also come to George Orwell’s “1984.” Literary Hub called the chat feature creepy.",
+      "why_it_matters": "AI is moving into how stories are told and sold. Writers worry about who controls their characters and words once a chatbot can speak for them.",
+      "camps": "Supporters say the tools help people who multitask or have memory or hearing challenges, and make classics more fun. Skeptics say the point of reading is the author’s voice and your own imagination, and fear starting with public-domain books is a first step toward using authors’ work more widely.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/audible-has-a-creepy-new-feature-that-lets-you-talk-to-characters-in-books/",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Paranormal romance",
-          "aliases": [],
-          "explain": "Love stories with vampires, witches, ghosts, or other supernatural elements."
+          "term": "Audiobook",
+          "aliases": [
+            "Audible"
+          ],
+          "explain": "A book read aloud and recorded so you can listen to it."
         },
         {
-          "term": "Book-club fiction",
+          "term": "Generative AI",
           "aliases": [],
-          "explain": "Novels designed for group discussion — big themes, talkable plots."
+          "explain": "AI that creates new text, images or voices on request."
         },
         {
-          "term": "Dark academia",
+          "term": "Public domain",
           "aliases": [],
-          "explain": "Campus stories with secrets, elites, and often murder."
+          "explain": "Old works whose copyright has expired, so anyone can use them."
         },
         {
-          "term": "Advance",
+          "term": "Spoiler",
+          "aliases": [
+            "spoiler-free"
+          ],
+          "explain": "Information that reveals what happens later in a story."
+        },
+        {
+          "term": "Audible Original",
           "aliases": [],
-          "explain": "Money a publisher pays an author before the book comes out."
+          "explain": "A recording made and owned by Audible itself."
         }
       ],
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Publishers Weekly bestseller branding",
-      "image_credit": "Photo: Publishers Weekly"
+      "image_alt": "Lit Hub illustration about Audible’s AI character feature",
+      "image_credit": "Photo: Literary Hub"
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Who’s not (as hot): Kuang, Dinniman, Lawhon slip some top-10 slots",
-      "dek": "Still selling — just not everywhere in the combined top tier this week.",
-      "caveman": "Book Riot notes that R.F. Kuang’s Taipei Story, Matt Dinniman’s Dungeon Crawler Carl, and Ariel Lawhon’s Pirate Queen got knocked out of some combined top-10 positions versus last week, even though they remain on overall lists. New seasonal titles crowded in. Simple: not a flop story — more like musical chairs on the podium.",
-      "why_it_matters": "A one-week slip can change bookstore display space even when absolute sales are still strong.",
-      "camps": "Authors’ fans shrug and point to long tails. Chart-watchers treat any drop as a narrative.",
-      "source_name": "Book Riot",
-      "source_url": "https://bookriot.com/bestselling-books-october-1-2026/",
-      "published": "2026-10-01",
+      "headline": "NPR’s fall must-reads: Philyaw’s first novel, a Pitchfork memoir, and Dustin Hoffman",
+      "dek": "Ten picks mixing fiction, nonfiction and translations, from Kingsolver to a young-adult “Dirty Dancing.”",
+      "caveman": "NPR named 10 books it is excited about this fall. Fiction: Deesha Philyaw, whose 2020 story collection “The Secret Lives of Church Ladies” became a sensation from a small university press, finally has her first novel, “The True Confessions of First Lady Freeman” (out Sept. 29). Barbara Kingsolver’s “Partita” (Oct. 6) follows a pianist. Jasmine Guillory’s first young-adult novel, “It’s Only Dancing,” is a take on “Dirty Dancing.” Chad Harbach returns with “The Brightness” (Oct. 27). Nonfiction: Dustin Hoffman’s memoir “Look at Me” with Ariel Levy, Pitchfork founder Ryan Schreiber’s “Weird Era,” cartoonist Lisa Hanawalt, and science writer Olivia Judson. A translation of Mexican writer Amparo Dávila’s “Behind the Gate” (Nov. 3) and poems by Enrique Lihn round it out.",
+      "why_it_matters": "Fall is publishing’s biggest season. Lists like NPR’s help decide which books get attention before the holiday shopping rush.",
+      "camps": "Readers like that NPR mixes big names with smaller-press and translated books. Some critics say celebrity memoirs (like Hoffman’s) soak up attention that could go to lesser-known writers, though NPR argues they are part of the culture conversation too.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5983820/what-to-read-books-fiction-nonfiction",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Long tail",
-          "aliases": [],
-          "explain": "Steady sales over many months after the first big week."
+          "term": "Story collection",
+          "aliases": [
+            "short story collection"
+          ],
+          "explain": "A book made of several short stories instead of one long novel."
         },
         {
-          "term": "LitRPG",
+          "term": "University press",
           "aliases": [],
-          "explain": "Stories that use game stats/levels as part of the plot (Dungeon Crawler Carl’s lane)."
+          "explain": "A publisher run by a university, usually small and focused on serious books."
         },
         {
-          "term": "Podium",
-          "aliases": [],
-          "explain": "The very top ranked slots people screenshot."
+          "term": "Young-adult",
+          "aliases": [
+            "YA"
+          ],
+          "explain": "Books written mainly for teenage readers."
         },
         {
-          "term": "Display space",
+          "term": "Memoir",
           "aliases": [],
-          "explain": "The front table or window where stores put books you notice first."
+          "explain": "A true story someone writes about their own life."
+        },
+        {
+          "term": "Translated",
+          "aliases": [
+            "translations"
+          ],
+          "explain": "Turned from another language into English."
         }
       ],
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Bestsellers table in a bookstore",
-      "image_credit": "Photo: Book Riot"
+      "image_alt": "Covers of books on NPR’s fall reading list",
+      "image_credit": "Photo: NPR"
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Nepal: new landslides kill at least 30 as monsoon misery continues",
-      "dek": "Trekkers stranded on Annapurna routes; country still reeling from earlier mega-floods.",
-      "caveman": "The Independent reports at least 30 people dead in fresh landslides and floods in Nepal on/around Oct 1, with climbers and trekkers forced to abandon routes or wait for helicopter rescues. The country is still recovering from an earlier catastrophic flood season. Simple: the ground keeps giving way, and rescue crews are exhausted.",
-      "why_it_matters": "Repeated disasters wipe out homes, farms, and tourism income — the cash many families need to rebuild.",
-      "camps": "Local officials plead for faster aid. Climate advocates tie the pattern to warmer air holding more rain.",
-      "source_name": "The Independent",
-      "source_url": "https://www.independent.co.uk/asia/south-asia/nepal-death-toll-landslides-trekking-annapurna-circuit-b3059508.html",
-      "published": "2026-10-01",
+      "headline": "Congo’s Ebola outbreak passes 4,000 deaths; a treatment center is burned",
+      "dek": "The fastest-growing Ebola outbreak on record keeps spreading as unpaid health workers protest.",
+      "caveman": "Ebola is a deadly virus spread through body fluids. In eastern Congo, an outbreak declared on May 15 has now killed 4,018 people out of about 8,300 cases, the Health Ministry said — the fastest-growing Ebola outbreak in history. Doctors Without Borders (MSF) says North Kivu province now has 40% of new confirmed cases; one coordinator said it is “like fighting a wildfire.” In Bunia, health workers protested because they have not been paid for months, with signs reading “No money, no data!” A U.N. official said soldiers searching for weapons burned a displacement camp that housed an Ebola transit center, forcing 19,000 people to flee. At least 50 health workers have died, and an infected MSF worker was flown to the Netherlands.",
+      "why_it_matters": "Ebola spreads where war, poverty and distrust meet. Every lost clinic and every unpaid worker gives the virus more room to spread, possibly across borders.",
+      "camps": "Aid groups and the U.N. say the world must send more money and protect health workers and clinics. Local communities, after years of conflict, often distrust outsiders and the government, which complicates the response; authorities have not explained the unpaid wages.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
+      "published": "2026-10-02",
       "terms": [
         {
-          "term": "Landslide",
+          "term": "Ebola",
           "aliases": [],
-          "explain": "When a hillside of mud/rock suddenly slides down."
+          "explain": "A severe, often deadly virus spread through contact with an infected person’s body fluids."
         },
         {
-          "term": "Monsoon",
+          "term": "Outbreak",
           "aliases": [],
-          "explain": "Seasonal heavy rains in South Asia."
+          "explain": "A sudden rise in cases of a disease in one area."
         },
         {
-          "term": "Trekking route",
-          "aliases": [],
-          "explain": "Mountain walking path used by tourists and guides."
+          "term": "MSF",
+          "aliases": [
+            "Doctors Without Borders"
+          ],
+          "explain": "Médecins Sans Frontières (Doctors Without Borders), a global medical aid group."
         },
         {
-          "term": "Humanitarian aid",
+          "term": "Displacement camp",
           "aliases": [],
-          "explain": "Food, tents, medicine, and money sent to help disaster survivors."
+          "explain": "A camp for people forced to flee their homes but still inside their country."
+        },
+        {
+          "term": "Transit center",
+          "aliases": [],
+          "explain": "A place where possible patients are held and tested before treatment."
         }
       ],
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Nepal landslide and rescue aftermath",
-      "image_credit": "Photo: The Independent"
+      "image_alt": "A health worker in protective gear is disinfected at an Ebola treatment center in Beni, Congo",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Nepal avalanche/flood toll climbs; Himlung deaths add to grief",
-      "dek": "Watchers tally: floods/landslides ≥32 dead; Himlung avalanche toll reaches 11.",
-      "caveman": "Disaster monitors on Oct 1 tallied at least 32 dead from floods and landslides in Nepal, with a separate Himlung avalanche death toll reported at 11. Search teams dug through debris as weather stayed unstable. Simple: multiple mountains, multiple tragedies, one overwhelmed country.",
-      "why_it_matters": "Layered disasters make it harder to bury the dead, house the living, and keep clinics open.",
-      "camps": "Government spokespeople stress rescue first. Critics ask why early-warning guidance did not reach remote valleys faster.",
-      "source_name": "The Watchers",
-      "source_url": "https://watchers.news/2026/10/01/floods-and-landslides-kill-at-least-32-in-nepal-himlung-avalanche-toll-reaches-11/",
-      "published": "2026-10-01",
+      "headline": "Malaysia sends nearly 1,500 back to war-torn Myanmar despite U.N. warnings",
+      "dek": "Returnees arrive in Yangon on navy ships; rights groups fear persecution and forced conscription.",
+      "caveman": "On Sunday (Oct. 4), nearly 1,500 Myanmar citizens who had been held in Malaysia arrived in Yangon. They were deported and shipped back — a process called repatriation — on two navy warships and a hospital ship. They include 86 women. Malaysia plans to send back 5,000 in stages and holds 10,388 others in detention. The U.N. refugee agency and rights groups say Myanmar — in civil war since the military seized power in 2021 — is not safe; returnees could face persecution or be forced into the army. A U.N. rights expert pointed to non-refoulement — the rule against sending people back to danger — and said the risk is “substantial.” It is unclear if any are Rohingya, a persecuted Muslim minority.",
+      "why_it_matters": "Sending people back into a war zone can cost lives. It also tests whether countries keep the global rule against returning refugees to danger.",
+      "camps": "Malaysia treats them as immigration detainees it has the right to deport. The U.N. and rights groups say Malaysia must not send anyone back to persecution; Malaysia hosts about 215,600 refugees but has not signed the U.N. Refugee Convention and treats them as undocumented migrants.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/myanmar-malaysia-repatriation-war-df7f92788f7c5029ab204ec3dc3a736b",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Avalanche",
-          "aliases": [],
-          "explain": "A sudden slide of snow and ice down a mountain."
+          "term": "Repatriated",
+          "aliases": [
+            "repatriation"
+          ],
+          "explain": "Sent back to one’s home country."
         },
         {
-          "term": "Death toll",
+          "term": "Non-refoulement",
           "aliases": [],
-          "explain": "The counted number of people killed."
+          "explain": "International rule: you can’t send people back to a place where they face serious danger."
         },
         {
-          "term": "Early warning",
+          "term": "Conscription",
           "aliases": [],
-          "explain": "Alerts that tell people to move before a disaster hits."
+          "explain": "Being forced by the government to join the army."
         },
         {
-          "term": "Remote valley",
+          "term": "Rohingya",
           "aliases": [],
-          "explain": "A mountain community hard to reach by road."
+          "explain": "A Muslim minority from Myanmar who have faced severe persecution and been denied citizenship."
+        },
+        {
+          "term": "Refugee Convention",
+          "aliases": [],
+          "explain": "A 1951 U.N. treaty that defines refugees and their rights."
         }
       ],
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Rescue teams searching after Nepal avalanche",
-      "image_credit": "Photo: The Watchers"
+      "image_alt": "A Myanmar national looks out from a bus in Perak, Malaysia",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "A month on: Ukrainian families still wait for answers after Nepal–China floods",
-      "dek": "Dozens of Ukrainians among the missing; identification and repatriation remain slow.",
-      "caveman": "Reporting around Oct 1 says Ukrainian families are still desperate for information more than a month after deadly floods spanning Nepal–China border regions. Dozens of Ukrainian citizens were among those missing; relatives describe opaque updates and slow identification. Simple: disaster grief becomes worse when you cannot even confirm a goodbye.",
-      "why_it_matters": "Missing-persons limbo blocks funerals, insurance, custody, and mental recovery.",
-      "camps": "Families demand faster DNA ID and diplomacy. Officials cite destroyed roads and overwhelmed morgues.",
-      "source_name": "iNFOnews.ca",
-      "source_url": "https://infonews.ca/news/7883174/a-month-after-nepal-china-floods-ukrainian-families-still-desperate-for-answers/",
-      "published": "2026-10-01",
+      "headline": "Man deported by the U.S. to an African prison is freed after 14 months",
+      "dek": "Laotian Phone Chomsavanh had already served his U.S. sentence; his lawyer calls it a denial of due process.",
+      "caveman": "In July 2025, the U.S. deported five immigrants to Eswatini, a small kingdom in southern Africa where none of them had any ties. One of them, Phone Chomsavanh, a citizen of Laos, was released from a maximum-security prison there on Sunday (Oct. 4) after more than 14 months. He had been convicted of a crime in the U.S. but had already finished his sentence there. He was born in a refugee camp in Thailand and moved to the U.S. at age 7. His lawyer, Tin Thanh Nguyen, said what happened was “not due process by any definition.” He is now on his way to Laos. Eswatini was paid $5.1 million to take deportees.",
+      "why_it_matters": "This “third-country” program sends people to nations that are not their home, raising big questions about human rights and the rule of law.",
+      "camps": "The Trump administration says the program removes people with criminal records whose home countries won’t take them back quickly. Rights groups and lawyers say holding people who were never charged in those countries, without hearings, violates due process; around 500 people have been sent to African countries this way, advocates say.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/eswatini-us-immigrant-released-from-prison-laos-c45975d61839e079acdabc3dfe2aacba",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Repatriation",
-          "aliases": [],
-          "explain": "Bringing a person’s remains (or a survivor) back to their home country."
+          "term": "Deported",
+          "aliases": [
+            "deportees"
+          ],
+          "explain": "Forced by a government to leave the country."
         },
         {
-          "term": "DNA identification",
+          "term": "Third-country",
           "aliases": [],
-          "explain": "Using genetic tests to confirm who a body is."
+          "explain": "A country that is neither the person’s home nor the one deporting them."
         },
         {
-          "term": "Missing person",
+          "term": "Due process",
           "aliases": [],
-          "explain": "Someone not proven dead or alive after a disaster."
+          "explain": "Fair legal steps — notice, a hearing, a chance to argue — before the government punishes you."
         },
         {
-          "term": "Consular help",
+          "term": "Eswatini",
           "aliases": [],
-          "explain": "Aid from a country’s embassy/consulate to its citizens abroad."
+          "explain": "A small country in southern Africa, ruled by a king; formerly called Swaziland."
+        },
+        {
+          "term": "Maximum-security prison",
+          "aliases": [],
+          "explain": "A prison with the strictest guarding and limits."
         }
       ],
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Families seeking answers after disaster",
-      "image_credit": "Photo: iNFOnews.ca"
+      "image_alt": "Matsapha Correctional Complex near Mbabane, Eswatini (file photo)",
+      "image_credit": "Photo: AP"
     },
     {
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Climate lens: scientists say warming helped uncork Nepal’s glacier disaster",
-      "dek": "Attribution work links thinner ice and thawing slopes to the earlier collapse — local geology still matters.",
-      "caveman": "Scientific coverage (Reuters/BBC earlier, still shaping Oct debate) finds climate change likely helped trigger Nepal’s catastrophic glacier/slope collapse by thinning ice and thawing mountain permafrost — though geology and past quakes also matter. Survivors and diplomats use that science in fights over who should pay for loss and damage. Simple: the mountain failed for many reasons; heat loaded the dice.",
-      "why_it_matters": "Attribution science is becoming a courtroom and COP bargaining chip for poorer nations.",
-      "camps": "Climate-justice voices want emitter funds. Opponents say local factors dominate and cash fights distract from adaptation.",
-      "source_name": "BBC／Reuters science desks",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo",
-      "published": "2026-10-01",
+      "headline": "“I am Jane Doe”: solidarity floods social media after Cornell rape lawsuit",
+      "dek": "Women post the name to shield an anonymous plaintiff — a wave many compare to #MeToo.",
+      "caveman": "A young woman has sued Cornell University and seven fraternity members, accusing them of raping her. She filed under the name “Jane Doe” to stay anonymous. After the college’s student newspaper reported on the lawsuit in late September, countless women began posting “I am Jane Doe” on social media. Many shared their own stories of sexual abuse. Part of the goal is protection: some people online have tried to find her real name, and posters hope the flood of “Jane Doe” posts will confuse search algorithms. Many say it feels like the height of #MeToo a decade ago. A law professor notes that using a pseudonym in lawsuits has grown, especially in very private cases. The claims have not been proven in court.",
+      "why_it_matters": "Sexual violence on campus is widespread and underreported. How survivors are protected — and how accused people get fair process — shapes whether others come forward.",
+      "camps": "Supporters say mass solidarity gives survivors courage and protects a woman from online harassment. Others stress that the people accused have not been found responsible by any court and deserve due process, and that public pressure should not replace a fair investigation.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/cornell-rape-allegations-online-solidarity-35350970e5112469f884dac9f6b87cbd",
+      "published": "2026-10-04",
       "terms": [
         {
-          "term": "Attribution science",
+          "term": "Jane Doe",
           "aliases": [],
-          "explain": "Research that estimates how much climate change raised the odds of a disaster."
+          "explain": "A placeholder name used in court for a woman who wants to stay anonymous."
         },
         {
-          "term": "Permafrost",
+          "term": "Pseudonym",
           "aliases": [],
-          "explain": "Ground that usually stays frozen; when it thaws, slopes can fail."
+          "explain": "A fake name used instead of a real one."
         },
         {
-          "term": "Loss and damage",
-          "aliases": [],
-          "explain": "Money/help for irreversible climate harm already done."
+          "term": "#MeToo",
+          "aliases": [
+            "MeToo"
+          ],
+          "explain": "A movement, big around 2017, where people shared experiences of sexual harassment and assault."
         },
         {
-          "term": "COP",
+          "term": "Fraternity",
           "aliases": [],
-          "explain": "The big annual UN climate negotiation meeting."
+          "explain": "A social club for male college students in the U.S."
+        },
+        {
+          "term": "Lawsuit",
+          "aliases": [
+            "sued"
+          ],
+          "explain": "A case brought to court asking for a ruling or money."
         }
       ],
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Himalayan flood and climate aftermath",
-      "image_credit": "Photo: The Independent"
+      "image_alt": "Students walk across the Cornell University campus in Ithaca, New York",
+      "image_credit": "Photo: AP"
     }
   ]
 }
