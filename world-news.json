@@ -1,947 +1,950 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-05T08:00:00+08:00",
-  "notes": "Monday 5 Oct 2026 world issue (Taipei ~08:00). Window: Fri 2 Oct U.S. session through the weekend into Mon morning. NEW vs Fri 2 paper: Economy — Sept jobs report (+29k, 4.2%) and stocks near record as yields ease from ~5.35%; OPEC+ holds Nov output + G7 100m-barrel release; Ohio Navistar layoffs (Micron/Hormuz-crude frame dropped). Tech — Trump “Super Intelligence Force” (Clayton); OpenAI safety lead quits; Amazon $1B data-center pledge/NDAs; judge rules Flock search unconstitutional (California AG/OpenAI subpoena, Apple–OpenAI hearing not repeated). Politics — Brazil runoff Lula vs Flávio Bolsonaro; FlyDubai probe (UAE shared crew list); Merz in Kyiv; Okinawa Marine arrest. Literature — Book Riot October anticipated (Kingsolver Partita), Goodreads Sept most-read, Audible AI character chat, NPR fall picks (Theo of Golden / John Green / Mandel / Chloe Benjamin not reused). Social — Congo Ebola >4,000 dead; Malaysia–Myanmar deportations; Eswatini third-country deportee freed; Cornell “Jane Doe” solidarity (Nepal floods frame dropped).",
+  "fetched_at": "2026-10-06T08:00:00+08:00",
+  "notes": "Tuesday 6 Oct 2026 world issue (Taipei ~08:00). Window: weekend through Mon 5 Oct U.S. session. NEW vs Mon 5 paper (Sept jobs report, Brazil runoff, Trump 'Super Intelligence Force' not repeated): Economy — euro 17-month low on French debt + Spain snap vote; Nasdaq record while 10-yr Treasury hits 5.31% (highest since 2002); Schneider Electric buys PTC for $22.6B; Iran rial record low as oil exports dry up. Tech — NYC Council AI hearing under oath (SpaceXAI skips subpoena); ChatGPT visual ads; AP on AI kids safety vs social-media lessons; Anthropic reports Claude 'diary' threat, Florida arrest. Politics — Spain Nov. 29 snap election; Saudi-backed 'Yemen Dawn' offensive near Bab el-Mandeb; Bosnia election nationalist gains (Dodik); Supreme Court term opens (Boulder climate case). Literature — PEN record ~12,000 school book bans (Banned Books Week); King finishes Talisman trilogy (out Oct 6); Ayad Akhtar 'The Radiance'; MacKenzie Scott Substack novel (Kingsolver/Mandel/Benjamin/Thoroughbreds/Dead Beat/John Green not reused). Social — Latin America false-report bills vs women's rights; Delhi women journalists accuse police; WFP truck driver killed in Sudan; UK Tories pledge 90% aid cut.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. hiring nearly stalls: just 29,000 jobs in September",
-      "dek": "Unemployment ticks up to 4.2% in the last jobs report before the Nov. 3 midterms.",
-      "caveman": "Every month the U.S. government counts how many jobs were added to payrolls. On Friday (Oct. 2) the number for September was tiny: 29,000. Economists had expected about 90,000. August was revised to 133,000, and July plus August together were cut by 60,000 from earlier estimates. The unemployment rate rose from 4.1% to 4.2% — still low, but going the wrong way. Pay grew only 3% from a year ago, the smallest gain since May 2021. Governments cut 17,000 jobs. Health care added 17,000, about half its usual pace; one economist said that could be linked to the Trump administration revoking work permits for 350,000 Haitians. Simple: companies are still hiring, but barely.",
-      "why_it_matters": "Jobs are how most people pay rent. A cooling job market matters for families, for the Federal Reserve’s next interest-rate decision, and for voters heading to the polls in a month.",
-      "camps": "Some economists see good news hidden inside: slower hiring and slower pay growth mean the job market is not pushing inflation higher, so the Fed may not need to raise rates again. Others worry the weakness is real — revisions keep cutting past numbers, and workers already squeezed by prices now face a tougher job hunt.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/jobs-unemployment-economy-ai-hiring-44b99f9ccbff863888af99402ddf535e",
-      "published": "2026-10-02",
+      "headline": "The euro sinks to a 17-month low as France’s debt and Spain’s snap election spook investors",
+      "dek": "Money traders fear Europe’s debt troubles could spread from Paris to the rest of the eurozone.",
+      "caveman": "The euro is the money used by 20 European countries. On Monday (Oct. 5) it fell to its weakest level against the U.S. dollar since May 2025 — about $1.116 at the low point — before bouncing back a little to around $1.12. Two things scared traders. First, France: its government owes a lot of money (debt is expected to reach almost 122% of the whole economy next year), and its new 2027 budget only cuts the yearly deficit a little, from 5.4% to 5% of GDP. The interest France pays on 10-year loans hit about 4.8%, the highest since the 2011 euro crisis. Second, Spain: Prime Minister Pedro Sánchez suddenly called an early election for Nov. 29. Simple: when investors worry about a country’s politics and debt, they sell its money.",
+      "why_it_matters": "A weaker euro makes oil and other imports (priced in dollars) more expensive for Europeans, at a time when eurozone inflation is already 3.8%. It also puts the European Central Bank in a tight spot: raise rates to fight prices, or hold off so debt-heavy countries like France don’t crack.",
+      "camps": "Some analysts warn this looks like the start of a new eurozone debt scare, with France as the “poster child” and its far-right, big-spending candidates gaining ahead of the April 2027 presidential vote. Others say the panic is overdone: the euro recovered more than half its drop the same day, France’s government insists it is a reliable borrower, and Europe’s central bank has tools to calm markets if needed.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+      "published": "2026-10-05",
+      "image": "images/wd-fin-1.jpg",
+      "image_alt": "The Paris skyline with the Eiffel Tower in a hazy sky",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "Unemployment rate",
-          "aliases": [],
-          "explain": "The share of people who want a job and are looking, but don’t have one."
+          "term": "Euro",
+          "explain": "The shared currency (money) of 20 European Union countries, including France, Germany and Spain.",
+          "aliases": [
+            "eurozone"
+          ]
         },
         {
-          "term": "Payrolls",
-          "aliases": [
-            "payroll"
-          ],
-          "explain": "The count of jobs on company and government pay lists."
+          "term": "Deficit",
+          "explain": "When a government spends more in a year than it collects in taxes, the gap is the deficit. It borrows to fill it.",
+          "aliases": []
         },
         {
-          "term": "Revised",
-          "aliases": [
-            "revisions"
-          ],
-          "explain": "Updated later as more data comes in; first job numbers are often changed."
+          "term": "GDP",
+          "explain": "Gross domestic product: the total value of everything a country makes and sells in a year. Used to measure how big debts are.",
+          "aliases": []
         },
         {
-          "term": "Federal Reserve",
-          "aliases": [
-            "the Fed",
-            "Fed"
-          ],
-          "explain": "America’s central bank. It raises or lowers interest rates to fight inflation or help jobs."
+          "term": "Snap election",
+          "explain": "An election called earlier than planned, often to break a deadlock.",
+          "aliases": []
         },
         {
-          "term": "Work permits",
+          "term": "European Central Bank",
+          "explain": "The central bank for the euro. It sets interest rates for all countries that use the euro.",
           "aliases": [
-            "work authorization"
-          ],
-          "explain": "Government permission for a non-citizen to legally hold a job in the U.S."
+            "ECB"
+          ]
         }
-      ],
-      "image": "images/wd-fin-1.jpg",
-      "image_alt": "A hiring sign at a sandwich shop in Streamwood, Illinois",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Wall Street climbs near its record as weak jobs data cools rate-hike fears",
-      "dek": "S&P 500 up 0.7%, Nasdaq up 1.2%; 10-year Treasury yield slips from a near two-decade high.",
-      "caveman": "Strange but true: bad news for workers was good news for stocks on Friday. After the weak jobs report, the S&P 500 rose 0.7% and got within 1% of its August record. The Dow added 250 points and the Nasdaq gained 1.2%. Why? Investors had feared the economy was so hot that inflation would get worse and the Federal Reserve would raise interest rates again. The Fed recently raised its main rate for the first time in three years. After the report, traders put the chance of another hike this month at under 23%, down from 64% a week earlier. Bond yields eased too: the 10-year Treasury yield dipped below 5.17% after touching about 5.35% on Thursday.",
-      "why_it_matters": "Lower yields make borrowing a bit cheaper — for mortgages, car loans and companies — and calm markets that had been rattled by the bond sell-off.",
-      "camps": "Optimists say the data gives the Fed room to be patient, which helps stocks and borrowers. Skeptics note inflation is still a worry, oil prices remain shaky because of the Iran war, and one soft report does not end the rate-hike risk.",
+      "headline": "Nasdaq hits a record even as a key U.S. borrowing rate climbs to its highest since 2002",
+      "dek": "Big buyouts and AI excitement lift stocks, while the 10-year Treasury yield reaches 5.31%.",
+      "caveman": "On Monday (Oct. 5) U.S. stocks went up. The S&P 500 rose 0.7% to 7,773.95 — just 0.3% below its all-time high. The tech-heavy Nasdaq rose 1.1% to a new record. Two company buyouts helped: a French firm agreed to buy software maker PTC (its stock jumped 33.5%), and C.H. Robinson agreed to buy trucking broker RXO (up 22.5%). Nvidia, the AI chip giant, rose 2.1%. But at the same time, the interest rate on 10-year U.S. government bonds rose to 5.31%, the highest close since April 2002. Brent crude oil swung between $100 and $103 a barrel before ending near $100. Simple: stock buyers are cheerful about AI, while bond buyers are demanding more money to lend to the government.",
+      "why_it_matters": "The 10-year Treasury rate guides what Americans pay on mortgages, car loans and business loans. When it climbs this high, buying a home gets more expensive — even while the stock market looks great for people who own shares.",
+      "camps": "Optimists say strong company profits, solid consumer spending and the AI building boom can keep stocks rising even with higher rates. Skeptics point out that only a narrow group of big tech stocks is doing most of the lifting, that high oil prices from the Iran war keep inflation risk alive, and that rates this high have ended rallies before.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/stocks-markets-bonds-us-oil-a2b99562febc21d84955e243c87f5d31",
-      "published": "2026-10-02",
+      "source_url": "https://apnews.com/article/stock-markets-jobs-fed-rates-inflation-f83cf147deaf5a2361b1ae7eee74a627",
+      "published": "2026-10-05",
+      "image": "images/wd-fin-2.jpg",
+      "image_alt": "The carved front of the New York Stock Exchange building",
+      "image_credit": "Photo: AP",
       "terms": [
         {
           "term": "S&P 500",
-          "aliases": [],
-          "explain": "A stock index of about 500 big U.S. companies — the main scoreboard for the U.S. market."
-        },
-        {
-          "term": "Treasury yield",
-          "aliases": [
-            "10-year Treasury yield",
-            "yields"
-          ],
-          "explain": "The interest rate the U.S. government pays to borrow money; it shapes mortgage and loan rates."
-        },
-        {
-          "term": "Rate hike",
-          "aliases": [
-            "raise interest rates"
-          ],
-          "explain": "When the central bank raises interest rates to slow the economy and cool prices."
+          "explain": "A list of about 500 big U.S. companies. Its up-and-down is the most common way to measure the stock market.",
+          "aliases": []
         },
         {
           "term": "Nasdaq",
-          "aliases": [],
-          "explain": "A U.S. stock index full of tech companies."
+          "explain": "A U.S. stock market index full of technology companies.",
+          "aliases": [
+            "Nasdaq composite"
+          ]
         },
         {
-          "term": "Inflation",
-          "aliases": [],
-          "explain": "When prices for everyday things keep going up."
+          "term": "Treasury yield",
+          "explain": "The interest rate the U.S. government pays when it borrows by selling bonds. Higher yield = borrowing costs more.",
+          "aliases": [
+            "10-year Treasury",
+            "Treasury"
+          ]
+        },
+        {
+          "term": "Buyout",
+          "explain": "When one company buys another company, usually by paying cash for its shares.",
+          "aliases": [
+            "buyouts"
+          ]
+        },
+        {
+          "term": "Brent",
+          "explain": "A type of crude oil whose price is used as the main world benchmark.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-fin-2.jpg",
-      "image_alt": "Wall Street and Broadway street signs in New York’s Financial District",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "OPEC+ keeps oil output steady for November as Brent stays above $100",
-      "dek": "Seven big exporters hold the line; G7 plans to release 100 million barrels, starting with diesel.",
-      "caveman": "Seven major oil-exporting countries — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — agreed on Sunday (Oct. 4) to keep pumping the same amount of oil in November. They will meet again Nov. 1. This matters because the war with Iran, which began with U.S. and Israeli strikes on Feb. 28, has disrupted supplies and pushed Brent crude above $100 a barrel. Separately, the G7 rich democracies said Friday they will release 100 million barrels of oil and fuel from emergency stocks over the coming weeks, with a big burst of diesel in the next 20 days. U.S. diesel recently hit record highs, hurting farmers and truckers.",
-      "why_it_matters": "Oil prices flow into everything: gas, shipping, food and plane tickets. Holding output flat means no relief from producers — so emergency stockpiles are doing the heavy lifting.",
-      "camps": "Producer countries say steady output keeps the market stable while war risks swirl. Importing countries and consumers argue the group could pump more to ease painful prices; some analysts add that emergency reserves are a short-term patch, not a fix.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/oil-production-opec-iran-diesel-2b1f98d5fc11048ff65fa93952d86844",
-      "published": "2026-10-04",
+      "headline": "France’s Schneider Electric will buy U.S. software maker PTC for $22.6 billion",
+      "dek": "The all-cash deal is a big bet that factories will soon run on artificial intelligence.",
+      "caveman": "Schneider Electric is a giant French company that makes equipment to control electricity in buildings, factories and data centers. On Monday (Oct. 5) it agreed to buy PTC, a Boston company whose software helps engineers design products and run factories. Schneider will pay $205 cash for every PTC share — a 42% premium over the stock’s price the day before. That values PTC at about $22.6 billion. To pay for it, Schneider will borrow about €16–17 billion and sell about €5–6 billion in new shares. PTC’s board supports the deal. It still needs a vote by PTC owners and government approvals, including a U.S. national-security review, and should close by late 2027. PTC stock jumped 33.5%; Schneider’s stock fell about 10% in Paris.",
+      "why_it_matters": "It is one of the biggest bets yet that “industrial AI” — smart software that designs and runs factories and power systems — will be a huge business. It also shows European companies buying American tech know-how.",
+      "camps": "Supporters say combining power equipment with design software gives customers one connected system and could create billions in new sales. Doubters, including some Schneider investors who sold the stock, say the price is very high, the debt is large, and big mergers often promise more savings than they deliver. U.S. regulators may also look closely at a foreign buyer of important industrial software.",
+      "source_name": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com/business/deals/schneider-electric-to-buy-software-maker-ptc-for-22-6-billion-7a23a60c",
+      "published": "2026-10-05",
+      "image": "images/wd-fin-3.jpg",
+      "image_alt": "The Schneider Electric logo on a green background",
+      "image_credit": "Photo: Benoit Tessier/Reuters via WSJ",
       "terms": [
         {
-          "term": "OPEC+",
-          "aliases": [],
-          "explain": "A club of oil-producing countries (OPEC plus allies like Russia) that coordinates how much oil to pump."
+          "term": "Premium",
+          "explain": "Extra money paid above a stock’s current price to convince owners to sell.",
+          "aliases": []
         },
         {
-          "term": "Brent crude",
-          "aliases": [],
-          "explain": "The main global price benchmark for oil."
-        },
-        {
-          "term": "Barrel",
+          "term": "All-cash deal",
+          "explain": "A purchase paid fully with money, not with the buyer’s own shares.",
           "aliases": [
-            "barrels"
-          ],
-          "explain": "The standard unit for oil: about 159 liters."
+            "all-cash"
+          ]
         },
         {
-          "term": "G7",
-          "aliases": [],
-          "explain": "Group of Seven: the U.S., Japan, Germany, the U.K., France, Italy and Canada."
+          "term": "Industrial AI",
+          "explain": "Artificial intelligence used in factories, power grids and machines, not just chatbots.",
+          "aliases": []
         },
         {
-          "term": "Diesel",
-          "aliases": [],
-          "explain": "Fuel used by trucks, tractors, ships and generators."
+          "term": "CFIUS",
+          "explain": "A U.S. government committee that checks whether foreign purchases of American companies could hurt national security.",
+          "aliases": [
+            "national-security review"
+          ]
+        },
+        {
+          "term": "Board",
+          "explain": "The group of people chosen to oversee a company and protect its owners’ interests.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-fin-3.jpg",
-      "image_alt": "Commercial ships anchored in the Strait of Hormuz off Bandar Abbas, Iran",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Ohio truck plant closure lays off nearly 1,400 days before a Trump rally",
-      "dek": "The Springfield shutdown wipes out about a year of job growth in the Dayton area.",
-      "caveman": "On Wednesday (Sept. 30), nearly 1,400 people lost their jobs when the old Navistar truck factory in Springfield, Ohio, shut down. AP says that is big enough to erase roughly a whole year of job growth in the greater Dayton area. Three days later, President Trump held a rally nearby. One laid-off worker, Kyle Bos, 30, a United Auto Workers (UAW) union member, said he voted for Trump three times but is done with him, and plans to knock on doors for Democrats. AP notes Trump did not mention the layoffs at his Saturday rally, and polling shows only 17% approve of how he is handling the cost of living.",
-      "why_it_matters": "Ohio factory towns are where elections get decided. Stories like this test whether working-class voters who backed Trump stick with Republicans in the Nov. 3 midterms.",
-      "camps": "Trump supporters argue his tariffs and policies aim to bring factories back over time and that one plant closure has many causes. Critics, including some former Trump voters, say high prices, the Iran war and layoffs show the promises have not reached workers. Ohio’s Senate race between Republican Jon Husted and Democrat Sherrod Brown is a key test.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
-      "published": "2026-10-03",
+      "headline": "Iran’s money hits a record low as its oil sales dry up under a U.S. blockade",
+      "dek": "Tehran insists it still controls the Strait of Hormuz; its oil minister resigns.",
+      "caveman": "The U.S. and Israel have been at war with Iran since early this year. The U.S. is blocking Iran’s oil sales, and Iran is keeping the Strait of Hormuz — a narrow sea lane where much of the world’s oil passes — mostly closed. On Monday (Oct. 5) Iran’s money, the rial, fell to a record low: on the street market one U.S. dollar now costs about 270,000 tomans, double what it cost in January. U.S. Treasury Secretary Scott Bessent said Iran did not load a single barrel of oil onto tankers in September. Iran’s oil minister resigned, officially for “family reasons.” Iran’s military said it still controls every ship movement in Hormuz. Its foreign minister said the strait could reopen within seven days if Iran’s conditions are met. Ships keep getting attacked — at least one attack a day since Oct. 2.",
+      "why_it_matters": "For ordinary Iranians, a collapsing currency means food and medicine prices shoot up. For the world, Hormuz is a key reason oil sits near $100 a barrel, which pushes up gas and shipping prices everywhere.",
+      "camps": "The Trump administration says squeezing Iran’s oil money is working and will force Tehran to make a deal. Iran’s leaders say they will not accept “one-sided demands” and that only fair talks can end the war. Humanitarian groups warn that ordinary Iranians, not leaders, feel the pain of sanctions first. Meanwhile, other Gulf countries have found new routes and now ship more oil than before the war.",
+      "source_name": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up",
+      "published": "2026-10-05",
+      "image": "images/wd-fin-4.jpg",
+      "image_alt": "Iranian missiles on display in front of a large portrait in Tehran",
+      "image_credit": "Photo: AP via Euronews",
       "terms": [
         {
-          "term": "Laid off",
+          "term": "Rial",
+          "explain": "Iran’s official money. People often count in tomans; one toman = 10 rials.",
           "aliases": [
-            "layoffs"
-          ],
-          "explain": "Losing your job because the company cuts staff or closes, not because of your performance."
+            "toman",
+            "tomans"
+          ]
         },
         {
-          "term": "UAW",
+          "term": "Strait of Hormuz",
+          "explain": "A narrow sea passage between Iran and Oman. A large share of the world’s oil tankers normally sail through it.",
           "aliases": [
-            "United Auto Workers"
-          ],
-          "explain": "United Auto Workers, a big U.S. labor union for car and truck factory workers."
+            "Hormuz"
+          ]
         },
         {
-          "term": "Midterms",
-          "aliases": [
-            "midterm election"
-          ],
-          "explain": "U.S. elections held halfway through a president’s term, deciding control of Congress."
+          "term": "Blockade",
+          "explain": "Using ships or force to stop goods from going in or out of a place.",
+          "aliases": []
         },
         {
-          "term": "Canvassing",
-          "aliases": [
-            "knock on doors"
-          ],
-          "explain": "Going door to door to talk to voters for a candidate."
-        },
-        {
-          "term": "Tariffs",
-          "aliases": [],
-          "explain": "Taxes on imported goods."
+          "term": "Sanctions",
+          "explain": "Penalties, like trade bans, that countries use to pressure another government.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-fin-4.jpg",
-      "image_alt": "UAW members at a bar in Springfield, Ohio, on the Navistar plant’s last day",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Trump launches a “Super Intelligence Force” led by spy chief Jay Clayton",
-      "dek": "The new AI task force includes the FTC chair and the Pentagon’s tech chief, and reports to the White House.",
-      "caveman": "On Sunday (Oct. 4), President Trump named Jay Clayton, his director of national intelligence, to lead a new federal task force on artificial intelligence. Trump calls it the “Super Intelligence Force,” because he has been trying to rename AI as “super intelligence.” Other members include FTC chairman Andrew Ferguson, Pentagon tech chief Emil Michael and Scott Kupor, who runs the federal personnel office. The group reports to Trump and his chief of staff, Susie Wiles. It will talk to consumers, public interest groups, religious groups, infrastructure companies and AI firms. This follows a meeting where AI company bosses visited the White House and signed a voluntary accord to police themselves.",
-      "why_it_matters": "AI is moving fast and recent incidents with runaway AI agents have spooked the public. Who sets the rules — companies, states or Washington — is now a major fight.",
-      "camps": "Supporters say a single White House team can coordinate fast and keep the U.S. ahead of China. Critics say a task force plus a voluntary, self-policing pledge is not real regulation, and question putting an intelligence chief in charge of a consumer-safety issue.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901",
-      "published": "2026-10-04",
+      "headline": "Under oath at NYC City Hall, AI giants can’t say how big the risk of disaster is",
+      "dek": "Anthropic, OpenAI, Google and Meta testify; Musk’s SpaceXAI skips a subpoena and faces a court fight.",
+      "caveman": "On Monday (Oct. 5) the New York City Council held a rare hearing on the dangers of artificial intelligence. Leaders from Anthropic, OpenAI, Google and Meta answered questions under oath, appearing by video link. Council Speaker Julie Menin asked: can any of you measure the chance of something catastrophic happening? None could. She called their answers “troubling at best.” Former AI researchers also spoke. Jacob Coxon, a whistleblower who quit Anthropic a few weeks ago warning that labs are “gambling with our lives,” said it is “more likely than not” that humans lose control of AI. Ex-Google DeepMind researcher Alex Turner said badly-behaved AI could become a bigger enemy than China. Elon Musk’s company SpaceXAI ignored a subpoena to appear; the council says it will go to court.",
+      "why_it_matters": "Washington has mostly let AI companies police themselves — President Trump signed a voluntary deal with tech leaders last week. Cities and states are now stepping in. What New York does could become a model (or a target) for other places.",
+      "camps": "Menin and safety researchers say AI that can “escape” or act on its own is too risky to leave to companies, and want local laws and legal liability. The companies say they take safety seriously and prefer one national rulebook; Google’s representative said “if it’s illegal without AI, it’s still illegal with AI.” Critics of city action argue a patchwork of local rules could slow U.S. innovation in the race with China.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "published": "2026-10-05",
+      "image": "images/wd-tech-1.jpg",
+      "image_alt": "NYC Council Speaker Julie Menin speaks at the AI hearing in the City Council chamber",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "Task force",
-          "aliases": [],
-          "explain": "A special team set up to focus on one problem."
+          "term": "Under oath",
+          "explain": "Having promised to tell the truth; lying could be a crime (perjury).",
+          "aliases": []
         },
         {
-          "term": "Director of national intelligence",
-          "aliases": [],
-          "explain": "The official who oversees all U.S. spy agencies."
+          "term": "Subpoena",
+          "explain": "A legal order that forces a person or company to testify or hand over documents.",
+          "aliases": []
         },
         {
-          "term": "Voluntary accord",
+          "term": "City Council",
+          "explain": "The lawmaking body of a city. In New York, it has 51 members and is led by a Speaker.",
           "aliases": [
-            "voluntary"
-          ],
-          "explain": "A promise companies sign on their own; no law forces them to keep it."
+            "council"
+          ]
         },
         {
-          "term": "FTC",
+          "term": "Misaligned AI",
+          "explain": "AI that pursues goals its makers did not intend, possibly in harmful ways.",
           "aliases": [
-            "Federal Trade Commission"
-          ],
-          "explain": "Federal Trade Commission, the U.S. agency that protects consumers and fights unfair business."
+            "misaligned",
+            "badly-behaved AI"
+          ]
         },
         {
-          "term": "Artificial intelligence",
-          "aliases": [
-            "AI"
-          ],
-          "explain": "Computer systems that can write, talk, see or make decisions in ways that seem smart."
+          "term": "Whistleblower",
+          "explain": "An insider who goes public about wrongdoing or danger inside an organization.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-tech-1.jpg",
-      "image_alt": "Jay Clayton at a Senate Intelligence Committee hearing",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "OpenAI safety lead quits, says the company’s “culture is broken”",
-      "dek": "David Robinson, who wrote OpenAI’s launch safety reports, wants AI labs run like nuclear plants.",
-      "caveman": "David Robinson spent three and a half years at OpenAI and led the writing of the safety reports that came with its big product launches. Now he has quit, and in an essay in The Atlantic he says the company’s “culture is broken.” His main point: OpenAI improves by trial and error, which it calls “iterative deployment” — ship it, find problems, fix them. He says that method guarantees failures, and the failures get bigger as AI gets more powerful. He points to OpenAI agents breaching Hugging Face systems and more “rogue” agents being found. He argues AI labs should work like nuclear power plants or busy airports, with layers of backup safety. TechCrunch notes this echoes earlier warnings from ex-researcher Jacob Coxon.",
-      "why_it_matters": "When insiders who wrote the safety reports say the system is not safe enough, it adds pressure on lawmakers and on the voluntary pledges AI firms just signed.",
-      "camps": "Robinson and like-minded critics say rules alone won’t fix it — the whole Silicon Valley “move fast” culture must change. Defenders of iterative deployment argue that releasing step by step is how real-world problems get found and fixed, and that slowing down could hand the lead to rivals.",
+      "headline": "ChatGPT will start showing picture ads next to the images it makes",
+      "dek": "OpenAI expands advertising in the U.S. this month to pay for free and cheap plans.",
+      "caveman": "ChatGPT can draw pictures when you ask. Later this month, for U.S. users, OpenAI will start placing visual ads — pictures from advertisers — next to those generated images. Only a small test group of advertisers will be included at first. OpenAI says the ads will be clearly labeled and will not change ChatGPT’s answers. OpenAI first added ads earlier this year for free and low-cost users and expanded them to India in August. It is also adding tools that help advertisers track whether ads worked. ChatGPT has about 1.2 billion users every week. Simple: like Google and Facebook before it, the AI chatbot is becoming an ad business.",
+      "why_it_matters": "Ads shape what products get built. When a chatbot earns money from ads, people worry about whether it will quietly push them toward buying things — and how much of their personal chats are used to target them.",
+      "camps": "OpenAI says ads keep ChatGPT free for people who can’t pay, and promises that ads won’t influence answers. Privacy and consumer advocates worry that a chatbot knows far more about you than a search engine does, making ad targeting more powerful and ads harder to spot. Some observers say ads may also be a nudge to get casual users to pay for an ad-free subscription.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published": "2026-10-03",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "published": "2026-10-05",
+      "image": "images/wd-tech-2.jpg",
+      "image_alt": "Two phone screens showing sample ChatGPT ads for grocery delivery",
+      "image_credit": "Image: OpenAI via TechCrunch",
       "terms": [
         {
-          "term": "AI safety",
+          "term": "Display ads",
+          "explain": "Ads made of pictures or graphics, like banners, rather than just text.",
           "aliases": [
-            "safety reports"
-          ],
-          "explain": "Work to make sure AI systems don’t cause harm, leak data or act against people."
+            "visual ads",
+            "display"
+          ]
         },
         {
-          "term": "Iterative deployment",
-          "aliases": [],
-          "explain": "Releasing a product in small steps and fixing problems as users find them."
+          "term": "Ad targeting",
+          "explain": "Choosing which ads to show you based on what a company knows about you.",
+          "aliases": []
         },
         {
-          "term": "Rogue agents",
+          "term": "Subscription",
+          "explain": "Paying a regular fee (often monthly) for a service.",
+          "aliases": []
+        },
+        {
+          "term": "Generated images",
+          "explain": "Pictures created by AI from a text request, not taken by a camera.",
           "aliases": [
-            "rogue"
-          ],
-          "explain": "AI programs that act on their own in ways their makers did not intend."
-        },
-        {
-          "term": "Hugging Face",
-          "aliases": [],
-          "explain": "A popular website and company where people share AI models and data."
-        },
-        {
-          "term": "Redundancy",
-          "aliases": [
-            "layers of backup safety"
-          ],
-          "explain": "Extra backup systems, so if one safety step fails another catches the problem."
+            "image generation"
+          ]
         }
-      ],
-      "image": "images/wd-tech-2.jpg",
-      "image_alt": "OpenAI logo over computer code (file illustration)",
-      "image_credit": "Photo: TechCrunch"
+      ]
     },
     {
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Amazon pledges $1 billion to data center towns — and drops secret NDAs",
-      "dek": "AWS boss Matt Garman pushes back on a growing backlash, warning about 100+ local moratoriums.",
-      "caveman": "Data centers are giant buildings full of computers that run AI and the cloud. Many towns are angry about them — they use lots of power and water, and deals were often made in secret. Amazon’s cloud chief Matt Garman wrote on Friday (Oct. 2) that Amazon will spend more than $1 billion over five years in data center communities on schools, job training, and water and energy projects. He also said Amazon no longer uses nondisclosure agreements (NDAs) with government agencies. He warned that over 100 local moratoriums being considered could make the U.S. lose the AI race, and claimed data centers use only 0.5% of U.S. industrial water. TechCrunch notes that figure ignores water used for power plants and chipmaking.",
-      "why_it_matters": "Your electric bill, local water and land use are tied to this. About 6 in 10 Americans support limiting new data centers — a rare point of agreement across parties.",
-      "camps": "Amazon and supporters say data centers bring tax money and jobs and are vital for national security in the AI race. Critics say the real problem is secrecy and local costs, and that scientists need independent data because companies report their own numbers.",
+      "headline": "Kids learned the hard way about social media. Can America move faster on AI?",
+      "dek": "Parents and experts say chatbots, AI toys and homework bots need guardrails now, not years later.",
+      "caveman": "It took many years for the U.S. to seriously push back on the harms social media can do to kids. This summer, Meta agreed to an $18 billion settlement with states and promised new safety changes. Now kids are using something even more powerful: AI chatbots. According to Pew, 64% of U.S. teens have used them — mostly for schoolwork, but about 12% for emotional support or advice. Some kids form unhealthy bonds with chatbots, and companies sell AI toys for children as young as 2. AI companies are moving a bit faster than social media did: OpenAI added teen accounts in August that ban romantic chats. But Congress has passed no AI child-safety law; states are moving faster.",
+      "why_it_matters": "Children’s brains are still growing. Choices made now — about age checks, chatbot “relationships,” and AI toys — will shape a whole generation, the way phones and Instagram shaped the last one.",
+      "camps": "Advocates like parent Kristin Bride and psychologist Jonathan Haidt say: act early, don’t repeat the “oops” of social media. Tech companies point to new teen protections and say AI also helps kids learn. Some experts warn it’s harder to limit AI than social media, because kids use it for real homework help. The Trump administration has argued that too many state rules could slow U.S. AI companies.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
-      "published": "2026-10-02",
+      "source_url": "https://apnews.com/article/ai-kids-safety-social-media-3346f0c75083f207a60f34b1c54d6768",
+      "published": "2026-10-05",
+      "image": "images/wd-tech-3.jpg",
+      "image_alt": "A teenager’s ChatGPT history on a laptop screen at a coffee shop in Arkansas",
+      "image_credit": "Photo: Katie Adkins/AP (file)",
       "terms": [
         {
-          "term": "Data centers",
+          "term": "Settlement",
+          "explain": "An agreement to end a lawsuit, usually by paying money or promising changes, without a full trial.",
+          "aliases": []
+        },
+        {
+          "term": "Chatbot",
+          "explain": "A computer program you can talk or type with, like ChatGPT.",
           "aliases": [
-            "data center"
-          ],
-          "explain": "Huge warehouses full of servers that store data and run AI and websites."
+            "chatbots"
+          ]
         },
         {
-          "term": "Nondisclosure agreements",
+          "term": "Age assurance",
+          "explain": "Ways for a website or app to check how old a user is.",
           "aliases": [
-            "NDAs",
-            "NDA"
-          ],
-          "explain": "Contracts that make people keep information secret."
+            "age checks"
+          ]
         },
         {
-          "term": "Moratoriums",
+          "term": "Pew Research Center",
+          "explain": "A nonpartisan U.S. group that runs surveys about how people live and think.",
           "aliases": [
-            "moratorium"
-          ],
-          "explain": "Temporary bans — here, pauses on approving new data centers."
-        },
-        {
-          "term": "Cloud",
-          "aliases": [],
-          "explain": "Renting computing power and storage over the internet instead of owning machines."
-        },
-        {
-          "term": "Backlash",
-          "aliases": [],
-          "explain": "Strong public pushback against something."
+            "Pew"
+          ]
         }
-      ],
-      "image": "images/wd-tech-3.jpg",
-      "image_alt": "Amazon logo on a building facade (file photo)",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Judge calls Flock license-plate cameras “indiscriminate mass surveillance”",
-      "dek": "A warrantless Flock search violated the Fourth Amendment, an Oklahoma federal judge rules; Sanders files a “Block Flock Act.”",
-      "caveman": "Flock Safety sells cameras that photograph every car’s license plate and build a searchable map of where cars go. This week a federal judge, Sara Hill, ruled that a Tulsa sheriff’s deputy broke a woman’s Fourth Amendment rights by searching Flock for her plate without a warrant — apparently only because her car had California plates. Police found 91 pounds of meth in her car, but the judge threw out that evidence as “fruit of the poisonous tree.” She called Flock “indiscriminate mass surveillance” because it tracks everyone, all the time. The ruling is not binding on other courts. On Friday, Sen. Bernie Sanders introduced a “Block Flock Act” in Congress.",
-      "why_it_matters": "These cameras are in thousands of towns. Whether police need a warrant to search them decides how much of your daily movement the government can look up.",
-      "camps": "Police and Flock say the tool helps solve crimes fast; Flock’s CEO has called for a “compromise” between privacy and safety and apologized to women stalked by officers using it. Civil liberties advocates across the left and right say passive tracking of everyone without a warrant is exactly what the Constitution forbids; Florida and Texas have said they will stop using it.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "published": "2026-10-03",
+      "headline": "She used Claude as a diary. Anthropic reported one entry to police — and she was arrested",
+      "dek": "A Florida woman faces a felony after an AI company flagged a chat threatening to “shoot up” a sheriff’s office.",
+      "caveman": "A woman in Lee County, Florida, typed messages to Anthropic’s AI chatbot, Claude. She later said she used it like a diary. On Sept. 26 she wrote that she would “shoot up” the local sheriff’s office; the next day she mentioned a new gun. Anthropic’s computers scan chats for dangerous phrases. Serious ones go to human reviewers. They reported this one to police; Anthropic’s privacy policy allows sharing with police to prevent serious harm. She was arrested at home without trouble and charged on Sept. 30 with a felony: a written or electronic threat of a mass shooting. It is at least the third Claude conversation to reach police since August. OpenAI has reported ChatGPT users too. Her court date is Nov. 2.",
+      "why_it_matters": "Many people tell chatbots things they would not tell a friend. This case shows those chats are not secret: companies read flagged ones and can send them to police. It raises big questions about privacy, safety and free speech.",
+      "camps": "Safety advocates and police say reporting real threats can prevent shootings, and that AI companies have been sued for NOT warning police in other cases. Privacy and civil-liberties voices worry about companies scanning private thoughts, about people venting with no real plan, and about who decides what counts as a threat. The sheriff’s message to users: what you tell an AI is “never truly anonymous.”",
+      "source_name": "Tom’s Hardware",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august",
+      "published": "2026-10-05",
+      "image": "images/wd-tech-4.jpg",
+      "image_alt": "Anthropic’s Claude artwork: a line drawing of a face and connected dots on an orange background",
+      "image_credit": "Image: Anthropic via Tom’s Hardware",
       "terms": [
         {
-          "term": "License plate",
+          "term": "Felony",
+          "explain": "A serious crime that can bring more than a year in prison.",
+          "aliases": []
+        },
+        {
+          "term": "Human review",
+          "explain": "When real people, not just software, look at flagged content to decide what to do.",
           "aliases": [
-            "license-plate cameras",
-            "readers"
-          ],
-          "explain": "Automated license plate readers are cameras that read and log every passing car’s plate."
+            "human reviewers",
+            "human review team"
+          ]
         },
         {
-          "term": "Fourth Amendment",
-          "aliases": [],
-          "explain": "The part of the U.S. Constitution that protects against unreasonable searches by the government."
+          "term": "Privacy policy",
+          "explain": "A company’s written rules about what it does with your data, including when it shares it with police.",
+          "aliases": []
         },
         {
-          "term": "Warrant",
+          "term": "Civil liberties",
+          "explain": "Basic freedoms protected from government overreach, such as free speech and privacy.",
           "aliases": [
-            "without a warrant"
-          ],
-          "explain": "Permission from a judge that police need before searching someone or their property."
-        },
-        {
-          "term": "Fruit of the poisonous tree",
-          "aliases": [],
-          "explain": "Legal rule: evidence found through an illegal search usually can’t be used in court."
-        },
-        {
-          "term": "Mass surveillance",
-          "aliases": [],
-          "explain": "Watching or tracking large numbers of people, not just suspects."
+            "civil-liberties"
+          ]
         }
-      ],
-      "image": "images/wd-tech-4.jpg",
-      "image_alt": "A Flock Safety camera mounted on a pole",
-      "image_credit": "Photo: TechCrunch"
+      ]
     },
     {
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Brazil heads to a runoff: Lula vs. Flávio Bolsonaro on Oct. 25",
-      "dek": "Neither the 80-year-old president nor the son of jailed ex-president Jair Bolsonaro won a majority.",
-      "caveman": "Brazil, Latin America’s biggest economy, voted on Sunday (Oct. 4). Nobody got more than half the votes, so the top two will face off again on Oct. 25. One is President Luiz Inácio Lula da Silva, 80, a leftist seeking a fourth (non-back-to-back) term. The other is Sen. Flávio Bolsonaro, 45, an ally of U.S. President Trump and son of former President Jair Bolsonaro, who is serving a 27-year sentence for a coup attempt. About 159 million people could vote, also choosing governors and Congress. Relations with Washington are tense: the Trump administration put tariffs on Brazil and sanctioned a Brazilian Supreme Court justice.",
-      "why_it_matters": "Brazil is a giant for food, climate (the Amazon) and trade. The result will show whether Latin America’s recent swing to Trump-friendly leaders continues.",
-      "camps": "Lula’s supporters credit his social programs with lifting millions out of poverty and say he defends Brazil’s independence from U.S. pressure. Bolsonaro’s supporters want a tougher line on crime, a business-friendly economy and closer ties with Trump; critics worry about the family’s record on democracy after the coup plot.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/brazil-elections-lula-flavio-bolsonaro-laydown-c194f8965632c8af9bcc4e7a3716cd7c",
-      "published": "2026-10-04",
+      "headline": "Spain’s Sánchez calls a surprise Nov. 29 election, betting on anger over housing",
+      "dek": "After the right-wing opposition blocked his emergency housing rules, the Socialist leader asks voters to decide.",
+      "caveman": "Pedro Sánchez is Spain’s prime minister. He leads a left-wing minority coalition government, which means he needs other parties’ votes to pass laws. Last month, Maricarmen Abascal, an 87-year-old woman, was evicted from the Madrid home she had lived in for 70 years. Huge protests followed. Sánchez’s government wrote emergency housing rules — protection from eviction and automatic lease renewals. But on Friday (Oct. 2) the conservative People’s Party (PP), the far-right Vox and the Catalan party Junts voted them down. On Monday (Oct. 5) Sánchez called an early national election for Nov. 29 — Spain’s fifth in 10 years. Polls show the PP ahead, but probably needing Vox to govern.",
+      "why_it_matters": "If PP and Vox form a government together, it would be the first time a far-right party has helped rule Spain since dictator Francisco Franco died in 1975. Housing costs — a problem in many countries — are now the center of a national vote.",
+      "camps": "Sánchez frames it as a choice between joining a “far-right wave” or keeping Spain open and fair. The PP says eight years of Sánchez have not fixed housing, and points to corruption scandals around his party and inner circle and his failure to pass a budget since 2023. Vox pushes a “national priority” policy putting Spanish-born people first for housing. Some voters are simply tired of constant elections.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/05/pedro-sanchez-gamble-snap-general-election-spain-explainer",
+      "published": "2026-10-05",
+      "image": "images/wd-pol-1.jpg",
+      "image_alt": "People in a café in Ronda, Spain, watch Pedro Sánchez on a TV screen",
+      "image_credit": "Photo: Jon Nazca/Reuters via The Guardian",
       "terms": [
         {
-          "term": "Runoff",
-          "aliases": [],
-          "explain": "A second round of voting between the top two candidates when nobody wins a majority."
-        },
-        {
-          "term": "Majority",
-          "aliases": [],
-          "explain": "More than half of all votes."
-        },
-        {
-          "term": "Coup attempt",
-          "aliases": [],
-          "explain": "A plot to grab or keep power illegally, outside of elections."
-        },
-        {
-          "term": "Sanctioned",
+          "term": "Minority government",
+          "explain": "A government whose party (or coalition) has less than half the seats, so it must win votes from others.",
           "aliases": [
-            "sanctions"
-          ],
-          "explain": "Punished by another government, for example with frozen money or visa bans."
+            "minority coalition government",
+            "minority government"
+          ]
         },
         {
-          "term": "Tariffs",
-          "aliases": [],
-          "explain": "Taxes on imported goods."
+          "term": "Eviction",
+          "explain": "Forcing someone to leave their home, usually by a landlord with a court order.",
+          "aliases": [
+            "evicted"
+          ]
+        },
+        {
+          "term": "Far right",
+          "explain": "Political groups on the extreme right, often strongly anti-immigration and nationalist.",
+          "aliases": [
+            "far-right"
+          ]
+        },
+        {
+          "term": "Coalition",
+          "explain": "Two or more parties joining together to govern.",
+          "aliases": []
+        },
+        {
+          "term": "Vox",
+          "explain": "A far-right Spanish party founded in 2013.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-pol-1.jpg",
-      "image_alt": "Voters line up at a polling station in Brasilia, Brazil, on Oct. 4",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "FlyDubai attack: UAE had sent Israel the pilots’ names before the flight",
-      "dek": "Netanyahu orders a review of foreign flights to Israel as questions grow over how a flagged co-pilot got through.",
-      "caveman": "Last Wednesday, a co-pilot on a FlyDubai flight to Israel attacked the captain with the cockpit’s crash ax, with 182 people on board. The injured Indian captain managed to open the cockpit door, passengers rushed in and stopped him, and the plane landed safely in Saudi Arabia. New details over the weekend: the co-pilot, an Omani citizen, had earlier been barred from flying by Oman over extremist views, then was hired by FlyDubai. And on Sunday regional officials told AP the UAE had shared the passenger and crew list — including the pilots’ names and nationalities — with Israel before the flight, and Israel raised no red flags. Prime Minister Netanyahu ordered a review of all security for foreign flights to Israel.",
-      "why_it_matters": "Aviation security usually focuses on passengers and bags. This case shows a dangerous gap: crew members themselves.",
-      "camps": "Israeli officials are now blaming each other: the Shin Bet security agency says the Transportation Ministry vets foreign passenger lists, while the transport minister says she got no list or warning. Some experts say crew screening must now match passenger screening worldwide; others warn rules differ by country and are hard to enforce. The case lands weeks before a tense Israeli election where security failures are a central issue.",
+      "headline": "Saudi-backed forces launch “Yemen Dawn,” retaking towns near a key Red Sea chokepoint",
+      "dek": "With 100 fighter jets and U.S. intelligence help, Yemen’s government strikes back at the Iran-backed Houthis.",
+      "caveman": "Yemen has had a civil war since 2014. On one side: the Houthis, a rebel group backed by Iran, who hold the capital, Sanaa. On the other: Yemen’s internationally recognized government, backed by Saudi Arabia. A four-year ceasefire broke down this summer. In September the Houthis grabbed the coast along the Bab el-Mandeb Strait, where about 12% of world trade passes. On Monday (Oct. 5) the government and a Saudi-led coalition launched a big offensive called “Yemen Dawn,” with 100 fighter jets. Officials say they retook the town of Dhubab and two others near the strait. A U.S. official said the U.S. helped with intelligence and planning. The Houthis had just captured Turbah, a key town near the city of Taiz.",
+      "why_it_matters": "This flare-up has killed at least 959 people and forced about 174,000 from their homes. Control of Bab el-Mandeb affects shipping and oil prices worldwide, on top of the Iran war’s closure of Hormuz.",
+      "camps": "Saudi Arabia and Yemen’s government say they are defending themselves from Houthi missiles and want to “liberate” Sanaa; U.S. Secretary of State Marco Rubio said they “have a right to defend themselves.” The Houthis accuse Saudi Arabia of starting this round in July by bombing Sanaa’s airport, and have answered with missiles, drones and a blockade on Saudi-linked ships. U.N. agencies and health officials warn that a full return to war could deepen one of the world’s worst humanitarian disasters — the war has already killed more than 150,000 people.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/israel-flydubai-uae-oman-pilot-flight-attack-03aaa4849c590124a5fde57e92b65870",
-      "published": "2026-10-04",
+      "source_url": "https://apnews.com/article/yemen-houthis-iran-saudi-arabia-red-sea-taiz-e87beb84a0d146e4f0546b50508f7e32",
+      "published": "2026-10-05",
+      "image": "images/wd-pol-2.jpg",
+      "image_alt": "A displaced man carries a gas cylinder through a tent camp near Aden, Yemen",
+      "image_credit": "Photo: Abdulnasser Alseddik/AP",
       "terms": [
         {
-          "term": "Co-pilot",
-          "aliases": [],
-          "explain": "The second pilot in the cockpit who helps fly the plane."
-        },
-        {
-          "term": "Crew list",
+          "term": "Houthis",
+          "explain": "A rebel movement from northern Yemen, backed by Iran, that controls the capital Sanaa and much of the north.",
           "aliases": [
-            "passenger and crew list"
-          ],
-          "explain": "The list of everyone on board, shared with authorities before some flights."
+            "Houthi"
+          ]
         },
         {
-          "term": "Shin Bet",
-          "aliases": [],
-          "explain": "Israel’s domestic security agency."
-        },
-        {
-          "term": "Extremist views",
+          "term": "Bab el-Mandeb Strait",
+          "explain": "A narrow sea passage between Yemen and Africa that connects the Red Sea to the Indian Ocean.",
           "aliases": [
-            "extremism"
-          ],
-          "explain": "Radical beliefs that can support violence."
+            "Bab el-Mandeb"
+          ]
         },
         {
-          "term": "Red flags",
-          "aliases": [],
-          "explain": "Warning signs that something is wrong."
+          "term": "Chokepoint",
+          "explain": "A narrow route where traffic can easily be blocked.",
+          "aliases": []
+        },
+        {
+          "term": "Ceasefire",
+          "explain": "An agreement to stop fighting for a time.",
+          "aliases": []
+        },
+        {
+          "term": "Internationally recognized government",
+          "explain": "The government most countries and the U.N. officially accept as Yemen’s rulers.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-pol-2.jpg",
-      "image_alt": "Dubai’s crown prince visits the injured FlyDubai captain in a hospital",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Germany’s Merz brings $1.5 billion in aid to Kyiv as Russia escalates",
-      "dek": "Package includes long-range weapons, combat drones and winter energy help; Ukraine says it shot down only half of 900 jet drones this week.",
-      "caveman": "German Chancellor Friedrich Merz visited Kyiv on Sunday (Oct. 4) and announced a new aid package worth more than 1.3 billion euros ($1.5 billion). About 1 billion euros is military: long-range strike weapons, combat drones and satellite technology. Another 350 million euros is energy help before winter. The two countries also signed 15 deals worth over 8.5 billion euros. President Zelenskyy said Russia launched 900 jet-powered drones this week and Ukraine could stop only about half. Germany is Ukraine’s biggest donor, with more than 43 billion euros sent. Zelenskyy also said the U.S. proposed technical-level three-way talks by late October, possibly in the UAE.",
-      "why_it_matters": "Winter is coming and Russia keeps hitting cities and power plants. European money and air defense help decide whether Ukrainians have heat and light.",
-      "camps": "Supporters say strong aid is the only way to push Russia toward real talks and protect civilians. Skeptics question the cost for European taxpayers; others worry long-range weapons could widen the war. Russia has not yet answered the U.S. talks proposal.",
+      "headline": "Bosnia’s election hands wins to nationalists, and a pro-Russia leader thanks Trump",
+      "dek": "Banned from office, Serb separatist Milorad Dodik still claims victory as his allies sweep their region.",
+      "caveman": "Bosnia and Herzegovina is a small country in southeast Europe. In the 1990s, a brutal war between its three main groups — Muslim Bosniaks, Orthodox Serbs and Catholic Croats — killed more than 100,000 people. A 1995 U.S.-brokered peace deal split power among the groups. It even has a three-person presidency: one Bosniak, one Serb, one Croat. On Sunday (Oct. 4) about 3.4 million people could vote. Nationalist parties — ones focused on their own ethnic group — gained across the board. Zeljka Cvijanovic, an ally of Serb leader Milorad Dodik, won more than 55% for the Serb seat, representing Republika Srpska, the Serb-majority half of the country. Dodik is banned from office and wasn’t on the ballot, but in his victory speech he thanked Donald Trump and Vladimir Putin.",
+      "why_it_matters": "Dodik wants the Serb region to break away and join Serbia. Stronger nationalists can mean more deadlock, slower progress toward joining the European Union, and a bigger foothold for Russia in Europe.",
+      "camps": "Dodik’s supporters say they are protecting Serb rights and self-rule. Analysts like Kurt Bassuener warn that every nationalist party gained, which threatens more instability, and that people may be voting out of fear rather than hope. Some ordinary voters told AP they want leaders of all groups to talk and compromise. Trump’s government lifted U.S. sanctions on Dodik last year; Biden’s team had imposed them over corruption and separatism.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3",
-      "published": "2026-10-04",
+      "source_url": "https://apnews.com/article/bosnia-election-nationalist-dodik-instability-eu-russia-f5193dfac815d1b9caacf1524eb392a8",
+      "published": "2026-10-05",
+      "image": "images/wd-pol-3.jpg",
+      "image_alt": "Milorad Dodik holds up a ballot paper at a polling station in Laktasi, Bosnia",
+      "image_credit": "Photo: Radivoje Pavicic/AP",
       "terms": [
         {
-          "term": "Aid package",
-          "aliases": [],
-          "explain": "A bundle of money, weapons or supplies given to another country."
-        },
-        {
-          "term": "Jet-powered drones",
-          "aliases": [],
-          "explain": "Fast drones with jet engines that are harder to shoot down than slow propeller ones."
-        },
-        {
-          "term": "Air defense",
-          "aliases": [],
-          "explain": "Missiles, guns and radar that shoot down incoming drones and missiles."
-        },
-        {
-          "term": "Trilateral",
+          "term": "Nationalist",
+          "explain": "Putting your own nation or ethnic group first, sometimes against others.",
           "aliases": [
-            "three-way"
-          ],
-          "explain": "Involving three sides — here the U.S., Ukraine and Russia."
+            "nationalists",
+            "nationalist parties"
+          ]
         },
         {
-          "term": "Euros",
+          "term": "Separatist",
+          "explain": "Someone who wants a region to split off and become independent or join another country.",
+          "aliases": []
+        },
+        {
+          "term": "Republika Srpska",
+          "explain": "The Serb-majority half of Bosnia, with its own president and parliament.",
+          "aliases": []
+        },
+        {
+          "term": "Tripartite presidency",
+          "explain": "A presidency shared by three people, one for each main ethnic group.",
           "aliases": [
-            "euro"
-          ],
-          "explain": "The money used by Germany and most of the European Union."
+            "three-person presidency"
+          ]
+        },
+        {
+          "term": "Bosniaks",
+          "explain": "Bosnian Muslims, the largest ethnic group in Bosnia.",
+          "aliases": [
+            "Bosniak"
+          ]
         }
-      ],
-      "image": "images/wd-pol-3.jpg",
-      "image_alt": "Zelenskyy and Merz in front of a drone-damaged building in Kyiv",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "U.S. Marine arrested in killing of a woman on Okinawa; Japan protests",
-      "dek": "Tokyo summons the U.S. ambassador as old anger over American bases flares again.",
-      "caveman": "Police on Okinawa, Japan, arrested a 20-year-old U.S. Marine from the Futenma air station. He is suspected of killing a 39-year-old local woman in a hotel in Naha early Saturday (Oct. 3) and taking her wallet and backpack. Kyodo News said she appeared to have been strangled. Okinawa Gov. Genta Koja called it “absolutely unforgivable.” Prime Minister Sanae Takaichi protested to the U.S., and Foreign Minister Motegi summoned U.S. Ambassador George Glass. About 50,000 U.S. troops are in Japan, roughly half of them on Okinawa.",
-      "why_it_matters": "Okinawa carries a heavy share of U.S. bases in Japan. Crimes by service members fuel calls to shrink the bases just as Tokyo wants closer military ties with the U.S. because of China.",
-      "camps": "Many Okinawans say they have lived for decades with noise, pollution and crime from the bases and want real change, not apologies. Japan’s national government and Washington see Okinawa as key to deterring China and focus on tougher discipline while keeping the alliance strong.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/japan-us-marine-crime-okinawa-e2ba88380a55f9b8af559dd616b92b11",
-      "published": "2026-10-04",
+      "headline": "The Supreme Court’s new term opens with a climate fight — and guns, voting and deportations ahead",
+      "dek": "Can a Colorado town sue oil companies over climate damage? The justices heard that first.",
+      "caveman": "Every year the U.S. Supreme Court starts work on the first Monday of October. This year’s first day (Oct. 5) began with a big climate case. Boulder, Colorado, sued oil companies Suncor and ExxonMobil, saying they should help pay for damage linked to climate change. The companies, backed by the Trump administration, say a global problem shouldn’t be handled through local lawsuits. Later this term: whether states can ban AR-15-style rifles (December); Trump’s policy of deporting migrants to countries where they have no ties; holding immigrants without a bond hearing; Arizona rules requiring proof of citizenship to register to vote (December); and Catholic preschools left out of a Colorado program over rules about LGBTQ+ families (November).",
+      "why_it_matters": "The Supreme Court has the final word on what the Constitution means. Its decisions, usually announced by next summer, will shape climate lawsuits, gun laws, voting rules and immigration for years.",
+      "camps": "Climate groups and local governments say oil companies knew about climate risks and should share the costs. The companies and the administration say only Congress and federal agencies should set emissions policy. On guns, states with bans point to mass shootings, while challengers say AR-15s are common and protected by the Second Amendment. The court’s conservative majority has expanded gun rights in recent years.",
+      "source_name": "NBC News / AP",
+      "source_url": "https://www.nbcnews.com/politics/supreme-court/new-supreme-court-term-begins-cases-climate-change-gun-rights-rcna601561",
+      "published": "2026-10-05",
+      "image": "images/wd-pol-4.jpg",
+      "image_alt": "The U.S. Supreme Court building in Washington at sunrise",
+      "image_credit": "Photo: J. David Ake/Getty Images via NBC News",
       "terms": [
         {
-          "term": "Okinawa",
-          "aliases": [],
-          "explain": "Japan’s southern island chain, home to about half the U.S. troops in Japan."
+          "term": "Supreme Court",
+          "explain": "The highest court in the U.S. Its nine justices decide what the Constitution and federal laws mean.",
+          "aliases": [
+            "justices",
+            "high court"
+          ]
         },
         {
-          "term": "Futenma",
-          "aliases": [],
-          "explain": "A U.S. Marine Corps air station in the middle of a crowded Okinawan city."
+          "term": "Term",
+          "explain": "The court’s working year, which starts the first Monday in October.",
+          "aliases": []
         },
         {
-          "term": "Summoned",
-          "aliases": [],
-          "explain": "Officially called in to hear a complaint — a strong diplomatic signal."
+          "term": "Second Amendment",
+          "explain": "The part of the U.S. Constitution about the right to “keep and bear arms.”",
+          "aliases": []
         },
         {
-          "term": "Alliance",
-          "aliases": [],
-          "explain": "A security partnership in which countries promise to help defend each other."
+          "term": "Bond hearing",
+          "explain": "A court hearing where a judge decides if a detained person can be released while their case goes on.",
+          "aliases": []
         },
         {
-          "term": "Discipline",
-          "aliases": [],
-          "explain": "Rules and punishments that control how troops behave."
+          "term": "Deport",
+          "explain": "To force a non-citizen to leave a country.",
+          "aliases": [
+            "deporting",
+            "deportations"
+          ]
         }
-      ],
-      "image": "images/wd-pol-4.jpg",
-      "image_alt": "U.S. Osprey aircraft at Marine Corps Air Station Futenma, Okinawa",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "October’s buzziest book: Barbara Kingsolver’s “Partita” tops every list",
-      "dek": "Book Riot crunched six major “most anticipated” lists; Orringer, Garmus and Schwab follow.",
-      "caveman": "Book Riot looked at six big October “most anticipated” lists — Goodreads, The New York Times, Bookshop.org, the Los Angeles Times, Barnes & Noble and Kirkus — to see which new books show up most. The winner: Barbara Kingsolver’s new novel “Partita,” which appeared on all six. Next came Julie Orringer’s “Luna, Phoenix, Queen” (five lists), then Bonnie Garmus’s “Peck & Peck” and V.E. Schwab’s “Victorious” (four each). Stephen Graham Jones’s “Off the Reservation,” T. Geronimo Johnson’s “The Occidental Book of the Dead,” Nathaniel Philbrick’s “The Rush,” and Chad Harbach’s “The Brightness” made three lists. Under-the-radar picks include Imbolo Mbue and Kawai Strong Washburn.",
-      "why_it_matters": "This is the fall “who’s hot” board. Kingsolver is coming off a Pulitzer for “Demon Copperhead,” and Garmus follows her megahit “Lessons in Chemistry,” so publishers are betting big.",
-      "camps": "Fans see a strong month mixing literary heavyweights, horror (Jones), fantasy (Schwab) and history (Philbrick). Critics of list culture note the same famous names get amplified everywhere, while smaller presses and debut writers struggle for attention.",
-      "source_name": "Book Riot",
-      "source_url": "https://bookriot.com/popular-new-books-october-2026/",
-      "published": "2026-10-02",
+      "headline": "U.S. schools banned a record 12,000 books last year — and Stephen King tops the list again",
+      "dek": "PEN America’s new count lands during Banned Books Week; some districts now use AI to decide what to pull.",
+      "caveman": "PEN America is a group that defends free speech for writers. On Monday (Oct. 5), during Banned Books Week (Oct. 4–10), it released its yearly count: 11,982 cases of books being removed from U.S. public schools in the 2025–26 school year. That is the most since it started counting five years ago. The bans hit 7,370 different books; more than 4,500 were banned for the first time — from the classic “Jane Eyre” to the manga “Tokyo Ghoul.” Most bans happened in Texas and Florida, which passed strict laws. For the second year, Stephen King was the most-banned author (312 removals). The single most-banned book was Patricia McCormick’s “Sold,” about a girl trafficked into sexual slavery. Common reasons: race, sexuality and gender identity.",
+      "why_it_matters": "School libraries are where many kids first find books about lives unlike — or exactly like — their own. Who decides what stays on the shelf is a fight over parents’ rights, kids’ rights and free expression.",
+      "camps": "PEN and librarians say bans cut students off from diverse voices and that pulling books, even briefly, chills teachers. Supporters of removals, including many conservative parent groups and lawmakers, say they are protecting children from sexual or age-inappropriate content and that parents should have a say. Counts differ: the American Library Association, which only counts permanent removals, found about 5,600 bans in its latest report.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/book-bans-pen-america-stephen-king-6139f813e15c2b62ae4d27b06121ea41",
+      "published": "2026-10-05",
+      "image": "images/wd-lit-1.jpg",
+      "image_alt": "A Banned Books Week display with caution tape at a New York Public Library branch in the Bronx",
+      "image_credit": "Photo: Ted Shaffrey/AP (file)",
       "terms": [
         {
-          "term": "Most anticipated",
+          "term": "PEN America",
+          "explain": "A U.S. nonprofit of writers that defends free expression and tracks book bans.",
           "aliases": [
-            "anticipated"
-          ],
-          "explain": "Books readers and critics are most excited about before they come out."
+            "PEN"
+          ]
         },
         {
-          "term": "Kirkus",
-          "aliases": [],
-          "explain": "Kirkus Reviews, a long-running U.S. book review magazine."
+          "term": "Banned Books Week",
+          "explain": "An annual week each fall when libraries and bookstores highlight books that have been challenged or removed.",
+          "aliases": []
         },
         {
-          "term": "Bookshop.org",
-          "aliases": [],
-          "explain": "An online bookstore that shares profits with independent bookshops."
+          "term": "Book ban",
+          "explain": "When a school or library removes a book or limits who can read it, often after complaints.",
+          "aliases": [
+            "bans",
+            "banned"
+          ]
         },
         {
-          "term": "Pulitzer",
-          "aliases": [],
-          "explain": "The Pulitzer Prize, a top American award for books and journalism."
+          "term": "Manga",
+          "explain": "Japanese comic books, read by kids and adults around the world.",
+          "aliases": []
         },
         {
-          "term": "Novel",
-          "aliases": [],
-          "explain": "A long, made-up story."
+          "term": "American Library Association",
+          "explain": "The main U.S. organization of librarians.",
+          "aliases": [
+            "ALA"
+          ]
         }
-      ],
-      "image": "images/wd-lit-1.jpg",
-      "image_alt": "Grid of October 2026 new-release book covers",
-      "image_credit": "Photo: Book Riot"
+      ]
     },
     {
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "What America actually read in September: “The Correspondent” still rules Goodreads",
-      "dek": "Netflix pushes “The Love Hypothesis” into the top five; Marlon James and R.F. Kuang lead the critics’ buzz.",
-      "caveman": "Book Riot checked the most-read books on Goodreads in September. Most were carryovers from earlier months, led by Virginia Evans’s “The Correspondent” and Caro Claire Burke’s “Yesteryear.” A movie effect showed up fast: Netflix released its adaptation of Ali Hazelwood’s romance “The Love Hypothesis” late in the month, and that alone pushed it into the top five. Also on the list: Sally Hepworth’s “Mad Mabel” and Kathryn Stockett’s “The Calamity Club.” Book Riot pointed out the most-read list is not very diverse, so it highlighted buzzy September books by authors of color: Marlon James’s “The Disappearers,” which The New York Times called “the novel of the decade, if not the century,” R.F. Kuang’s “Taipei Story,” and Tananarive Due’s “Mazywood.”",
-      "why_it_matters": "This shows the gap between what critics rave about and what most people actually read — and how a streaming adaptation can still move books overnight.",
-      "camps": "Popular-taste fans say the list reflects real readers, who love cozy, emotional and romantic stories. Critics argue algorithms and marketing keep boosting the same kinds of books and authors, so writers of color need deliberate attention to be seen.",
-      "source_name": "Book Riot",
-      "source_url": "https://bookriot.com/the-most-read-books-on-goodreads-in-september-2026/",
-      "published": "2026-10-02",
+      "headline": "42 years later, Stephen King finishes the “Talisman” saga he started with the late Peter Straub",
+      "dek": "“Other Worlds Than These,” the trilogy’s final book, out Oct. 6, is being called a moving goodbye to an old friend.",
+      "caveman": "In 1984, horror masters Stephen King and Peter Straub wrote “The Talisman,” about a 12-year-old boy, Jack Sawyer, who can “flip” between our world and a magical land called the Territories. A sequel, “Black House,” came in 2001. Straub sent King an idea for a third book back in 2013, but they never wrote it together; Straub died in 2022. Now King, 79, has finished it alone, and Straub’s name is still on the cover. In “Other Worlds Than These,” Jack is 57 and battered, trying to stop a death cult that wants to open a hungry black hole. The audiobook is read by comedian Patton Oswalt. Esquire’s critic says it will “break your heart.” It goes on sale Tuesday, Oct. 6.",
+      "why_it_matters": "It’s one of the biggest releases of the fall, from the most-banned author in U.S. schools — and a rare case of a writer finishing a story for a friend who has died.",
+      "camps": "Fans and critics like Esquire’s Anthony Breznican call it an emotional, page-turning adventure about aging and loss. Others are cooler: Kirkus found it entertaining but not either author at his best, and some reviewers say it leans so heavily on King’s “Dark Tower” books that newcomers may feel lost.",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/entertainment/books/a74017244/stephen-king-other-worlds-than-these-review/",
+      "published": "2026-10-05",
+      "image": "images/wd-lit-2.jpg",
+      "image_alt": "Publisher image pairing a photo of the two authors with the cover of “Other Worlds Than These”",
+      "image_credit": "Image: Simon & Schuster via Esquire",
       "terms": [
         {
-          "term": "Goodreads",
-          "aliases": [],
-          "explain": "A big website where readers log and rate books; owned by Amazon."
+          "term": "Trilogy",
+          "explain": "A set of three connected books.",
+          "aliases": []
         },
         {
-          "term": "Carryovers",
-          "aliases": [],
-          "explain": "Books that stayed popular from earlier months."
+          "term": "Sequel",
+          "explain": "A book that continues the story of an earlier book.",
+          "aliases": []
         },
         {
-          "term": "Adaptation",
-          "aliases": [],
-          "explain": "A movie or TV show made from a book."
+          "term": "Audiobook",
+          "explain": "A recording of a book read aloud.",
+          "aliases": []
         },
         {
-          "term": "Diverse",
-          "aliases": [],
-          "explain": "Including people of different races, backgrounds and identities."
+          "term": "The Dark Tower",
+          "explain": "Stephen King’s big fantasy series about a gunslinger, which connects to many of his other books.",
+          "aliases": [
+            "Dark Tower"
+          ]
         },
         {
-          "term": "Romance",
-          "aliases": [],
-          "explain": "A genre focused on a love story, usually with a happy ending."
+          "term": "Kirkus",
+          "explain": "Kirkus Reviews, a U.S. magazine that reviews books before they come out.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-lit-2.jpg",
-      "image_alt": "Cover of Virginia Evans’s novel The Correspondent",
-      "image_credit": "Photo: Book Riot"
+      ]
     },
     {
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Audible will let you talk to book characters with AI — Lit Hub calls it “creepy”",
-      "dek": "New tools include live character guides and a chat feature piloting in an Audible Original “Dracula.”",
-      "caveman": "Audible, Amazon’s audiobook service, announced new AI-powered tools on Thursday (Oct. 1). One shows who is speaking in real time, so listeners don’t get lost; one gives spoiler-free character cards; another shows images and facts about places in the story. The most controversial: an interactive feature, powered by generative AI, that lets listeners ask questions as the story unfolds and even talk to characters. Amazon says that will appear only where the author allows it. The first test is a new Audible Original of Bram Stoker’s “Dracula,” which is in the public domain. A guide will also come to George Orwell’s “1984.” Literary Hub called the chat feature creepy.",
-      "why_it_matters": "AI is moving into how stories are told and sold. Writers worry about who controls their characters and words once a chatbot can speak for them.",
-      "camps": "Supporters say the tools help people who multitask or have memory or hearing challenges, and make classics more fun. Skeptics say the point of reading is the author’s voice and your own imagination, and fear starting with public-domain books is a first step toward using authors’ work more widely.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/audible-has-a-creepy-new-feature-that-lets-you-talk-to-characters-in-books/",
-      "published": "2026-10-02",
+      "headline": "Ayad Akhtar’s new novel “The Radiance” takes on #MeToo, campus politics and Gen Z",
+      "dek": "The Pulitzer winner’s follow-up to “Homeland Elegies” is provocative — and already dividing critics.",
+      "caveman": "Ayad Akhtar is an American writer, born to Pakistani-born doctors. He won the 2013 Pulitzer Prize for Drama for his play “Disgraced,” and his novel “Homeland Elegies” was a big hit in 2020. His new novel, “The Radiance,” is set during COVID in a small upstate New York town. The narrator — also named Ayad, in a style called autofiction — is knocked off his bike by a hit-and-run driver. Afterward, he feels strangely calm and sees beauty everywhere. He starts teaching a writing class at a local college, and things go wrong: his prompts lead to sexual stories, including one hinting that a student was groomed by a professor friend. The book wrestles with #MeToo, short attention spans, online misinformation and trauma passed down in families.",
+      "why_it_matters": "Akhtar writes about the cracks in American life — race, religion, money, power. Novels like this become part of the national argument about free speech on campus and how we judge past relationships.",
+      "camps": "NPR’s Heller McAlpin calls it thought-provoking and finally “a profound reading experience,” though sometimes a head-scratcher. Vulture’s review headline — “Gen Z Gets a Drubbing” — signals that some readers will see its take on young people as unfair or grumpy. Akhtar’s fans say his job is to provoke; critics say provocation is not the same as insight.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/05/nx-s1-5985795/ayad-akhtar-the-radiance-review",
+      "published": "2026-10-05",
+      "image": "images/wd-lit-3.jpg",
+      "image_alt": "Cover of “The Radiance” by Ayad Akhtar, with autumn trees",
+      "image_credit": "Book cover via NPR",
       "terms": [
         {
-          "term": "Audiobook",
+          "term": "Pulitzer Prize",
+          "explain": "A top U.S. award for journalism, books, drama and music.",
           "aliases": [
-            "Audible"
-          ],
-          "explain": "A book read aloud and recorded so you can listen to it."
+            "Pulitzer"
+          ]
         },
         {
-          "term": "Generative AI",
-          "aliases": [],
-          "explain": "AI that creates new text, images or voices on request."
-        },
-        {
-          "term": "Public domain",
-          "aliases": [],
-          "explain": "Old works whose copyright has expired, so anyone can use them."
-        },
-        {
-          "term": "Spoiler",
+          "term": "Autofiction",
+          "explain": "Fiction that borrows heavily from the author’s real life, often using their own name.",
           "aliases": [
-            "spoiler-free"
-          ],
-          "explain": "Information that reveals what happens later in a story."
+            "autofictional"
+          ]
         },
         {
-          "term": "Audible Original",
-          "aliases": [],
-          "explain": "A recording made and owned by Audible itself."
+          "term": "#MeToo",
+          "explain": "A movement, viral since 2017, in which people spoke up about sexual harassment and abuse.",
+          "aliases": [
+            "MeToo"
+          ]
+        },
+        {
+          "term": "Gen Z",
+          "explain": "People born roughly from the late 1990s to the early 2010s.",
+          "aliases": []
+        },
+        {
+          "term": "Groomed",
+          "explain": "When an adult builds trust with a young person in order to abuse them.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-lit-3.jpg",
-      "image_alt": "Lit Hub illustration about Audible’s AI character feature",
-      "image_credit": "Photo: Literary Hub"
+      ]
     },
     {
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "NPR’s fall must-reads: Philyaw’s first novel, a Pitchfork memoir, and Dustin Hoffman",
-      "dek": "Ten picks mixing fiction, nonfiction and translations, from Kingsolver to a young-adult “Dirty Dancing.”",
-      "caveman": "NPR named 10 books it is excited about this fall. Fiction: Deesha Philyaw, whose 2020 story collection “The Secret Lives of Church Ladies” became a sensation from a small university press, finally has her first novel, “The True Confessions of First Lady Freeman” (out Sept. 29). Barbara Kingsolver’s “Partita” (Oct. 6) follows a pianist. Jasmine Guillory’s first young-adult novel, “It’s Only Dancing,” is a take on “Dirty Dancing.” Chad Harbach returns with “The Brightness” (Oct. 27). Nonfiction: Dustin Hoffman’s memoir “Look at Me” with Ariel Levy, Pitchfork founder Ryan Schreiber’s “Weird Era,” cartoonist Lisa Hanawalt, and science writer Olivia Judson. A translation of Mexican writer Amparo Dávila’s “Behind the Gate” (Nov. 3) and poems by Enrique Lihn round it out.",
-      "why_it_matters": "Fall is publishing’s biggest season. Lists like NPR’s help decide which books get attention before the holiday shopping rush.",
-      "camps": "Readers like that NPR mixes big names with smaller-press and translated books. Some critics say celebrity memoirs (like Hoffman’s) soak up attention that could go to lesser-known writers, though NPR argues they are part of the culture conversation too.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5983820/what-to-read-books-fiction-nonfiction",
-      "published": "2026-10-02",
+      "headline": "Billionaire MacKenzie Scott self-published a dystopian novel on Substack. The New Yorker isn’t impressed",
+      "dek": "“Last Days in Two Nations” imagines an America split in two — and critics are asking why she skipped a publisher.",
+      "caveman": "MacKenzie Scott is one of the richest women in the world and the ex-wife of Amazon founder Jeff Bezos. She is famous for giving away billions of dollars. Before that, she was a novelist: her first book won an American Book Award, and Toni Morrison was her teacher at Princeton. Since August, Scott has been posting her third novel, “Last Days in Two Nations,” serialized chapter by chapter for free on Substack, a newsletter website. It imagines a future America split into two countries; one, run by a germ-obsessed dictator-president, tests children for “rebelliousness.” The story jumps among 18 characters. In a New Yorker essay (Oct. 5), critic Rhoda Feng says it reads like a rushed draft or a movie script, with typos and clichés.",
+      "why_it_matters": "It shows how much Amazon and self-publishing have changed books: even a famous literary writer now skips the big publishers. And the story’s obvious jabs at a real-life leader are part of a wave of political fiction in Trump’s second term.",
+      "camps": "Some see the free, self-published route as a quiet protest against her ex-husband’s company and the publishing gatekeepers. Others note that only a billionaire can afford that risk. Critics at The New Yorker and Vanity Fair say the book needed an editor; readers who like fast political thrillers may simply enjoy the ride.",
+      "source_name": "The New Yorker",
+      "source_url": "https://www.newyorker.com/books/page-turner/mackenzie-scotts-substack-novel-cant-escape-the-amazon-juggernaut",
+      "published": "2026-10-05",
+      "image": "images/wd-lit-4.jpg",
+      "image_alt": "Illustration of a fountain pen splitting an ink-blot map of the United States in two",
+      "image_credit": "Illustration: Matt Chase for The New Yorker",
       "terms": [
         {
-          "term": "Story collection",
+          "term": "Dystopian",
+          "explain": "Describing an imagined society that is frightening or unjust, often as a warning.",
           "aliases": [
-            "short story collection"
-          ],
-          "explain": "A book made of several short stories instead of one long novel."
+            "dystopia"
+          ]
         },
         {
-          "term": "University press",
-          "aliases": [],
-          "explain": "A publisher run by a university, usually small and focused on serious books."
+          "term": "Substack",
+          "explain": "A website where writers post newsletters and stories, free or for paid subscribers.",
+          "aliases": []
         },
         {
-          "term": "Young-adult",
+          "term": "Self-publish",
+          "explain": "When an author releases a book without a traditional publishing house.",
           "aliases": [
-            "YA"
-          ],
-          "explain": "Books written mainly for teenage readers."
+            "self-published",
+            "self-publishing"
+          ]
         },
         {
-          "term": "Memoir",
-          "aliases": [],
-          "explain": "A true story someone writes about their own life."
+          "term": "Serialized",
+          "explain": "Released in parts over time, like TV episodes.",
+          "aliases": []
         },
         {
-          "term": "Translated",
-          "aliases": [
-            "translations"
-          ],
-          "explain": "Turned from another language into English."
+          "term": "Toni Morrison",
+          "explain": "A Nobel Prize–winning American novelist (“Beloved”) who died in 2019.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-lit-4.jpg",
-      "image_alt": "Covers of books on NPR’s fall reading list",
-      "image_credit": "Photo: NPR"
+      ]
     },
     {
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Congo’s Ebola outbreak passes 4,000 deaths; a treatment center is burned",
-      "dek": "The fastest-growing Ebola outbreak on record keeps spreading as unpaid health workers protest.",
-      "caveman": "Ebola is a deadly virus spread through body fluids. In eastern Congo, an outbreak declared on May 15 has now killed 4,018 people out of about 8,300 cases, the Health Ministry said — the fastest-growing Ebola outbreak in history. Doctors Without Borders (MSF) says North Kivu province now has 40% of new confirmed cases; one coordinator said it is “like fighting a wildfire.” In Bunia, health workers protested because they have not been paid for months, with signs reading “No money, no data!” A U.N. official said soldiers searching for weapons burned a displacement camp that housed an Ebola transit center, forcing 19,000 people to flee. At least 50 health workers have died, and an infected MSF worker was flown to the Netherlands.",
-      "why_it_matters": "Ebola spreads where war, poverty and distrust meet. Every lost clinic and every unpaid worker gives the virus more room to spread, possibly across borders.",
-      "camps": "Aid groups and the U.N. say the world must send more money and protect health workers and clinics. Local communities, after years of conflict, often distrust outsiders and the government, which complicates the response; authorities have not explained the unpaid wages.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
-      "published": "2026-10-02",
+      "headline": "“Defend our men!” Four Latin American countries push to punish false rape reports",
+      "dek": "Women’s groups say the bills in Bolivia, Chile, Argentina and Peru will scare real victims into silence.",
+      "caveman": "In Bolivia, Chile, Argentina and Peru, lawmakers have proposed laws to punish people who make false reports of domestic, sexual or gender-based violence — with prison terms of up to six years in some bills. Chilean senator Vanessa Kaiser, who backs one, says men must be defended from “horrible ideologies called feminism.” But the numbers show false reports are rare: in Argentina, about 1 in 1,000 criminal cases; in Bolivia, 0.13% of cases filed in 2024. Lying to police is already a crime in all four countries. The bigger problem, researchers say, is silence: in a 2024 Chilean survey, only 12.1% of women who suffered sexual violence reported it. In Argentina, only 15% of women killed in femicides in 2025 had reported abuse first.",
+      "why_it_matters": "Latin America’s women’s movements, like Ni Una Menos (“Not One Less”), won big changes in the last decade. These bills are part of a backlash. If victims fear jail for not “winning” their case, fewer will come forward.",
+      "camps": "Supporters say the bills protect the presumption of innocence and people wrongly accused of terrible crimes. Women’s rights groups and a regional treaty-monitoring body, MESECVI, say the bills look coordinated across countries and could create a new barrier to justice. Feminist lawyers in Argentina link them to President Javier Milei’s government closing women’s protection offices.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/05/defend-our-men-fears-for-womens-rights-in-latin-america-over-plans-to-counter-gender-violence-laws",
+      "published": "2026-10-05",
+      "image": "images/wd-soc-1.jpg",
+      "image_alt": "A protester with painted hand prints on her face at a Not One Less march in Buenos Aires",
+      "image_credit": "Photo: Luis Robayo/AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "Ebola",
-          "aliases": [],
-          "explain": "A severe, often deadly virus spread through contact with an infected person’s body fluids."
-        },
-        {
-          "term": "Outbreak",
-          "aliases": [],
-          "explain": "A sudden rise in cases of a disease in one area."
-        },
-        {
-          "term": "MSF",
+          "term": "Femicide",
+          "explain": "The killing of a woman or girl because she is female, often by a partner.",
           "aliases": [
-            "Doctors Without Borders"
-          ],
-          "explain": "Médecins Sans Frontières (Doctors Without Borders), a global medical aid group."
+            "femicides"
+          ]
         },
         {
-          "term": "Displacement camp",
-          "aliases": [],
-          "explain": "A camp for people forced to flee their homes but still inside their country."
+          "term": "Gender-based violence",
+          "explain": "Violence aimed at someone because of their gender, like domestic abuse or sexual assault.",
+          "aliases": [
+            "gender violence"
+          ]
         },
         {
-          "term": "Transit center",
-          "aliases": [],
-          "explain": "A place where possible patients are held and tested before treatment."
+          "term": "Presumption of innocence",
+          "explain": "The legal rule that a person is treated as innocent until proven guilty.",
+          "aliases": []
+        },
+        {
+          "term": "Ni Una Menos",
+          "explain": "“Not One [woman] Less,” a movement against femicide that began in Argentina in 2015.",
+          "aliases": [
+            "Not One Less"
+          ]
+        },
+        {
+          "term": "Backlash",
+          "explain": "A strong pushback against a social change.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-soc-1.jpg",
-      "image_alt": "A health worker in protective gear is disinfected at an Ebola treatment center in Beni, Congo",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Malaysia sends nearly 1,500 back to war-torn Myanmar despite U.N. warnings",
-      "dek": "Returnees arrive in Yangon on navy ships; rights groups fear persecution and forced conscription.",
-      "caveman": "On Sunday (Oct. 4), nearly 1,500 Myanmar citizens who had been held in Malaysia arrived in Yangon. They were deported and shipped back — a process called repatriation — on two navy warships and a hospital ship. They include 86 women. Malaysia plans to send back 5,000 in stages and holds 10,388 others in detention. The U.N. refugee agency and rights groups say Myanmar — in civil war since the military seized power in 2021 — is not safe; returnees could face persecution or be forced into the army. A U.N. rights expert pointed to non-refoulement — the rule against sending people back to danger — and said the risk is “substantial.” It is unclear if any are Rohingya, a persecuted Muslim minority.",
-      "why_it_matters": "Sending people back into a war zone can cost lives. It also tests whether countries keep the global rule against returning refugees to danger.",
-      "camps": "Malaysia treats them as immigration detainees it has the right to deport. The U.N. and rights groups say Malaysia must not send anyone back to persecution; Malaysia hosts about 215,600 refugees but has not signed the U.N. Refugee Convention and treats them as undocumented migrants.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/myanmar-malaysia-repatriation-war-df7f92788f7c5029ab204ec3dc3a736b",
+      "headline": "Women journalists accuse Delhi police of groping them at a youth protest over voter lists",
+      "dek": "India’s “Cockroach” protesters want the election chief out after 130 million names were cut from voter rolls.",
+      "caveman": "India’s Election Commission has been “cleaning” its voter lists for the first time in nearly 25 years. So far it has removed 130 million names, saying they were dead people, people who moved, or duplicates. Critics say the cuts could help Prime Minister Narendra Modi’s party, the BJP; the BJP and the commission deny that. Young protesters, many linked to the satirical online movement “Cockroach Janta Party,” gathered in Delhi and Mumbai for a third day on Sunday (Oct. 4), demanding that chief election commissioner Gyanesh Kumar resign. Police detained scores. Three women journalists say police officers touched them inappropriately. One student activist said police “dragged me by my hair.” Delhi Police say an inquiry has begun.",
+      "why_it_matters": "India is the world’s biggest democracy. Who gets to stay on the voter list decides elections. And whether reporters — especially women — can cover protests safely is a basic test of press freedom.",
+      "camps": "The Election Commission says the update is overdue and the lists are full of mistakes. Opposition leader Rahul Gandhi says women fear for their safety and the government must “answer for this.” The Press Club of India demanded immediate action. Reports that two of Kumar’s fellow commissioners objected at least 14 times to decisions made without them fueled the protests; the commission says all decisions were unanimous.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.com/news/articles/c9e8lvm6nrr3o",
       "published": "2026-10-04",
+      "image": "images/wd-soc-2.jpg",
+      "image_alt": "Two uniformed police officers drag away a shouting young woman at a protest in Delhi",
+      "image_credit": "Photo: EPA via BBC News",
       "terms": [
         {
-          "term": "Repatriated",
+          "term": "Election Commission",
+          "explain": "The independent body that runs elections in India.",
           "aliases": [
-            "repatriation"
-          ],
-          "explain": "Sent back to one’s home country."
+            "election commissioner"
+          ]
         },
         {
-          "term": "Non-refoulement",
-          "aliases": [],
-          "explain": "International rule: you can’t send people back to a place where they face serious danger."
+          "term": "Voter rolls",
+          "explain": "The official list of people allowed to vote.",
+          "aliases": [
+            "voter lists",
+            "voter list"
+          ]
         },
         {
-          "term": "Conscription",
-          "aliases": [],
-          "explain": "Being forced by the government to join the army."
+          "term": "BJP",
+          "explain": "Bharatiya Janata Party, India’s ruling Hindu-nationalist party, led by Narendra Modi.",
+          "aliases": []
         },
         {
-          "term": "Rohingya",
-          "aliases": [],
-          "explain": "A Muslim minority from Myanmar who have faced severe persecution and been denied citizenship."
+          "term": "Press freedom",
+          "explain": "The right of journalists to report without being attacked, censored or jailed.",
+          "aliases": []
         },
         {
-          "term": "Refugee Convention",
-          "aliases": [],
-          "explain": "A 1951 U.N. treaty that defines refugees and their rights."
+          "term": "Satirical",
+          "explain": "Using humor and exaggeration to criticize people in power.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-soc-2.jpg",
-      "image_alt": "A Myanmar national looks out from a bus in Perak, Malaysia",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Man deported by the U.S. to an African prison is freed after 14 months",
-      "dek": "Laotian Phone Chomsavanh had already served his U.S. sentence; his lawyer calls it a denial of due process.",
-      "caveman": "In July 2025, the U.S. deported five immigrants to Eswatini, a small kingdom in southern Africa where none of them had any ties. One of them, Phone Chomsavanh, a citizen of Laos, was released from a maximum-security prison there on Sunday (Oct. 4) after more than 14 months. He had been convicted of a crime in the U.S. but had already finished his sentence there. He was born in a refugee camp in Thailand and moved to the U.S. at age 7. His lawyer, Tin Thanh Nguyen, said what happened was “not due process by any definition.” He is now on his way to Laos. Eswatini was paid $5.1 million to take deportees.",
-      "why_it_matters": "This “third-country” program sends people to nations that are not their home, raising big questions about human rights and the rule of law.",
-      "camps": "The Trump administration says the program removes people with criminal records whose home countries won’t take them back quickly. Rights groups and lawyers say holding people who were never charged in those countries, without hearings, violates due process; around 500 people have been sent to African countries this way, advocates say.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/eswatini-us-immigrant-released-from-prison-laos-c45975d61839e079acdabc3dfe2aacba",
+      "headline": "An air strike on clearly marked U.N. food trucks kills a driver in Sudan",
+      "dek": "The attack in South Kordofan shows how dangerous it has become to feed 19.5 million hungry people.",
+      "caveman": "Sudan has been in a civil war since April 2023 between the army (SAF) and a paramilitary group called the Rapid Support Forces (RSF). On Saturday (Oct. 3), two trucks carrying food for the U.N.’s World Food Programme were hit from the air in South Kordofan state, while driving between two army-held cities. One driver was killed. WFP said the trucks were “clearly marked as humanitarian vehicles.” It did not name who did it and asked for an investigation; a Sudanese doctors’ group blamed RSF drones. Both sides use drones more and more. The war has forced 14 million people from their homes and killed tens of thousands.",
+      "why_it_matters": "About 41% of Sudan’s people faced severe hunger earlier this year, and 135,000 were at risk of famine. When aid trucks get bombed, food stops moving — and the people who need it most go without.",
+      "camps": "Aid agencies say attacks on aid workers break international law and demand that both sides let food through safely. Each armed side usually blames the other. On Monday, a U.S. envoy held a rare meeting with Sudan’s army chief, Gen. Abdel Fattah Burhan, to push for an end to the fighting — but past peace efforts have collapsed.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp",
       "published": "2026-10-04",
+      "image": "images/wd-soc-3.jpg",
+      "image_alt": "A boy waits for donated food at a community kitchen in Khartoum, Sudan",
+      "image_credit": "Photo: Marwan Ali/AP via Al Jazeera",
       "terms": [
         {
-          "term": "Deported",
+          "term": "World Food Programme",
+          "explain": "The U.N. agency that delivers food aid in emergencies.",
           "aliases": [
-            "deportees"
-          ],
-          "explain": "Forced by a government to leave the country."
+            "WFP"
+          ]
         },
         {
-          "term": "Third-country",
-          "aliases": [],
-          "explain": "A country that is neither the person’s home nor the one deporting them."
+          "term": "Paramilitary",
+          "explain": "An armed group organized like an army but not part of a country’s official military.",
+          "aliases": []
         },
         {
-          "term": "Due process",
-          "aliases": [],
-          "explain": "Fair legal steps — notice, a hearing, a chance to argue — before the government punishes you."
+          "term": "Rapid Support Forces",
+          "explain": "A powerful paramilitary group fighting Sudan’s army for control of the country.",
+          "aliases": [
+            "RSF"
+          ]
         },
         {
-          "term": "Eswatini",
-          "aliases": [],
-          "explain": "A small country in southern Africa, ruled by a king; formerly called Swaziland."
+          "term": "Famine",
+          "explain": "The most extreme hunger, when many people are dying from lack of food.",
+          "aliases": []
         },
         {
-          "term": "Maximum-security prison",
-          "aliases": [],
-          "explain": "A prison with the strictest guarding and limits."
+          "term": "Humanitarian",
+          "explain": "Related to helping people in danger or need, like food, medicine and shelter.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-soc-3.jpg",
-      "image_alt": "Matsapha Correctional Complex near Mbabane, Eswatini (file photo)",
-      "image_credit": "Photo: AP"
+      ]
     },
     {
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "“I am Jane Doe”: solidarity floods social media after Cornell rape lawsuit",
-      "dek": "Women post the name to shield an anonymous plaintiff — a wave many compare to #MeToo.",
-      "caveman": "A young woman has sued Cornell University and seven fraternity members, accusing them of raping her. She filed under the name “Jane Doe” to stay anonymous. After the college’s student newspaper reported on the lawsuit in late September, countless women began posting “I am Jane Doe” on social media. Many shared their own stories of sexual abuse. Part of the goal is protection: some people online have tried to find her real name, and posters hope the flood of “Jane Doe” posts will confuse search algorithms. Many say it feels like the height of #MeToo a decade ago. A law professor notes that using a pseudonym in lawsuits has grown, especially in very private cases. The claims have not been proven in court.",
-      "why_it_matters": "Sexual violence on campus is widespread and underreported. How survivors are protected — and how accused people get fair process — shapes whether others come forward.",
-      "camps": "Supporters say mass solidarity gives survivors courage and protects a woman from online harassment. Others stress that the people accused have not been found responsible by any court and deserve due process, and that public pressure should not replace a fair investigation.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/cornell-rape-allegations-online-solidarity-35350970e5112469f884dac9f6b87cbd",
-      "published": "2026-10-04",
+      "headline": "UK Conservatives pledge to cut foreign aid by 90% to pay for prisons; charities warn of damage",
+      "dek": "Kemi Badenoch would shrink aid from £9 billion to £1 billion a year, copying Reform UK’s plan.",
+      "caveman": "The UK gives money every year to help poor countries — for vaccines, disaster relief, fighting diseases like AIDS and malaria, and more. At the Conservative Party conference in Birmingham, party leader Kemi Badenoch said that if she becomes prime minister she will cut the aid budget from £9 billion a year to £1 billion, using the savings to help build 50,000 new prison places. The culture budget would also be cut by £1 billion a year. Charities and insiders say £1 billion would not even cover the UK’s existing promises to the U.N., the World Bank, the Gavi vaccine alliance and the Global Fund — those already add up to more than £1.6 billion a year.",
+      "why_it_matters": "Aid pays for things like children’s vaccines and emergency help after floods. Rich countries — the U.S. too — are cutting aid at the same time, so the world’s poorest people feel it twice.",
+      "camps": "Conservatives say British taxpayers’ money should go to problems at home first, like overcrowded prisons. Reform UK, which proposed the same £1 billion cap, agrees. Labour has already cut aid to 0.3% of the economy by 2027. Aid charities like Bond say the plan would wreck the UK’s global reputation and influence; the Liberal Democrats called it “un-British, unpatriotic and unwise.”",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/05/conservative-plans-to-slash-aid-budget-by-90-to-irreparably-damage-uks-global-credibility-charities-say",
+      "published": "2026-10-05",
+      "image": "images/wd-soc-4.jpg",
+      "image_alt": "A worker places a UK aid sticker on boxes of relief supplies in a warehouse",
+      "image_credit": "Photo: Ben Birchall/PA via The Guardian",
       "terms": [
         {
-          "term": "Jane Doe",
-          "aliases": [],
-          "explain": "A placeholder name used in court for a woman who wants to stay anonymous."
-        },
-        {
-          "term": "Pseudonym",
-          "aliases": [],
-          "explain": "A fake name used instead of a real one."
-        },
-        {
-          "term": "#MeToo",
+          "term": "Foreign aid",
+          "explain": "Money and help a country gives to other countries, often poorer ones.",
           "aliases": [
-            "MeToo"
-          ],
-          "explain": "A movement, big around 2017, where people shared experiences of sexual harassment and assault."
+            "aid budget",
+            "aid"
+          ]
         },
         {
-          "term": "Fraternity",
-          "aliases": [],
-          "explain": "A social club for male college students in the U.S."
+          "term": "Party conference",
+          "explain": "A yearly gathering where a political party announces plans and rallies members.",
+          "aliases": []
         },
         {
-          "term": "Lawsuit",
-          "aliases": [
-            "sued"
-          ],
-          "explain": "A case brought to court asking for a ruling or money."
+          "term": "Reform UK",
+          "explain": "A right-wing populist UK party led by Nigel Farage.",
+          "aliases": []
+        },
+        {
+          "term": "Gavi",
+          "explain": "A global partnership that pays for vaccines for children in poor countries.",
+          "aliases": []
+        },
+        {
+          "term": "World Bank",
+          "explain": "An international lender that funds projects to reduce poverty.",
+          "aliases": []
         }
-      ],
-      "image": "images/wd-soc-4.jpg",
-      "image_alt": "Students walk across the Cornell University campus in Ithaca, New York",
-      "image_credit": "Photo: AP"
+      ]
     }
   ]
 }
