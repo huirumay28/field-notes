@@ -1,23 +1,23 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-07T08:00:00+08:00",
-  "notes": "Wednesday 7 Oct 2026 world issue (Taipei ~08:00; covers U.S./Europe Tuesday Oct 6 news). All new leads vs the Tue 6 paper: economy - S&P 500 record close on profit hopes (replaces euro/Nasdaq/yields), Paramount-Warner deal closes as Skydance, Spain's 21 housing measures (new development after the snap-election lead), IEA Southeast Asia energy report. tech (USA only) - Arizona courts hack (1.3M people), McDonald's AI-pricing antitrust suit, RFK Jr.'s AI embrace at MAHA summit, Reflection AI's open-weight Beam (NYC Council AI hearing, ChatGPT ads, Claude-diary arrest dropped). politics - France school-funding protests (266,000), Oct. 7 three-year anniversary from Sderot, Okinawa base lockdown after Marine's arrest, ex-BND chief Hanning arrested (Spain election, Yemen, Bosnia, SCOTUS dropped). literature (USA only) - National Book Award fiction finalists (AP), other NBA categories (NPR), Nobel Literature preview for Thu Oct 8 19:00 Taipei (Straits Times/AFP; Can Xue odds per Lit Hub/Ladbrokes), Thom Tillis memoir. social - Kenya's first Ebola case, ICE shock gloves Army study, Zambia-US health deal without data clauses, migrants in Saxony-Anhalt after AfD win. Sources: AP except wd-tech-4 TechCrunch, wd-lit-2 NPR, wd-lit-3 The Straits Times (AFP) with odds context from Lit Hub (lithub.com, Sept 29, updated Oct 5). Taiwan pop culture excluded from this tab.",
+  "fetched_at": "2026-10-08T08:00:00+08:00",
+  "notes": "Thursday 8 Oct 2026 world issue (Taipei ~08:00; covers U.S./Europe Wednesday Oct 7 news). All new leads vs the Wed 7 paper: economy - Wall Street slips from record as yields swing (replaces Tue record close), Fed September minutes signal another hike, IMF Georgieva Singapore speech on debt and AI, Iraq devalues dinar (Paramount-Warner, Spain housing, IEA SE Asia dropped). tech (USA only) - Microsoft Surface/Nvidia AI PCs and Windows Execution Containers, Common Sense Media vs ChatGPT for Teens, FCC Club for Growth robocall waiver, Google SynthID public checker (Arizona courts hack, McDonald's AI pricing, RFK Jr. AI, Reflection Beam dropped). politics - Russian strikes kill 25 incl. Pryluky, Israel Oct. 27 election as referendum on Netanyahu, Houthi attacks on Saudi airports, Brazil runoff undecided/abstaining voters (France protests, Okinawa, ex-BND chief dropped). literature (USA only) - Oprah picks Amanda Rizkalla's Hungered (AP, Oct 6), Kingsolver's Partita (NPR interview Oct 2; book out Oct 6 per Lit Hub new-releases list), Lydia Millet's Fair Ones (Lit Hub, Oct 6), Netflix East of Eden (NPR Pop Culture Happy Hour Oct 7, review details from NPR Oct 5 review). National Book Award finalists and Tillis memoir not repeated. Nobel Literature is announced Thu Oct 8, 13:00 CET = 19:00 Taipei, after this paper; yesterday's preview card (wd-lit-3) dropped; put the actual winner in the Fri Oct 9 paper. social - Russia pneumonic-plague fears (Irkutsk), Congo Ebola new hot spots, Maricarmen eviction death in Madrid, AP satellite analysis of Gaza demolition (Kenya Ebola first case folded into wd-soc-2; ICE gloves, Zambia, Saxony-Anhalt dropped). Sources: AP except wd-tech-1 and wd-tech-4 TechCrunch, wd-tech-2 The Verge, wd-lit-2 and wd-lit-4 NPR, wd-lit-3 Literary Hub. Images are each publisher's own article lead photo or art. Taiwan pop culture excluded from this tab.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. stocks hit a record as investors bet companies will make even fatter profits",
-      "dek": "The S&P 500 rose 0.6% to 7,818.93, its first record since August, even with oil near $100 and bond yields above 5%.",
-      "caveman": "On Tuesday the S&P 500, the big list of 500 U.S. companies that sits inside many retirement accounts, climbed 0.6% to 7,818.93. That beat its old all-time high from August. It is now up 23% since its low point in late March. The Nasdaq also closed at a record, 27,599.79, and the Dow rose 253 points to 51,521.28. Why are stocks so happy when so much looks bad? Oil is expensive because of the war with Iran, prices are rising fast, and borrowing costs are high. The answer is profits. Analysts at FactSet expect S&P 500 companies to report earnings per share almost 30% higher than a year ago. Frozen-fry maker Lamb Weston jumped 7.5% after beating forecasts. Constellation Energy jumped 12.2% after a long-term deal to sell Google about as much power as a new nuclear reactor makes. The 10-year Treasury yield slipped to 5.28% from 5.31%, and Brent oil settled at $100.58.",
-      "why_it_matters": "Record stock prices make people with 401(k)s feel richer, even while many Americans feel squeezed by the cost of living. But the whole rally leans on one thing: companies keep delivering big profits. Earnings season starts this week with Delta on Friday and big banks next week.",
-      "camps": "Bulls: Strategists at Barclays say strong profits are letting stocks \"win the tug-of-war against yields.\" Nvidia is up 28.3% this year, about double the market, as AI spending keeps growing. Worried side: AP notes that much depends on companies actually hitting those high expectations; if they miss, prices could fall fast. Some critics also warn of a bubble in AI stocks, and high bond yields make stocks look less attractive than safe bonds.",
+      "headline": "Wall Street slips back from its record as bond yields swing and stocks fall worldwide",
+      "dek": "The S&P 500 dipped 0.2% a day after its first record since August; France’s market fell 1.2% on debt worries.",
+      "caveman": "On Wednesday (Oct. 7) U.S. stocks took a small step back. The S&P 500, the big list of 500 U.S. companies, slipped 0.2%, one day after hitting an all-time high. The Dow fell 341 points (0.7%) and the Nasdaq slipped 0.2%. The main reason: bond yields jumped around. The 10-year Treasury yield, the interest rate the U.S. government pays to borrow for 10 years, climbed as high as 5.36% in the morning, near its highest since 2002, before easing back to 5.28% after a big government bond sale went smoothly. Simple rule: when safe bonds pay more, stocks look less attractive, and loans get pricier for everyone. Oil also swung. Brent crude topped $102 a barrel, then settled at $100.20. Before the war with Iran it was about $72. In Europe, France’s CAC 40 index dropped 1.2%, one of the world’s biggest losses, because investors worry about France’s debt and budget.",
+      "why_it_matters": "Mortgage, car-loan and credit-card rates follow these bond yields. When yields stay above 5%, families and small businesses pay more to borrow, even while stock prices sit near records. Companies now have to deliver big profit growth to keep stocks up.",
+      "camps": "Calm view: a 0.2% dip after a record is normal, and the bond sale showed buyers still want U.S. debt. Worried view: governments in the U.S. and Europe keep borrowing more every day, the IMF says “very tough political choices” are coming, and oil prices depend on a war nobody can predict. If company profits disappoint, high yields could hit stocks hard.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/stocks-markets-oil-bonds-us-e8285ec7afbe81e9df277e8ee2127982",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8",
+      "published": "2026-10-07",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "A trader works on the floor of the New York Stock Exchange.",
-      "image_credit": "Photo: Richard Drew/AP (file)",
+      "image_alt": "A general view of the New York Stock Exchange in New York.",
+      "image_credit": "Photo: Yuki Iwamura/AP (file)",
       "terms": [
         {
           "term": "S&P 500",
@@ -27,38 +27,31 @@
           ]
         },
         {
-          "term": "Nasdaq",
-          "explain": "A U.S. stock index full of tech companies.",
-          "aliases": [
-            "Nasdaq composite"
-          ]
-        },
-        {
-          "term": "earnings per share",
-          "explain": "A company's profit divided by its number of shares. Investors use it to judge growth.",
-          "aliases": [
-            "EPS"
-          ]
-        },
-        {
           "term": "Treasury yield",
-          "explain": "The interest the U.S. government pays to borrow money. Higher yields make loans pricier for everyone.",
+          "explain": "The interest the U.S. government pays to borrow money. Many other loan rates follow it.",
           "aliases": [
             "10-year yield",
-            "bond yields"
+            "yields"
           ]
         },
         {
           "term": "Brent crude",
-          "explain": "The international benchmark price for oil.",
+          "explain": "The main world price for oil.",
           "aliases": [
             "Brent"
           ]
         },
         {
-          "term": "401(k)",
-          "explain": "A common U.S. workplace retirement account, often invested in stocks.",
+          "term": "CAC 40",
+          "explain": "France’s main stock index, tracking 40 big French companies.",
           "aliases": []
+        },
+        {
+          "term": "Dow",
+          "explain": "The Dow Jones Industrial Average, an index of 30 big U.S. companies.",
+          "aliases": [
+            "Dow Jones"
+          ]
         }
       ]
     },
@@ -66,54 +59,45 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Paramount closes its $81 billion takeover of Warner Bros., creating one Hollywood giant called Skydance",
-      "dek": "HBO Max, CNN, CBS, \"Harry Potter\" and \"Top Gun\" now sit under billionaire David Ellison, a Trump ally.",
-      "caveman": "It's done. On Tuesday, Skydance-owned Paramount finished buying Warner Bros. Discovery for $81 billion, or nearly $111 billion counting debt. The new company is simply called Skydance. That puts two of America's oldest movie studios under one roof, along with HBO Max, Paramount+, CBS and the news channel CNN. David Ellison runs it with new co-CEO Ynon Kreiz. The fight took about a year. Warner first picked Netflix, but Netflix walked away after Paramount raised its offer to $31 a share. Twelve Democratic state attorneys general sued to block the deal, then settled in September; the company promised more U.S. filmmaking, money for laid-off workers, and a new \"News Editorial Independence Board\" for CNN and CBS. To pay for it, Paramount took big money from Saudi Arabia, Qatar and the United Arab Emirates. The FCC allowed those funds to own up to 100% of the company indirectly, with no voting rights.",
-      "why_it_matters": "Fewer, bigger companies now decide which movies get made, what streams, and how a major news network is run. CNN is especially in the spotlight because President Trump has attacked it for years and has close ties to the Ellison family.",
-      "camps": "Supporters: Ellison called it \"a historic day\" and has repeated his commitment to making movies; director James Cameron backed him, and Trump called it a \"great\" merger. Critics: thousands of Hollywood workers, including Jane Fonda and Mark Ruffalo, signed a letter warning of fewer jobs and less choice. The FCC's only Democratic commissioner, Anna Gomez, called the foreign-money approval alarming. Ellison says CNN will stay independent and is keeping Mark Thompson as its editor-in-chief, but critics point to turmoil at CBS under Skydance.",
+      "headline": "Fed notes show most officials expect another interest-rate hike this year",
+      "dek": "Inflation is “still elevated,” the minutes say; traders expect no move in late October but a hike in December.",
+      "caveman": "The Federal Reserve (the Fed) is America’s central bank. It raises interest rates to slow the economy when prices climb too fast. On Wednesday it released the “minutes,” the written notes, from its Sept. 15-16 meeting. At that meeting the Fed raised its key rate by a quarter point to about 3.9%, its first increase in three years. The notes say officials all agreed inflation is still too high and has made little progress toward their 2% goal. Most of them expect another hike will likely be needed this year. Several said today’s rate is too low to really cool the economy, a hint they could back more than one more hike. Why are prices sticky? Oil and gas are expensive because of the Iran war, tariffs still push up costs, and AI demand is making chips, computer parts and electrical gear pricier. The Fed’s preferred inflation measure was 3.4% in August. Wall Street now bets the Fed will hold rates at its Oct. 28-29 meeting and raise them in December.",
+      "why_it_matters": "A higher Fed rate makes credit cards, car loans and business loans cost more. It is meant to cool spending so prices calm down, but it can also slow hiring. Many Americans are already struggling with high living costs.",
+      "camps": "Fed view: Chairman Kevin Warsh said “inflation is too high and has been for too long,” so they must act. Other officials, like vice chair Philip Jefferson, say they can take time to watch the effect of the last hike. President Trump has repeatedly called for rate cuts and criticized the Fed’s rate committee, though he still says he supports Warsh, whom he appointed. Critics of hikes worry about pushing the economy into a slowdown.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/warner-bros-skydance-ellison-studio-hollywood-5f4326c083ca2fc084ff399c1b8aa035",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/inflation-trump-federal-reserve-warsh-b7ed20e31e1a6fa5da6d78e5fe35b0c3",
+      "published": "2026-10-07",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "The Paramount Pictures water tower in Los Angeles with the Hollywood sign in the distance.",
-      "image_credit": "Photo: Jae C. Hong/AP (file)",
+      "image_alt": "Federal Reserve Chairman Kevin Warsh speaks at a news conference in Washington on Sept. 16, 2026.",
+      "image_credit": "Photo: Mark Schiefelbein/AP",
       "terms": [
         {
-          "term": "merger",
-          "explain": "When two companies combine into one.",
+          "term": "Federal Reserve",
+          "explain": "The central bank of the United States. It sets key interest rates.",
           "aliases": [
-            "takeover",
-            "acquisition"
+            "Fed"
           ]
         },
         {
-          "term": "hostile bid",
-          "explain": "An offer to buy a company that goes around its own leaders, straight to shareholders.",
-          "aliases": [
-            "hostile counterbid"
-          ]
-        },
-        {
-          "term": "attorney general",
-          "explain": "A state's top lawyer, who can sue companies to protect consumers.",
-          "aliases": [
-            "attorneys general",
-            "AG"
-          ]
-        },
-        {
-          "term": "FCC",
-          "explain": "Federal Communications Commission, the U.S. agency that oversees TV, radio and phone networks.",
+          "term": "minutes",
+          "explain": "The official written notes of what was said at a meeting.",
           "aliases": []
         },
         {
-          "term": "antitrust",
-          "explain": "Laws meant to stop companies from getting so big they crush competition.",
+          "term": "interest rate hike",
+          "explain": "When a central bank raises the cost of borrowing money.",
+          "aliases": [
+            "rate hike"
+          ]
+        },
+        {
+          "term": "inflation",
+          "explain": "When prices for everyday things keep rising over time.",
           "aliases": []
         },
         {
-          "term": "editorial independence",
-          "explain": "The idea that owners should not tell journalists what to report.",
+          "term": "tariffs",
+          "explain": "Taxes on goods brought in from other countries.",
           "aliases": []
         }
       ]
@@ -122,49 +106,46 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "After angry protests, Spain rushes out 21 emergency housing measures before its snap election",
-      "dek": "An 87-year-old woman's eviction set off nationwide marches; the plan includes a €10 billion fund for first-home loans.",
-      "caveman": "Spain has a housing crisis: rents and home prices have shot up, and many people can't afford a place to live. Last month, 87-year-old María del Carmen Abascal was evicted from her Madrid home. Her story set off protests all over the country, and on Monday night police and protesters clashed in Barcelona. On Tuesday, Prime Minister Pedro Sánchez's government approved 21 urgent measures. They include longer eviction protections for vulnerable people, rules for renting single rooms, a new tax on seasonal rentals, a ban on speculative property buying, and tax breaks for owners and tenants who pay on time. The government will also set up a €10 billion fund to lend up to €50,000 to people buying their first home. Parliament had voted down similar steps last week, which is why Sánchez called an early election for Nov. 29. Because Parliament is dissolved, a smaller stand-in body of 69 lawmakers must approve the plan; his coalition needs 35 votes.",
-      "why_it_matters": "Housing costs are squeezing young people in many rich countries, from Spain to Taiwan. Spain is now testing whether fast government action can calm public anger, and whether housing can decide a national election.",
-      "camps": "Sánchez's side: \"We will not allow any more evictions like the one Maricarmen suffered,\" he said, pushing the measures as proof he is acting. Opposition side: right-wing parties voted down his earlier emergency decrees, and critics see the timing as a campaign move. Some economists also argue that rent rules and new taxes can scare off landlords and builders, while supporters say only strong rules protect renters.",
+      "headline": "IMF chief warns countries: cut your debt and get ready for AI, because a “far-reaching shock” is possible",
+      "dek": "Kristalina Georgieva says the world faces a triple hit from AI, heavy borrowing and wars, ahead of big meetings in Bangkok next week.",
+      "caveman": "The IMF (International Monetary Fund) is like a global money doctor for 191 countries. Its boss, Kristalina Georgieva, gave a speech in Singapore on Wednesday. Her message: “Some very tough political choices stare us in the face.” She said countries rich and poor must act faster to cut debt and fight growing inequality. Rich countries like the U.S., Japan and Germany carry big debts. Poor countries must choose between paying for schools and hospitals or paying back expensive loans while interest rates are high. She also talked about AI. Companies are spending so much building data centers that it may beat what the world once spent on railroads, power grids and phone networks. That spending lifts stock prices and growth, but it also pushes up inflation, and the benefits come later. “Should earnings fall short,” she warned, big tech borrowing and huge holdings of U.S. stocks “could turn a disappointment into a far-reaching shock.” “Love it, hate it or fear it, AI is here,” she said.",
+      "why_it_matters": "Finance ministers and central bankers meet in Bangkok next week at the IMF-World Bank meetings. What they decide about debt and rates affects jobs, prices and public services everywhere, including Asia, which now makes 43% of world economic activity.",
+      "camps": "Georgieva’s side: governments have the tools, and delaying action only makes the bill bigger. Pushback often heard: cutting debt usually means spending cuts or tax rises, which can hurt poor and working people first; many countries say their debts grew because of wars, the pandemic and high energy prices they did not cause. AI supporters argue the boom will pay for itself through higher productivity.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/spain-housing-crisis-barcelona-madrid-sanchez-b8fbc882749e40c38b370ca9f89f5885",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/war-ai-georgieva-imf-oil-debt-2da9d879e2eb70e1e16d14fd1a307a99",
+      "published": "2026-10-07",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Tens of thousands march over Spain's housing situation in Barcelona on Oct. 5, 2026.",
-      "image_credit": "Photo: Emilio Morenatti/AP",
+      "image_alt": "The International Monetary Fund logo on its building in Washington.",
+      "image_credit": "Photo: Andrew Harnik/AP (file)",
       "terms": [
         {
-          "term": "eviction",
-          "explain": "When a tenant is legally forced out of their home.",
+          "term": "IMF",
+          "explain": "International Monetary Fund, a group of 191 countries that lends money and gives economic advice.",
           "aliases": [
-            "evicted",
-            "evictions"
+            "International Monetary Fund"
           ]
         },
         {
-          "term": "snap election",
-          "explain": "An election called earlier than scheduled.",
-          "aliases": [
-            "early election"
-          ]
-        },
-        {
-          "term": "coalition",
-          "explain": "Two or more parties governing together because none has a majority alone.",
+          "term": "debt",
+          "explain": "Money a government or person has borrowed and must pay back.",
           "aliases": []
         },
         {
-          "term": "seasonal rental",
-          "explain": "Short-term rentals, like vacation apartments for tourists.",
+          "term": "inequality",
+          "explain": "A growing gap between rich and poor people.",
           "aliases": []
         },
         {
-          "term": "decree",
-          "explain": "A rule issued directly by the government that later needs lawmakers' approval.",
+          "term": "data center",
+          "explain": "A huge building full of computers; AI needs many of them.",
           "aliases": [
-            "decrees"
+            "data centers"
           ]
+        },
+        {
+          "term": "World Bank",
+          "explain": "An international bank that lends to poorer countries for development projects.",
+          "aliases": []
         }
       ]
     },
@@ -172,47 +153,48 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Southeast Asia's power needs are growing faster than its answers, the IEA warns",
-      "dek": "Demand for electricity per person rose almost 30% in 10 years, and the Iran war has exposed how fragile the region's energy supply is.",
-      "caveman": "The International Energy Agency, a group that tracks the world's energy, released a report on Tuesday about Southeast Asia, which includes countries like Vietnam, Thailand, Indonesia and the Philippines. Its message: these fast-growing countries need much more electricity, for air conditioning, data centers and factories, but risks to their supply are piling up faster than solutions. Energy use per person in the region rose almost 30% over the last 10 years. The IEA expects demand to keep growing about 5.4% a year until 2030. The Iran war and the closing of the Strait of Hormuz caused fuel shortages and higher prices there. Unlike Japan and South Korea, most of these countries have small energy reserves. Some burned more coal and bought Russian oil to get by, but some also signed nuclear deals, paid people to install solar panels and gave rewards for buying electric cars. The IEA says neighbors should share electricity and get power from more sources.",
-      "why_it_matters": "Southeast Asia is a major factory hub and a growing market for Taiwan's companies. If its power is unreliable or expensive, that hits supply chains, prices and climate goals around the world.",
-      "camps": "IEA view: head Fatih Birol calls the region one of the world's most dynamic, but says its energy needs face an uncertain global landscape. Hopeful view: Amy Kong of Zero Carbon Analytics says the war gave governments \"a bit of a reality check\" that could push cleaner power. Doubtful view: analysts warn that border fights between neighbors and very different national energy markets may block power-sharing. Putra Adhiguna of the Energy Shift Institute says the region needs \"much more drastic change.\"",
+      "headline": "Iraq makes its money cheaper as the Iran war chokes its oil shipping route",
+      "dek": "The official rate moved from about 1,300 to 1,500 dinars per dollar; street rates jumped past 1,700 and some exchange shops shut.",
+      "caveman": "Iraq earns most of its money by selling oil. Before the U.S. war with Iran, most of that oil sailed out through the Strait of Hormuz, a narrow sea passage. The war has disrupted it, so Iraq now sends oil overland through Syria, which costs more and works less well. On Wednesday Iraq’s central bank “devalued” the dinar, its money. The official rate went from about 1,300 dinars for one U.S. dollar to 1,500. Simple idea: each oil dollar now turns into more dinars, which helps the government pay salaries and bills at home. But imported goods get more expensive. On the street, money changers had already been charging over 1,600 dinars per dollar; after the news it jumped past 1,700. In the northern city of Irbil, many exchange shops closed. A Baghdad clothing seller who imports from China said he will lose money: “People owe us in Iraqi dinars, and we owe people in China in dollars.”",
+      "why_it_matters": "This shows how a far-away war reaches ordinary wallets. Iraqi families who buy imported food, medicine and clothes will likely pay more. It is also a warning sign about how much the Iran war is straining oil-dependent economies in the region.",
+      "camps": "Government view: the change was needed “to meet the relevant financial, economic and monetary requirements” and close the gap with the street rate. Traders and shoppers: they fear losses and higher prices. Economists generally note devaluation can help a budget in the short term but can fuel inflation and hurt people with savings in dinars.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/asia-energy-iran-war-iea-4ac90877eb0b1ccce4e9c25b44862810",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/iraq-currency-devaluation-oil-hormuz-3a6ffba435ac71a667b8a60ea77fff11",
+      "published": "2026-10-07",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "A solar installer secures a panel onto the roof of a home in Manila, Philippines.",
-      "image_credit": "Photo: Anton L. Delgado/AP",
+      "image_alt": "A currency exchanger counts bundles of Iraqi dinar banknotes at a street-side exchange in Baghdad on Oct. 7, 2026.",
+      "image_credit": "Photo: Hadi Mizban/AP",
       "terms": [
         {
-          "term": "IEA",
-          "explain": "International Energy Agency, a Paris-based group that studies and advises on world energy.",
+          "term": "devalue",
+          "explain": "When a government makes its money worth less compared with other money.",
           "aliases": [
-            "International Energy Agency"
+            "devalued",
+            "devaluation"
           ]
         },
         {
+          "term": "dinar",
+          "explain": "The money used in Iraq.",
+          "aliases": []
+        },
+        {
           "term": "Strait of Hormuz",
-          "explain": "A narrow sea passage near Iran that a big share of the world's oil normally sails through.",
+          "explain": "A narrow sea passage near Iran that much of the world’s oil passes through.",
           "aliases": [
             "Hormuz"
           ]
         },
         {
-          "term": "energy security",
-          "explain": "Having enough reliable, affordable energy even when something goes wrong.",
-          "aliases": []
-        },
-        {
-          "term": "data center",
-          "explain": "A building full of computers that run websites and AI; it uses huge amounts of power.",
+          "term": "exchange rate",
+          "explain": "How much of one money you get for another, like dinars per dollar.",
           "aliases": [
-            "data centers"
+            "official rate"
           ]
         },
         {
-          "term": "diversify",
-          "explain": "To spread out across many sources so one problem can't knock you out.",
+          "term": "central bank",
+          "explain": "A country’s main bank that manages its money and interest rates.",
           "aliases": []
         }
       ]
@@ -221,50 +203,48 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Hackers stole personal data on 1.3 million people from Arizona's court system after one bad email click",
-      "dek": "The stolen files include records on unpaid fines, about 30,000 protection orders and 150,000 foster-care reports.",
-      "caveman": "Arizona's Supreme Court says a cyberattack on the state court system copied personal information about 1.3 million people. Officials think it began when a court employee clicked a dangerous link in an email. The stolen data covers people who owe court fees, fines or repayments for traffic and criminal cases, going back as far as 30 years. The attackers also took records on nearly 30,000 protection orders, which are court orders to keep someone away from a victim, and 150,000 reports since 2010 from a foster-care board that advises on cases where parents may be unable to care for a child. Court tech staff spotted the attack on a backup server on Sept. 24 and shut it down about two hours later. The court has been notifying people. No records were changed or deleted, and data on jurors, witnesses and court workers was not taken.",
-      "why_it_matters": "Protection-order and foster-care files can reveal where vulnerable people live or very private family details. This shows how one click can expose sensitive government data, and why phishing training matters.",
-      "camps": "The court's side: spokesperson Alberto Rodriguez said, \"We don't have any evidence it has been used or shared,\" and that no court cases were delayed. The worry: investigators still don't know who did it, and once data is copied it can surface later.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676",
-      "published": "2026-10-06",
+      "headline": "Microsoft unveils Nvidia-powered AI laptops and a Windows 11 update built to “sandbox” AI agents",
+      "dek": "The Surface Laptop Ultra starts around $2,600; a developer box starts near $6,000. Microsoft is even offering up to $1,000 off for trading in a MacBook Pro.",
+      "caveman": "At an event in San Francisco on Wednesday, Microsoft showed new Surface computers built on Nvidia’s RTX Spark chip. The Surface Laptop Ultra comes in two base models, starting at about $2,600 and $3,700. There is also a desk machine for programmers, the Surface RTX Spark Dev Box, starting at about $6,000. The big idea: run AI models right on your own computer instead of paying to use them in the cloud. Microsoft also showed a revamped Windows 11 with a feature called “Execution Containers.” Think of it as a fenced playpen: an AI “agent” (a program that can take actions for you, like opening files) works inside the fence so it can’t mess with everything else. CEO Satya Nadella said this will come to all Windows 11 users. He said a model alone “doesn’t do much”; you need memory and tools around it. Microsoft is clearly chasing developers who love Macs; it is offering up to $1,000 off if you trade in a MacBook Pro.",
+      "why_it_matters": "AI agents are moving from chat windows into the operating system, the base software of your computer. That could save time, but it also means AI gets closer to your files, passwords and accounts, so safety walls really matter.",
+      "camps": "Microsoft’s pitch: local AI is private and free to run, and containers keep agents safe. Skeptics’ points: these machines are very expensive, and letting AI agents control files raises big security and privacy questions that a sandbox may not fully solve. Rivals like Apple are also racing for the same developer crowd.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published": "2026-10-07",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "A man enters the Arizona Supreme Court building in Phoenix.",
-      "image_credit": "Photo: Matt York/AP (file)",
+      "image_alt": "Microsoft’s new Surface Laptop Ultra.",
+      "image_credit": "Image: Microsoft (via TechCrunch)",
       "terms": [
         {
-          "term": "cyberattack",
-          "explain": "An attempt to break into computers to steal, change or destroy data.",
+          "term": "AI agent",
+          "explain": "An AI program that can take actions for you, like opening apps or editing files, not just chat.",
           "aliases": [
-            "hack",
-            "breach"
+            "agents",
+            "agent"
           ]
         },
         {
-          "term": "phishing",
-          "explain": "A fake email or message that tricks you into clicking a bad link or giving up a password.",
-          "aliases": [
-            "malicious link"
-          ]
-        },
-        {
-          "term": "protection order",
-          "explain": "A court order telling someone to stay away from another person, often in abuse cases.",
-          "aliases": [
-            "orders of protection",
-            "restraining order"
-          ]
-        },
-        {
-          "term": "foster care",
-          "explain": "A system where children live with other families when their parents can't safely care for them.",
+          "term": "sandbox",
+          "explain": "A sealed-off space where a program can run without touching the rest of the computer.",
           "aliases": []
         },
         {
-          "term": "backup server",
-          "explain": "A computer that stores copies of data in case the main system fails.",
+          "term": "Nvidia",
+          "explain": "A U.S. company that makes the chips most AI systems run on.",
           "aliases": []
+        },
+        {
+          "term": "operating system",
+          "explain": "The base software that runs a computer, like Windows or macOS.",
+          "aliases": []
+        },
+        {
+          "term": "on-device",
+          "explain": "Running directly on your own computer or phone instead of on a company’s servers.",
+          "aliases": [
+            "locally",
+            "on your own computer"
+          ]
         }
       ]
     },
@@ -272,49 +252,42 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "McDonald's is sued over an AI pricing tool, accused of helping franchise owners fix prices",
-      "dek": "The lawsuit says the tool shares secret store-level data among competing restaurants; McDonald's says \"AI does not set menu prices.\"",
-      "caveman": "Most McDonald's restaurants in the U.S. are owned by local business people called franchisees: they own 95% of the chain's 14,000 U.S. stores. McDonald's gives them an AI-powered tool that recommends menu prices based on a store's sales, location and rivals' prices. A new federal lawsuit, filed Friday in Illinois for a customer named Michael Thomas of DeKalb, says that tool breaks competition law. It claims the tool gathers private data, like store-level sales, that competing restaurants would never normally share, and that this pushed prices up. The suit calls it \"algorithmic price-fixing aimed at customers who are already stretched thin.\" Thomas says he noticed different prices at McDonald's stores near his home. McDonald's says the lawsuit is \"filled with inaccuracies\" and that the tools are optional and \"do not automate, coordinate or fix pricing in any way.\" The suit wants to become a class action.",
-      "why_it_matters": "More and more companies, from landlords to retailers, use software to set prices. Courts are now deciding whether sharing data through an algorithm can be the same illegal price-fixing as rivals secretly agreeing on prices in a back room.",
-      "camps": "The customer's side: McDonald's has \"significant leverage over its franchisees\" and can pressure them to follow its price suggestions. McDonald's side: \"AI does not set menu prices at McDonald's restaurants - McDonald's franchisees do.\" It points out that franchisees don't always follow its advice; CEO Chris Kempczinski said in August that only 60% of U.S. restaurants were offering its proposed menu of 10 items under $3. A judge will now decide whether the case can go forward.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
-      "published": "2026-10-06",
+      "headline": "Watchdog says ChatGPT for Teens is an “unacceptable risk”; OpenAI pushes back on the testing",
+      "dek": "Common Sense Media found parent alerts often failed, crisis help fell short, and the bot still did kids’ homework.",
+      "caveman": "In August, OpenAI launched “ChatGPT for Teens,” a version with guardrails (safety rules) meant to help students learn. Common Sense Media, a U.S. nonprofit that rates apps and media for kids’ safety, tested it and on Wednesday called it an “unacceptable risk.” Their findings: it “doesn’t send alerts to parents when it should,” doesn’t give “the right help in crisis situations,” and “still does kids’ homework.” Tom Siegel of the group’s Youth AI Safety Institute said: “A teen can spend an hour talking about self-harm without their parent getting a single alert.” He said ChatGPT should be for adults only until OpenAI fixes this and proves it with independent tests. OpenAI disagreed. A spokesperson said the company is “deeply committed to teen safety” but does not believe the testing reflects how the safeguards work in real life. OpenAI said its parent alerts can take several hours to switch on for newly linked accounts. Common Sense answered that some test accounts were linked much longer and still got no alerts.",
+      "why_it_matters": "Millions of teenagers use AI chatbots for school and for emotional support. If safety alerts don’t work, parents may feel safe when they shouldn’t. This fight is also shaping how lawmakers think about rules for AI and kids.",
+      "camps": "Common Sense Media: the protections “fall short of what the company promised,” and parents could get “false confidence.” OpenAI: the review’s methods were flawed, and AI can support teens’ learning and creativity with the right tools. Many child-safety experts say both sides agree on one thing: independent testing of these products is needed.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "published": "2026-10-07",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "McDonald's Golden Arches signs in Los Angeles.",
-      "image_credit": "Photo: Damian Dovarganes/AP (file)",
+      "image_alt": "The OpenAI logo in an illustration.",
+      "image_credit": "Image: The Verge",
       "terms": [
         {
-          "term": "franchisee",
-          "explain": "A local owner who pays a big brand to run a store under its name.",
-          "aliases": [
-            "franchisees",
-            "franchise"
-          ]
-        },
-        {
-          "term": "price-fixing",
-          "explain": "When competitors agree on prices instead of competing; it's illegal in the U.S.",
-          "aliases": [
-            "algorithmic price-fixing"
-          ]
-        },
-        {
-          "term": "algorithm",
-          "explain": "A set of computer rules that turns data into a decision or suggestion.",
+          "term": "guardrails",
+          "explain": "Safety rules built into software to stop harmful uses.",
           "aliases": []
         },
         {
-          "term": "class action",
-          "explain": "A lawsuit where one or a few people sue on behalf of a large group with the same complaint.",
+          "term": "nonprofit",
+          "explain": "An organization that does not exist to make money for owners.",
           "aliases": []
         },
         {
-          "term": "antitrust law",
-          "explain": "Laws that protect competition and stop companies from ganging up on customers.",
-          "aliases": [
-            "antitrust"
-          ]
+          "term": "self-harm",
+          "explain": "When a person hurts themselves on purpose; a sign they need help.",
+          "aliases": []
+        },
+        {
+          "term": "safeguards",
+          "explain": "Protections meant to prevent harm.",
+          "aliases": []
+        },
+        {
+          "term": "OpenAI",
+          "explain": "The U.S. company that makes ChatGPT.",
+          "aliases": []
         }
       ]
     },
@@ -322,49 +295,54 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "RFK Jr. says AI will free Americans from \"medical tyranny.\" Doctors and some MAHA allies push back",
-      "dek": "At a summit sponsored by OpenAI, Anthropic and others, the health secretary praised AI; critics called the event \"pay-to-play.\"",
-      "caveman": "Robert F. Kennedy Jr. is the U.S. health secretary and leader of the \"Make America Healthy Again,\" or MAHA, movement. He built fans by warning about big drug, vaccine and food companies. Last week, at an invite-only MAHA summit with AI and Silicon Valley executives, he cheered for a new industry: artificial intelligence. He said AI would free Americans from \"medical tyranny\" by letting them \"fact check their own medical advice,\" so they would never again be told to just \"trust the experts.\" OpenAI and Anthropic, which both offer health chatbots, were among the sponsors. Sponsors paid up to $300,000, and many got speaking slots next to top health officials. Doctors say his idea misunderstands AI: these tools are trained on medical research, so what they give you is mostly the same expert advice. Even some MAHA figures say the movement is cozying up to the corporations it once attacked.",
-      "why_it_matters": "Millions of people already ask chatbots about their health. Whether the government treats AI as a replacement for doctors or a helper for them will shape medical care, privacy of health data, and how much big tech gets to do with little oversight.",
-      "camps": "Kennedy's side: HHS spokesperson Emily Hilliard says AI will help people \"understand\" and \"interrogate\" their own health data with their doctors and give doctors more time with patients. Medical experts: Dr. Zeke Emanuel says \"He obviously doesn't understand how AI works\"; Dr. Robert Wachter at UCSF agrees AI can empower patients, but says it will mostly spread the best science, not contrarian views. MAHA critics: vaccine researcher Dr. Robert Malone called the summit \"classic pay-to-play.\" Organizer Tony Lyons says they are simply \"trying to build the biggest movement we can.\"",
+      "headline": "FCC weighs letting more political robocalls, including AI voices, flood cellphones before the midterms",
+      "dek": "A right-leaning group asked for a waiver; the FCC’s only Democrat warns of “a tsunami of robocalls and misinformation.”",
+      "caveman": "A robocall is an automatic phone call that plays a recorded or computer voice. Right now, U.S. law bans most robocalls to cellphones unless you agreed to get them. The Club for Growth, a right-leaning political group, has asked the FCC (the government agency that oversees phones and TV) for a “waiver,” a special exception, so political groups can send robocalls with artificial or prerecorded voices without permission. The Republican-led FCC opened the idea for public comment and could decide as soon as late October, just before the November midterm elections. Why people worry: in 2024, New Hampshire voters got a fake robocall with an AI copy of President Joe Biden’s voice telling them not to vote in the primary. After that, the FCC ruled AI voice-cloning robocalls illegal. If this waiver passes, groups of all parties could use AI to call voters, and even have AI chatbots hold live conversations with them.",
+      "why_it_matters": "Midterms decide which party controls Congress for the last two years of President Trump’s term. Floods of AI calls in the final days could spread false information faster than anyone can check it, and land right on almost every voter’s phone.",
+      "camps": "Club for Growth: political speech deserves at least the same treatment as calls about package deliveries or doctor visits; the change could help reach voters in more languages and make polls more accurate. Critics: FCC commissioner Anna Gomez, the sole Democrat, said it would “supercharge” dark-money AI tricks; election-safety experts say it opens “a huge opportunity for abuse.” Critics also note the FCC has grown closely aligned with the president. The FCC did not comment.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/ai-rfk-jr-kennedy-maha-chatbot-medical-c46134f39189049047b5c37d208e1e47",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548",
+      "published": "2026-10-07",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Health and Human Services Secretary Robert F. Kennedy Jr. arrives to speak in Dallas.",
-      "image_credit": "Photo: Jacquelyn Martin/AP",
+      "image_alt": "FCC Chairman Brendan Carr testifies before a House subcommittee on Capitol Hill on Jan. 14, 2026.",
+      "image_credit": "Photo: Jose Luis Magana/AP (file)",
       "terms": [
         {
-          "term": "MAHA",
-          "explain": "\"Make America Healthy Again,\" the health movement led by Robert F. Kennedy Jr.",
+          "term": "robocall",
+          "explain": "An automatic phone call that plays a recorded or computer-made voice.",
           "aliases": [
-            "Make America Healthy Again"
+            "robocalls"
           ]
         },
         {
-          "term": "HHS",
-          "explain": "Department of Health and Human Services, the U.S. federal health agency.",
-          "aliases": [
-            "Health and Human Services"
-          ]
-        },
-        {
-          "term": "chatbot",
-          "explain": "An AI program you talk to by typing or speaking.",
-          "aliases": [
-            "chatbots"
-          ]
-        },
-        {
-          "term": "pay-to-play",
-          "explain": "When money buys access to powerful officials or a seat at the table.",
+          "term": "FCC",
+          "explain": "Federal Communications Commission, the U.S. agency that regulates phones, TV and radio.",
           "aliases": []
         },
         {
-          "term": "bioethicist",
-          "explain": "An expert on the right and wrong of medical and science choices.",
+          "term": "waiver",
+          "explain": "An official exception to a rule.",
+          "aliases": []
+        },
+        {
+          "term": "midterms",
+          "explain": "U.S. elections held halfway through a president’s four-year term, for Congress and many state offices.",
           "aliases": [
-            "bioethics"
+            "midterm elections"
+          ]
+        },
+        {
+          "term": "voice cloning",
+          "explain": "Using AI to copy a real person’s voice so it can say things they never said.",
+          "aliases": [
+            "voice-cloning"
+          ]
+        },
+        {
+          "term": "dark money",
+          "explain": "Political spending where the donors are hidden from the public.",
+          "aliases": [
+            "dark-money"
           ]
         }
       ]
@@ -373,58 +351,35 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Brooklyn startup Reflection AI releases Beam, an open-weight model meant to rival China's best",
-      "dek": "The company says Beam matches leading Chinese open models on reasoning tests while using 3 to 4 times less computing power; that claim isn't verified yet.",
-      "caveman": "Some AI companies keep their models closed, so you can only use them through their apps. Others release \"open-weight\" models that anyone can download and run. Right now many of the most popular open models come from China, like DeepSeek, Qwen and Z.ai. Reflection AI, a two-year-old startup in Brooklyn, New York, wants to change that. On Monday it unveiled Beam, its first big model. Beam has 501 billion parameters, but only 23 billion work on each task, which makes it cheaper to run. It learned from 23.8 trillion tokens of text and can read about 1 million tokens at once. Reflection says Beam scores about the same as Z.ai's GLM-5.2 on hard reasoning tests while using \"3-4x less inference compute.\" The company has raised about $4.7 billion from backers including Nvidia and Sequoia, at a $25 billion valuation, and signed more than $7 billion in deals with SpaceX and Nebius for chips. It says it will release Beam's weights this month.",
-      "why_it_matters": "Who builds the world's open AI models matters: companies and governments that run open models depend on whoever trained them. The U.S. has worried that China is winning this part of the AI race.",
-      "camps": "Reflection's side: it calls Beam a \"workhorse model\" and wants to sell \"AI factories\" so banks, firms and countries can train private versions on their own data; it is already testing this with South Korea's Shinsegae Group. Caution: TechCrunch notes the performance claims haven't been independently checked, and Beam handles only text, while rival U.S. open model Inkling from Thinking Machines Lab also handles images. Nvidia, an investor, also benefits because these systems run on its chips.",
+      "headline": "Google opens a free website where anyone can check if a picture, video or audio clip was made with Google’s AI",
+      "dek": "The SynthID checker reads a hidden “watermark” that Google, OpenAI, Nvidia and others put into AI media.",
+      "caveman": "It is getting hard to tell real photos and videos from AI fakes. Google’s answer is SynthID, a hidden “watermark” it started adding in 2023. A watermark here is an invisible signal baked into the file, not a visible logo. Google’s AI tools, like Nano Banana (images), Veo (video), Lyria (music) and Gemini, all stamp their creations with it. OpenAI, Nvidia and Kakao also support SynthID, and Apple is reportedly adding support soon. On Tuesday Google opened a website where anyone can upload a file to check for the watermark. It works with many formats: JPG, PNG and HEIC photos; MP4 and MOV videos; and MP3 and WAV audio. Before, only some journalists and researchers could test it. Google says people already make about 1 million checks a day through the Gemini app and Chrome.",
+      "why_it_matters": "Fake AI images and voices are used in scams, harassment and election lies. A free checking tool helps reporters and regular people. But it only catches content from tools that use SynthID.",
+      "camps": "Supporters: a shared watermark across big companies is a real step toward trust online. Limits critics point out: AI tools that don’t use SynthID (including many free, open ones) won’t be caught, so “no watermark found” does not prove something is real; watermarks may also be stripped or damaged; and one company running the checker gives it a lot of power.",
       "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "published": "2026-10-05",
+      "source_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "published": "2026-10-07",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Reflection AI's Beam announcement graphic.",
-      "image_credit": "Image: Reflection AI via TechCrunch",
+      "image_alt": "The homepage of Google’s SynthID Detector website.",
+      "image_credit": "Image: Google (via TechCrunch)",
       "terms": [
         {
-          "term": "open-weight model",
-          "explain": "An AI model whose trained settings are released so anyone can download and run it.",
-          "aliases": [
-            "open model",
-            "open-weight"
-          ]
-        },
-        {
-          "term": "parameters",
-          "explain": "The internal numbers an AI model learns; more usually means bigger and more capable.",
-          "aliases": [
-            "parameter"
-          ]
-        },
-        {
-          "term": "mixture-of-experts",
-          "explain": "A design where only part of a big model switches on for each task, saving computing power.",
-          "aliases": [
-            "MoE"
-          ]
-        },
-        {
-          "term": "tokens",
-          "explain": "Small chunks of text, like pieces of words, that AI reads and writes.",
-          "aliases": [
-            "token"
-          ]
-        },
-        {
-          "term": "inference",
-          "explain": "When a trained AI model is actually used to answer questions.",
-          "aliases": [
-            "inference compute"
-          ]
-        },
-        {
-          "term": "valuation",
-          "explain": "How much investors say a company is worth.",
+          "term": "watermark",
+          "explain": "A hidden signal inside a file that shows where it came from.",
           "aliases": []
+        },
+        {
+          "term": "SynthID",
+          "explain": "Google’s system for hiding watermarks in AI-made images, video, audio and text.",
+          "aliases": []
+        },
+        {
+          "term": "AI-generated",
+          "explain": "Made by artificial intelligence instead of a camera or a person.",
+          "aliases": [
+            "AI fakes",
+            "AI-made"
+          ]
         }
       ]
     },
@@ -432,49 +387,48 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Over 250,000 rally across France for school funding as police fire tear gas at teen protesters",
-      "dek": "Nearly 500 people were detained Tuesday; more than 6,500 arrests in two weeks, mostly of minors, have become an election issue.",
-      "caveman": "In France, high school students have been protesting since mid-September. They say their schools are falling apart: classrooms without enough desks or chairs, no air conditioning, rats in some buildings, and too few staff. On Tuesday, the government says 266,000 people marched across the country, including 56,000 in Paris, to back them. Police fired tear gas in Paris and other cities, and nearly 500 people were detained. Over two weeks of school blockades, police have made more than 6,500 arrests, mostly of minors. On Monday a 15-year-old boy lost a hand in an incident involving a police stun grenade. The interior minister says 715 officers have been hurt. Classes were fully or partly stopped at 891 schools. Anger is also about fuel prices driven up by the Iran war, tight budgets and rising inequality, as France heads toward a presidential election to replace Emmanuel Macron.",
-      "why_it_matters": "It shows how fast a student movement can grow into a national crisis, and it raises a hard question for any democracy: how should police handle protests by teenagers?",
-      "camps": "Government: Interior Minister Laurent Nuñez says the police response was proportionate in \"almost all cases\" and that some protests turned into riots. Prime Minister Sébastien Lecornu says students must be heard, but denounced \"ultra violence\" and called claims of police racism a \"lie,\" while promising to investigate any \"accidents.\" Protesters and the left: far-left lawmaker Aurélien Le Coq calls the violence \"absolutely unbearable\"; a university student said it makes no sense \"to hit minors\"; parents say demonstrating is a legitimate right.",
+      "headline": "Russian missiles and drones kill at least 25 across Ukraine, including 5 children, in an attack Kyiv saw coming",
+      "dek": "Ukraine had warned of a “massive” strike; it hit on Putin’s 74th birthday. Ukraine is short of Patriot missiles because of the Iran war.",
+      "caveman": "Overnight into Wednesday, Russia fired missiles and drones at Kyiv and about a dozen other regions of Ukraine. At least 25 civilians died, including five children, and about 100 were hurt. The worst hit was an apartment block in Pryluky, in the northern Chernihiv region: 19 people died there, including the five children; three were 1 year old and one was 8. President Volodymyr Zelenskyy had warned a day earlier that Russia was preparing a “massive” strike. Ukraine knew, but could not stop it all. Ukraine is searching the world for Patriot air-defense missiles, which are scarce because the Iran war is using them up. Russia’s Defense Ministry said it hit factories and storage sites for missiles and drones, plus ports and ships carrying military cargo. Ukraine has been hitting back at Russian oil refineries and depots with long-range drones; Zelenskyy said Ukraine hit two oil sites and a training ground in Russia.",
+      "why_it_matters": "The war is more than 4½ years old and stuck on the ground, so both sides are fighting a long-distance air war. That puts ordinary people in apartment buildings on the front line, and it shows how the Iran war drains weapons that Ukraine needs.",
+      "camps": "Ukraine and Europe: Zelenskyy called it the “gift” Putin gave himself for his birthday; EU Commission President Ursula von der Leyen called it “a deliberate strategy of terror.” Russia: says it targets military industry, not civilians. U.S. senators are pushing the Trump administration to move faster on Russian sanctions. Independent checks of some battlefield claims were not possible.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/france-education-protests-macron-police-dd78a1a2b80d4c84a92bcdde6f96e988",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/russia-ukraine-war-kyiv-strike-650e298d7bc3881351533683ff4040ed",
+      "published": "2026-10-07",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "A protester kicks a tear gas canister during scuffles after a school-funding demonstration in Paris on Oct. 6, 2026.",
-      "image_credit": "Photo: Teresa Suarez/AP",
+      "image_alt": "Locals and rescuers carry an injured man from a residential building destroyed by a Russian missile in Pryluky, Ukraine, on Oct. 7, 2026.",
+      "image_credit": "Photo: Evgeniy Maloletka/AP",
       "terms": [
         {
-          "term": "tear gas",
-          "explain": "A chemical spray that stings eyes and throat; police use it to break up crowds.",
+          "term": "Patriot",
+          "explain": "A U.S.-made air-defense system that shoots down missiles and planes.",
           "aliases": [
-            "teargas"
+            "Patriot missiles"
           ]
         },
         {
-          "term": "blockade",
-          "explain": "Blocking the entrance to a place, like students blocking their school's gates.",
+          "term": "air defense",
+          "explain": "Weapons and radar used to stop missiles and drones from hitting targets.",
           "aliases": [
-            "blockades",
-            "blockaded"
+            "air-defense"
           ]
         },
         {
-          "term": "stun grenade",
-          "explain": "A device that makes a loud bang and bright flash to scare and scatter crowds.",
+          "term": "civilians",
+          "explain": "People who are not soldiers.",
           "aliases": []
         },
         {
-          "term": "Interior Ministry",
-          "explain": "The French government department in charge of police and public safety.",
-          "aliases": [
-            "interior minister"
-          ]
+          "term": "sanctions",
+          "explain": "Penalties, like trade bans, that countries use to pressure another country.",
+          "aliases": []
         },
         {
-          "term": "lycée",
-          "explain": "The French word for high school.",
-          "aliases": []
+          "term": "refinery",
+          "explain": "A factory that turns crude oil into fuel.",
+          "aliases": [
+            "refineries"
+          ]
         }
       ]
     },
@@ -482,53 +436,46 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Three years after Oct. 7, much of the world sees tragedy in Gaza. Many Israelis still see only a threat",
-      "dek": "AP visited the Israeli towns attacked by Hamas in 2023 and found deep trauma, little public talk about Gaza's civilians, and an angry election ahead.",
-      "caveman": "On Oct. 7, 2023, Hamas-led militants attacked southern Israel, killed about 1,200 people and took 251 hostages. Israel's war in Gaza followed. Over 74,000 Palestinians have been killed, according to Gaza's Health Ministry, and most of Gaza's 2 million people now live in tent camps or in rubble, a year after a fragile ceasefire. Israel's military controls more than 60% of Gaza. This is the first anniversary with all hostages out of Gaza, alive or dead. AP reporters went to Sderot, an Israeli town right next to Gaza. From a lookout, Israelis peer through binoculars at the ruined Gaza town of Beit Hanoun. Memorials line the highway where people were shot while fleeing. Israeli media report little about Gaza's Palestinians, and journalists still can't freely enter Gaza. A new Israeli documentary, \"NAZA,\" in which military insiders describe what they called the systemic killing of civilians, caused outrage at the filmmakers rather than the government. Israel also faces its first election since the attack.",
-      "why_it_matters": "Today is the anniversary. Understanding why many Israelis and much of the world see the same war so differently helps explain why peace is so hard and why the coming Israeli election matters.",
-      "camps": "Israeli survivors: Ziporah Livneh says \"We are post-traumatic, all of us,\" and that the answer is to respond strongly to evil while not building a country on revenge. Some Israelis say there are no real civilians in Gaza because Hamas is everywhere; some Palestinians say the same about Israelis because most serve in the army. Critics inside Israel: Amit Gurfinkel, who wants an official inquiry into the security failures, worries about Israel's reputation; Prime Minister Benjamin Netanyahu has long resisted such an inquiry. Global view: there is widespread shock over how Israel has fought the war, and the International Criminal Court has issued an arrest warrant for Netanyahu.",
+      "headline": "Three years after Oct. 7, Israel’s election on Oct. 27 is turning into a vote on Netanyahu",
+      "dek": "Opponents call his coalition “the massacre government”; Netanyahu says he led a “war of redemption.”",
+      "caveman": "On Oct. 7, 2023, Hamas militants attacked southern Israel. About 1,200 people were killed and 251 taken hostage. Israel answered with a war in Gaza that has killed over 74,000 Palestinians, according to local health officials, and left Gaza in ruins. Now Israel holds its first national election since that day, on Oct. 27. Almost every poster and debate mentions Oct. 7. Prime Minister Benjamin Netanyahu, who turns 77 soon, is the only top leader from that day still in office, after other security chiefs resigned. His main rival is Gadi Eisenkot, a former army chief who leads the centrist Yashar party. Opponents across the spectrum want Netanyahu held responsible for the security failure. Netanyahu has rejected an official inquiry and blames security officials; he denies U.S. media reports that the UAE and Egypt warned him beforehand. Both main parties include grieving parents of people killed that day on their candidate lists.",
+      "why_it_matters": "This election decides who leads Israel on war, Gaza, Iran and relations with the world. Israel’s standing abroad has fallen sharply, several governments accuse it of genocide (which it rejects), and Netanyahu is wanted by the International Criminal Court.",
+      "camps": "Netanyahu’s side: he was let down by the military and led a dramatic comeback; “we didn’t collapse,” he told the U.N. Opponents: Eisenkot says the vote is “between taking responsibility and fleeing from responsibility.” A pollster at the Israel Democracy Institute says the whole country is “post-traumatic in a way.” Palestinians in Gaza, still living in ruins, have no vote in this election.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/israel-palestinians-gaza-anniversary-war-20950e811130e9a1ee4056f207150f55",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/israel-oct-7-election-netanyahu-hamas-gaza-55d94c750b399e7d89f550ebc8610436",
+      "published": "2026-10-07",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Visitors gather on a hill overlooking the Gaza Strip in Sderot, southern Israel.",
+      "image_alt": "A man rides a bicycle past a TV ad showing Netanyahu and his main rival, Gadi Eisenkot, in Ramat Gan, Israel.",
       "image_credit": "Photo: Oded Balilty/AP",
       "terms": [
         {
           "term": "Hamas",
-          "explain": "The Palestinian militant group that ruled Gaza and led the Oct. 7, 2023 attack.",
+          "explain": "A Palestinian militant group that ruled Gaza and led the Oct. 7, 2023, attack.",
           "aliases": []
         },
         {
-          "term": "hostage",
-          "explain": "A person taken and held by force, often to pressure others.",
+          "term": "coalition",
+          "explain": "A group of political parties that join together to run a government.",
+          "aliases": []
+        },
+        {
+          "term": "commission of inquiry",
+          "explain": "An official independent investigation into what went wrong.",
           "aliases": [
-            "hostages"
-          ]
-        },
-        {
-          "term": "ceasefire",
-          "explain": "An agreement to stop fighting, which may be temporary.",
-          "aliases": []
-        },
-        {
-          "term": "Sderot",
-          "explain": "An Israeli town right next to the Gaza border.",
-          "aliases": []
-        },
-        {
-          "term": "inquiry",
-          "explain": "An official investigation into what went wrong.",
-          "aliases": [
-            "official inquiry"
+            "inquiry"
           ]
         },
         {
           "term": "International Criminal Court",
-          "explain": "A court in The Hague that tries people accused of war crimes.",
+          "explain": "A court in The Hague that tries people for war crimes and crimes against humanity.",
           "aliases": [
             "ICC"
           ]
+        },
+        {
+          "term": "centrist",
+          "explain": "In the political middle, not strongly left or right.",
+          "aliases": []
         }
       ]
     },
@@ -536,46 +483,47 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "U.S. military locks down troops in Okinawa for two days after a Marine is arrested in a woman's killing",
-      "dek": "Lance Cpl. Devin Jacob Ballard, 20, is accused of strangling a 39-year-old woman in a Naha hotel; he has denied it, Japanese media report.",
-      "caveman": "Okinawa is a Japanese island that hosts a huge American military presence: about 80,000 Americans, nearly 30,000 of them active-duty troops. Last weekend, Okinawa police arrested Lance Cpl. Devin Jacob Ballard, a 20-year-old Marine from Ohio stationed at Futenma Air Station. Police suspect he strangled Anna Yagi, 39, at a hotel in the capital, Naha, early Saturday and stole her wallet and backpack. Security cameras showed a man entering the hotel with her and leaving alone. He has denied the allegations, according to Japanese media. On Tuesday, the top U.S. Marine commander there, Lt. Gen. Benjamin Watson, ordered a 48-hour pause from Wednesday to Friday: troops are restricted from leaving base and must take training on discipline and their duties to the community. \"Their home is our home,\" he wrote. Police say crimes linked to the U.S. military rose to 101 cases last year from about 40 in 2020.",
-      "why_it_matters": "Okinawa is close to Taiwan, and U.S. forces there are a key part of plans to deter China. Every crime by U.S. troops weakens local trust and can make it harder for Japan's government to expand military cooperation.",
-      "camps": "U.S. military: Watson says trust with Okinawans is essential to the alliance and \"when that trust is damaged, it affects the strength of our alliance.\" Okinawa residents: many have long opposed the bases, and anger is rising again; one resident told the Okinawa Times that \"discipline and troop education are not working at all.\" Others on the island have come to see the bases' value because of China. Japan's Prime Minister Sanae Takaichi wants closer military work with the U.S., which this case could make harder.",
+      "headline": "Houthi attacks on two Saudi airports kill 3 as Yemen’s war reignites",
+      "dek": "Strikes hit Abha and Riyadh’s main airport; a Saudi-led offensive fights for Yemen’s Red Sea coast and a key shipping strait.",
+      "caveman": "The Houthis are an Iran-backed rebel group that controls much of Yemen, Saudi Arabia’s neighbor. On Wednesday, attacks on two Saudi airports, Abha and King Khalid International in the capital Riyadh, killed three people, and the Houthis took credit. In Abha, a Moroccan and an Algerian resident died and 28 people were hurt; in Riyadh a Sudanese man died and eight were hurt. Saudi Arabia, the world’s top oil exporter, has put new cage-like fences around fuel tanks near the Riyadh airport. Behind this: last month the Houthis grabbed land along Yemen’s Red Sea coast and the Bab el-Mandeb Strait, a narrow sea gate that about 12% of world trade passes through. Saudi Arabia and Yemeni government forces launched a big counterattack. Both sides now claim to control key places like the town of Dhubab, and AP could not verify either claim. The fighting broke a four-year truce.",
+      "why_it_matters": "Ships carrying goods between Asia and Europe pass the Bab el-Mandeb. Fighting there can raise shipping and fuel costs worldwide. For Yemenis, the U.N. says almost 1,000 people have died in the latest fighting and over 200,000 have been forced from their homes, with cholera and hunger rising.",
+      "camps": "Saudi-led coalition: promises “full operational support” until the Houthis are “eliminated,” with U.S. help including intelligence. Houthis: say they are hitting back at Saudi attacks on Yemeni cities and pledge support for Palestinians. A Washington think tank says the Houthis want to raise Saudi Arabia’s economic costs by hitting airports and oil sites. Aid groups warn civilians on both sides are paying the price.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/marine-okinawa-japan-pause-us-military-killing-b034c3af1b9716b4e0295b5b910bb54d",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/yemen-houthis-saudi-airport-aden-rebels-f22f20dd78b03b741dfa1279881cedbb",
+      "published": "2026-10-07",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "U.S. MV-22 Osprey aircraft parked at Marine Corps Air Station Futenma in Ginowan, Okinawa.",
-      "image_credit": "Photo: Hiro Komae/AP (file)",
+      "image_alt": "A Houthi supporter carries a rifle at an armed tribal rally in Sanaa, Yemen, on Oct. 7, 2026.",
+      "image_credit": "Photo: Osamah Abdulrahman/AP",
       "terms": [
         {
-          "term": "Okinawa",
-          "explain": "A chain of Japanese islands southwest of mainland Japan, home to most U.S. bases in Japan.",
-          "aliases": []
-        },
-        {
-          "term": "Marine",
-          "explain": "A member of the U.S. Marine Corps, a branch of the U.S. military.",
+          "term": "Houthis",
+          "explain": "An Iran-backed rebel group that controls Yemen’s capital and much of the north.",
           "aliases": [
-            "Marines",
-            "Lance Cpl."
+            "Houthi"
           ]
         },
         {
-          "term": "Futenma",
-          "explain": "A U.S. Marine air base in the middle of a crowded Okinawan city.",
+          "term": "Bab el-Mandeb",
+          "explain": "A narrow strait between Yemen and Africa that links the Red Sea to the Indian Ocean.",
           "aliases": []
         },
         {
-          "term": "deter",
-          "explain": "To discourage an enemy from attacking by showing strength.",
+          "term": "truce",
+          "explain": "An agreement to stop fighting for a while.",
           "aliases": [
-            "deterrence"
+            "ceasefire"
           ]
         },
         {
-          "term": "alliance",
-          "explain": "A formal promise between countries to help defend each other.",
+          "term": "displaced",
+          "explain": "Forced to leave home because of war or disaster.",
+          "aliases": [
+            "forced from their homes"
+          ]
+        },
+        {
+          "term": "cholera",
+          "explain": "A disease spread by dirty water that causes severe diarrhea and can kill quickly.",
           "aliases": []
         }
       ]
@@ -584,49 +532,49 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Germany arrests a former spy chief, 80, on suspicion of treason and selling state secrets",
-      "dek": "Prosecutors say August Hanning, who ran the BND foreign intelligence agency from 1998 to 2005, got about 2,000 documents from an old aide.",
-      "caveman": "The BND is Germany's foreign spy agency, like the CIA in the U.S. On Tuesday police arrested August Hanning, 80, who led it from 1998 to 2005. Prosecutors say he is \"strongly suspected\" of treasonous espionage and spying out state secrets. They also arrested a former aide, named only as Manfred D. under German privacy rules. He had been Hanning's chief of staff and later worked for several BND bosses until 2026. Prosecutors say the two agreed in 2010 that the aide would keep sending secrets to Hanning for money. Over the years he allegedly passed about 2,000 documents, many classified. Hanning is suspected of using the information in private consulting and sharing some with people working for foreign spy agencies. Officials have not said which countries. The case grew out of a separate investigation into the 2024 kidnapping of a Hamburg businesswoman's children in a custody fight.",
-      "why_it_matters": "Spy agencies run on trust. If a former chief really sold secrets, it would damage Germany's standing with allies who share intelligence, and it raises questions about what retired officials do after they leave.",
-      "camps": "Prosecutors: they say there is strong suspicion but have not named the foreign services involved; Hanning has not been convicted, and the AP report did not include a response from him. Lawmakers: Green Party member Konstantin von Notz, who sits on the committee overseeing spy agencies, called the story \"deeply troubling\" and wants former officials with top security clearances banned from private consulting. The BND did not immediately comment.",
+      "headline": "Brazil’s runoff may be decided by people who like neither Lula nor Bolsonaro",
+      "dek": "Over 33 million people (21%) skipped the first round, the most since 1998; nearly 6 million voted blank or spoiled.",
+      "caveman": "Brazil’s presidential election goes to a second round on Oct. 25. It is left-leaning President Luiz Inácio Lula da Silva against right-wing Sen. Flávio Bolsonaro, son of ex-president Jair Bolsonaro, who is serving a 27-year sentence for planning a coup. In the first round on Sunday, Bolsonaro got about 2 million more votes than Lula, and the next three finishers were all on the right. But a huge group did not pick either. Voting is mandatory in Brazil for literate citizens 18 to 70 (skipping brings a small fine), yet more than 33 million people, 21% of voters, stayed home, the highest first-round no-show since 1998. Nearly 6 million more cast blank or spoiled ballots. Before the first round, the Datafolha poll found about 11% undecided, versus just 2% at this point in 2022. A 19-year-old theater student told AP she distrusts both: one side mixes religion and politics, the other is tied to corruption. A 21-year-old with three part-time jobs leans Lula but says, “things are more expensive.”",
+      "why_it_matters": "Brazil is Latin America’s biggest country and home to most of the Amazon rainforest. Who wins will shape climate policy, democracy and relations with the U.S. and China.",
+      "camps": "Bolsonaro’s edge: more first-round votes and endorsements from right-wing rivals. Lula’s hope: turn out voters who stayed home. Many voters: worn out by polarization; one political scientist says people forget “the higher percentage of people who don’t like this fight.” Both candidates face doubts over corruption: Flávio Bolsonaro is under investigation, and Lula was jailed for 19 months on charges that were later annulled.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/germany-arrest-espionage-allegation-former-intelligence-chief-47bb15543a3e2404e3f756dbb517d14c",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/brazil-election-undecided-abstention-vote-president-lula-bolsonaro-422e41dadb844deb9970f8a8e61b25d3",
+      "published": "2026-10-07",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "August Hanning, former president of Germany's BND, at a Bundestag hearing in 2015.",
-      "image_credit": "Photo: Michael Kappeler/dpa via AP (file)",
+      "image_alt": "People walk past campaign flags of President Lula and challenger Sen. Flávio Bolsonaro in Rio de Janeiro on Oct. 5, 2026.",
+      "image_credit": "Photo: Bruna Prado/AP",
       "terms": [
         {
-          "term": "BND",
-          "explain": "Germany's Federal Intelligence Service, which spies abroad.",
+          "term": "runoff",
+          "explain": "A second-round vote between the top two candidates when no one wins a majority.",
           "aliases": [
-            "Federal Intelligence Service"
+            "second round"
           ]
         },
         {
-          "term": "treason",
-          "explain": "Betraying your own country, for example by helping a foreign power.",
+          "term": "abstention",
+          "explain": "Choosing not to vote.",
           "aliases": [
-            "treasonous"
+            "abstaining",
+            "stayed home",
+            "no-show"
           ]
         },
         {
-          "term": "espionage",
-          "explain": "Spying: secretly gathering information for another side.",
+          "term": "mandatory voting",
+          "explain": "A rule that citizens must vote, often with a small fine if they don’t.",
           "aliases": [
-            "spying"
+            "mandatory"
           ]
         },
         {
-          "term": "classified",
-          "explain": "Secret government information that only approved people may see.",
-          "aliases": [
-            "classified information"
-          ]
+          "term": "polarization",
+          "explain": "When a society splits into two hostile camps.",
+          "aliases": []
         },
         {
-          "term": "security clearance",
-          "explain": "Official permission to see secret information.",
+          "term": "coup",
+          "explain": "An illegal grab of government power, often with force.",
           "aliases": []
         }
       ]
@@ -635,49 +583,40 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "National Book Award fiction finalists: Danticat and Luiselli are in, Marlon James is out",
-      "dek": "Edwidge Danticat is now a three-time finalist; debut novelist Morgan Thomas made the cut, while Booker finalist \"The Disappearers\" was snubbed.",
-      "caveman": "The National Book Awards are one of the biggest prizes for American books. On Tuesday the National Book Foundation named five finalists in each of five categories. Who's hot in fiction: Edwidge Danticat's \"Dèy,\" about a woman who witnesses a mass shooting in a Miami mall; Valeria Luiselli's \"Beginning Middle End,\" a family story across generations and continents; Hannah Lillith Assadi's \"Paradiso 17,\" following an exiled Palestinian around the world; Julián Delgado Lopera's \"Pretend You're Dead and I Carry You,\" set in Colombia; and debut novelist Morgan Thomas's \"Mad Eden,\" about a transgender healthcare worker in Florida. Who's not: Marlon James's \"The Disappearers,\" about a brutal attack on gay men in 1980s Jamaica. It was a Booker Prize finalist and had made this prize's longlist of 10. Winners get $10,000 at a dinner in Manhattan on Nov. 18. Salman Rushdie and Perri Klass will get honorary medals.",
-      "why_it_matters": "Award lists shape what bookstores push and what readers pick up. This year's fiction list leans into gender identity, gun violence, exile and migration, the arguments America is having right now.",
-      "camps": "Fans of the list: NPR points out that Danticat, a finalist in 1995 and 2007, now gets a third shot, and that a debut novelist is in the running. Critics of the list: the James omission stands out because The New York Times praised \"The Disappearers\" as one of the century's best. Some readers also argue prize lists lean toward political themes; others say that's what serious fiction is doing today.",
+      "headline": "Oprah picks a 28-year-old’s debut, “Hungered,” about a 12-year-old girl growing up unhoused",
+      "dek": "Amanda Rizkalla’s novel came out in May; landing in Oprah’s Book Club usually sends a book soaring.",
+      "caveman": "Oprah Winfrey has run her famous book club for 30 years, and a pick can turn an unknown writer into a bestseller almost overnight. Her new choice is “Hungered” by Amanda Rizkalla, a first novel that came out in May. It follows a 12-year-old girl trying to find herself amid poverty and family trouble. Winfrey called it a “riveting novel” about “families who live outside the margins, living unhoused” and “their hopes, dreams, and the perseverance” to keep going. Rizkalla is 28. She grew up in Los Angeles, now lives in the Bay Area, studied at Stanford and earned a creative-writing master’s (MFA) at the University of Wisconsin-Madison. She said she was “so stunned I could hardly believe it was real.” Her talk with Oprah is on Winfrey’s YouTube channel and podcast.",
+      "why_it_matters": "Who’s hot: a young debut author writing about homelessness, a crisis that touches many U.S. cities, especially in California. An Oprah pick can put a story about poor families in front of millions of readers who might never pick it up otherwise.",
+      "camps": "Fans of the club: Oprah has a long record of lifting new and diverse voices. Common critique of celebrity book clubs: one person’s taste gets huge power over what sells, while many strong books get no spotlight. Readers who have lived without housing also often ask that such stories be told with care and not as “poverty tourism.”",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/national-book-awards-2026-finalists-danticat-luiselli-53e5ad244dcaff10246c84d34961516c",
+      "source_url": "https://apnews.com/article/oprah-winfrey-book-club-debut-novel-f6e33fa52690e74f5bc936e143c2a52f",
       "published": "2026-10-06",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Book covers of \"Dèy\" by Edwidge Danticat and \"Beginning Middle End\" by Valeria Luiselli.",
-      "image_credit": "Image: Knopf via AP",
+      "image_alt": "The cover of “Hungered” by Amanda Rizkalla.",
+      "image_credit": "Image: Henry Holt via AP",
       "terms": [
         {
-          "term": "National Book Awards",
-          "explain": "Major yearly U.S. book prizes run by the National Book Foundation.",
+          "term": "debut",
+          "explain": "A writer’s first published book.",
           "aliases": [
-            "National Book Award",
-            "NBA"
+            "debut novel"
           ]
         },
         {
-          "term": "finalist",
-          "explain": "One of the last few books still in the running for a prize.",
-          "aliases": [
-            "finalists",
-            "shortlist"
-          ]
-        },
-        {
-          "term": "longlist",
-          "explain": "The bigger first list of nominees, before it's cut down to finalists.",
+          "term": "unhoused",
+          "explain": "Without a stable home; another word for homeless.",
           "aliases": []
         },
         {
-          "term": "debut novel",
-          "explain": "An author's first published novel.",
+          "term": "book club",
+          "explain": "A group that reads and discusses the same book; Oprah’s is the most famous in the U.S.",
           "aliases": [
-            "debut novelist"
+            "Oprah’s Book Club"
           ]
         },
         {
-          "term": "Booker Prize",
-          "explain": "A top British prize for novels written in English.",
+          "term": "MFA",
+          "explain": "Master of Fine Arts, a graduate degree many fiction writers earn.",
           "aliases": []
         }
       ]
@@ -686,47 +625,43 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Beyond fiction: Gaza, prisons and queer parenthood fill the rest of the National Book Award finalist lists",
-      "dek": "Two Gaza books made the cut, in poetry and in translation; Norway's Karl Ove Knausgaard is up for the translated prize.",
-      "caveman": "The National Book Awards also have prizes for nonfiction, poetry, translated books and young people's literature. Nonfiction: Colin Asher's \"The Midnight Special,\" a secret prison history of American music; Abdelrahman ElGendy's \"Huna,\" a memoir of revolution and prison in Egypt; Camonghne Felix's \"Let the Poets Govern\"; Sara Nović's \"Mother Tongue\"; and Joseph Osmundson's \"Spawning Season: An Experiment in Queer Parenthood.\" Poetry: Victoria Chang, Carolina Ebeid, Brenda Hillman, Susan Stewart, and Fady Joudah's \"Exhibit G: Poems, Essays, and Photographs of Gaza.\" Translated literature: Karl Ove Knausgaard's \"The School of Night,\" Vicente Luis Mora, Intan Paramaditha, Mohamed Mbougar Sarr, and Samar Yazbek's \"Your Presence Is a Danger to Your Life: Voices of Survival and Witness in Gaza.\" Young people's literature: Elana K. Arnold, Tae Keller, Keala Kendall, Julian Randall, and David Levithan with Gabriel Duckels for \"The Fight of Our Lives: AIDS in America.\"",
-      "why_it_matters": "These lists often decide which books libraries and schools buy. Two Gaza books and books about prison and queer families show which stories the literary world wants the public to hear right now.",
-      "camps": "Supporters: the lists give space to voices often left out, such as prisoners, queer parents and Palestinians in Gaza, and to writing from Indonesia, Senegal and Spain in translation. Skeptics: some readers feel awards juries reward timely politics over craft, and books about Gaza in particular split American readers. Winners will be named Nov. 18.",
+      "headline": "Barbara Kingsolver’s “Partita,” her first novel since the Pulitzer-winning “Demon Copperhead,” is about a pianist, art and class",
+      "dek": "Kingsolver, who has a condition that bends her fingers, writes about bodies that fail, suicide and why we need art.",
+      "caveman": "Barbara Kingsolver is one of America’s best-known novelists. Her last book, “Demon Copperhead,” a retelling of Dickens’ “David Copperfield” set in Appalachia during the opioid crisis, won the Pulitzer Prize. Her new novel, “Partita,” her 19th, is out this week. It follows Livia, a serious classical pianist whose love of music clashes with a first, all-consuming romance. Kingsolver plays piano herself, but she has Dupuytren’s contracture, an inherited condition that slowly pulls her fingers into a fist; she needs surgery every couple of years. That struggle shaped the book. In an interview at her home in southwestern Virginia, she said the novel asks “why do we need art?” at a time of cuts “from the NEA all the way down to second grade music classes.” The book also deals with suicide; she said she has lost four people close to her that way. She also spoke up for Appalachia: outsiders “think we’re stupid,” she said, when the region’s poverty comes from “hundreds of years of exploitation” by coal and other industries.",
+      "why_it_matters": "Who’s hot: Kingsolver after a Pulitzer is a major literary event of the fall. Her talk about class barriers to the arts and about the rural South pushes back on easy stereotypes of “flyover country.”",
+      "camps": "Admirers: she gives working-class and rural people complex, dignified stories, and links personal pain to big social questions. Points some readers debate: “Partita” is a tighter, more personal book than the sweeping “Demon Copperhead,” and some critics prefer her big social novels. Kingsolver herself credits Appalachian writers like Wendell Berry, Bobbie Ann Mason and Silas House.",
       "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
-      "published": "2026-10-06",
+      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5988062/barbara-kingsolver-partita",
+      "published": "2026-10-02",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "A collage of 2026 National Book Award finalist book covers.",
-      "image_credit": "Book covers via NPR",
+      "image_alt": "Artwork showing Barbara Kingsolver’s name and the title “Partita.”",
+      "image_credit": "Image: NPR",
       "terms": [
         {
-          "term": "nonfiction",
-          "explain": "Writing about real people and events, like memoirs and history.",
+          "term": "Pulitzer Prize",
+          "explain": "A top U.S. award for books, journalism and music.",
           "aliases": [
-            "non-fiction"
+            "Pulitzer"
           ]
         },
         {
-          "term": "memoir",
-          "explain": "A true story an author writes about their own life.",
+          "term": "Appalachia",
+          "explain": "A mountain region in the eastern U.S., including parts of Kentucky, Virginia and West Virginia.",
           "aliases": []
         },
         {
-          "term": "translated literature",
-          "explain": "Books first written in another language and translated into English.",
-          "aliases": [
-            "translation"
-          ]
+          "term": "NEA",
+          "explain": "National Endowment for the Arts, a U.S. government agency that funds the arts.",
+          "aliases": []
         },
         {
-          "term": "young people's literature",
-          "explain": "Books written for kids and teens.",
-          "aliases": [
-            "YA"
-          ]
+          "term": "partita",
+          "explain": "A piece of classical music made of several short parts.",
+          "aliases": []
         },
         {
-          "term": "queer",
-          "explain": "An umbrella word for people who are not straight or not cisgender.",
+          "term": "opioid crisis",
+          "explain": "The wave of addiction and overdose deaths from painkillers and drugs like fentanyl.",
           "aliases": []
         }
       ]
@@ -735,51 +670,38 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Nobel Literature Prize is Thursday: is this the year for an American like Jamaica Kincaid or Thomas Pynchon?",
-      "dek": "Critics float Antiguan-American writer Kincaid and China's Can Xue; only 18 of 122 literature laureates have been women.",
-      "caveman": "The Swedish Academy will announce the 2026 Nobel Prize in Literature on Thursday, Oct. 8, at 11:00 GMT, which is 7 p.m. in Taipei. The winner gets about $1.2 million. Nobody outside the academy knows who will win, but critics and bookmakers love to guess. An AFP preview names Jamaica Kincaid, 77, the Antiguan-American author of the 1990 novel \"Lucy,\" as a serious contender. American novelist Thomas Pynchon is one of the \"usual suspects\" who comes up every year. Betting site lists, reported by Lit Hub, put Chinese experimental writer Can Xue near the top. Swedish critics quoted by AFP also mention Argentina's Samanta Schweblin. Only 18 of the 122 literature laureates so far have been women. Last year's prize went to Hungary's László Krasznahorkai.",
-      "why_it_matters": "The Nobel can turn a writer into a global name overnight and sends readers back to their books. An American win would be the first since Louise Glück in 2020.",
-      "camps": "Optimists: critics say it may be time for more women and writers from outside Europe, and Kincaid fits both. Skeptics: the academy famously surprises everyone, and favorites often lose; Lit Hub jokes that \"nobody knows anything.\" Some readers also argue betting odds tell you more about hype than about the judges.",
-      "source_name": "The Straits Times (AFP)",
-      "source_url": "https://www.straitstimes.com/world/chinese-caribbean-women-among-contenders-for-nobel-literature-prize",
+      "headline": "Lydia Millet’s “Fair Ones” is a “double novel” about two Brooklyn friends after a murder",
+      "dek": "The first half is told by Mara right after their friend Claire is killed; the second, by Jen a year later.",
+      "caveman": "Lydia Millet is a respected American novelist known for sharp, darkly funny books. Her new novel, “Fair Ones,” is really two short novels in one, called “Fair” and “Ones.” Two Brooklyn women in their forties, Mara and Jen, lose their longtime friend Claire, who is murdered. In “Fair,” Mara tells the story just after the killing. In “Ones,” Jen picks it up a year later. The two women stumble through shock, numbness, anger, regret and depression, spend time with others who knew Claire, and try to figure out how she died. Lit Hub calls it “an exquisite rendering” of grief that lingers. Millet said she wanted to test herself: could she write something realistic, “mostly dialogue,” about a small group of people, “and not be bored” writing it? She likes that the word “fair” can mean beautiful, just, or merely so-so.",
+      "why_it_matters": "Who’s hot: Millet, who was a National Book Award finalist before, is among the big literary names with new books this fall, next to Kingsolver and Patricia Lockwood. Books about grief and friendship between women are drawing a lot of readers right now.",
+      "camps": "Fans: praise her sharp dialogue, quick pacing and sardonic edge. Possible drawbacks for some readers: a story told mostly through talk and with two narrators can feel slow if you want a twisty crime plot; this is a book about grief, not a whodunit.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/lydia-millet-on-writing-a-double-novel-of-grief-and-loss/",
       "published": "2026-10-06",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "A Nobel Prize medal.",
-      "image_credit": "Photo: The Straits Times (file)",
+      "image_alt": "Portrait of novelist Lydia Millet.",
+      "image_credit": "Photo: via Literary Hub",
       "terms": [
         {
-          "term": "Nobel Prize in Literature",
-          "explain": "A yearly prize from the Swedish Academy for a writer's whole body of work.",
-          "aliases": [
-            "Nobel",
-            "Nobel Literature"
-          ]
-        },
-        {
-          "term": "Swedish Academy",
-          "explain": "The group in Stockholm that picks the literature Nobel.",
+          "term": "double novel",
+          "explain": "One book made of two linked short novels.",
           "aliases": []
         },
         {
-          "term": "laureate",
-          "explain": "Someone who has won a major prize.",
-          "aliases": [
-            "laureates"
-          ]
+          "term": "narrator",
+          "explain": "The character who tells the story.",
+          "aliases": []
         },
         {
-          "term": "bookmakers",
-          "explain": "Companies that take bets and set odds on events.",
-          "aliases": [
-            "betting odds",
-            "odds"
-          ]
+          "term": "sardonic",
+          "explain": "Grimly mocking or darkly funny.",
+          "aliases": []
         },
         {
-          "term": "contender",
-          "explain": "Someone with a real chance to win.",
+          "term": "realist",
+          "explain": "Fiction that shows everyday life as it is, without fantasy.",
           "aliases": [
-            "contenders"
+            "realistic"
           ]
         }
       ]
@@ -788,48 +710,41 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "In a new memoir, GOP Sen. Thom Tillis calls his Hegseth vote the \"biggest regret of my career\"",
-      "dek": "\"How to Lose Friends and Antagonize Presidents\" says at least 30 Republican senators privately doubt Trump and predicts a midterm \"bloodbath.\"",
-      "caveman": "Thom Tillis is a Republican senator from North Carolina who is leaving office soon after clashing with President Trump. His new book, \"How to Lose Friends and Antagonize Presidents,\" came out Tuesday. In it, he says his deciding vote to confirm Pete Hegseth as defense secretary in January 2025 is the \"biggest regret of my career,\" and that he \"should've stopped\" Robert F. Kennedy Jr. from becoming health secretary. He writes that at least 30 GOP colleagues have privately \"expressed reservations\" about Trump's actions, but praise him in front of cameras. He criticizes tariffs, aggressive immigration raids and the Iran war, and predicts a \"bloodbath\" for Republicans in November's midterms. Still, he mostly spares Trump himself: \"my beef is not with him, but the idiots he's got working for him,\" and he calls Trump \"an amazing political talent.\" Trump earlier called Tillis a \"QUITTER!\" online.",
-      "why_it_matters": "It's a rare inside look at how senators weigh fear for their careers against their own doubts. It also lands weeks before the midterm elections that will decide who controls Congress.",
-      "camps": "Tillis's view: he says he didn't want to be the lone vote blocking Trump's picks, and that opposing Trump on everything means you \"lose all influence.\" Critics might say: speaking out after you've decided not to run again costs little; AP notes he joins a long list of Republicans who got louder once they had less to lose. Trump's side: he has attacked Tillis as a quitter, and Hegseth has denied the allegations Tillis says worried him.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/thom-tillis-senate-book-trump-hegseth-kennedy-2b62f6ddd564263108d70cc2919fb1c4",
-      "published": "2026-10-05",
+      "headline": "Netflix’s new “East of Eden” brings Steinbeck back, with Florence Pugh as the novel’s famous villain",
+      "dek": "Zoe Kazan, granddaughter of the director of the 1955 James Dean film, made the roughly seven-hour series.",
+      "caveman": "“East of Eden” is John Steinbeck’s big 1952 novel about several generations of the Trask family in California, from the Civil War to World War I. It is built around two brothers who echo Cain and Abel from the Bible, and around a scary, manipulative woman named Cathy. Steinbeck’s big question: are we born good or bad, or can we choose? Many Americans read it in school or saw the 1955 movie with James Dean, which only used the last part of the book. Now Netflix has a new miniseries of about seven hours, made by Zoe Kazan, granddaughter of that film’s director, Elia Kazan. NPR critics say Florence Pugh gives a “fantastic” performance as Cathy and call the series a fresh retelling for new audiences. NPR’s TV critic notes it mostly cuts the Irish American Hamilton family from the book, but praises Hoon Lee as Lee, the family’s Chinese caretaker, and Martha Plimpton.",
+      "why_it_matters": "Who’s hot: classic American novels are getting new life on streaming, sending new readers back to the book. Steinbeck’s question about choice versus fate still feels timely.",
+      "camps": "Praise: NPR says Pugh “fills” the spotlight and the series hammers home Steinbeck’s main theme. Criticism: it is not more complete than the 1981 TV version because it drops the Hamiltons, and it adds lots of sex and nudity that some viewers may find heavy. Book purists usually say: read the novel too.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/07/nx-s1-5992662/east-of-eden-brings-a-light-modern-touch-to-an-epic-literary-classic",
+      "published": "2026-10-07",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Sen. Thom Tillis, R-N.C., arrives for a hearing on Capitol Hill.",
-      "image_credit": "Photo: Mark Schiefelbein/AP (file)",
+      "image_alt": "Florence Pugh in Netflix’s “East of Eden.”",
+      "image_credit": "Photo: Geoffrey Short/Netflix (via NPR)",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A true story an author writes about their own life.",
+          "term": "miniseries",
+          "explain": "A TV series with a fixed, small number of episodes that tells one complete story.",
           "aliases": []
         },
         {
-          "term": "confirm",
-          "explain": "When the Senate votes to approve a president's pick for a top job.",
+          "term": "adaptation",
+          "explain": "A new version of a story made for a different form, like a book turned into a show.",
           "aliases": [
-            "confirmation"
+            "retelling"
           ]
         },
         {
-          "term": "GOP",
-          "explain": "Nickname for the Republican Party, \"Grand Old Party.\"",
-          "aliases": [
-            "Republicans"
-          ]
-        },
-        {
-          "term": "midterms",
-          "explain": "U.S. elections held halfway through a president's four-year term.",
-          "aliases": [
-            "midterm elections"
-          ]
-        },
-        {
-          "term": "tariffs",
-          "explain": "Taxes on imported goods.",
+          "term": "Cain and Abel",
+          "explain": "Brothers in the Bible; Cain kills Abel out of jealousy.",
           "aliases": []
+        },
+        {
+          "term": "John Steinbeck",
+          "explain": "A Nobel Prize-winning American writer of “The Grapes of Wrath” and “East of Eden.”",
+          "aliases": [
+            "Steinbeck"
+          ]
         }
       ]
     },
@@ -837,57 +752,51 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Kenya confirms its first Ebola case and death, as the world's fastest-growing outbreak spreads",
-      "dek": "A Kenyan man who lived in Congo flew home from Uganda; health workers are tracing 28 contacts plus 23 fellow passengers and four crew.",
-      "caveman": "Ebola is a deadly virus that spreads through contact with an infected person's body fluids, like blood or vomit, or things they touched. A big outbreak began in eastern Congo and was declared in mid-May. It now has at least 8,400 cases and more than 4,000 deaths, making it the fastest-growing Ebola outbreak in history. On Tuesday, Kenya said a Kenyan citizen who had lived in Congo for seven years became its first confirmed case and first death. He got sick about a month ago, traveled by road to Kampala, Uganda, and flew to Nairobi on Saturday. His family took him to Nairobi Hospital, where he was isolated, tested positive, and died late Monday. Officials found 28 contacts, including family and health workers, and are tracing 23 passengers and four crew from his flight. Contacts must isolate for 21 days. Kenya is the fourth country with a case in this outbreak, after Congo, Uganda and France.",
-      "why_it_matters": "Ebola reaching a major travel hub like Nairobi raises the risk of wider spread. Fast testing, tracing and protective gear make the difference between one case and many.",
-      "camps": "Health officials: the Africa CDC praised Kenya's \"rapid identification, isolation and testing,\" and WHO delivered about 1,000 Ebola tests and 1,000 protective kits. On the ground: Doctors Without Borders says fighting the outbreak in Congo \"is like fighting a megafire\" because many hot spots flare at once, and responders face attacks, misinformation and rebel violence. WHO warns it could become deadlier than the 2014-2016 West Africa outbreak that killed more than 11,000 people.",
+      "headline": "A lab worker’s death in Siberia sparks fears of pneumonic plague; WHO asks Russia for more answers",
+      "dek": "The 28-year-old worked at an anti-plague institute; Russia says no plague was found in contacts, but the WHO says it “does not yet have the full picture.”",
+      "caveman": "On Oct. 2 a 28-year-old woman who worked at an anti-plague research institute in Irkutsk, in Siberia, died in a hospital nearby. Early unconfirmed reports said she may have caught pneumonic plague after an accidental lab exposure. Russian officials say she died of what first looked like a “typical” respiratory virus and that no recent plague cases were found. Still, the local hospital was put under quarantine, and Russia told the World Health Organization (WHO) that 200 contacts were quarantined. Russia says tests found no dangerous germs in any contacts. Simple background: plague is caused by the same germ that caused the Black Death in the 1300s, which killed 30% to 50% of people in parts of Europe. Bubonic plague comes from flea bites. Pneumonic plague infects the lungs and spreads person to person by coughing. It can kill fast if untreated, but antibiotics cure it if caught early. WHO chief Tedros Adhanom Ghebreyesus said it is also checking reports of a second worker.",
+      "why_it_matters": "When a dangerous germ might have escaped a lab, the world needs fast, honest information. The case brings back memories of COVID-19 and questions about lab safety. The WHO says the risk outside Russia is “very low.”",
+      "camps": "WHO: Russia has answered questions, but more data is needed on lab tests and contacts before a full risk check. Russia: says the situation is “stable,” and the Kremlin told people to trust official statements over “rumors or speculation.” President Trump said he has a call scheduled with Putin about it. Health experts note plague still appears every year in parts of Africa and the U.S., and it is treatable.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/kenya-congo-ebola-death-nairobi-32ccde1e74048396ad5cb9f9fe47495e",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/russia-plague-trump-who-irkutsk-5aa82b8bc3d8300c551cd0e1bf91e32c",
+      "published": "2026-10-07",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Kenya Health Minister Aden Duale announces Kenya's first Ebola case in Nairobi on Oct. 6, 2026.",
-      "image_credit": "Photo: Andrew Kasuku/AP",
+      "image_alt": "Electric scooters parked next to the Irkutsk Anti-Plague Research Institute of Siberia and the Far East in Irkutsk, Russia, on Oct. 7, 2026.",
+      "image_credit": "Photo: AP",
       "terms": [
         {
-          "term": "Ebola",
-          "explain": "A rare, often deadly virus that causes fever and bleeding.",
+          "term": "pneumonic plague",
+          "explain": "A lung form of plague that spreads between people through coughing.",
           "aliases": []
         },
         {
-          "term": "outbreak",
-          "explain": "A sudden rise in cases of a disease in one area.",
+          "term": "bubonic plague",
+          "explain": "The flea-bite form of plague that causes painful swollen lumps.",
           "aliases": []
         },
         {
-          "term": "contact tracing",
-          "explain": "Finding everyone a sick person was near, so they can be checked and isolated.",
+          "term": "quarantine",
+          "explain": "Keeping possibly sick people apart so a disease doesn’t spread.",
           "aliases": [
-            "contacts",
-            "traced"
-          ]
-        },
-        {
-          "term": "isolation",
-          "explain": "Keeping a sick or exposed person away from others.",
-          "aliases": [
-            "isolate",
-            "isolated"
+            "quarantined"
           ]
         },
         {
           "term": "WHO",
-          "explain": "World Health Organization, the United Nations' health agency.",
+          "explain": "World Health Organization, the U.N. agency for global health.",
           "aliases": [
             "World Health Organization"
           ]
         },
         {
-          "term": "PPE",
-          "explain": "Personal protective equipment, like gloves, masks and gowns.",
-          "aliases": [
-            "protective equipment"
-          ]
+          "term": "antibiotics",
+          "explain": "Medicines that kill bacteria.",
+          "aliases": []
+        },
+        {
+          "term": "Black Death",
+          "explain": "A plague pandemic in the 1300s that killed a huge share of people in Europe, Asia and Africa.",
+          "aliases": []
         }
       ]
     },
@@ -895,48 +804,44 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Army study found shock gloves bought by ICE cause intense pain and fear; critics say safety isn't proven",
-      "dek": "ICE knew about the findings before signing a $16.7 million deal for 6,000 pairs, records obtained by a watchdog show.",
-      "caveman": "ICE is the U.S. immigration agency that arrests and deports people. In August it signed a $16.7 million contract for 6,000 pairs of electric shock gloves, which give a painful jolt when an officer touches someone's skin. A watchdog group, American Oversight, got records through a lawsuit and shared them with AP. They include a never-before-released Army study from October 2024 at the military prison at Fort Leavenworth, Kansas. Army staff pretended to be fighting prisoners. After being shocked, they stopped resisting within seconds and felt \"fatigue, soreness and excessive apprehensiveness to being shocked again.\" Some said just seeing the glove made them want to obey. The study says the shock overloads nerve endings in the skin to cause pain, and wet or oily skin made it worse. ICE leaders knew about the study before buying. The maker, Compliant Technologies, must deliver within six months.",
-      "why_it_matters": "These gloves could be used on detainees and protesters. A weapon that causes intense pain but leaves no mark raises big questions about abuse and accountability.",
-      "camps": "ICE's side: it calls them \"distraction and de-escalation devices,\" safer than other non-lethal tools, and says fast compliance keeps officers safe and prevents deadly force; it says \"officers are highly trained in de-escalation tactics.\" Critics: American Oversight's Chioma Chukwu says the study shows the gloves cause intense pain but \"does not establish that they are safe.\" Sen. Catherine Cortez Masto and 15 other Democratic senators asked ICE in August to drop the plan or explain it, and say ICE hasn't answered. Border czar Tom Homan says it could \"be awhile\" before the gloves are used.",
+      "headline": "Congo’s Ebola outbreak creates new hot spots as responders call the effort “chaotic”",
+      "dek": "Over 4,000 dead and 8,500 cases, the fastest-growing Ebola outbreak on record; most new cases come from people nobody was tracking.",
+      "caveman": "Ebola is a virus that causes severe bleeding and often death. It spreads through body fluids, including when people wash or touch the bodies of those who died. Since May, eastern Congo has had its deadliest Ebola outbreak ever: more than 8,500 cases and over 4,000 deaths. This strain, Bundibugyo, has no approved vaccine or treatment. Africa CDC head Dr. Jean Kaseya told AP that more than 70% of new cases come from people who were not on any list of known contacts, and at least 60% of deaths happen outside treatment centers. Only 23% of contacts have been traced. North Kivu province, battered by armed conflict, is now the center: about 40% of new cases, up from 24% at the end of August. There, 58% of confirmed patients die. A doctors’ group, MSF, calls the response “chaotic.” Some residents don’t believe the disease is real, and families sometimes hold quick funerals or refuse tests. On Tuesday Kenya reported its first case, a man from Congo who died.",
+      "why_it_matters": "Diseases do not stop at borders; Kenya’s case shows the risk of spread. The outbreak also shows how war, distrust and poverty make health emergencies worse, and how cuts in global health aid can leave gaps.",
+      "camps": "Africa CDC: wants a “village-centered approach,” with local leaders helping with tracing, safe burials and isolation. MSF: local health workers face an awful choice between sending sick neighbors home or risking their own lives. WHO: treatment centers lack staff and supplies. Researchers note that mistrust of outsiders, after years of conflict, is a major barrier.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/ice-shock-gloves-army-study-pain-compliance-bf8e1ebf64eb6b7d79bed921cdb52676",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/congo-ebola-kaseya-northkivu-outbreak-disease-42e9c7f66b9ee7628b0a852a4e9dd73b",
+      "published": "2026-10-07",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "A Kentucky jailer shows an electric shock glove used at his facility.",
-      "image_credit": "Photo: Dylan Lovan/AP (file)",
+      "image_alt": "A health worker in protective clothing is disinfected inside an Ebola treatment center in Beni, North Kivu, Congo, on Sept. 26, 2026.",
+      "image_credit": "Photo: Sebastien Kitsa Musayi/AP",
       "terms": [
         {
-          "term": "ICE",
-          "explain": "Immigration and Customs Enforcement, the U.S. agency that arrests and deports immigrants.",
-          "aliases": [
-            "Immigration and Customs Enforcement"
-          ]
-        },
-        {
-          "term": "watchdog group",
-          "explain": "An organization that monitors the government and exposes problems.",
-          "aliases": [
-            "watchdog"
-          ]
-        },
-        {
-          "term": "non-lethal",
-          "explain": "Meant to stop someone without killing them, like a Taser or pepper spray.",
+          "term": "Ebola",
+          "explain": "A deadly virus that spreads through body fluids and causes fever and bleeding.",
           "aliases": []
         },
         {
-          "term": "de-escalation",
-          "explain": "Calming a tense situation so it doesn't turn violent.",
+          "term": "contact tracing",
+          "explain": "Finding everyone a sick person was near so they can be checked and kept apart.",
+          "aliases": [
+            "traced"
+          ]
+        },
+        {
+          "term": "Africa CDC",
+          "explain": "The African Union’s public health agency.",
           "aliases": []
         },
         {
-          "term": "Freedom of Information Act",
-          "explain": "A U.S. law that lets the public request government records.",
-          "aliases": [
-            "FOIA"
-          ]
+          "term": "MSF",
+          "explain": "Médecins Sans Frontières (Doctors Without Borders), a medical aid group.",
+          "aliases": []
+        },
+        {
+          "term": "outbreak",
+          "explain": "A sudden rise in cases of a disease in one area.",
+          "aliases": []
         }
       ]
     },
@@ -944,48 +849,43 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Zambia will sign a $3.6 billion health deal with the U.S. only after cutting patient-data clauses",
-      "dek": "The health minister says Zambia \"will not be obliged to share any specimen\"; other African nations agreed to hand over data within five days.",
-      "caveman": "After the Trump administration shut down USAID, once the world's biggest aid donor, the U.S. started signing one-on-one health deals with African countries under its \"America First\" approach. The idea: the U.S. slowly gives less money while the countries spend more of their own. But some deals asked countries to share patients' health data and samples, like blood, with the U.S. government. Zambia pushed back. On Tuesday, Health Minister Roma Chilengi said Zambia will sign a revised five-year deal worth $3.6 billion in combined money, with the U.S. giving $1.5 billion, and that clauses on sharing individual health data have been \"completely removed.\" Signing is set for Thursday. The U.S. has signed deals with about two dozen African nations since last year. At least nine agreed to send data and specimens within five days of a request, and the U.S. can pass them to up to 10 unnamed non-government groups to develop tests and treatments.",
-      "why_it_matters": "Health data and blood samples are valuable for making medicines. Who controls them, and whether poorer countries get fair benefits, is a big question in global health.",
-      "camps": "Zambia's view: Chilengi called the U.S. a critical partner and said Zambia is grateful, but would not give up its people's data. U.S. approach: the administration says countries should take more responsibility for their own health systems, and data and samples help develop diagnostics and treatments. Critics: data-sharing rules with unnamed private groups have been some of the most controversial parts of the deals, raising privacy and fairness worries.",
+      "headline": "Maricarmen, the 87-year-old whose eviction shook Spain, dies in hospital before she could go home",
+      "dek": "Her removal from her home of seven decades sparked nationwide housing protests; unions plan a general strike next month.",
+      "caveman": "María del Carmen Abascal, known as “Maricarmen,” lived in the same Madrid apartment for about 70 years. Her parents died there. On Sept. 23 police cordoned off the street and she, using a wheelchair, was carried out on a stretcher. A real estate company had evicted her so it could rent the place for much more money. TV images of the eviction set off protests in Madrid and across Spain. Under huge public pressure, the company backed down and agreed to let her return. But on Wednesday she died in the hospital. Her lawyer did not give a cause of death. Protesters near Parliament chanted, “Maricarmen lives, the fight goes on!” In Puerta del Sol square they held a minute of silence. Prime Minister Pedro Sánchez wrote: “Rest in peace.” Background: average rent in Spain has almost doubled in 10 years, and about a quarter of renters spend some 40% of their income on rent and bills, compared with an EU average of 18% of renters.",
+      "why_it_matters": "Housing costs are squeezing people in many countries, including Taiwan. Maricarmen’s case made a huge issue personal. It has pushed Spain into a political crisis: Sánchez called an early election for Nov. 29 after Parliament blocked emergency housing measures.",
+      "camps": "Tenants’ union: “this solution came too late,” calling it “an entirely avoidable situation.” Protesters: blame landlords and the system; one said “they have killed her.” Government: approved 21 urgent housing measures and wants voters to back them. Property owners and conservative parties usually argue that rent limits and tough rules scare off investors and shrink the supply of homes. The cause of death has not been made public.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/zambia-us-health-deal-aid-ad8b1b06e52379a6ba7e3eb576ca750d",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/spain-madrid-maricarmen-eviction-protests-sanchez-58901917de1314e56ef2ca7eff71cfe6",
+      "published": "2026-10-07",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Zambia's Foreign Minister Mulambo Hamakuni Haimbe speaks at the U.N. General Assembly.",
-      "image_credit": "Photo: Heather Khalifa/AP",
+      "image_alt": "Protesters gather in Madrid’s Puerta del Sol square after the death of María del Carmen Abascal on Oct. 7, 2026.",
+      "image_credit": "Photo: Bernat Armangue/AP",
       "terms": [
         {
-          "term": "USAID",
-          "explain": "The U.S. Agency for International Development, the foreign aid agency the Trump administration dismantled.",
+          "term": "eviction",
+          "explain": "Forcing a tenant to leave their home, often with police help.",
+          "aliases": [
+            "evicted"
+          ]
+        },
+        {
+          "term": "tenants’ union",
+          "explain": "A group of renters who organize to defend their rights.",
+          "aliases": [
+            "Tenants’ Union"
+          ]
+        },
+        {
+          "term": "general strike",
+          "explain": "When workers across many jobs stop work at the same time to protest.",
           "aliases": []
         },
         {
-          "term": "bilateral agreement",
-          "explain": "A deal between two countries.",
+          "term": "snap election",
+          "explain": "An election called earlier than planned.",
           "aliases": [
-            "bilateral"
+            "early election"
           ]
-        },
-        {
-          "term": "specimen",
-          "explain": "A sample, like blood, taken from a patient for testing.",
-          "aliases": [
-            "specimens"
-          ]
-        },
-        {
-          "term": "clause",
-          "explain": "One part or rule in a contract.",
-          "aliases": [
-            "clauses"
-          ]
-        },
-        {
-          "term": "diagnostics",
-          "explain": "Tests used to find out what disease someone has.",
-          "aliases": []
         }
       ]
     },
@@ -993,47 +893,53 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "After the far right's big win in an eastern German state, migrants ask whether they still belong",
-      "dek": "AfD fell three seats short of a majority in Saxony-Anhalt; a Syrian doctor wonders about going back, while a pharmacist vows to stay.",
-      "caveman": "The Alternative for Germany, or AfD, is a far-right party that wants fewer immigrants and faster deportations. On Sept. 6 it won its best result ever in Saxony-Anhalt, a state in former East Germany, falling three seats short of a majority in the 83-seat state legislature. On Tuesday the new legislature met for the first time and chose AfD's Tobias Rausch as speaker. Ola Akhras, a doctor who fled Syria in 2018, says she and her husband talk every day about going back. She feels valued at work but has faced hostility while shopping and no longer feels safe going out at night. \"Our children will never be recognized as Germans here,\" she said. Pharmacist Mohamad Aldabagh, who came in 2015, says he has rebuilt his life and won't let anyone take it away. Migrant counseling centers say their phones are ringing off the hook. As of August, 27.1% of hospital doctors in the state did not have German citizenship.",
-      "why_it_matters": "A decade after Germany welcomed over a million refugees, a far-right party could lead a state government for the first time since World War II. That would affect the people who now help run its hospitals and pharmacies.",
-      "camps": "AfD and its voters: they blame migrants for problems like slow growth, high inflation and energy costs, and want stricter selection of foreign workers, refusing those they call \"culturally foreign.\" Migrants and experts: professor Rahim Hajji asks how an aging state with labor shortages will find skilled workers if it shrinks the pool it's willing to recruit. Aldabagh says, \"We are needed. We are not the black sheep in this country.\" It is still unclear whether AfD can form a government; the next governor likely won't be chosen before December.",
+      "headline": "Satellite photos show Israel has erased whole Gaza towns, and demolitions kept going after the ceasefire",
+      "dek": "Rafah, once home to a quarter million people, is gone; at least 50 Israeli military outposts now dot the Israeli-held part of Gaza.",
+      "caveman": "AP studied satellite pictures of Gaza from a company called Planet Labs. They show that the southern city of Rafah, which once had about 250,000 people, has been flattened. Other towns, like Bani Suheila, were razed (knocked to the ground) with bulldozers and explosives, and in some places the rubble was cleared away. That demolition kept going even after the Israel-Hamas ceasefire a year ago. Gaza’s 2 million Palestinians are now squeezed into about 40% of the territory; Israel’s army controls the rest. At least 50 Israeli military outposts sit in that area, 18 built since the ceasefire. More than 1 in 10 people from Gaza’s prewar population has been killed or wounded. AP met Najwa Abu Eita, a former hairdresser who lost her 7-year-old daughter and one eye in a 2024 strike and now lives in a tent by her ruined home. Her 4-year-old told her, “Momma, I’ll give you one of my eyes.”",
+      "why_it_matters": "Where people can return, rebuild or live depends on what is left standing. The scale of destruction also matters for international law and for any future peace plan.",
+      "camps": "Israel’s military: says it destroys buildings so Hamas can’t use them or its tunnels, and that it targets militants who hide among civilians; it rejects genocide accusations. A U.N.-appointed expert: said in February that the destruction is “unprecedented” in modern war and could be a crime against humanity or reach genocide. Palestinians: say almost daily strikes still kill women and children despite the ceasefire.",
       "source_name": "AP News",
-      "source_url": "https://apnews.com/article/germany-far-right-afd-migrants-saxony-anhalt-1d61096d0809f3146a66fa8a2f7130c6",
-      "published": "2026-10-06",
+      "source_url": "https://apnews.com/article/gaza-war-israel-demolition-3a187f030deb29d97d547cc363875d0c",
+      "published": "2026-10-07",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "AfD supporters wave party and German flags at a demonstration in Berlin.",
-      "image_credit": "Photo: Markus Schreiber/AP (file)",
+      "image_alt": "Palestinians walk along a street lined with destroyed buildings in Gaza City on Oct. 6, 2026.",
+      "image_credit": "Photo: Jehad Alshrafi/AP",
       "terms": [
         {
-          "term": "AfD",
-          "explain": "Alternative for Germany, a far-right, anti-immigration political party.",
+          "term": "satellite imagery",
+          "explain": "Pictures of the ground taken from space.",
           "aliases": [
-            "Alternative for Germany"
+            "satellite pictures",
+            "satellite photos"
           ]
         },
         {
-          "term": "far right",
-          "explain": "Political groups on the extreme right, often strongly nationalist and anti-immigrant.",
-          "aliases": [
-            "far-right"
-          ]
-        },
-        {
-          "term": "Saxony-Anhalt",
-          "explain": "A state in eastern Germany; its capital is Magdeburg.",
+          "term": "ceasefire",
+          "explain": "An agreement to stop fighting.",
           "aliases": []
         },
         {
-          "term": "deportation",
-          "explain": "Forcing someone to leave a country.",
+          "term": "raze",
+          "explain": "To completely destroy a building or town.",
           "aliases": [
-            "deportations"
+            "razed"
           ]
         },
         {
-          "term": "skilled workers",
-          "explain": "People with training for jobs like doctor, nurse or engineer.",
+          "term": "outpost",
+          "explain": "A small military base in an area controlled by an army.",
+          "aliases": [
+            "outposts"
+          ]
+        },
+        {
+          "term": "crime against humanity",
+          "explain": "A grave crime, like mass killing or forced displacement, aimed at civilians on a large scale.",
+          "aliases": []
+        },
+        {
+          "term": "genocide",
+          "explain": "Acts meant to destroy a national, ethnic, racial or religious group, in whole or in part.",
           "aliases": []
         }
       ]
