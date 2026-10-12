@@ -1,56 +1,51 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-08T08:00:00+08:00",
-  "notes": "Thursday 8 Oct 2026 world issue (Taipei ~08:00; covers U.S./Europe Wednesday Oct 7 news). All new leads vs the Wed 7 paper: economy - Wall Street slips from record as yields swing (replaces Tue record close), Fed September minutes signal another hike, IMF Georgieva Singapore speech on debt and AI, Iraq devalues dinar (Paramount-Warner, Spain housing, IEA SE Asia dropped). tech (USA only) - Microsoft Surface/Nvidia AI PCs and Windows Execution Containers, Common Sense Media vs ChatGPT for Teens, FCC Club for Growth robocall waiver, Google SynthID public checker (Arizona courts hack, McDonald's AI pricing, RFK Jr. AI, Reflection Beam dropped). politics - Russian strikes kill 25 incl. Pryluky, Israel Oct. 27 election as referendum on Netanyahu, Houthi attacks on Saudi airports, Brazil runoff undecided/abstaining voters (France protests, Okinawa, ex-BND chief dropped). literature (USA only) - Oprah picks Amanda Rizkalla's Hungered (AP, Oct 6), Kingsolver's Partita (NPR interview Oct 2; book out Oct 6 per Lit Hub new-releases list), Lydia Millet's Fair Ones (Lit Hub, Oct 6), Netflix East of Eden (NPR Pop Culture Happy Hour Oct 7, review details from NPR Oct 5 review). National Book Award finalists and Tillis memoir not repeated. Nobel Literature is announced Thu Oct 8, 13:00 CET = 19:00 Taipei, after this paper; yesterday's preview card (wd-lit-3) dropped; put the actual winner in the Fri Oct 9 paper. social - Russia pneumonic-plague fears (Irkutsk), Congo Ebola new hot spots, Maricarmen eviction death in Madrid, AP satellite analysis of Gaza demolition (Kenya Ebola first case folded into wd-soc-2; ICE gloves, Zambia, Saxony-Anhalt dropped). Sources: AP except wd-tech-1 and wd-tech-4 TechCrunch, wd-tech-2 The Verge, wd-lit-2 and wd-lit-4 NPR, wd-lit-3 Literary Hub. Images are each publisher's own article lead photo or art. Taiwan pop culture excluded from this tab.",
+  "fetched_at": "2026-10-12T08:00:00+08:00",
+  "notes": "Monday 12 Oct 2026 world issue (Taipei ~08:00; covers U.S./world news Thu Oct 8 through Sun Oct 11, since the last paper was Thu Oct 8). Economy: Wall Street record week (Fri), senators vs Russian diesel plan, oil weekly gain/Hurricane Isaias, Samsung record Q3 profit. Tech (USA): OpenAI $50B revenue reset hits AI stocks, AP-NORC poll AI too fast, Nvidia-Reflection AI talks, ISS crew splashdown. Politics: Trump 'energy ceasefire' Russia-Ukraine, Poland Tusk plot arrest, Burnham says Russia interfered in Brexit, Riyadh airport strikes. Literature (USA focus): Anne Carson Nobel 2026 (Canadian; included per request as the week's top lit story), Yarros Threshing Day record debut, Niffenegger Life Out of Order, Min Jin Lee American Hagwon. Social: Djibouti shipwreck 139 dead, Pope Leo on death penalty, Hurricane Simon Mexico, Nepal flash flood. Images: each publisher's og:image. wd-lit-4 source review is from Sep 28 (book's bestseller debut is the news peg). Oprah's Hungered pick was already in the Oct 8 paper and is not repeated.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Wall Street slips back from its record as bond yields swing and stocks fall worldwide",
-      "dek": "The S&P 500 dipped 0.2% a day after its first record since August; France’s market fell 1.2% on debt worries.",
-      "caveman": "On Wednesday (Oct. 7) U.S. stocks took a small step back. The S&P 500, the big list of 500 U.S. companies, slipped 0.2%, one day after hitting an all-time high. The Dow fell 341 points (0.7%) and the Nasdaq slipped 0.2%. The main reason: bond yields jumped around. The 10-year Treasury yield, the interest rate the U.S. government pays to borrow for 10 years, climbed as high as 5.36% in the morning, near its highest since 2002, before easing back to 5.28% after a big government bond sale went smoothly. Simple rule: when safe bonds pay more, stocks look less attractive, and loans get pricier for everyone. Oil also swung. Brent crude topped $102 a barrel, then settled at $100.20. Before the war with Iran it was about $72. In Europe, France’s CAC 40 index dropped 1.2%, one of the world’s biggest losses, because investors worry about France’s debt and budget.",
-      "why_it_matters": "Mortgage, car-loan and credit-card rates follow these bond yields. When yields stay above 5%, families and small businesses pay more to borrow, even while stock prices sit near records. Companies now have to deliver big profit growth to keep stocks up.",
-      "camps": "Calm view: a 0.2% dip after a record is normal, and the bond sale showed buyers still want U.S. debt. Worried view: governments in the U.S. and Europe keep borrowing more every day, the IMF says “very tough political choices” are coming, and oil prices depend on a war nobody can predict. If company profits disappoint, high yields could hit stocks hard.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/stocks-markets-rates-oil-earnings-44b75c188756038371cf3112ede9cee8",
-      "published": "2026-10-07",
+      "headline": "Wall Street ends a record-setting week higher, even as bond yields climb past 5.2%",
+      "dek": "The S&P 500 rose 0.6% Friday and the Dow added 423 points; big bank earnings and an inflation report come next.",
+      "caveman": "On Friday, Oct. 9, U.S. stocks went up. The S&P 500 (a scoreboard of 500 big U.S. companies) rose 0.6% to 7,811, close to its all-time high from three days before. The Dow rose 0.8% and the Nasdaq rose 0.6%. For the week, the S&P 500 was up 1.2%. But other markets were nervous. The interest rate on 10-year U.S. government bonds rose to 5.24%, which is very high. Oil stayed above $100 a barrel. One reason stocks rose: President Trump said he would not attack Iran before next month's midterm elections.",
+      "why_it_matters": "When bond rates are high, borrowing gets more expensive for homes, cars and companies. Investors are watching this week's bank profit reports and a new inflation number to guess whether the Federal Reserve will raise rates again.",
+      "camps": "Optimists: company profits are expected to grow about 30% this quarter, led by tech and energy, so stocks have a reason to climb. Worriers: a 5%+ bond yield and $100 oil can slow the economy and squeeze ordinary families, even while stock owners do well.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70",
+      "published": "2026-10-09",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "A general view of the New York Stock Exchange in New York.",
-      "image_credit": "Photo: Yuki Iwamura/AP (file)",
+      "image_alt": "Traders work on the floor of the New York Stock Exchange",
+      "image_credit": "Photo: AP",
       "terms": [
         {
           "term": "S&P 500",
-          "explain": "An index tracking 500 big U.S. companies; the most-watched measure of the U.S. stock market.",
+          "explain": "A stock index that tracks 500 large U.S. companies; people use it as the main scoreboard for the U.S. stock market.",
           "aliases": [
             "S&P"
           ]
         },
         {
           "term": "Treasury yield",
-          "explain": "The interest the U.S. government pays to borrow money. Many other loan rates follow it.",
+          "explain": "The interest rate the U.S. government pays to borrow money; it affects loan rates everywhere.",
           "aliases": [
             "10-year yield",
-            "yields"
+            "bond yield"
           ]
         },
         {
-          "term": "Brent crude",
-          "explain": "The main world price for oil.",
+          "term": "midterm elections",
+          "explain": "U.S. elections held halfway through a president's four-year term, mostly for Congress.",
           "aliases": [
-            "Brent"
+            "midterms"
           ]
         },
         {
-          "term": "CAC 40",
-          "explain": "France’s main stock index, tracking 40 big French companies.",
-          "aliases": []
-        },
-        {
-          "term": "Dow",
-          "explain": "The Dow Jones Industrial Average, an index of 30 big U.S. companies.",
+          "term": "earnings season",
+          "explain": "The few weeks when companies report how much money they made last quarter.",
           "aliases": [
-            "Dow Jones"
+            "earnings"
           ]
         }
       ]
@@ -59,45 +54,36 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Fed notes show most officials expect another interest-rate hike this year",
-      "dek": "Inflation is “still elevated,” the minutes say; traders expect no move in late October but a hike in December.",
-      "caveman": "The Federal Reserve (the Fed) is America’s central bank. It raises interest rates to slow the economy when prices climb too fast. On Wednesday it released the “minutes,” the written notes, from its Sept. 15-16 meeting. At that meeting the Fed raised its key rate by a quarter point to about 3.9%, its first increase in three years. The notes say officials all agreed inflation is still too high and has made little progress toward their 2% goal. Most of them expect another hike will likely be needed this year. Several said today’s rate is too low to really cool the economy, a hint they could back more than one more hike. Why are prices sticky? Oil and gas are expensive because of the Iran war, tariffs still push up costs, and AI demand is making chips, computer parts and electrical gear pricier. The Fed’s preferred inflation measure was 3.4% in August. Wall Street now bets the Fed will hold rates at its Oct. 28-29 meeting and raise them in December.",
-      "why_it_matters": "A higher Fed rate makes credit cards, car loans and business loans cost more. It is meant to cool spending so prices calm down, but it can also slow hiring. Many Americans are already struggling with high living costs.",
-      "camps": "Fed view: Chairman Kevin Warsh said “inflation is too high and has been for too long,” so they must act. Other officials, like vice chair Philip Jefferson, say they can take time to watch the effect of the last hike. President Trump has repeatedly called for rate cuts and criticized the Fed’s rate committee, though he still says he supports Warsh, whom he appointed. Critics of hikes worry about pushing the economy into a slowdown.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/inflation-trump-federal-reserve-warsh-b7ed20e31e1a6fa5da6d78e5fe35b0c3",
-      "published": "2026-10-07",
+      "headline": "Six senators from both parties tell Trump to drop his plan to buy diesel from Russia",
+      "dek": "Trump says Putin will send millions of tons of diesel to cut fuel prices; critics say it hands Russia money for its war.",
+      "caveman": "Diesel is the fuel that trucks, ships and farm machines use. Its price is very high right now because of the war in the Gulf. On Friday, President Trump said he made a deal with Russian President Vladimir Putin on a phone call: Russia will send more than 300,000 tons of diesel right away, then more and more, up to millions of tons. On Sunday, six senators — four Republicans (Collins, Murkowski, Tillis, Curtis) and two Democrats (Shaheen, Blumenthal) — said the government must 'immediately reverse course.' They said the White House did not ask Congress first, which the law requires, and that buying Russian fuel gives Putin money while Russia keeps killing Ukrainian civilians.",
+      "why_it_matters": "Western countries have used sanctions to cut Russia's oil money since it invaded Ukraine. A U.S. deal to buy Russian fuel would be a big change and could weaken that pressure.",
+      "camps": "Supporters of the deal: more fuel means lower prices at the pump and for shipping goods, which helps working families now. Opponents in both parties: it rewards Russia's invasion, breaks with allies, and skipped the legal check by Congress.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/trump-diesel-russia-ukraine-senators-protest-93fa63c8a88e538f1456e7d448fc550d",
+      "published": "2026-10-11",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Federal Reserve Chairman Kevin Warsh speaks at a news conference in Washington on Sept. 16, 2026.",
-      "image_credit": "Photo: Mark Schiefelbein/AP",
+      "image_alt": "President Donald Trump speaks with reporters after arriving on Air Force One at Joint Base Andrews, Md., Oct. 10, 2026",
+      "image_credit": "Photo: AP / Alex Brandon",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "explain": "The central bank of the United States. It sets key interest rates.",
-          "aliases": [
-            "Fed"
-          ]
-        },
-        {
-          "term": "minutes",
-          "explain": "The official written notes of what was said at a meeting.",
+          "term": "diesel",
+          "explain": "A heavy fuel used by trucks, buses, ships and machines.",
           "aliases": []
         },
         {
-          "term": "interest rate hike",
-          "explain": "When a central bank raises the cost of borrowing money.",
-          "aliases": [
-            "rate hike"
-          ]
-        },
-        {
-          "term": "inflation",
-          "explain": "When prices for everyday things keep rising over time.",
+          "term": "sanctions",
+          "explain": "Penalties, like trade bans, that countries put on another country to pressure it.",
           "aliases": []
         },
         {
-          "term": "tariffs",
-          "explain": "Taxes on goods brought in from other countries.",
+          "term": "bipartisan",
+          "explain": "Supported by both major U.S. parties, Democrats and Republicans.",
+          "aliases": []
+        },
+        {
+          "term": "reverse course",
+          "explain": "Change direction; undo a decision.",
           "aliases": []
         }
       ]
@@ -106,45 +92,45 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "IMF chief warns countries: cut your debt and get ready for AI, because a “far-reaching shock” is possible",
-      "dek": "Kristalina Georgieva says the world faces a triple hit from AI, heavy borrowing and wars, ahead of big meetings in Bangkok next week.",
-      "caveman": "The IMF (International Monetary Fund) is like a global money doctor for 191 countries. Its boss, Kristalina Georgieva, gave a speech in Singapore on Wednesday. Her message: “Some very tough political choices stare us in the face.” She said countries rich and poor must act faster to cut debt and fight growing inequality. Rich countries like the U.S., Japan and Germany carry big debts. Poor countries must choose between paying for schools and hospitals or paying back expensive loans while interest rates are high. She also talked about AI. Companies are spending so much building data centers that it may beat what the world once spent on railroads, power grids and phone networks. That spending lifts stock prices and growth, but it also pushes up inflation, and the benefits come later. “Should earnings fall short,” she warned, big tech borrowing and huge holdings of U.S. stocks “could turn a disappointment into a far-reaching shock.” “Love it, hate it or fear it, AI is here,” she said.",
-      "why_it_matters": "Finance ministers and central bankers meet in Bangkok next week at the IMF-World Bank meetings. What they decide about debt and rates affects jobs, prices and public services everywhere, including Asia, which now makes 43% of world economic activity.",
-      "camps": "Georgieva’s side: governments have the tools, and delaying action only makes the bill bigger. Pushback often heard: cutting debt usually means spending cuts or tax rises, which can hurt poor and working people first; many countries say their debts grew because of wars, the pandemic and high energy prices they did not cause. AI supporters argue the boom will pay for itself through higher productivity.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/war-ai-georgieva-imf-oil-debt-2da9d879e2eb70e1e16d14fd1a307a99",
-      "published": "2026-10-07",
+      "headline": "Oil posts a weekly gain as Hurricane Isaias shuts much of U.S. Gulf oil production",
+      "dek": "Brent crude settled at $104.72 a barrel; about 63% of U.S. Gulf output was shut before the storm.",
+      "caveman": "Oil is priced per barrel. Brent, the world's main oil price, ended Friday at $104.72, up 2.4% for the week. U.S. oil (WTI) ended at $91.85. Two things pushed prices up: fighting in the Middle East, which threatens ships near the Strait of Hormuz, and Hurricane Isaias, which forced oil companies on the U.S. Gulf coast to stop pumping. About 63% of U.S. Gulf oil production was shut before the storm. Prices dipped for a while on Friday after President Trump said he would not attack Iran before the U.S. midterms.",
+      "why_it_matters": "Oil prices flow into everything: gasoline, plane tickets, plastic, food delivery. Long stretches of $100+ oil usually mean higher living costs around the world, hitting poorer countries hardest.",
+      "camps": "Some analysts: once the hurricane passes, U.S. production comes back and prices could ease. Others: the Gulf war and attacks on shipping are the bigger risk, so prices may stay high for a long time.",
+      "source_name": "The National",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/",
+      "published": "2026-10-09",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "The International Monetary Fund logo on its building in Washington.",
-      "image_credit": "Photo: Andrew Harnik/AP (file)",
+      "image_alt": "A Florida resident fills containers with petrol as he prepares for Hurricane Isaias",
+      "image_credit": "Photo: Getty Images via The National",
       "terms": [
         {
-          "term": "IMF",
-          "explain": "International Monetary Fund, a group of 191 countries that lends money and gives economic advice.",
+          "term": "Brent crude",
+          "explain": "The main world benchmark price for oil.",
           "aliases": [
-            "International Monetary Fund"
+            "Brent"
           ]
         },
         {
-          "term": "debt",
-          "explain": "Money a government or person has borrowed and must pay back.",
+          "term": "WTI",
+          "explain": "West Texas Intermediate, the main U.S. oil price.",
           "aliases": []
         },
         {
-          "term": "inequality",
-          "explain": "A growing gap between rich and poor people.",
+          "term": "barrel",
+          "explain": "The standard unit for oil: about 159 liters.",
           "aliases": []
         },
         {
-          "term": "data center",
-          "explain": "A huge building full of computers; AI needs many of them.",
+          "term": "Strait of Hormuz",
+          "explain": "A narrow sea passage near Iran that a large share of the world's oil ships pass through.",
           "aliases": [
-            "data centers"
+            "Hormuz"
           ]
         },
         {
-          "term": "World Bank",
-          "explain": "An international bank that lends to poorer countries for development projects.",
+          "term": "shut in",
+          "explain": "When oil wells are turned off on purpose, for example before a storm.",
           "aliases": []
         }
       ]
@@ -153,48 +139,38 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Iraq makes its money cheaper as the Iran war chokes its oil shipping route",
-      "dek": "The official rate moved from about 1,300 to 1,500 dinars per dollar; street rates jumped past 1,700 and some exchange shops shut.",
-      "caveman": "Iraq earns most of its money by selling oil. Before the U.S. war with Iran, most of that oil sailed out through the Strait of Hormuz, a narrow sea passage. The war has disrupted it, so Iraq now sends oil overland through Syria, which costs more and works less well. On Wednesday Iraq’s central bank “devalued” the dinar, its money. The official rate went from about 1,300 dinars for one U.S. dollar to 1,500. Simple idea: each oil dollar now turns into more dinars, which helps the government pay salaries and bills at home. But imported goods get more expensive. On the street, money changers had already been charging over 1,600 dinars per dollar; after the news it jumped past 1,700. In the northern city of Irbil, many exchange shops closed. A Baghdad clothing seller who imports from China said he will lose money: “People owe us in Iraqi dinars, and we owe people in China in dollars.”",
-      "why_it_matters": "This shows how a far-away war reaches ordinary wallets. Iraqi families who buy imported food, medicine and clothes will likely pay more. It is also a warning sign about how much the Iran war is straining oil-dependent economies in the region.",
-      "camps": "Government view: the change was needed “to meet the relevant financial, economic and monetary requirements” and close the gap with the street rate. Traders and shoppers: they fear losses and higher prices. Economists generally note devaluation can help a budget in the short term but can fuel inflation and hurt people with savings in dinars.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/iraq-currency-devaluation-oil-hormuz-3a6ffba435ac71a667b8a60ea77fff11",
-      "published": "2026-10-07",
+      "headline": "AI memory boom gives Samsung a record $80 billion quarterly profit",
+      "dek": "Samsung estimates 107.4 trillion won in operating profit, up about 780% from a year ago — the first Korean company over 100 trillion won.",
+      "caveman": "Samsung, the giant South Korean company, makes phones, TVs and — most importantly right now — memory chips. AI computers need huge amounts of fast memory (like HBM and DRAM), and Samsung sells a lot of it. On Thursday it said it expects an operating profit of about 107.4 trillion won (around $80 billion) for July–September. That is about 8.8 times last year's number. Only Saudi Aramco, the oil giant, has made more in a single quarter. Samsung's phone and TV side was expected to lose money again, so almost all the gain came from chips.",
+      "why_it_matters": "This shows how much money the AI boom is moving into a few chip companies. It matters for Taiwan too: TSMC and Taiwanese memory and server makers ride the same wave.",
+      "camps": "Bulls: AI demand is so strong that chipmakers can raise prices. Skeptics: chip markets go in big boom-and-bust cycles, and if AI spending slows, memory prices can crash quickly.",
+      "source_name": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/business/companies/20261008/samsung-electronics-1st-korean-firm-to-top-80-bil-in-quarterly-operating-profit",
+      "published": "2026-10-08",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "A currency exchanger counts bundles of Iraqi dinar banknotes at a street-side exchange in Baghdad on Oct. 7, 2026.",
-      "image_credit": "Photo: Hadi Mizban/AP",
+      "image_alt": "A traffic light at Samsung Electronics headquarters in Suwon, South Korea",
+      "image_credit": "Photo: Yonhap via The Korea Times",
       "terms": [
         {
-          "term": "devalue",
-          "explain": "When a government makes its money worth less compared with other money.",
-          "aliases": [
-            "devalued",
-            "devaluation"
-          ]
-        },
-        {
-          "term": "dinar",
-          "explain": "The money used in Iraq.",
+          "term": "operating profit",
+          "explain": "Money a company makes from its main business, before taxes and interest.",
           "aliases": []
         },
         {
-          "term": "Strait of Hormuz",
-          "explain": "A narrow sea passage near Iran that much of the world’s oil passes through.",
+          "term": "memory chip",
+          "explain": "A chip that stores data, like DRAM; AI needs lots of very fast memory.",
           "aliases": [
-            "Hormuz"
+            "DRAM"
           ]
         },
         {
-          "term": "exchange rate",
-          "explain": "How much of one money you get for another, like dinars per dollar.",
-          "aliases": [
-            "official rate"
-          ]
+          "term": "HBM",
+          "explain": "High-bandwidth memory: stacked memory chips that feed data very fast to AI chips.",
+          "aliases": []
         },
         {
-          "term": "central bank",
-          "explain": "A country’s main bank that manages its money and interest rates.",
+          "term": "won",
+          "explain": "South Korea's currency.",
           "aliases": []
         }
       ]
@@ -203,48 +179,39 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Microsoft unveils Nvidia-powered AI laptops and a Windows 11 update built to “sandbox” AI agents",
-      "dek": "The Surface Laptop Ultra starts around $2,600; a developer box starts near $6,000. Microsoft is even offering up to $1,000 off for trading in a MacBook Pro.",
-      "caveman": "At an event in San Francisco on Wednesday, Microsoft showed new Surface computers built on Nvidia’s RTX Spark chip. The Surface Laptop Ultra comes in two base models, starting at about $2,600 and $3,700. There is also a desk machine for programmers, the Surface RTX Spark Dev Box, starting at about $6,000. The big idea: run AI models right on your own computer instead of paying to use them in the cloud. Microsoft also showed a revamped Windows 11 with a feature called “Execution Containers.” Think of it as a fenced playpen: an AI “agent” (a program that can take actions for you, like opening files) works inside the fence so it can’t mess with everything else. CEO Satya Nadella said this will come to all Windows 11 users. He said a model alone “doesn’t do much”; you need memory and tools around it. Microsoft is clearly chasing developers who love Macs; it is offering up to $1,000 off if you trade in a MacBook Pro.",
-      "why_it_matters": "AI agents are moving from chat windows into the operating system, the base software of your computer. That could save time, but it also means AI gets closer to your files, passwords and accounts, so safety walls really matter.",
-      "camps": "Microsoft’s pitch: local AI is private and free to run, and containers keep agents safe. Skeptics’ points: these machines are very expensive, and letting AI agents control files raises big security and privacy questions that a sandbox may not fully solve. Rivals like Apple are also racing for the same developer crowd.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "published": "2026-10-07",
+      "headline": "OpenAI says its real yearly revenue is about $50 billion, not $68 billion — and AI stocks drop",
+      "dek": "Nvidia fell about 3%, Oracle about 5.5% and CoreWeave nearly 8% after the news on Oct. 8.",
+      "caveman": "OpenAI makes ChatGPT. Many reports said it was earning money at a pace of about $68–70 billion a year. But OpenAI told investors the cleaner number is about $50 billion; the bigger figure counted money that partners collect before paying OpenAI its share. That sounds like accounting, but investors got nervous, because many companies have promised to spend hundreds of billions of dollars building data centers for OpenAI. Shares of Nvidia, Oracle and CoreWeave fell on Thursday.",
+      "why_it_matters": "Huge AI spending is a big reason the stock market has been at records. If AI companies earn less than people hoped, the whole AI building boom — and the chip orders that help Taiwan — could slow.",
+      "camps": "Bulls: $50 billion a year is still enormous growth for a young company, and no actual sales were lost. Bears: the gap shows hype in AI numbers, and companies with lots of debt tied to OpenAI are risky.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published": "2026-10-08",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Microsoft’s new Surface Laptop Ultra.",
-      "image_credit": "Image: Microsoft (via TechCrunch)",
+      "image_alt": "OpenAI CEO Sam Altman speaks at the company's developer conference, Sept. 29, 2026",
+      "image_credit": "Photo: Andrej Sokolow / Picture Alliance / Getty Images via CNBC",
       "terms": [
         {
-          "term": "AI agent",
-          "explain": "An AI program that can take actions for you, like opening apps or editing files, not just chat.",
+          "term": "annualized revenue",
+          "explain": "A guess at a full year's sales, based on the current pace.",
           "aliases": [
-            "agents",
-            "agent"
+            "run rate"
           ]
         },
         {
-          "term": "sandbox",
-          "explain": "A sealed-off space where a program can run without touching the rest of the computer.",
+          "term": "data center",
+          "explain": "A huge building full of computers that run apps and AI.",
           "aliases": []
         },
         {
-          "term": "Nvidia",
-          "explain": "A U.S. company that makes the chips most AI systems run on.",
+          "term": "CoreWeave",
+          "explain": "A company that rents out AI computing power.",
           "aliases": []
         },
         {
-          "term": "operating system",
-          "explain": "The base software that runs a computer, like Windows or macOS.",
+          "term": "gross vs. net",
+          "explain": "Gross is the total money collected; net is what's left after paying partners or costs.",
           "aliases": []
-        },
-        {
-          "term": "on-device",
-          "explain": "Running directly on your own computer or phone instead of on a company’s servers.",
-          "aliases": [
-            "locally",
-            "on your own computer"
-          ]
         }
       ]
     },
@@ -252,41 +219,38 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Watchdog says ChatGPT for Teens is an “unacceptable risk”; OpenAI pushes back on the testing",
-      "dek": "Common Sense Media found parent alerts often failed, crisis help fell short, and the bot still did kids’ homework.",
-      "caveman": "In August, OpenAI launched “ChatGPT for Teens,” a version with guardrails (safety rules) meant to help students learn. Common Sense Media, a U.S. nonprofit that rates apps and media for kids’ safety, tested it and on Wednesday called it an “unacceptable risk.” Their findings: it “doesn’t send alerts to parents when it should,” doesn’t give “the right help in crisis situations,” and “still does kids’ homework.” Tom Siegel of the group’s Youth AI Safety Institute said: “A teen can spend an hour talking about self-harm without their parent getting a single alert.” He said ChatGPT should be for adults only until OpenAI fixes this and proves it with independent tests. OpenAI disagreed. A spokesperson said the company is “deeply committed to teen safety” but does not believe the testing reflects how the safeguards work in real life. OpenAI said its parent alerts can take several hours to switch on for newly linked accounts. Common Sense answered that some test accounts were linked much longer and still got no alerts.",
-      "why_it_matters": "Millions of teenagers use AI chatbots for school and for emotional support. If safety alerts don’t work, parents may feel safe when they shouldn’t. This fight is also shaping how lawmakers think about rules for AI and kids.",
-      "camps": "Common Sense Media: the protections “fall short of what the company promised,” and parents could get “false confidence.” OpenAI: the review’s methods were flawed, and AI can support teens’ learning and creativity with the right tools. Many child-safety experts say both sides agree on one thing: independent testing of these products is needed.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "published": "2026-10-07",
+      "headline": "Most Americans say AI is developing too fast, AP-NORC poll finds",
+      "dek": "64% say 'too fast'; about 8 in 10 want the government to keep AI under human control and protect workers.",
+      "caveman": "A poll asked about 2,140 U.S. adults how they feel about artificial intelligence. 64% said AI is moving 'too fast,' 27% said 'about right,' and only 8% said 'too slow.' About 8 in 10 said it is very important for the government to make sure AI stays under human control, and almost as many want the government to protect workers' jobs. Democrats worry more (76% say too fast) than Republicans (54%), but worry is high in both parties. President Trump has argued against slowing AI down, saying China could get ahead.",
+      "why_it_matters": "AI companies want fewer rules; the public mostly wants more care. With midterm elections close, and fights over noisy, power-hungry data centers in many towns, AI is becoming a voting issue.",
+      "camps": "Pro-speed side: slowing down could let China lead and cost the U.S. jobs and power. Pro-caution side: AI is already changing jobs, power bills and safety, and voters want guardrails before it goes further.",
+      "source_name": "Fortune (AP)",
+      "source_url": "https://fortune.com/2026/10/08/americans-ai-developing-too-fast-poll/",
+      "published": "2026-10-08",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "The OpenAI logo in an illustration.",
-      "image_credit": "Image: The Verge",
+      "image_alt": "AP-NORC poll on artificial intelligence",
+      "image_credit": "Photo: AP via Fortune",
       "terms": [
         {
+          "term": "poll",
+          "explain": "A survey that asks a sample of people their opinions.",
+          "aliases": [
+            "survey"
+          ]
+        },
+        {
+          "term": "AP-NORC",
+          "explain": "A polling partnership between the Associated Press and NORC at the University of Chicago.",
+          "aliases": []
+        },
+        {
           "term": "guardrails",
-          "explain": "Safety rules built into software to stop harmful uses.",
+          "explain": "Rules or limits that keep something from going off track.",
           "aliases": []
         },
         {
-          "term": "nonprofit",
-          "explain": "An organization that does not exist to make money for owners.",
-          "aliases": []
-        },
-        {
-          "term": "self-harm",
-          "explain": "When a person hurts themselves on purpose; a sign they need help.",
-          "aliases": []
-        },
-        {
-          "term": "safeguards",
-          "explain": "Protections meant to prevent harm.",
-          "aliases": []
-        },
-        {
-          "term": "OpenAI",
-          "explain": "The U.S. company that makes ChatGPT.",
+          "term": "bipartisan",
+          "explain": "Shared by both major U.S. parties.",
           "aliases": []
         }
       ]
@@ -295,55 +259,41 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "FCC weighs letting more political robocalls, including AI voices, flood cellphones before the midterms",
-      "dek": "A right-leaning group asked for a waiver; the FCC’s only Democrat warns of “a tsunami of robocalls and misinformation.”",
-      "caveman": "A robocall is an automatic phone call that plays a recorded or computer voice. Right now, U.S. law bans most robocalls to cellphones unless you agreed to get them. The Club for Growth, a right-leaning political group, has asked the FCC (the government agency that oversees phones and TV) for a “waiver,” a special exception, so political groups can send robocalls with artificial or prerecorded voices without permission. The Republican-led FCC opened the idea for public comment and could decide as soon as late October, just before the November midterm elections. Why people worry: in 2024, New Hampshire voters got a fake robocall with an AI copy of President Joe Biden’s voice telling them not to vote in the primary. After that, the FCC ruled AI voice-cloning robocalls illegal. If this waiver passes, groups of all parties could use AI to call voters, and even have AI chatbots hold live conversations with them.",
-      "why_it_matters": "Midterms decide which party controls Congress for the last two years of President Trump’s term. Floods of AI calls in the final days could spread false information faster than anyone can check it, and land right on almost every voter’s phone.",
-      "camps": "Club for Growth: political speech deserves at least the same treatment as calls about package deliveries or doctor visits; the change could help reach voters in more languages and make polls more accurate. Critics: FCC commissioner Anna Gomez, the sole Democrat, said it would “supercharge” dark-money AI tricks; election-safety experts say it opens “a huge opportunity for abuse.” Critics also note the FCC has grown closely aligned with the president. The FCC did not comment.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548",
-      "published": "2026-10-07",
+      "headline": "Nvidia is reportedly in talks to buy, or pour more money into, AI startup Reflection AI",
+      "dek": "Options include a full purchase, a bigger stake, or an 'acquihire' that would likely avoid long antitrust reviews.",
+      "caveman": "Nvidia makes the chips that power most AI. Reflection AI is a startup that builds 'open-weight' AI models — models whose inner settings anyone can download and use. The Financial Times reported Nvidia is in early talks to either buy Reflection, invest more (it has already put in about $800 million), or do an 'acquihire': hire its people and license its tech without officially buying the company. A deal could come within weeks, but talks could also fall apart. Nvidia did a similar move with chip startup Groq last year and bought Hugging Face for $12.9 billion in September.",
+      "why_it_matters": "Nvidia is using its huge profits to reach into more parts of AI. Fewer, bigger companies controlling AI raises questions about competition and prices.",
+      "camps": "Supporters: open models help more people use AI without paying a few big companies, and Nvidia's money speeds that up. Critics: 'acquihires' can be a way to swallow rivals while dodging the government's antitrust checks.",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/10/11/nvidia-reportedly-in-early-talks-to-buy-acqui-hire-or-invest-more-in-reflection-ai/",
+      "published": "2026-10-11",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "FCC Chairman Brendan Carr testifies before a House subcommittee on Capitol Hill on Jan. 14, 2026.",
-      "image_credit": "Photo: Jose Luis Magana/AP (file)",
+      "image_alt": "Reflection AI graphic",
+      "image_credit": "Image: SiliconANGLE",
       "terms": [
         {
-          "term": "robocall",
-          "explain": "An automatic phone call that plays a recorded or computer-made voice.",
-          "aliases": [
-            "robocalls"
-          ]
-        },
-        {
-          "term": "FCC",
-          "explain": "Federal Communications Commission, the U.S. agency that regulates phones, TV and radio.",
+          "term": "startup",
+          "explain": "A young company trying to grow fast.",
           "aliases": []
         },
         {
-          "term": "waiver",
-          "explain": "An official exception to a rule.",
+          "term": "open-weight model",
+          "explain": "An AI model whose trained settings are released so others can run and change it.",
+          "aliases": [
+            "open model"
+          ]
+        },
+        {
+          "term": "acquihire",
+          "explain": "Hiring a company's team (and licensing its tech) instead of buying the whole company.",
+          "aliases": [
+            "acqui-hire"
+          ]
+        },
+        {
+          "term": "antitrust",
+          "explain": "Laws that stop companies from getting too much power over a market.",
           "aliases": []
-        },
-        {
-          "term": "midterms",
-          "explain": "U.S. elections held halfway through a president’s four-year term, for Congress and many state offices.",
-          "aliases": [
-            "midterm elections"
-          ]
-        },
-        {
-          "term": "voice cloning",
-          "explain": "Using AI to copy a real person’s voice so it can say things they never said.",
-          "aliases": [
-            "voice-cloning"
-          ]
-        },
-        {
-          "term": "dark money",
-          "explain": "Political spending where the donors are hidden from the public.",
-          "aliases": [
-            "dark-money"
-          ]
         }
       ]
     },
@@ -351,35 +301,39 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Google opens a free website where anyone can check if a picture, video or audio clip was made with Google’s AI",
-      "dek": "The SynthID checker reads a hidden “watermark” that Google, OpenAI, Nvidia and others put into AI media.",
-      "caveman": "It is getting hard to tell real photos and videos from AI fakes. Google’s answer is SynthID, a hidden “watermark” it started adding in 2023. A watermark here is an invisible signal baked into the file, not a visible logo. Google’s AI tools, like Nano Banana (images), Veo (video), Lyria (music) and Gemini, all stamp their creations with it. OpenAI, Nvidia and Kakao also support SynthID, and Apple is reportedly adding support soon. On Tuesday Google opened a website where anyone can upload a file to check for the watermark. It works with many formats: JPG, PNG and HEIC photos; MP4 and MOV videos; and MP3 and WAV audio. Before, only some journalists and researchers could test it. Google says people already make about 1 million checks a day through the Gemini app and Chrome.",
-      "why_it_matters": "Fake AI images and voices are used in scams, harassment and election lies. A free checking tool helps reporters and regular people. But it only catches content from tools that use SynthID.",
-      "camps": "Supporters: a shared watermark across big companies is a real step toward trust online. Limits critics point out: AI tools that don’t use SynthID (including many free, open ones) won’t be caught, so “no watermark found” does not prove something is real; watermarks may also be stripped or damaged; and one company running the checker gives it a lot of power.",
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "published": "2026-10-07",
+      "headline": "Four astronauts splash down after eight months in space; France's Sophie Adenot sets a European record",
+      "dek": "SpaceX brought the U.S., French and Russian crew home off Los Angeles after a delayed handover.",
+      "caveman": "Four astronauts came home from the International Space Station (ISS) on Thursday, Oct. 8. A SpaceX capsule splashed into the Pacific Ocean near Los Angeles. The crew — NASA's Jessica Meir and Jack Hathaway, France's Sophie Adenot and Russia's Andrey Fedyaev — went up in February in a hurry, to replace a crew sent home early when NASA astronaut Mike Fincke got sick (NASA's first medical evacuation in 65 years). Their replacements arrived three weeks late because of capsule repairs. Adenot's 237 days in orbit set a record for the European Space Agency.",
+      "why_it_matters": "The ISS is a rare place where the U.S. and Russia still work together. NASA depends on private company SpaceX to fly astronauts, which shows how much space travel now relies on one businessman's company.",
+      "camps": "Fans: private rockets made space trips cheaper and more regular. Worriers: relying so much on SpaceX gives Elon Musk's company a lot of power over a public program.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/spacex-nasa-space-station-3d4ca5874f95fe94afc037b2443f184c",
+      "published": "2026-10-08",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "The homepage of Google’s SynthID Detector website.",
-      "image_credit": "Image: Google (via TechCrunch)",
+      "image_alt": "The SpaceX Crew Dragon Freedom splashes down in the Pacific off California, Oct. 8, 2026",
+      "image_credit": "Photo: Keegan Barber / NASA via AP",
       "terms": [
         {
-          "term": "watermark",
-          "explain": "A hidden signal inside a file that shows where it came from.",
-          "aliases": []
-        },
-        {
-          "term": "SynthID",
-          "explain": "Google’s system for hiding watermarks in AI-made images, video, audio and text.",
-          "aliases": []
-        },
-        {
-          "term": "AI-generated",
-          "explain": "Made by artificial intelligence instead of a camera or a person.",
+          "term": "International Space Station",
+          "explain": "A big lab orbiting Earth, run by the U.S., Russia, Europe, Japan and Canada.",
           "aliases": [
-            "AI fakes",
-            "AI-made"
+            "ISS"
           ]
+        },
+        {
+          "term": "splashdown",
+          "explain": "When a space capsule lands in the ocean.",
+          "aliases": []
+        },
+        {
+          "term": "orbit",
+          "explain": "The path something takes as it circles a planet.",
+          "aliases": []
+        },
+        {
+          "term": "medical evacuation",
+          "explain": "Sending someone home early because of a health problem.",
+          "aliases": []
         }
       ]
     },
@@ -387,48 +341,39 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Russian missiles and drones kill at least 25 across Ukraine, including 5 children, in an attack Kyiv saw coming",
-      "dek": "Ukraine had warned of a “massive” strike; it hit on Putin’s 74th birthday. Ukraine is short of Patriot missiles because of the Iran war.",
-      "caveman": "Overnight into Wednesday, Russia fired missiles and drones at Kyiv and about a dozen other regions of Ukraine. At least 25 civilians died, including five children, and about 100 were hurt. The worst hit was an apartment block in Pryluky, in the northern Chernihiv region: 19 people died there, including the five children; three were 1 year old and one was 8. President Volodymyr Zelenskyy had warned a day earlier that Russia was preparing a “massive” strike. Ukraine knew, but could not stop it all. Ukraine is searching the world for Patriot air-defense missiles, which are scarce because the Iran war is using them up. Russia’s Defense Ministry said it hit factories and storage sites for missiles and drones, plus ports and ships carrying military cargo. Ukraine has been hitting back at Russian oil refineries and depots with long-range drones; Zelenskyy said Ukraine hit two oil sites and a training ground in Russia.",
-      "why_it_matters": "The war is more than 4½ years old and stuck on the ground, so both sides are fighting a long-distance air war. That puts ordinary people in apartment buildings on the front line, and it shows how the Iran war drains weapons that Ukraine needs.",
-      "camps": "Ukraine and Europe: Zelenskyy called it the “gift” Putin gave himself for his birthday; EU Commission President Ursula von der Leyen called it “a deliberate strategy of terror.” Russia: says it targets military industry, not civilians. U.S. senators are pushing the Trump administration to move faster on Russian sanctions. Independent checks of some battlefield claims were not possible.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/russia-ukraine-war-kyiv-strike-650e298d7bc3881351533683ff4040ed",
-      "published": "2026-10-07",
+      "headline": "Trump announces a Russia–Ukraine 'energy ceasefire,' but Kyiv says Russian attacks kept coming",
+      "dek": "Zelenskyy welcomed the idea, then reported a Kharkiv power plant hit after the announcement.",
+      "caveman": "Russia has spent much of its 4½-year invasion bombing Ukraine's power plants, so people lose heat, light and water in winter. On Sunday, President Trump posted that Russia and Ukraine agreed to an 'energy ceasefire' — meaning they stop attacking each other's power systems — starting right away: 'Do not break it!' He gave no details, and Russia did not comment. Ukraine's President Zelenskyy called it good news and said Ukraine would stop hitting Russian energy sites if Russia did the same. But he said Russian drones and bombs kept striking that day, including a power plant in Kharkiv after Trump's post.",
+      "why_it_matters": "Winter is coming. If power attacks stop, millions of Ukrainians could stay warm. If the deal is only words, it may hurt trust in future peace talks.",
+      "camps": "Hopeful view: even a small, limited ceasefire can save lives and open the door to bigger talks. Skeptical view: no written terms, no checking system, and attacks right after the announcement suggest it isn't real yet. Trump has also blamed Zelenskyy for high U.S. diesel prices, which worries Ukraine's supporters.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68",
+      "published": "2026-10-11",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Locals and rescuers carry an injured man from a residential building destroyed by a Russian missile in Pryluky, Ukraine, on Oct. 7, 2026.",
-      "image_credit": "Photo: Evgeniy Maloletka/AP",
+      "image_alt": "A rescue worker puts out a fire at homes destroyed in a Russian strike on Kharkiv, Ukraine, Oct. 11, 2026",
+      "image_credit": "Photo: AP / Andrii Marienko",
       "terms": [
         {
-          "term": "Patriot",
-          "explain": "A U.S.-made air-defense system that shoots down missiles and planes.",
-          "aliases": [
-            "Patriot missiles"
-          ]
-        },
-        {
-          "term": "air defense",
-          "explain": "Weapons and radar used to stop missiles and drones from hitting targets.",
-          "aliases": [
-            "air-defense"
-          ]
-        },
-        {
-          "term": "civilians",
-          "explain": "People who are not soldiers.",
+          "term": "ceasefire",
+          "explain": "An agreement to stop fighting, sometimes only partly or for a time.",
           "aliases": []
         },
         {
-          "term": "sanctions",
-          "explain": "Penalties, like trade bans, that countries use to pressure another country.",
+          "term": "energy infrastructure",
+          "explain": "Power plants, power lines, gas pipes and other systems that deliver energy.",
           "aliases": []
         },
         {
-          "term": "refinery",
-          "explain": "A factory that turns crude oil into fuel.",
+          "term": "Shahed",
+          "explain": "An Iranian-designed attack drone Russia uses in large numbers.",
           "aliases": [
-            "refineries"
+            "shaheds"
           ]
+        },
+        {
+          "term": "Kharkiv",
+          "explain": "Ukraine's second-largest city, near the Russian border.",
+          "aliases": []
         }
       ]
     },
@@ -436,45 +381,38 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Three years after Oct. 7, Israel’s election on Oct. 27 is turning into a vote on Netanyahu",
-      "dek": "Opponents call his coalition “the massacre government”; Netanyahu says he led a “war of redemption.”",
-      "caveman": "On Oct. 7, 2023, Hamas militants attacked southern Israel. About 1,200 people were killed and 251 taken hostage. Israel answered with a war in Gaza that has killed over 74,000 Palestinians, according to local health officials, and left Gaza in ruins. Now Israel holds its first national election since that day, on Oct. 27. Almost every poster and debate mentions Oct. 7. Prime Minister Benjamin Netanyahu, who turns 77 soon, is the only top leader from that day still in office, after other security chiefs resigned. His main rival is Gadi Eisenkot, a former army chief who leads the centrist Yashar party. Opponents across the spectrum want Netanyahu held responsible for the security failure. Netanyahu has rejected an official inquiry and blames security officials; he denies U.S. media reports that the UAE and Egypt warned him beforehand. Both main parties include grieving parents of people killed that day on their candidate lists.",
-      "why_it_matters": "This election decides who leads Israel on war, Gaza, Iran and relations with the world. Israel’s standing abroad has fallen sharply, several governments accuse it of genocide (which it rejects), and Netanyahu is wanted by the International Criminal Court.",
-      "camps": "Netanyahu’s side: he was let down by the military and led a dramatic comeback; “we didn’t collapse,” he told the U.N. Opponents: Eisenkot says the vote is “between taking responsibility and fleeing from responsibility.” A pollster at the Israel Democracy Institute says the whole country is “post-traumatic in a way.” Palestinians in Gaza, still living in ruins, have no vote in this election.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/israel-oct-7-election-netanyahu-hamas-gaza-55d94c750b399e7d89f550ebc8610436",
-      "published": "2026-10-07",
+      "headline": "Poland arrests a man accused of plotting to kill Prime Minister Donald Tusk and the defense minister",
+      "dek": "Officials called the threat 'deadly serious'; the suspect, a Polish national, was detained in Lower Silesia.",
+      "caveman": "Donald Tusk is Poland's prime minister (the head of government). On Sunday, Polish police said they got believable information about planned attacks on Tusk and Defense Minister Władysław Kosiniak-Kamysz. Security officials held an emergency meeting. Soon after, police arrested a Polish man in the Lower Silesia region in the southwest. A spokesman said there was 'a strong likelihood' the threats could have been carried out. Reports say the man is about 60 and was active in radical online groups. Tusk thanked police for their 'swift and decisive action.'",
+      "why_it_matters": "Violence and threats against politicians are rising across Europe and the U.S. Poland is a key NATO country bordering Ukraine, and political attacks there can shake the whole region.",
+      "camps": "Government supporters: fast police action shows the system works. Critics of polarization: very angry online politics — from many sides — can push people toward violence, and leaders should cool the language.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/c6n9rvynl5p5o",
+      "published": "2026-10-11",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "A man rides a bicycle past a TV ad showing Netanyahu and his main rival, Gadi Eisenkot, in Ramat Gan, Israel.",
-      "image_credit": "Photo: Oded Balilty/AP",
+      "image_alt": "Polish Prime Minister Donald Tusk",
+      "image_credit": "Photo: BBC",
       "terms": [
         {
-          "term": "Hamas",
-          "explain": "A Palestinian militant group that ruled Gaza and led the Oct. 7, 2023, attack.",
-          "aliases": []
-        },
-        {
-          "term": "coalition",
-          "explain": "A group of political parties that join together to run a government.",
-          "aliases": []
-        },
-        {
-          "term": "commission of inquiry",
-          "explain": "An official independent investigation into what went wrong.",
+          "term": "prime minister",
+          "explain": "The head of government in many countries, like Poland or the U.K.",
           "aliases": [
-            "inquiry"
+            "PM"
           ]
         },
         {
-          "term": "International Criminal Court",
-          "explain": "A court in The Hague that tries people for war crimes and crimes against humanity.",
-          "aliases": [
-            "ICC"
-          ]
+          "term": "assassination",
+          "explain": "Murdering an important person, usually for political reasons.",
+          "aliases": []
         },
         {
-          "term": "centrist",
-          "explain": "In the political middle, not strongly left or right.",
+          "term": "NATO",
+          "explain": "A military alliance of North American and European countries that promise to defend each other.",
+          "aliases": []
+        },
+        {
+          "term": "radical",
+          "explain": "Holding extreme views and wanting drastic change.",
           "aliases": []
         }
       ]
@@ -483,47 +421,40 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Houthi attacks on two Saudi airports kill 3 as Yemen’s war reignites",
-      "dek": "Strikes hit Abha and Riyadh’s main airport; a Saudi-led offensive fights for Yemen’s Red Sea coast and a key shipping strait.",
-      "caveman": "The Houthis are an Iran-backed rebel group that controls much of Yemen, Saudi Arabia’s neighbor. On Wednesday, attacks on two Saudi airports, Abha and King Khalid International in the capital Riyadh, killed three people, and the Houthis took credit. In Abha, a Moroccan and an Algerian resident died and 28 people were hurt; in Riyadh a Sudanese man died and eight were hurt. Saudi Arabia, the world’s top oil exporter, has put new cage-like fences around fuel tanks near the Riyadh airport. Behind this: last month the Houthis grabbed land along Yemen’s Red Sea coast and the Bab el-Mandeb Strait, a narrow sea gate that about 12% of world trade passes through. Saudi Arabia and Yemeni government forces launched a big counterattack. Both sides now claim to control key places like the town of Dhubab, and AP could not verify either claim. The fighting broke a four-year truce.",
-      "why_it_matters": "Ships carrying goods between Asia and Europe pass the Bab el-Mandeb. Fighting there can raise shipping and fuel costs worldwide. For Yemenis, the U.N. says almost 1,000 people have died in the latest fighting and over 200,000 have been forced from their homes, with cholera and hunger rising.",
-      "camps": "Saudi-led coalition: promises “full operational support” until the Houthis are “eliminated,” with U.S. help including intelligence. Houthis: say they are hitting back at Saudi attacks on Yemeni cities and pledge support for Palestinians. A Washington think tank says the Houthis want to raise Saudi Arabia’s economic costs by hitting airports and oil sites. Aid groups warn civilians on both sides are paying the price.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/yemen-houthis-saudi-airport-aden-rebels-f22f20dd78b03b741dfa1279881cedbb",
-      "published": "2026-10-07",
+      "headline": "UK Prime Minister Andy Burnham says it is 'clear' Russia meddled in the 2016 Brexit vote",
+      "dek": "It is believed to be the first time a British leader has said so publicly; he warns Germany and France face the same threat.",
+      "caveman": "In 2016, British voters chose to leave the European Union — called Brexit. For years people asked whether Russia secretly tried to push the result. Andy Burnham became prime minister in July. In a podcast released Sunday, he said he asked his advisers, and 'I've had the clear answer that yes, there was' interference. He said saying it out loud helps voters in Germany and France understand that some politics there is pushed by enemies like Russia. Russia denies meddling in other countries' votes.",
+      "why_it_matters": "If foreign governments can quietly steer big votes, democracy is in danger. The comments come as British spies warn of growing Russian interference, and as far-right parties gain ground in Europe.",
+      "camps": "Supporters: naming the problem is the first step to protecting elections. Critics: some Brexit supporters say this is a way to question a fair democratic result; they want the evidence made public, not just a statement.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/burnham-brexit-russia-interference-88cbab1370fdc24df719274e76fb5a26",
+      "published": "2026-10-11",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "A Houthi supporter carries a rifle at an armed tribal rally in Sanaa, Yemen, on Oct. 7, 2026.",
-      "image_credit": "Photo: Osamah Abdulrahman/AP",
+      "image_alt": "British Prime Minister Andy Burnham speaks in Manchester, Oct. 9, 2026",
+      "image_credit": "Photo: Christopher Furlong / Pool via AP",
       "terms": [
         {
-          "term": "Houthis",
-          "explain": "An Iran-backed rebel group that controls Yemen’s capital and much of the north.",
-          "aliases": [
-            "Houthi"
-          ]
-        },
-        {
-          "term": "Bab el-Mandeb",
-          "explain": "A narrow strait between Yemen and Africa that links the Red Sea to the Indian Ocean.",
+          "term": "Brexit",
+          "explain": "Britain's exit from the European Union, decided by a 2016 vote.",
           "aliases": []
         },
         {
-          "term": "truce",
-          "explain": "An agreement to stop fighting for a while.",
+          "term": "European Union",
+          "explain": "A group of 27 European countries that share trade rules and many laws.",
           "aliases": [
-            "ceasefire"
+            "EU"
           ]
         },
         {
-          "term": "displaced",
-          "explain": "Forced to leave home because of war or disaster.",
+          "term": "interference",
+          "explain": "Secretly trying to influence another country's politics or elections.",
           "aliases": [
-            "forced from their homes"
+            "meddling"
           ]
         },
         {
-          "term": "cholera",
-          "explain": "A disease spread by dirty water that causes severe diarrhea and can kill quickly.",
+          "term": "referendum",
+          "explain": "A vote where all citizens decide one question directly.",
           "aliases": []
         }
       ]
@@ -532,49 +463,38 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Brazil’s runoff may be decided by people who like neither Lula nor Bolsonaro",
-      "dek": "Over 33 million people (21%) skipped the first round, the most since 1998; nearly 6 million voted blank or spoiled.",
-      "caveman": "Brazil’s presidential election goes to a second round on Oct. 25. It is left-leaning President Luiz Inácio Lula da Silva against right-wing Sen. Flávio Bolsonaro, son of ex-president Jair Bolsonaro, who is serving a 27-year sentence for planning a coup. In the first round on Sunday, Bolsonaro got about 2 million more votes than Lula, and the next three finishers were all on the right. But a huge group did not pick either. Voting is mandatory in Brazil for literate citizens 18 to 70 (skipping brings a small fine), yet more than 33 million people, 21% of voters, stayed home, the highest first-round no-show since 1998. Nearly 6 million more cast blank or spoiled ballots. Before the first round, the Datafolha poll found about 11% undecided, versus just 2% at this point in 2022. A 19-year-old theater student told AP she distrusts both: one side mixes religion and politics, the other is tied to corruption. A 21-year-old with three part-time jobs leans Lula but says, “things are more expensive.”",
-      "why_it_matters": "Brazil is Latin America’s biggest country and home to most of the Amazon rainforest. Who wins will shape climate policy, democracy and relations with the U.S. and China.",
-      "camps": "Bolsonaro’s edge: more first-round votes and endorsements from right-wing rivals. Lula’s hope: turn out voters who stayed home. Many voters: worn out by polarization; one political scientist says people forget “the higher percentage of people who don’t like this fight.” Both candidates face doubts over corruption: Flávio Bolsonaro is under investigation, and Lula was jailed for 19 months on charges that were later annulled.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/brazil-election-undecided-abstention-vote-president-lula-bolsonaro-422e41dadb844deb9970f8a8e61b25d3",
-      "published": "2026-10-07",
+      "headline": "Riyadh airport terminal hit again a day after a missile attack killed 12",
+      "dek": "Yemen's Houthi rebels claimed the strikes; Trump says he is weighing joining the fight against them.",
+      "caveman": "Saudi Arabia's capital, Riyadh, has a big airport, King Khalid International. On Saturday a missile hit a domestic terminal there, killing 12 people and wounding about 300 — the deadliest attack on a Gulf Arab country since the Iran war began. On Sunday a projectile struck the same terminal again, causing a fire and more injuries. An Indian worker hurt on Saturday later died, raising the toll to 13. The Houthis, a rebel group in Yemen backed by Iran, said they did it. A Saudi-led coalition is fighting them. The airport was closed Sunday, and another airport in Dammam was also attacked.",
+      "why_it_matters": "This is a new, dangerous front in the war. Attacks on airports hurt ordinary travelers and workers — many of them migrant workers from Asia — and could pull the U.S. deeper into fighting.",
+      "camps": "Hawks: the U.S. should help Saudi Arabia strike back to stop more attacks. Doves: more U.S. bombing could widen the war, and Yemen's civilians have already suffered years of hunger and war; diplomacy should come first.",
+      "source_name": "PBS NewsHour (AP)",
+      "source_url": "https://www.pbs.org/newshour/world/riyadh-airport-hit-by-projectile-a-day-after-deadly-missile-strike",
+      "published": "2026-10-11",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "People walk past campaign flags of President Lula and challenger Sen. Flávio Bolsonaro in Rio de Janeiro on Oct. 5, 2026.",
-      "image_credit": "Photo: Bruna Prado/AP",
+      "image_alt": "Riyadh's King Khalid International Airport after an attack",
+      "image_credit": "Photo: Reuters via PBS NewsHour",
       "terms": [
         {
-          "term": "runoff",
-          "explain": "A second-round vote between the top two candidates when no one wins a majority.",
+          "term": "Houthis",
+          "explain": "An armed rebel group that controls much of Yemen and is backed by Iran.",
           "aliases": [
-            "second round"
+            "Houthi"
           ]
         },
         {
-          "term": "abstention",
-          "explain": "Choosing not to vote.",
-          "aliases": [
-            "abstaining",
-            "stayed home",
-            "no-show"
-          ]
-        },
-        {
-          "term": "mandatory voting",
-          "explain": "A rule that citizens must vote, often with a small fine if they don’t.",
-          "aliases": [
-            "mandatory"
-          ]
-        },
-        {
-          "term": "polarization",
-          "explain": "When a society splits into two hostile camps.",
+          "term": "coalition",
+          "explain": "A group of countries working together, here in a military fight.",
           "aliases": []
         },
         {
-          "term": "coup",
-          "explain": "An illegal grab of government power, often with force.",
+          "term": "projectile",
+          "explain": "Anything fired through the air, like a missile or drone.",
+          "aliases": []
+        },
+        {
+          "term": "domestic terminal",
+          "explain": "The part of an airport for flights inside the same country.",
           "aliases": []
         }
       ]
@@ -583,40 +503,45 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Oprah picks a 28-year-old’s debut, “Hungered,” about a 12-year-old girl growing up unhoused",
-      "dek": "Amanda Rizkalla’s novel came out in May; landing in Oprah’s Book Club usually sends a book soaring.",
-      "caveman": "Oprah Winfrey has run her famous book club for 30 years, and a pick can turn an unknown writer into a bestseller almost overnight. Her new choice is “Hungered” by Amanda Rizkalla, a first novel that came out in May. It follows a 12-year-old girl trying to find herself amid poverty and family trouble. Winfrey called it a “riveting novel” about “families who live outside the margins, living unhoused” and “their hopes, dreams, and the perseverance” to keep going. Rizkalla is 28. She grew up in Los Angeles, now lives in the Bay Area, studied at Stanford and earned a creative-writing master’s (MFA) at the University of Wisconsin-Madison. She said she was “so stunned I could hardly believe it was real.” Her talk with Oprah is on Winfrey’s YouTube channel and podcast.",
-      "why_it_matters": "Who’s hot: a young debut author writing about homelessness, a crisis that touches many U.S. cities, especially in California. An Oprah pick can put a story about poor families in front of millions of readers who might never pick it up otherwise.",
-      "camps": "Fans of the club: Oprah has a long record of lifting new and diverse voices. Common critique of celebrity book clubs: one person’s taste gets huge power over what sells, while many strong books get no spotlight. Readers who have lived without housing also often ask that such stories be told with care and not as “poverty tourism.”",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/oprah-winfrey-book-club-debut-novel-f6e33fa52690e74f5bc936e143c2a52f",
-      "published": "2026-10-06",
+      "headline": "Anne Carson wins the 2026 Nobel Prize in Literature",
+      "dek": "The Canadian poet, 76, was honored for 'bold and inventive' work that mixes ancient Greek classics with modern life.",
+      "caveman": "The Nobel Prize in Literature is the most famous book prize in the world. It is given for a writer's whole body of work. On Oct. 8, the Swedish Academy picked Anne Carson, a 76-year-old poet, essayist and translator from Toronto. She also taught ancient Greek and Latin for over 30 years. Her books break the usual rules: 'Autobiography of Red' is a novel told in poems; 'Nox' is a grief book made like a scrapbook for her late brother; she also translated ancient Greek poets and worked with musicians like Laurie Anderson and Lou Reed. When the Academy called, she was in Iceland, 'listening to the wind.' The prize is about $1.2 million.",
+      "why_it_matters": "Carson isn't American, but she is huge in U.S. poetry and teaching, and her books are about to sell out across American bookstores. This week, she is the hottest name in literature.",
+      "camps": "Fans: she shows poetry can be fun, strange and deeply emotional, and she inspired a generation of writers. Doubters: her work can feel hard and academic, and some hoped the prize would go to a writer from a region the Nobel often overlooks, like Africa or Asia.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/05a268ffc76827d273f9d986c5a5a65e",
+      "published": "2026-10-08",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "The cover of “Hungered” by Amanda Rizkalla.",
-      "image_credit": "Image: Henry Holt via AP",
+      "image_alt": "Anne Carson performs her work 'Antigonick' at the Moderna Museet in Stockholm, May 8, 2015",
+      "image_credit": "Photo: Pontus Lundahl / TT News Agency via AP",
       "terms": [
         {
-          "term": "debut",
-          "explain": "A writer’s first published book.",
+          "term": "Nobel Prize in Literature",
+          "explain": "A yearly prize from the Swedish Academy for an author's lifetime of writing.",
           "aliases": [
-            "debut novel"
+            "Nobel"
           ]
         },
         {
-          "term": "unhoused",
-          "explain": "Without a stable home; another word for homeless.",
+          "term": "Swedish Academy",
+          "explain": "The group in Sweden that chooses the literature Nobel winner.",
           "aliases": []
         },
         {
-          "term": "book club",
-          "explain": "A group that reads and discusses the same book; Oprah’s is the most famous in the U.S.",
+          "term": "classics",
+          "explain": "The literature of ancient Greece and Rome.",
           "aliases": [
-            "Oprah’s Book Club"
+            "classical tradition"
           ]
         },
         {
-          "term": "MFA",
-          "explain": "Master of Fine Arts, a graduate degree many fiction writers earn.",
+          "term": "oeuvre",
+          "explain": "All the works an artist has made.",
+          "aliases": []
+        },
+        {
+          "term": "verse novel",
+          "explain": "A story told in poems instead of normal paragraphs.",
           "aliases": []
         }
       ]
@@ -625,43 +550,38 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Barbara Kingsolver’s “Partita,” her first novel since the Pulitzer-winning “Demon Copperhead,” is about a pianist, art and class",
-      "dek": "Kingsolver, who has a condition that bends her fingers, writes about bodies that fail, suicide and why we need art.",
-      "caveman": "Barbara Kingsolver is one of America’s best-known novelists. Her last book, “Demon Copperhead,” a retelling of Dickens’ “David Copperfield” set in Appalachia during the opioid crisis, won the Pulitzer Prize. Her new novel, “Partita,” her 19th, is out this week. It follows Livia, a serious classical pianist whose love of music clashes with a first, all-consuming romance. Kingsolver plays piano herself, but she has Dupuytren’s contracture, an inherited condition that slowly pulls her fingers into a fist; she needs surgery every couple of years. That struggle shaped the book. In an interview at her home in southwestern Virginia, she said the novel asks “why do we need art?” at a time of cuts “from the NEA all the way down to second grade music classes.” The book also deals with suicide; she said she has lost four people close to her that way. She also spoke up for Appalachia: outsiders “think we’re stupid,” she said, when the region’s poverty comes from “hundreds of years of exploitation” by coal and other industries.",
-      "why_it_matters": "Who’s hot: Kingsolver after a Pulitzer is a major literary event of the fall. Her talk about class barriers to the arts and about the rural South pushes back on easy stereotypes of “flyover country.”",
-      "camps": "Admirers: she gives working-class and rural people complex, dignified stories, and links personal pain to big social questions. Points some readers debate: “Partita” is a tighter, more personal book than the sweeping “Demon Copperhead,” and some critics prefer her big social novels. Kingsolver herself credits Appalachian writers like Wendell Berry, Bobbie Ann Mason and Silas House.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5988062/barbara-kingsolver-partita",
-      "published": "2026-10-02",
+      "headline": "HOT: Rebecca Yarros's 'Threshing Day' sells 857,802 print copies in week one — 2026's biggest debut",
+      "dek": "The 'Fourth Wing' author's new short-story collection is already the third-best-selling book of the year.",
+      "caveman": "Rebecca Yarros wrote 'Fourth Wing,' a hugely popular 'romantasy' series (romance plus fantasy, with dragons). Her new book, 'Threshing Day,' is a collection of 13 stories set in the same world. In its first week, it sold 857,802 printed copies in the U.S., according to the sales tracker Circana BookScan. Only two books have sold more all year — Allen Levi's 'Theo of Golden' and Andy Weir's 'Project Hail Mary' — and those have been on sale since January.",
+      "why_it_matters": "Romantasy fans, many of them young women who share picks on TikTok, are now one of the strongest forces in U.S. publishing. Their buying power decides which books get made.",
+      "camps": "Fans: these books get millions of people excited about reading again. Critics: publishers chase the same trend too hard, and quieter literary books get less shelf space and attention.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=6056",
+      "published": "2026-10-09",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Artwork showing Barbara Kingsolver’s name and the title “Partita.”",
-      "image_credit": "Image: NPR",
+      "image_alt": "Cover of 'Threshing Day' by Rebecca Yarros",
+      "image_credit": "Image: Red Tower Books via Publishers Weekly",
       "terms": [
         {
-          "term": "Pulitzer Prize",
-          "explain": "A top U.S. award for books, journalism and music.",
+          "term": "romantasy",
+          "explain": "A book genre that mixes romance and fantasy.",
+          "aliases": []
+        },
+        {
+          "term": "debut",
+          "explain": "A first appearance; here, a book's first week of sales.",
+          "aliases": []
+        },
+        {
+          "term": "Circana BookScan",
+          "explain": "A service that counts how many printed books are sold in U.S. stores.",
           "aliases": [
-            "Pulitzer"
+            "BookScan"
           ]
         },
         {
-          "term": "Appalachia",
-          "explain": "A mountain region in the eastern U.S., including parts of Kentucky, Virginia and West Virginia.",
-          "aliases": []
-        },
-        {
-          "term": "NEA",
-          "explain": "National Endowment for the Arts, a U.S. government agency that funds the arts.",
-          "aliases": []
-        },
-        {
-          "term": "partita",
-          "explain": "A piece of classical music made of several short parts.",
-          "aliases": []
-        },
-        {
-          "term": "opioid crisis",
-          "explain": "The wave of addiction and overdose deaths from painkillers and drugs like fentanyl.",
+          "term": "BookTok",
+          "explain": "The book-loving community on TikTok that can turn titles into bestsellers.",
           "aliases": []
         }
       ]
@@ -670,39 +590,39 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Lydia Millet’s “Fair Ones” is a “double novel” about two Brooklyn friends after a murder",
-      "dek": "The first half is told by Mara right after their friend Claire is killed; the second, by Jen a year later.",
-      "caveman": "Lydia Millet is a respected American novelist known for sharp, darkly funny books. Her new novel, “Fair Ones,” is really two short novels in one, called “Fair” and “Ones.” Two Brooklyn women in their forties, Mara and Jen, lose their longtime friend Claire, who is murdered. In “Fair,” Mara tells the story just after the killing. In “Ones,” Jen picks it up a year later. The two women stumble through shock, numbness, anger, regret and depression, spend time with others who knew Claire, and try to figure out how she died. Lit Hub calls it “an exquisite rendering” of grief that lingers. Millet said she wanted to test herself: could she write something realistic, “mostly dialogue,” about a small group of people, “and not be bored” writing it? She likes that the word “fair” can mean beautiful, just, or merely so-so.",
-      "why_it_matters": "Who’s hot: Millet, who was a National Book Award finalist before, is among the big literary names with new books this fall, next to Kingsolver and Patricia Lockwood. Books about grief and friendship between women are drawing a lot of readers right now.",
-      "camps": "Fans: praise her sharp dialogue, quick pacing and sardonic edge. Possible drawbacks for some readers: a story told mostly through talk and with two narrators can feel slow if you want a twisty crime plot; this is a book about grief, not a whodunit.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/lydia-millet-on-writing-a-double-novel-of-grief-and-loss/",
-      "published": "2026-10-06",
+      "headline": "HOT: Audrey Niffenegger returns with 'Life Out of Order,' a political sequel to 'The Time Traveler's Wife'",
+      "dek": "It took her 14 years; the new book follows Henry and Clare's time-traveling daughter, Alba, in a darker American future.",
+      "caveman": "In 2003, Audrey Niffenegger's first novel, 'The Time Traveler's Wife,' became a giant hit (over 9 million copies). It's a love story about Clare and Henry, a man who jumps through time without control. Her long-awaited sequel, 'Life Out of Order,' follows their daughter Alba, who has the same condition but more control — and uses it for personal and political goals. Niffenegger started it in 2012, when U.S. politics felt 'rosy.' Over 14 years, the scary futures she imagined, including neo-Nazis at a house party, began to look real. She told The Guardian, 'People forgot I existed.'",
+      "why_it_matters": "Big-name sequels decades later are a trend, and this one speaks to American worries about democracy and the far right.",
+      "camps": "Excited readers: a beloved world is back, with something urgent to say. Cautious readers: long-delayed sequels often disappoint, and some fans just want romance, not politics.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/oct/10/people-forgot-i-existed-audrey-niffenegger-on-taking-14-years-to-write-a-sequel-to-the-time-travelers-wife",
+      "published": "2026-10-10",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Portrait of novelist Lydia Millet.",
-      "image_credit": "Photo: via Literary Hub",
+      "image_alt": "Audrey Niffenegger at her home in Chicago",
+      "image_credit": "Photo: Lucy Hewett / The Guardian",
       "terms": [
         {
-          "term": "double novel",
-          "explain": "One book made of two linked short novels.",
+          "term": "sequel",
+          "explain": "A book that continues an earlier story.",
           "aliases": []
         },
         {
-          "term": "narrator",
-          "explain": "The character who tells the story.",
-          "aliases": []
-        },
-        {
-          "term": "sardonic",
-          "explain": "Grimly mocking or darkly funny.",
-          "aliases": []
-        },
-        {
-          "term": "realist",
-          "explain": "Fiction that shows everyday life as it is, without fantasy.",
+          "term": "dystopian",
+          "explain": "Describing a scary, broken future society.",
           "aliases": [
-            "realistic"
+            "dystopia"
           ]
+        },
+        {
+          "term": "neo-Nazi",
+          "explain": "Someone who follows Nazi ideas of racial hatred today.",
+          "aliases": []
+        },
+        {
+          "term": "impostor syndrome",
+          "explain": "Feeling like a fake who doesn't deserve your success.",
+          "aliases": []
         }
       ]
     },
@@ -710,41 +630,39 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Netflix’s new “East of Eden” brings Steinbeck back, with Florence Pugh as the novel’s famous villain",
-      "dek": "Zoe Kazan, granddaughter of the director of the 1955 James Dean film, made the roughly seven-hour series.",
-      "caveman": "“East of Eden” is John Steinbeck’s big 1952 novel about several generations of the Trask family in California, from the Civil War to World War I. It is built around two brothers who echo Cain and Abel from the Bible, and around a scary, manipulative woman named Cathy. Steinbeck’s big question: are we born good or bad, or can we choose? Many Americans read it in school or saw the 1955 movie with James Dean, which only used the last part of the book. Now Netflix has a new miniseries of about seven hours, made by Zoe Kazan, granddaughter of that film’s director, Elia Kazan. NPR critics say Florence Pugh gives a “fantastic” performance as Cathy and call the series a fresh retelling for new audiences. NPR’s TV critic notes it mostly cuts the Irish American Hamilton family from the book, but praises Hoon Lee as Lee, the family’s Chinese caretaker, and Martha Plimpton.",
-      "why_it_matters": "Who’s hot: classic American novels are getting new life on streaming, sending new readers back to the book. Steinbeck’s question about choice versus fate still feels timely.",
-      "camps": "Praise: NPR says Pugh “fills” the spotlight and the series hammers home Steinbeck’s main theme. Criticism: it is not more complete than the 1981 TV version because it drops the Hamiltons, and it adds lots of sex and nudity that some viewers may find heavy. Book purists usually say: read the novel too.",
+      "headline": "HOT: Min Jin Lee's 'American Hagwon' climbs the bestseller charts, nearly 10 years after 'Pachinko'",
+      "dek": "The 600-plus-page family epic follows Korean-born kids raised in New Jersey and Seoul, and the pressure of 'cram school' education.",
+      "caveman": "Min Jin Lee wrote 'Pachinko,' a famous novel about a Korean family in Japan. Her new book, 'American Hagwon,' took almost 10 years. A 'hagwon' is a Korean after-school cram school. The story follows the Koh family from 1992 to 2007: three kids born in New Jersey, moved to Australia and Korea, then back to America after a betrayal at the father's job. It asks: what does chasing a 'better future' through education cost a family? NPR called it sweeping and hard to put down. Some reviewers say parts are too long or preachy. It showed up as a new entry on hardcover bestseller charts this week.",
+      "why_it_matters": "Stories about immigrant families and education pressure are close to many readers' lives — in America, Korea and Taiwan alike.",
+      "camps": "Fans: deep, kind characters and a big look at immigration and class. Critics: at 600+ pages, it sprawls, and the school plot can drag.",
       "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/07/nx-s1-5992662/east-of-eden-brings-a-light-modern-touch-to-an-epic-literary-classic",
-      "published": "2026-10-07",
+      "source_url": "https://www.npr.org/2026/09/28/nx-s1-5982798/american-hagwon-min-jin-lee-review",
+      "published": "2026-09-28",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Florence Pugh in Netflix’s “East of Eden.”",
-      "image_credit": "Photo: Geoffrey Short/Netflix (via NPR)",
+      "image_alt": "Cover of 'American Hagwon' by Min Jin Lee",
+      "image_credit": "Image: NPR",
       "terms": [
         {
-          "term": "miniseries",
-          "explain": "A TV series with a fixed, small number of episodes that tells one complete story.",
-          "aliases": []
-        },
-        {
-          "term": "adaptation",
-          "explain": "A new version of a story made for a different form, like a book turned into a show.",
+          "term": "hagwon",
+          "explain": "A private after-school 'cram school' in South Korea.",
           "aliases": [
-            "retelling"
+            "cram school"
           ]
         },
         {
-          "term": "Cain and Abel",
-          "explain": "Brothers in the Bible; Cain kills Abel out of jealousy.",
+          "term": "epic",
+          "explain": "A long story covering many years and characters.",
           "aliases": []
         },
         {
-          "term": "John Steinbeck",
-          "explain": "A Nobel Prize-winning American writer of “The Grapes of Wrath” and “East of Eden.”",
-          "aliases": [
-            "Steinbeck"
-          ]
+          "term": "diaspora",
+          "explain": "People living away from their family's home country.",
+          "aliases": []
+        },
+        {
+          "term": "bestseller list",
+          "explain": "A weekly ranking of the books that sold the most copies.",
+          "aliases": []
         }
       ]
     },
@@ -752,50 +670,36 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "A lab worker’s death in Siberia sparks fears of pneumonic plague; WHO asks Russia for more answers",
-      "dek": "The 28-year-old worked at an anti-plague institute; Russia says no plague was found in contacts, but the WHO says it “does not yet have the full picture.”",
-      "caveman": "On Oct. 2 a 28-year-old woman who worked at an anti-plague research institute in Irkutsk, in Siberia, died in a hospital nearby. Early unconfirmed reports said she may have caught pneumonic plague after an accidental lab exposure. Russian officials say she died of what first looked like a “typical” respiratory virus and that no recent plague cases were found. Still, the local hospital was put under quarantine, and Russia told the World Health Organization (WHO) that 200 contacts were quarantined. Russia says tests found no dangerous germs in any contacts. Simple background: plague is caused by the same germ that caused the Black Death in the 1300s, which killed 30% to 50% of people in parts of Europe. Bubonic plague comes from flea bites. Pneumonic plague infects the lungs and spreads person to person by coughing. It can kill fast if untreated, but antibiotics cure it if caught early. WHO chief Tedros Adhanom Ghebreyesus said it is also checking reports of a second worker.",
-      "why_it_matters": "When a dangerous germ might have escaped a lab, the world needs fast, honest information. The case brings back memories of COVID-19 and questions about lab safety. The WHO says the risk outside Russia is “very low.”",
-      "camps": "WHO: Russia has answered questions, but more data is needed on lab tests and contacts before a full risk check. Russia: says the situation is “stable,” and the Kremlin told people to trust official statements over “rumors or speculation.” President Trump said he has a call scheduled with Putin about it. Health experts note plague still appears every year in parts of Africa and the U.S., and it is treatable.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/russia-plague-trump-who-irkutsk-5aa82b8bc3d8300c551cd0e1bf91e32c",
-      "published": "2026-10-07",
+      "headline": "At least 139 migrants, including children, die after an overcrowded boat sinks off Djibouti",
+      "dek": "The boat carried more than 300 people; many victims were buried without names.",
+      "caveman": "Djibouti is a small country in East Africa, across the sea from Yemen. Many poor migrants, mostly from Ethiopia and Somalia, cross this route hoping to reach Saudi Arabia for work. On the evening of Oct. 8, a boat with more than 300 people sank soon after leaving, close to shore, mainly because it was overcrowded. The U.N. migration agency (IOM) said at least 139 people died, including children — and that only counts bodies buried by officials. 'They were buried with no names, in a common grave,' an IOM official said. Survivors are getting medical and mental-health help.",
+      "why_it_matters": "This route is one of the deadliest in the world but gets little attention. Poverty, war and climate stress push people to take huge risks.",
+      "camps": "Aid groups: create safe, legal work routes and stop smugglers who pack boats. Governments on the route: they want to stop smuggling, but critics say crackdowns alone push migrants to even more dangerous paths.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/migrants-boat-shipwreck-djibouti-africa-yemen-a9e324ca36a7d9dee0e745c736c8aa95",
+      "published": "2026-10-11",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Electric scooters parked next to the Irkutsk Anti-Plague Research Institute of Siberia and the Far East in Irkutsk, Russia, on Oct. 7, 2026.",
-      "image_credit": "Photo: AP",
+      "image_alt": "Authorities respond after a migrant boat capsized near Obock, Djibouti, Oct. 11, 2026",
+      "image_credit": "Photo: Alexandre Coissac / IOM via AP",
       "terms": [
         {
-          "term": "pneumonic plague",
-          "explain": "A lung form of plague that spreads between people through coughing.",
+          "term": "migrant",
+          "explain": "Someone who moves to another place or country, often for work or safety.",
           "aliases": []
         },
         {
-          "term": "bubonic plague",
-          "explain": "The flea-bite form of plague that causes painful swollen lumps.",
+          "term": "IOM",
+          "explain": "International Organization for Migration, the U.N. agency for migrants.",
           "aliases": []
         },
         {
-          "term": "quarantine",
-          "explain": "Keeping possibly sick people apart so a disease doesn’t spread.",
-          "aliases": [
-            "quarantined"
-          ]
-        },
-        {
-          "term": "WHO",
-          "explain": "World Health Organization, the U.N. agency for global health.",
-          "aliases": [
-            "World Health Organization"
-          ]
-        },
-        {
-          "term": "antibiotics",
-          "explain": "Medicines that kill bacteria.",
+          "term": "capsize",
+          "explain": "When a boat flips over.",
           "aliases": []
         },
         {
-          "term": "Black Death",
-          "explain": "A plague pandemic in the 1300s that killed a huge share of people in Europe, Asia and Africa.",
+          "term": "smuggler",
+          "explain": "Someone paid to move people across borders illegally.",
           "aliases": []
         }
       ]
@@ -804,43 +708,39 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Congo’s Ebola outbreak creates new hot spots as responders call the effort “chaotic”",
-      "dek": "Over 4,000 dead and 8,500 cases, the fastest-growing Ebola outbreak on record; most new cases come from people nobody was tracking.",
-      "caveman": "Ebola is a virus that causes severe bleeding and often death. It spreads through body fluids, including when people wash or touch the bodies of those who died. Since May, eastern Congo has had its deadliest Ebola outbreak ever: more than 8,500 cases and over 4,000 deaths. This strain, Bundibugyo, has no approved vaccine or treatment. Africa CDC head Dr. Jean Kaseya told AP that more than 70% of new cases come from people who were not on any list of known contacts, and at least 60% of deaths happen outside treatment centers. Only 23% of contacts have been traced. North Kivu province, battered by armed conflict, is now the center: about 40% of new cases, up from 24% at the end of August. There, 58% of confirmed patients die. A doctors’ group, MSF, calls the response “chaotic.” Some residents don’t believe the disease is real, and families sometimes hold quick funerals or refuse tests. On Tuesday Kenya reported its first case, a man from Congo who died.",
-      "why_it_matters": "Diseases do not stop at borders; Kenya’s case shows the risk of spread. The outbreak also shows how war, distrust and poverty make health emergencies worse, and how cuts in global health aid can leave gaps.",
-      "camps": "Africa CDC: wants a “village-centered approach,” with local leaders helping with tracing, safe burials and isolation. MSF: local health workers face an awful choice between sending sick neighbors home or risking their own lives. WHO: treatment centers lack staff and supplies. Researchers note that mistrust of outsiders, after years of conflict, is a major barrier.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/congo-ebola-kaseya-northkivu-outbreak-disease-42e9c7f66b9ee7628b0a852a4e9dd73b",
-      "published": "2026-10-07",
+      "headline": "Pope Leo calls the death penalty 'inadmissible' as the U.S. plans to livestream a firing-squad execution",
+      "dek": "The first American pope spoke on World Day Against the Death Penalty; the Pentagon plans to stream the Fort Hood shooter's execution.",
+      "caveman": "Pope Leo XIV, the leader of the Catholic Church and the first pope from the U.S., posted on Saturday that the death penalty is 'inadmissible' — not acceptable — because it attacks human dignity. He said societies can keep people safe with prisons while still leaving room for change. Saturday was World Day Against the Death Penalty. Two days earlier, the U.S. Defense Department said it will livestream the firing-squad execution of Nidal Hasan, who killed 13 people at Fort Hood in 2009; it is set for Dec. 3. President Trump said he will make the final call on the livestream. A botched execution in Tennessee has also renewed debate.",
+      "why_it_matters": "The U.S. is one of few rich democracies that still executes people. Showing an execution online would be a huge change in how punishment is seen.",
+      "camps": "Death penalty supporters: some crimes are so terrible that death is just, and victims' families deserve it. Opponents: innocent people have been executed, it is applied unequally by race and money, and broadcasting it makes violence a spectacle.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/vatican-pope-death-penalty-execution-leo-74cd030e0e877b5aa2ea5812426f7a57",
+      "published": "2026-10-10",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "A health worker in protective clothing is disinfected inside an Ebola treatment center in Beni, North Kivu, Congo, on Sept. 26, 2026.",
-      "image_credit": "Photo: Sebastien Kitsa Musayi/AP",
+      "image_alt": "Pope Leo XIV arrives to celebrate Mass in St. Peter's Basilica, Oct. 8, 2026",
+      "image_credit": "Photo: AP",
       "terms": [
         {
-          "term": "Ebola",
-          "explain": "A deadly virus that spreads through body fluids and causes fever and bleeding.",
-          "aliases": []
-        },
-        {
-          "term": "contact tracing",
-          "explain": "Finding everyone a sick person was near so they can be checked and kept apart.",
+          "term": "death penalty",
+          "explain": "When the government kills someone as punishment for a crime.",
           "aliases": [
-            "traced"
+            "capital punishment",
+            "execution"
           ]
         },
         {
-          "term": "Africa CDC",
-          "explain": "The African Union’s public health agency.",
+          "term": "inadmissible",
+          "explain": "Not allowed; cannot be accepted.",
           "aliases": []
         },
         {
-          "term": "MSF",
-          "explain": "Médecins Sans Frontières (Doctors Without Borders), a medical aid group.",
+          "term": "firing squad",
+          "explain": "An execution where several people shoot the prisoner.",
           "aliases": []
         },
         {
-          "term": "outbreak",
-          "explain": "A sudden rise in cases of a disease in one area.",
+          "term": "livestream",
+          "explain": "Showing video live on the internet.",
           "aliases": []
         }
       ]
@@ -849,43 +749,39 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Maricarmen, the 87-year-old whose eviction shook Spain, dies in hospital before she could go home",
-      "dek": "Her removal from her home of seven decades sparked nationwide housing protests; unions plan a general strike next month.",
-      "caveman": "María del Carmen Abascal, known as “Maricarmen,” lived in the same Madrid apartment for about 70 years. Her parents died there. On Sept. 23 police cordoned off the street and she, using a wheelchair, was carried out on a stretcher. A real estate company had evicted her so it could rent the place for much more money. TV images of the eviction set off protests in Madrid and across Spain. Under huge public pressure, the company backed down and agreed to let her return. But on Wednesday she died in the hospital. Her lawyer did not give a cause of death. Protesters near Parliament chanted, “Maricarmen lives, the fight goes on!” In Puerta del Sol square they held a minute of silence. Prime Minister Pedro Sánchez wrote: “Rest in peace.” Background: average rent in Spain has almost doubled in 10 years, and about a quarter of renters spend some 40% of their income on rent and bills, compared with an EU average of 18% of renters.",
-      "why_it_matters": "Housing costs are squeezing people in many countries, including Taiwan. Maricarmen’s case made a huge issue personal. It has pushed Spain into a political crisis: Sánchez called an early election for Nov. 29 after Parliament blocked emergency housing measures.",
-      "camps": "Tenants’ union: “this solution came too late,” calling it “an entirely avoidable situation.” Protesters: blame landlords and the system; one said “they have killed her.” Government: approved 21 urgent housing measures and wants voters to back them. Property owners and conservative parties usually argue that rent limits and tough rules scare off investors and shrink the supply of homes. The cause of death has not been made public.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/spain-madrid-maricarmen-eviction-protests-sanchez-58901917de1314e56ef2ca7eff71cfe6",
-      "published": "2026-10-07",
+      "headline": "Hurricane Simon pounds Mexico's Pacific coast near Puerto Vallarta as a Category 4 storm",
+      "dek": "Forecasters warned of 'catastrophic' wind and dangerous storm surge for resorts and poorer hillside towns.",
+      "caveman": "A hurricane is a giant spinning storm with very strong winds and rain. Hurricane Simon hit Mexico's west coast on Sunday as a Category 4 (the scale goes to 5), with winds around 215 km/h. Its center moved along the coast toward Puerto Vallarta, a big tourist city. The worst was expected overnight into Monday. Experts worried most about people living just inland and uphill from the beach hotels, where many homes may not survive strong winds. Meanwhile, two other storms, Rachel and Isaias, were still dumping rain on the U.S.",
+      "why_it_matters": "Warmer oceans are helping storms grow stronger faster. Poorer neighborhoods usually suffer the most damage and take the longest to recover.",
+      "camps": "Climate scientists: warmer seas fuel stronger hurricanes, so cutting emissions and preparing coasts both matter. Local critics: tourism zones often get better protection and faster help than the working-class towns around them.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/mexico-hurricane-simon-0e3336ba92518117ca8008c5746d230e",
+      "published": "2026-10-11",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Protesters gather in Madrid’s Puerta del Sol square after the death of María del Carmen Abascal on Oct. 7, 2026.",
-      "image_credit": "Photo: Bernat Armangue/AP",
+      "image_alt": "A National Guard member patrols the seawall as Hurricane Simon approaches Puerto Vallarta, Mexico, Oct. 11, 2026",
+      "image_credit": "Photo: AP / Fernando Llano",
       "terms": [
         {
-          "term": "eviction",
-          "explain": "Forcing a tenant to leave their home, often with police help.",
+          "term": "hurricane",
+          "explain": "A huge tropical storm with winds over 119 km/h; called a typhoon in Asia.",
           "aliases": [
-            "evicted"
+            "typhoon"
           ]
         },
         {
-          "term": "tenants’ union",
-          "explain": "A group of renters who organize to defend their rights.",
-          "aliases": [
-            "Tenants’ Union"
-          ]
-        },
-        {
-          "term": "general strike",
-          "explain": "When workers across many jobs stop work at the same time to protest.",
+          "term": "Category 4",
+          "explain": "The second-strongest level on the hurricane scale (1–5).",
           "aliases": []
         },
         {
-          "term": "snap election",
-          "explain": "An election called earlier than planned.",
-          "aliases": [
-            "early election"
-          ]
+          "term": "storm surge",
+          "explain": "Sea water pushed onto land by a storm's winds.",
+          "aliases": []
+        },
+        {
+          "term": "National Hurricane Center",
+          "explain": "The U.S. government office that tracks hurricanes.",
+          "aliases": []
         }
       ]
     },
@@ -893,54 +789,39 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Satellite photos show Israel has erased whole Gaza towns, and demolitions kept going after the ceasefire",
-      "dek": "Rafah, once home to a quarter million people, is gone; at least 50 Israeli military outposts now dot the Israeli-held part of Gaza.",
-      "caveman": "AP studied satellite pictures of Gaza from a company called Planet Labs. They show that the southern city of Rafah, which once had about 250,000 people, has been flattened. Other towns, like Bani Suheila, were razed (knocked to the ground) with bulldozers and explosives, and in some places the rubble was cleared away. That demolition kept going even after the Israel-Hamas ceasefire a year ago. Gaza’s 2 million Palestinians are now squeezed into about 40% of the territory; Israel’s army controls the rest. At least 50 Israeli military outposts sit in that area, 18 built since the ceasefire. More than 1 in 10 people from Gaza’s prewar population has been killed or wounded. AP met Najwa Abu Eita, a former hairdresser who lost her 7-year-old daughter and one eye in a 2024 strike and now lives in a tent by her ruined home. Her 4-year-old told her, “Momma, I’ll give you one of my eyes.”",
-      "why_it_matters": "Where people can return, rebuild or live depends on what is left standing. The scale of destruction also matters for international law and for any future peace plan.",
-      "camps": "Israel’s military: says it destroys buildings so Hamas can’t use them or its tunnels, and that it targets militants who hide among civilians; it rejects genocide accusations. A U.N.-appointed expert: said in February that the destruction is “unprecedented” in modern war and could be a crime against humanity or reach genocide. Palestinians: say almost daily strikes still kill women and children despite the ceasefire.",
-      "source_name": "AP News",
-      "source_url": "https://apnews.com/article/gaza-war-israel-demolition-3a187f030deb29d97d547cc363875d0c",
-      "published": "2026-10-07",
+      "headline": "Villages evacuated as a landslide-dam burst sends a flash flood down Nepal's Budhi Gandaki river",
+      "dek": "At least five people are missing; houses, four bridges and part of a hydropower site were swept away.",
+      "caveman": "In the mountains of north-central Nepal, a landslide fell into the Budhi Gandaki river and blocked it like a dam. When that natural dam broke on Sunday, a sudden wall of water rushed down the valley. About three dozen houses and four bridges were destroyed, and a hydropower plant construction site was damaged. At least five people are missing. The army used helicopters and soldiers to rescue 49 people. Officials told villagers along the river to move to higher ground. Nepal already suffered deadly landslides earlier this month.",
+      "why_it_matters": "Mountain countries like Nepal face more floods as glaciers melt and rains get heavier. Poor villages near rivers have little protection.",
+      "camps": "Climate advocates: rich countries that caused most warming should pay to help places like Nepal adapt. Development critics: building dams and roads in fragile valleys can also make landslides worse, so projects need stricter checks.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/nepal-budhi-gandaki-river-flash-flood-evacuation-e87cb02dd1a1711c5137a28f717680d5",
+      "published": "2026-10-11",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Palestinians walk along a street lined with destroyed buildings in Gaza City on Oct. 6, 2026.",
-      "image_credit": "Photo: Jehad Alshrafi/AP",
+      "image_alt": "The Budhi Gandaki river in north-central Nepal in spate, Oct. 11, 2026",
+      "image_credit": "Photo: Nepal Army via AP",
       "terms": [
         {
-          "term": "satellite imagery",
-          "explain": "Pictures of the ground taken from space.",
-          "aliases": [
-            "satellite pictures",
-            "satellite photos"
-          ]
-        },
-        {
-          "term": "ceasefire",
-          "explain": "An agreement to stop fighting.",
+          "term": "flash flood",
+          "explain": "A sudden, fast flood that comes with little warning.",
           "aliases": []
         },
         {
-          "term": "raze",
-          "explain": "To completely destroy a building or town.",
-          "aliases": [
-            "razed"
-          ]
-        },
-        {
-          "term": "outpost",
-          "explain": "A small military base in an area controlled by an army.",
-          "aliases": [
-            "outposts"
-          ]
-        },
-        {
-          "term": "crime against humanity",
-          "explain": "A grave crime, like mass killing or forced displacement, aimed at civilians on a large scale.",
+          "term": "landslide",
+          "explain": "When a mass of rock and soil slides down a slope.",
           "aliases": []
         },
         {
-          "term": "genocide",
-          "explain": "Acts meant to destroy a national, ethnic, racial or religious group, in whole or in part.",
+          "term": "hydropower",
+          "explain": "Electricity made from flowing water.",
           "aliases": []
+        },
+        {
+          "term": "evacuate",
+          "explain": "Leave a dangerous place to stay safe.",
+          "aliases": [
+            "evacuation"
+          ]
         }
       ]
     }
