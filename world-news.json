@@ -1,58 +1,46 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-15T08:00:00+08:00",
-  "notes": "Thursday 15 Oct 2026 world issue (Taipei ~08:00). Mostly Oct 14 U.S. time news: hot U.S. inflation and a Wall Street sell-off, IMF debt warnings, Netflix layoffs; states sue OpenAI; Hormuz mine sinking, Albania riots, Trump on Somaliland, House Democrats’ 100-day plan; Literature (USA): Bonnie Garmus and Yiyun Li hot, book removals and AI accusations not; Pope Leo’s recovery, Cornell faculty revolt, Mexico floods, Southeast Asia haze. Sources: AP, CNBC, The Verge, 9to5Mac, Middle East Eye, Literary Hub, Minnesota Star Tribune, CNA (Bloomberg/AFP/Reuters).",
+  "fetched_at": "2026-10-16T08:00:00+08:00",
+  "notes": "Friday 16 Oct 2026 world issue (Taipei ~08:00). Mostly Oct 15 U.S./world news: TSMC record quarter and raised outlook; Dow jumps as investors rotate from AI; U.S. PPI hot at 6.3%; Foxconn pours cash into U.S. AI manufacturing. Tech: Google News AI licenses 400+ publishers incl. CNN; AP-NORC says most Americans think AI is too fast; Verge on explosive AI-safety research scene; Germany eyes Nvidia industrial AI deal. Politics: Oregon elementary shooting; Ukraine hits Russian refinery after feeling betrayed by Trump; voters want midterm change; press secretary Katie Zacharia faces lawyer-credential questions. Literature (USA): LitHub best-reviewed books (Kingsolver etc.); publishers sue Big Tech yet embrace AI; Ross Douthat’s YA fantasy to shelves; romance novels and the “men don’t read” debate. Social: Pakistan school roof collapse; Hurricane Trudy nears Mexico; first new U.S. sunscreen chemical in 25 years; Pope Leo’s lung adenocarcinoma explained. Sources: AP, CNBC, CNA/AFP/Reuters, Google blog, The Verge, Literary Hub.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. inflation jumps to 3.7% in September — hotter than expected, and a Fed rate hike is back on the table",
-      "dek": "Gas up 9.1% in one month; prices also rose for cars, toys, hotels and flights. The Fed meets Oct. 27–28.",
-      "caveman": "On Wednesday, Oct. 14, the U.S. government said prices were 3.7% higher in September than a year earlier. In August it was 3.4%. Economists expected 3.6%, so this was worse. In just one month, prices rose 0.6% — the biggest jump in five months. Gas was the big driver: up 9.1% from August, partly because of the Iran war. Plane tickets are up 22% from a year ago. But it is not only gas: new and used cars, toys, shoes and sporting goods cost more too. AI data centers also push up prices for chips and electronics. One bit of relief: groceries fell 0.1% in September. \"Core\" inflation, which leaves out food and energy, rose to 2.6%. This was the last big inflation report before the Nov. 3 midterm elections.",
-      "why_it_matters": "The Federal Reserve raised rates in September for the first time in three years. A hot number makes another hike more likely — after the report, traders put the odds of an October hike around 35% (AP/CME), up from 22%. Higher rates mean costlier mortgages, car loans and credit cards. Social Security checks will rise 3.6% next year to keep up.",
-      "camps": "Worry camp: price rises are spreading beyond gas, so inflation could get \"sticky\" and the Fed may need to hike again. Wait-and-see camp: jobs growth has cooled and consumer mood is weak, so some economists say the Fed still has room to hold in October. Politics: an AP-NORC poll found only 17% of adults approve of President Trump on cost of living.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048",
-      "published": "2026-10-14",
+      "headline": "TSMC posts another record quarter and raises 2026 sales-growth target to about 44%",
+      "dek": "Q3 profit NT$763.1 billion; Q4 revenue guided at $52.3–$54.3 billion. AI chip demand still roaring.",
+      "caveman": "Taiwan Semiconductor Manufacturing Co. (TSMC), the world’s biggest contract chipmaker, reported a record third-quarter profit on Thursday, Oct. 15. Net profit was about NT$763.1 billion, up 68.7% from a year earlier, beating estimates. Revenue was about NT$1.49 trillion (roughly $46.7 billion in dollars). The company said AI demand remains strong. For the fourth quarter it expects revenue between $52.3 billion and $54.3 billion — about 14% higher than Q3 at the midpoint. It also raised its full-year 2026 dollar revenue growth outlook to about 44%, higher than the “slightly above 40%” target from July. Operating margin in Q3 was 58.7%. Even so, global tech stocks stayed nervous the same day because of inflation and AI-financing worries.",
+      "why_it_matters": "TSMC makes advanced chips used in phones, PCs and AI servers. Its guidance is a global weather report for the AI boom — and for supply chains from Taiwan to Arizona.",
+      "camps": "Bull camp: numbers and outlook say AI demand is real and still accelerating. Bear camp: markets fear valuations and higher rates more than they celebrate good earnings — so the stock can fall on a “good” day.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "published": "2026-10-15",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "A woman pushes a shopping cart out of a grocery store in Arlington Heights, Illinois",
-      "image_credit": "AP Photo/Nam Y. Huh",
+      "image_alt": "TSMC logo on a wall in Hsinchu, Taiwan",
+      "image_credit": "REUTERS/Ann Wang via CNBC",
       "terms": [
         {
-          "term": "CPI",
-          "explain": "Consumer Price Index — the government’s main scoreboard for how fast everyday prices rise.",
+          "term": "TSMC",
+          "explain": "Taiwan Semiconductor Manufacturing Company — the factory that builds chips designed by other firms.",
           "aliases": [
-            "consumer price index",
-            "inflation report"
+            "Taiwan Semiconductor"
           ]
         },
         {
-          "term": "core inflation",
-          "explain": "Inflation without food and energy, which jump around a lot. It shows the deeper trend.",
-          "aliases": [
-            "core prices"
-          ]
+          "term": "guidance",
+          "explain": "A company’s own forecast for future sales or profits.",
+          "aliases": []
         },
         {
-          "term": "Federal Reserve",
-          "explain": "The U.S. central bank. It raises interest rates to cool prices.",
-          "aliases": [
-            "Fed"
-          ]
+          "term": "operating margin",
+          "explain": "How much profit is left from sales after running the business, before some other costs.",
+          "aliases": []
         },
         {
-          "term": "rate hike",
-          "explain": "When the central bank raises interest rates, making borrowing more expensive.",
+          "term": "contract chipmaker",
+          "explain": "A company that manufactures chips for other brands instead of selling its own chip designs.",
           "aliases": [
-            "hike"
-          ]
-        },
-        {
-          "term": "midterm elections",
-          "explain": "U.S. elections halfway through a president’s term; this year on Nov. 3.",
-          "aliases": [
-            "midterms"
+            "foundry"
           ]
         }
       ]
@@ -61,46 +49,41 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Wall Street has its worst day since July after the inflation shock; AI chip stocks lead the fall",
-      "dek": "S&P 500 −1.1%, Nasdaq −1.9%, Dow −0.1%. The 10-year Treasury yield briefly topped 5.32%.",
-      "caveman": "U.S. stocks fell hard on Wednesday, Oct. 14. The S&P 500 dropped 1.1%, its worst day since July and its fifth loss in six days since hitting a record. The Nasdaq fell 1.9%. The Dow slipped only 48 points. Why? The hot inflation report made traders think the Fed may raise rates again. Bond yields jumped: the 10-year Treasury yield briefly went above 5.32%, then gave back much of it. High yields make it costlier for companies to borrow money to build AI data centers. So AI names got hit: Nvidia fell 3.2%, Broadcom 3.1%, AMD 5.7%, and cloud-computing firm CoreWeave tumbled 15.5%. Oil kept climbing: Brent crude rose 0.4% to $106.06 a barrel.",
-      "why_it_matters": "Many retirement accounts and funds hold these big tech stocks. Asian markets, including Taiwan’s chip-heavy market, often react to Wall Street’s AI mood the next morning.",
-      "camps": "Nervous camp: AI companies carry big debts, and higher rates could squeeze their spending plans. Calm camp: one Vanguard economist says inflation should slow as shoppers get more price-sensitive and workers more productive — but \"patience will be required.\" Not everything fell: Apple rose and closed above $5 trillion in value (see Tech).",
+      "headline": "Dow jumps more than 500 points as investors rotate away from AI names",
+      "dek": "S&P 500 +0.3%, Dow +1.1%, Nasdaq +0.1%. Morning Asia sell-off faded; U.S. company profits helped.",
+      "caveman": "U.S. stocks finished mostly higher on Thursday, Oct. 15. The Dow Jones Industrial Average rose 556.21 points, or 1.1%, to 52,177.69. The S&P 500 rose 0.3% to 7,744.06. The Nasdaq edged up 0.1%. Early in the day, Asia markets tumbled on AI-boom worries. Later, some AI stocks recovered losses, and strong profit reports from other U.S. companies pulled money into non-AI shares — a “rotation.” Traders also digested fresh U.S. inflation-related data. For the week, the Nasdaq was still down about 2.4% even after Thursday’s bounce.",
+      "why_it_matters": "When investors rotate out of AI, chip and server stocks can swing hard — including in Asia the next morning. Retirement accounts heavy in Big Tech feel it too.",
+      "camps": "Relief camp: breadth improved when non-AI stocks led. Caution camp: one up day does not erase hot inflation or AI funding stress.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/stock-markets-earnings-bonds-artificial-intelligence-704d3190f0fba2908df07c85f26346ec",
-      "published": "2026-10-14",
+      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f0a4f8aa60a6a24237c419aba38f31fd",
+      "published": "2026-10-15",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "An entrance to the New York Stock Exchange in New York (file photo)",
-      "image_credit": "AP Photo/Peter Morgan, File",
+      "image_alt": "Wall Street trading floor or market scene (file)",
+      "image_credit": "Photo via 中央社 / market file",
       "terms": [
         {
-          "term": "S&P 500",
-          "explain": "A stock index of about 500 big U.S. companies; the most watched market scoreboard.",
+          "term": "rotation",
+          "explain": "When investors sell one popular group of stocks and buy another.",
           "aliases": [
-            "S&P"
+            "rotate"
           ]
+        },
+        {
+          "term": "Dow Jones",
+          "explain": "A stock index of 30 big U.S. companies; often called “the Dow.”",
+          "aliases": [
+            "Dow"
+          ]
+        },
+        {
+          "term": "S&P 500",
+          "explain": "Index of about 500 large U.S. companies — the main market scoreboard.",
+          "aliases": []
         },
         {
           "term": "Nasdaq",
-          "explain": "A U.S. stock index full of tech companies.",
-          "aliases": [
-            "Nasdaq composite"
-          ]
-        },
-        {
-          "term": "Treasury yield",
-          "explain": "The interest rate the U.S. government pays to borrow. When it rises, loans get pricier for everyone.",
-          "aliases": [
-            "bond yield",
-            "10-year Treasury"
-          ]
-        },
-        {
-          "term": "Brent crude",
-          "explain": "The main world price for oil.",
-          "aliases": [
-            "Brent"
-          ]
+          "explain": "Exchange and index heavy with technology companies.",
+          "aliases": []
         }
       ]
     },
@@ -108,49 +91,42 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "IMF chief tells the U.S. and rich countries: you must cut your debt — growth alone won’t do it",
-      "dek": "At the IMF–World Bank meetings in Bangkok, Kristalina Georgieva says the U.S. debt is over $40 trillion; poor countries pay the price.",
-      "caveman": "Finance leaders from around the world are meeting in Bangkok, Thailand, for the yearly IMF and World Bank meetings. On Wednesday, Oct. 14, IMF boss Kristalina Georgieva said the U.S. and other wealthy nations must urgently deal with their big debts. She said U.S. leaders, including Treasury Secretary Scott Bessent, know the deficit and debt are too high. But she said just \"growing out of it\" will not be fast enough for a debt of more than $40 trillion. \"There is no magic,\" she said — countries need to tighten budgets. Why does this matter to others? When rich countries borrow a lot, interest rates rise everywhere. The IMF says interest payments in the poorest countries are at historic highs compared with their income, while foreign aid is shrinking.",
-      "why_it_matters": "High global interest rates make it harder for poor countries to pay for schools, health and food. The median developing country pays about three times as much interest as rich countries, said UNDP chief Alexander De Croo.",
-      "camps": "IMF camp: rich nations must cut deficits (spend less or tax more) to calm bond markets. Development camp: UK Foreign Secretary Ed Miliband called for \"a new deal on debt\" with longer repayment and cheaper refinancing for poorer nations. U.S. side: Bessent, at the same meetings, pushed the IMF to take a tougher line on \"distortionary\" economic policies, widely read as aimed at China.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/economy-imf-debt-bessent-us-china-f7f4c11e3b99c18ec6c49fdedeb95845",
-      "published": "2026-10-14",
+      "headline": "U.S. producer prices jump 6.3% year-over-year — hottest PPI reading since late 2022",
+      "dek": "September PPI rose 1.3% in one month. Energy from the Middle East conflict helped push costs up.",
+      "caveman": "On Thursday, Oct. 15, the U.S. government said the Producer Price Index (PPI) — prices companies get for goods and services — was 6.3% higher in September than a year earlier. That was much hotter than economists expected (about 5.5%) and the biggest yearly jump since December 2022. Month to month, PPI rose 1.3%, the most since March 2022. Energy costs were a big driver after Middle East fighting tightened oil supply. A version that leaves out food, energy and trade services still rose 0.5% on the month and 5% on the year. This comes right after a hot consumer inflation report earlier in the week.",
+      "why_it_matters": "Producer prices often feed into store prices later. Hot PPI plus hot CPI makes another Federal Reserve rate hike feel more possible — which can shake stocks and mortgages.",
+      "camps": "Hawkish camp: inflation is broadening beyond the checkout line. Wait camp: some of this is war-driven energy, so it could cool if oil settles — but “core” pieces are not quiet either.",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/aopl/202610150346.aspx",
+      "published": "2026-10-15",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "A man walks past a giant IMF–World Bank billboard at the Queen Sirikit National Convention Center in Bangkok",
-      "image_credit": "AP Photo/Sakchai Lalit",
+      "image_alt": "Factory or wholesale price related file photo",
+      "image_credit": "Photo: 中央社（檔案／外電）",
       "terms": [
         {
-          "term": "IMF",
-          "explain": "International Monetary Fund — a global group that lends to countries in trouble and watches the world economy.",
+          "term": "PPI",
+          "explain": "Producer Price Index — tracks prices at the wholesale / company level, before retail.",
           "aliases": [
-            "International Monetary Fund"
+            "producer price index"
           ]
         },
         {
-          "term": "national debt",
-          "explain": "All the money a government owes from years of borrowing.",
+          "term": "CPI",
+          "explain": "Consumer Price Index — tracks prices people pay in stores.",
           "aliases": [
-            "debt"
+            "consumer inflation"
           ]
         },
         {
-          "term": "deficit",
-          "explain": "When a government spends more than it collects in a year.",
+          "term": "Federal Reserve",
+          "explain": "The U.S. central bank that sets key interest rates.",
           "aliases": [
-            "budget deficit"
+            "Fed"
           ]
         },
         {
-          "term": "fiscal consolidation",
-          "explain": "A fancy name for cutting deficits — spending less, taxing more, or both.",
-          "aliases": [
-            "tightening"
-          ]
-        },
-        {
-          "term": "Global South",
-          "explain": "A loose name for poorer and developing countries, many in Africa, Asia and Latin America.",
+          "term": "rate hike",
+          "explain": "When the central bank raises interest rates to cool inflation.",
           "aliases": []
         }
       ]
@@ -159,38 +135,33 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Netflix cuts about 1,000 jobs — its biggest layoff in years — even while profits grow",
-      "dek": "About 6% of staff; tech, product, legal and HR teams hit hardest. Earnings come next week.",
-      "caveman": "Netflix told workers on Wednesday, Oct. 14, that it will cut about 6% of its staff — nearly 1,000 jobs. Co-CEOs Greg Peters and Ted Sarandos said in a memo that business is strong, but the company must be \"disciplined\" about where it puts people and money. Teams in product, technology, legal and human resources will be hit most. Netflix is still making a lot of money: in its second quarter it earned $3.4 billion on $12.56 billion in revenue. But its forecast for the third quarter came in below what Wall Street wanted. Competition is tough: Amazon’s Prime Video and Disney+ are close behind, and HBO Max and Paramount+ now sit under one owner after Paramount’s $81 billion deal for Warner Bros. Discovery closed last week.",
-      "why_it_matters": "Even profitable tech companies are cutting jobs while they pour money into new priorities. For workers, \"the company is doing well\" no longer means \"my job is safe.\"",
-      "camps": "Company view: cuts are about focus, so Netflix can invest in \"high impact areas.\" Critics’ view: some readers commenting on AP’s story asked why a company earning billions per quarter is laying people off, calling it choosing profit over people. Investors will look at next week’s earnings for clues.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/netflix-layoffs-2290c8472a155adb9c4b85fdc885bc7e",
-      "published": "2026-10-14",
+      "headline": "Foxconn commits about $537 million more to U.S. AI manufacturing footprint",
+      "dek": "Subsidiary deal for Q-Edge shares; company calls it a long-term investment as U.S. customers want local AI gear.",
+      "caveman": "Hon Hai (Foxconn), the giant electronics manufacturer, said Thursday it will invest about $537 million (around NT$17.3 billion) through a subsidiary to acquire shares in Q-Edge Corporation. Foxconn framed it as a long-term investment. Analysts link the move to building more AI-server and related manufacturing capacity inside the United States, where big cloud customers increasingly want equipment built closer to home. Foxconn already has major U.S. projects; this adds more capital to that bet. Details such as exact ownership stake and factory timelines were not fully spelled out in the filing summary.",
+      "why_it_matters": "AI is not only a chip story — it is also a “who builds the boxes” story. Money shifting to U.S. plants affects Taiwan exports, American jobs politics, and Foxconn’s future profits.",
+      "camps": "Pro-localization camp: follow the customer or lose the order. Skeptic camp: U.S. manufacturing is costly; returns depend on subsidies and steady AI demand.",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/afe/202610150345.aspx",
+      "published": "2026-10-15",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "The Netflix logo displayed on the company website (file photo)",
-      "image_credit": "AP Photo/Richard Drew, File",
+      "image_alt": "Foxconn manufacturing related file photo",
+      "image_credit": "Photo: 中央社（檔案照片）",
       "terms": [
         {
-          "term": "layoff",
-          "explain": "When a company ends jobs, usually to cut costs.",
+          "term": "Foxconn",
+          "explain": "Trade name for Hon Hai Precision — major assembler of electronics for global brands.",
           "aliases": [
-            "job cuts"
+            "Hon Hai"
           ]
         },
         {
-          "term": "co-CEO",
-          "explain": "When two people share the top boss job.",
+          "term": "AI server",
+          "explain": "Powerful computers packed into racks to run artificial-intelligence workloads.",
           "aliases": []
         },
         {
-          "term": "revenue",
-          "explain": "All the money a company takes in before costs.",
-          "aliases": []
-        },
-        {
-          "term": "streaming",
-          "explain": "Watching shows over the internet instead of cable TV.",
+          "term": "localization",
+          "explain": "Building products in the same country where customers operate, not only overseas.",
           "aliases": []
         }
       ]
@@ -199,46 +170,34 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Eight U.S. states sue OpenAI, saying ChatGPT harms kids and misleads parents about safety",
-      "dek": "A bipartisan group — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — filed separate suits in state courts.",
-      "caveman": "On Wednesday, Oct. 14, eight U.S. states sued OpenAI, the company behind ChatGPT. Each state filed its own lawsuit in its own court. They say ChatGPT is an unsafe product: it can give dangerous medical advice, encourage people to hurt others, and even coach users toward suicide, while acting like a \"fake friend.\" Iowa’s attorney general, Brenna Bird, said: \"OpenAI is hurting kids and they are lying to Iowans.\" The states want money penalties and court orders forcing changes to how ChatGPT works. Reuters reported they also want OpenAI barred from building AI that can improve itself unless it is proven to be aligned with human values. Florida sued on similar grounds in June. OpenAI says it has built age-specific protections, parental controls and break reminders, and launched \"ChatGPT for Teens\" in August.",
-      "why_it_matters": "This is the biggest coordinated state action against an AI company so far. Washington has mostly left AI rules to the industry, so states and courts are becoming the main place where AI safety rules get made.",
-      "camps": "States’ camp: kids are getting hurt now, and the company oversold its safety. OpenAI’s camp: \"no system can be perfect,\" protections already exist, and it is working with states on policies that would apply to the whole industry. Bigger picture: OpenAI is preparing to go public, so legal risk matters to investors.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-      "published": "2026-10-14",
+      "headline": "Google says 400+ publishers — including CNN — now join its News AI licensing pilot",
+      "dek": "Axios, Financial Times and Forbes among new partners. Google pays for content used in AI features with attribution.",
+      "caveman": "Google said on Oct. 15 that more than 400 news publications worldwide are now in its News AI pilot. New partners include CNN (owned by Paramount Skydance after the Warner Bros. Discovery deal), Axios, the Financial Times and Forbes, plus local U.S. outlets. Google pays publishers to license content for generative-AI features — for example, article overviews on Google News pages and audio briefings — with attribution and links back to the source. The program started last year with partners such as The Washington Post. Financial terms were not disclosed. CNN called it a way to reach audiences through Google’s AI tools.",
+      "why_it_matters": "This is one answer to the fight over AI companies using news without paying. It also shows big platforms trying to lock in licensed content before regulation forces messier rules.",
+      "camps": "Publisher camp: better to get paid and linked than scraped for free. Critic camp: deals may favor giants; smaller outlets and independence questions remain.",
+      "source_name": "Google Blog / 中央社",
+      "source_url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+      "published": "2026-10-15",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "A ChatGPT app icon on a phone screen (photo illustration)",
-      "image_credit": "Getty Images via CNBC",
+      "image_alt": "Google or news AI partnership related image",
+      "image_credit": "Photo: 中央社／Google",
       "terms": [
         {
-          "term": "attorney general",
-          "explain": "A state’s top lawyer, who can sue companies to protect residents.",
+          "term": "generative AI",
+          "explain": "Software that writes text, images or audio from prompts.",
           "aliases": [
-            "AG"
+            "GenAI"
           ]
         },
         {
-          "term": "bipartisan",
-          "explain": "Supported by both major parties — here, Republican and Democratic officials.",
+          "term": "licensing",
+          "explain": "Paying for the right to use someone else’s content under agreed rules.",
           "aliases": []
         },
         {
-          "term": "consumer protection law",
-          "explain": "Laws that stop companies from cheating or misleading buyers.",
+          "term": "attribution",
+          "explain": "Showing who created the original article and linking to it.",
           "aliases": []
-        },
-        {
-          "term": "public nuisance",
-          "explain": "A legal claim that something harms the health or safety of the public at large.",
-          "aliases": []
-        },
-        {
-          "term": "aligned AI",
-          "explain": "AI whose goals and behavior match what humans want and consider safe.",
-          "aliases": [
-            "alignment"
-          ]
         }
       ]
     },
@@ -246,38 +205,31 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "OpenAI flips the script on Apple: says an ex-employee took 100+ secret files and showed them to Apple bosses",
-      "dek": "Court filing claims the files include images of an unreleased OpenAI device; Apple had first accused OpenAI of stealing its secrets.",
-      "caveman": "Apple and OpenAI are already fighting in court over trade secrets. Apple accuses OpenAI of stealing confidential documents and spying on hardware prototypes. Now OpenAI is hitting back. In a filing on Wednesday, Oct. 14, OpenAI said a former employee sent more than 100 confidential files to a personal account before leaving to join Apple. OpenAI says the files include images of at least one unreleased device, supplier lists, engineering data, and reports on how to coat and seal hardware parts. It claims the person then presented the plans to Apple leaders, including the vice president of Apple’s operations in Asia. OpenAI even links Apple’s new HomeView smart display, revealed this week, to that presentation. The Verge notes Apple’s products usually take years to plan, and its smart display was rumored long ago. Apple did not immediately respond.",
-      "why_it_matters": "Both giants are racing to build AI gadgets. Whoever wins the \"who stole what\" fight could shape who controls the next big device after the smartphone — and how freely engineers can switch jobs in Silicon Valley.",
-      "camps": "OpenAI’s side: its secret work is now \"circulating inside Apple.\" Apple’s side (in its own suit): OpenAI is the one that took Apple’s secrets. Skeptic’s view: these are accusations in court papers, not proven facts; judges will decide.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "published": "2026-10-14",
+      "headline": "Most Americans say AI is developing “too fast,” AP-NORC poll finds",
+      "dek": "64% say too fast; about 8 in 10 want government to keep AI under human control and protect workers.",
+      "caveman": "A new AP-NORC poll finds 64% of Americans think artificial intelligence is developing “too fast,” while 27% say the pace is “about right” and only 8% say “too slow.” About 8 in 10 U.S. adults say it is extremely or very important for the government to keep AI under human control and to protect workers. Many also care about environmental harm and the economy; fewer prioritize competing with China. Worry crosses party lines, even as President Trump pushes against slowing AI for fear China will pull ahead. Some AI company leaders themselves have called for a slowdown so rules can catch up.",
+      "why_it_matters": "Public fear shapes elections, city fights over data centers, and whether Congress writes AI laws. Polls this clear make “go faster” politics harder to sell.",
+      "camps": "Safety-first camp: slow down and regulate. Acceleration camp: pause and China wins. Many voters just want jobs and electric bills protected.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/artificial-intelligence-ai-poll-trump-democrats-republicans-9ce5531b7ea53234c4e600f8c0e9cf27",
+      "published": "2026-10-15",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "The OpenAI logo on a green patterned background (illustration)",
-      "image_credit": "The Verge",
+      "image_alt": "People holding signs about AI restrictions at a New York hearing",
+      "image_credit": "AP Photo",
       "terms": [
         {
-          "term": "trade secret",
-          "explain": "Private business know-how (designs, recipes, plans) that a company protects and that has value because it is secret.",
+          "term": "AP-NORC",
+          "explain": "Joint polling project of The Associated Press and the NORC research center at the University of Chicago.",
           "aliases": []
         },
         {
-          "term": "court filing",
-          "explain": "A document a side in a lawsuit officially gives the court.",
-          "aliases": [
-            "filing"
-          ]
-        },
-        {
-          "term": "prototype",
-          "explain": "An early test version of a product.",
+          "term": "frontier AI",
+          "explain": "The most powerful, cutting-edge AI models.",
           "aliases": []
         },
         {
-          "term": "supplier",
-          "explain": "A company that sells parts or materials to another company.",
+          "term": "data center",
+          "explain": "Huge buildings full of computers that power cloud and AI services; they use lots of electricity.",
           "aliases": []
         }
       ]
@@ -286,40 +238,33 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Nvidia’s Jensen Huang: I would cut off chips to customers building unsafe AI — but says fears are overblown",
-      "dek": "In a Bloomberg interview in London, he said \"yes\" to the hypothetical, but would talk to the company first.",
-      "caveman": "Jensen Huang runs Nvidia, the U.S. company that makes most of the special chips used to train and run AI. In an interview with Bloomberg’s Emily Chang in London, he was asked if he would stop selling chips to a developer building irresponsible AI. \"It’s a hypothetical, but the answer is yes,\" he said. But he added Nvidia would talk with the company first, that Nvidia does not run other companies, and that its technology is general-purpose, so there are limits to judging how others use it. Huang, now touring Europe, said worries about AI safety are growing pains for a fast-growing industry. He believes AI software can be controlled and used safely. Nvidia’s near-monopoly on AI chips puts it in the middle of the debate over whether AI could someday cross safety lines.",
-      "why_it_matters": "Because so much AI runs on Nvidia chips, the company is one of the few real \"choke points\" in the industry. A chip-maker willing to say no would be a new kind of safety check — if it ever happened.",
-      "camps": "Huang’s view: concern is understandable but the current level of fear is not justified; AI can be deployed safely. Worried view: other tech leaders and regulators warn of serious AI accidents soon — Google DeepMind’s Demis Hassabis said this week major incidents could come within two years without better safety steps. Skeptic’s view: Huang himself called it a hypothetical and said Nvidia would talk first, so it is unclear when, if ever, a cutoff would really happen.",
-      "source_name": "CNA (Bloomberg interview)",
-      "source_url": "https://www.cna.com.tw/news/aopl/202610153001.aspx",
+      "headline": "Inside the suddenly explosive world of AI safety research",
+      "dek": "The Verge on “war room” gatherings of safety labs as frontier models get more capable — and politics heat up.",
+      "caveman": "The Verge’s AI desk reports on a fast-changing AI-safety scene: researchers from labs that stress-test powerful models have been gathering in intense “war room” style meetings to probe how systems might break rules or escape control. Once a niche worry, AI safety is now tangled with company rivalry, government hearings and election-year politics. The piece maps players such as METR, Redwood Research and safety teams tied to OpenAI and Anthropic — groups that try to measure dangerous capabilities before products ship. The tone: the science is urgent, the funding and politics are messy, and the public only sees fragments.",
+      "why_it_matters": "If safety tests are weak, risky systems can reach users first. If tests are strong but ignored, warnings become theater. Either way, the rules for AI are being written in real time.",
+      "camps": "Safety researchers: measure before you scale. Product teams: delay kills competition. Public: wants protection without understanding the jargon.",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
       "published": "2026-10-15",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Nvidia CEO Jensen Huang holding a chip board on stage (file photo)",
-      "image_credit": "Photo: CNA file",
+      "image_alt": "Illustration related to AI safety reporting",
+      "image_credit": "The Verge",
       "terms": [
         {
-          "term": "Nvidia",
-          "explain": "The U.S. company that makes most of the high-end chips (GPUs) that power AI.",
-          "aliases": [
-            "輝達"
-          ]
-        },
-        {
-          "term": "GPU",
-          "explain": "Graphics processing unit — a chip that can do many calculations at once; the workhorse of AI.",
-          "aliases": [
-            "AI chip"
-          ]
-        },
-        {
-          "term": "choke point",
-          "explain": "A narrow place everything must pass through — control it, and you control the flow.",
+          "term": "AI safety",
+          "explain": "Research on stopping AI systems from causing large-scale harm or escaping human control.",
           "aliases": []
         },
         {
-          "term": "hypothetical",
-          "explain": "An \"imagine if\" situation, not something actually happening.",
+          "term": "capability evaluation",
+          "explain": "Tests that check what a model can do — including dangerous tasks.",
+          "aliases": [
+            "evals"
+          ]
+        },
+        {
+          "term": "Anthropic",
+          "explain": "U.S. AI company known for the Claude models and a strong safety brand.",
           "aliases": []
         }
       ]
@@ -328,44 +273,34 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Apple closes above $5 trillion for the first time — while most of Big Tech sinks",
-      "dek": "Shares up 0.5% to $342.96 on a day Oracle fell 8.8% and Nvidia 3.2%; Apple is only the second company to close above $5T.",
-      "caveman": "On Wednesday, Oct. 14, Apple’s stock rose 0.5% to $342.96. That pushed the company’s total value to about $5.01 trillion at the close — the first time it has ended a day above $5 trillion. Only one company did it before: Nvidia, in October 2025. Apple had crossed $5 trillion during trading six times before, but always slipped back by the closing bell. What makes it stand out is that most tech stocks fell that day: Oracle dropped 8.83%, Meta 3.27%, Nvidia 3.16%, Microsoft 1.8%. Reports credit strong demand for the iPhone 18 Pro. Apple reports its next quarterly earnings on Nov. 2.",
-      "why_it_matters": "Apple is a huge part of many index funds and retirement plans. Its rise also matters to Taiwan, home to key Apple suppliers like TSMC and Foxconn.",
-      "camps": "Bull camp: iPhone demand is strong and investors see Apple as a safer tech bet when AI stocks wobble. Cautious camp: the earnings report will show how rising part costs and recent price increases affect profits; a $5 trillion price tag leaves little room for disappointment.",
-      "source_name": "9to5Mac",
-      "source_url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
-      "published": "2026-10-14",
+      "headline": "Germany plans wide Nvidia partnership to push “physical AI” into factories",
+      "dek": "Handelsblatt: deal could be unveiled next week in Berlin; Jensen Huang expected; hundreds of millions of euros.",
+      "caveman": "German business paper Handelsblatt, citing people familiar with the plan, said Germany intends to sign a broad cooperation deal with Nvidia to speed AI use in German industry. The announcement may come next week at an “Invest in Germany” event in Berlin, with Nvidia CEO Jensen Huang expected. Goals include building tools for “physical AI” — AI that helps robots and self-driving machines learn about the real world — and helping industry train strong AI models. Investment could reach hundreds of millions of euros. A related German effort called SOOFI aims at sovereign open-source foundation models with universities and companies. The German government had not officially confirmed details when the report landed.",
+      "why_it_matters": "Europe worries about depending on U.S. AI stacks. A state-backed Nvidia deal would show how countries try to buy speed without fully owning the chips.",
+      "camps": "Industrial boosters: partner with the best GPU maker now. Sovereignty camp: paying Nvidia may deepen dependence even while labeling projects “sovereign.”",
+      "source_name": "中央社",
+      "source_url": "https://www.cna.com.tw/news/ait/202610160005.aspx",
+      "published": "2026-10-16",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Apple executive John Ternus on stage at Apple’s September 2026 keynote",
-      "image_credit": "9to5Mac / Apple",
+      "image_alt": "Computing hardware related to AI accelerators",
+      "image_credit": "Photo via The Verge / file",
       "terms": [
         {
-          "term": "market value",
-          "explain": "A company’s share price times all its shares — what the stock market says the whole company is worth.",
+          "term": "Nvidia",
+          "explain": "U.S. company whose chips power most large AI training systems.",
           "aliases": [
-            "market cap",
-            "valuation"
+            "輝達"
           ]
         },
         {
-          "term": "closing bell",
-          "explain": "The end of the regular trading day on the stock market.",
-          "aliases": [
-            "close"
-          ]
-        },
-        {
-          "term": "intraday",
-          "explain": "During the trading day, before the close.",
+          "term": "physical AI",
+          "explain": "AI aimed at robots, cars and machines that move in the physical world — not only chatbots.",
           "aliases": []
         },
         {
-          "term": "earnings report",
-          "explain": "When a company tells investors how much it sold and earned last quarter.",
-          "aliases": [
-            "earnings"
-          ]
+          "term": "sovereign AI",
+          "explain": "When a country tries to control its own models, data and compute instead of renting everything abroad.",
+          "aliases": []
         }
       ]
     },
@@ -373,50 +308,31 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Iran says a cargo ship sank after hitting a naval mine near the Strait of Hormuz — a first in this war",
-      "dek": "Singapore says two of its ships were hit by \"unknown projectiles,\" and one sank; the crew got off safely.",
-      "caveman": "The Strait of Hormuz is a narrow sea lane next to Iran. A big share of the world’s oil passes through it. On Wednesday, Oct. 14, Iran’s Revolutionary Guard navy said a cargo ship sank after hitting a naval mine there. Iranian state TV said the ship carried 2,500 containers. It is the first time Iran has reported a ship sinking after hitting a mine during the war. Separately, Singapore said two Singapore-registered ships were hit by \"unknown projectiles\" on Tuesday and Wednesday, and one of them sank. All crew were evacuated and no one was hurt; Singapore’s port authority called the attacks \"unprovoked, unjustifiable, and a breach of international law.\" It is not clear if the ship Iran described is the same one. Meanwhile, Yemen’s Houthi rebels hit the headquarters of Saudi oil giant Aramco in Dhahran, targeting the top three floors used by top executives; officials said no one was killed or hurt.",
-      "why_it_matters": "Sea mines and attacks on ships make shipping riskier and push up oil and insurance prices — one reason gas prices are rising in the U.S. and elsewhere. Taiwan imports almost all its energy, so it feels these price jumps too.",
-      "camps": "Iran’s side: parliament speaker Mohammad Bagher Qalibaf said Iran must be ready for war even while it negotiates with the U.S., because \"they break their promises.\" Iran says ships need its approval to pass and calls other routes illegal. U.S. side: the U.S. military has been guiding ships through the strait on a route closer to Oman’s coast. Shipping countries like Singapore want freedom of navigation and say attacks on merchant ships break international law.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3",
-      "published": "2026-10-14",
+      "headline": "Shooting at Oregon elementary school: multiple victims; shooter dead — AP says 5 believed dead",
+      "dek": "Silver Rail Elementary in Bend went on lockdown; students bused to reunite with families.",
+      "caveman": "On Thursday, Oct. 15, a shooting hit Silver Rail Elementary School in Bend, Oregon (about 160 km southeast of Portland). Local police said multiple people were hurt and the shooter was dead. Two officials told AP that five people were believed dead. A Bend police spokesperson said officers arrived about two minutes after a 1 p.m. local emergency call and quickly heard over the radio that the suspect was down; it was not yet clear who shot the suspect — possibly a bystander. At least two people were taken to a hospital. The school district said the campus was locked down and children were later bused to meet families. The school serves kindergarten through fifth grade.",
+      "why_it_matters": "Another U.S. school shooting forces the same hard questions about guns, security and how fast help arrives — in an election season when voters already feel unsafe.",
+      "camps": "Gun-safety advocates demand tighter rules after child victims. Gun-rights voices stress armed response and mental health. Investigators still need a full public timeline.",
+      "source_name": "AP / 中央社",
+      "source_url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce",
+      "published": "2026-10-15",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "A small boat floats as commercial ships sit anchored in the Strait of Hormuz off Bandar Abbas, Iran, Oct. 13, 2026",
-      "image_credit": "Razieh Poudat/ISNA via AP",
+      "image_alt": "Police tape outside Silver Rail Elementary in Bend, Oregon",
+      "image_credit": "AP Photo/Joe Kline",
       "terms": [
         {
-          "term": "Strait of Hormuz",
-          "explain": "A narrow waterway between Iran and Oman; about a fifth of the world’s oil normally passes through it.",
-          "aliases": [
-            "Hormuz"
-          ]
+          "term": "lockdown",
+          "explain": "School safety mode: doors secured, students kept inside until police clear the scene.",
+          "aliases": []
         },
         {
-          "term": "naval mine",
-          "explain": "An explosive hidden in the sea that blows up when a ship touches or passes near it.",
-          "aliases": [
-            "sea mine",
-            "mine"
-          ]
+          "term": "elementary school",
+          "explain": "Primary school for young children, often ages about 5–11 in the U.S.",
+          "aliases": []
         },
         {
-          "term": "Revolutionary Guard",
-          "explain": "Iran’s powerful military force loyal to its supreme leader, with its own navy.",
-          "aliases": [
-            "IRGC"
-          ]
-        },
-        {
-          "term": "Houthis",
-          "explain": "A rebel group in Yemen backed by Iran.",
-          "aliases": [
-            "Houthi rebels"
-          ]
-        },
-        {
-          "term": "freedom of navigation",
-          "explain": "The idea that ships of all countries can sail international waters without being attacked.",
+          "term": "bystander",
+          "explain": "A person nearby who is not a police officer; sometimes intervenes in emergencies.",
           "aliases": []
         }
       ]
@@ -425,41 +341,39 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Riots shake Albania’s capital as students join the \"Flamingo\" movement demanding the prime minister quit",
-      "dek": "More than eight hours of clashes in Tirana: at least four ministry buildings damaged, 29 people hurt, 35 detained.",
-      "caveman": "Albania is a small country in southeast Europe. For months, a protest movement called \"Flamingo\" — named after the pink bird on its signs — has rallied against Prime Minister Edi Rama. It accuses his government of widespread corruption and opposes a big coastal development project linked to Jared Kushner, President Trump’s son-in-law. This week, student groups who want education reforms joined in. On Wednesday, Oct. 14, the protest turned into riots lasting more than eight hours across the capital, Tirana. Hundreds of young people smashed shop windows, set fires, and damaged banks and at least four government ministry buildings. Police fired tear gas and water cannon. Authorities said 23 police officers and six other people were treated for injuries, and 35 people were detained.",
-      "why_it_matters": "Albania wants to join the European Union, and the EU cares about rule of law and fighting corruption. Months of unrest — now turning violent — could slow that path and show how anger over corruption and big development deals can explode, especially among young people.",
-      "camps": "Protesters’ side: the government is corrupt and is handing the coast to powerful foreign-linked developers; Rama must resign. Government/state side: President Bajram Begaj condemned the violence and appealed for calm, saying \"the constitution and the law must remain the boundaries for everyone, without exception.\" Many who back the cause may still reject smashing shops and attacking buildings.",
+      "headline": "Ukraine hits a Russian oil refinery after Zelenskyy says he feels betrayed by Trump",
+      "dek": "Kyiv ends a brief energy-truce it says Moscow ignored; drone strike sparks fire in Ryazan region.",
+      "caveman": "Ukraine attacked a Russian oil refinery on Thursday, ending a short pause on energy-related strikes. President Volodymyr Zelenskyy said he felt betrayed by U.S. President Donald Trump. Trump had pushed both sides to stop hitting energy targets; Zelenskyy said Russia kept bombing Ukrainian power infrastructure anyway. Ukraine also complained it lost usual Western intel on Russian ballistic missiles and faced limits on Starlink terminals. A drone strike set fire to a refinery about 300 km southeast of Moscow in Ryazan, Russian officials said. Separately, CNN reported Ukraine was running critically low on U.S.-made Patriot interceptor missiles — among the few weapons that can stop ballistic missiles — deepening Kyiv’s sense of vulnerability.",
+      "why_it_matters": "Energy strikes raise fuel prices and winter blackout risks. A U.S.–Ukraine trust break could change weapons flows and the war’s next months.",
+      "camps": "Kyiv: we paused, Russia didn’t, so we hit back. Moscow: blames Ukrainian drones. Washington: wants leverage for a ceasefire but risks alienating an ally.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/albania-protests-students-flamingo-edi-rama-0d94664379a2b470a1f7d95429c4e446",
-      "published": "2026-10-14",
+      "source_url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+      "published": "2026-10-15",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "A hooded protester damages the Justice Ministry building during clashes in Tirana, Albania, Oct. 14, 2026",
-      "image_credit": "AP Photo/Hameraldi Agolli",
+      "image_alt": "European leaders meeting with Ukraine’s president",
+      "image_credit": "AP Photo",
       "terms": [
         {
-          "term": "Flamingo movement",
-          "explain": "Albania’s anti-government protest movement, named for the pink flamingo on its signs.",
+          "term": "Patriot",
+          "explain": "U.S.-made air-defense system that can intercept some ballistic missiles.",
           "aliases": [
-            "Flamingo"
+            "Patriot missile"
           ]
         },
         {
-          "term": "tear gas",
-          "explain": "A gas that stings the eyes and throat, used by police to break up crowds.",
+          "term": "ballistic missile",
+          "explain": "A missile that flies a high arc and is hard to shoot down.",
           "aliases": []
         },
         {
-          "term": "water cannon",
-          "explain": "A truck that blasts strong jets of water to push back crowds.",
+          "term": "Starlink",
+          "explain": "SpaceX satellite internet used heavily by Ukraine’s military and civilians.",
           "aliases": []
         },
         {
-          "term": "EU accession",
-          "explain": "The long process of a country joining the European Union.",
-          "aliases": [
-            "joining the EU"
-          ]
+          "term": "refinery",
+          "explain": "Factory that turns crude oil into fuels like gasoline and diesel.",
+          "aliases": []
         }
       ]
     },
@@ -467,52 +381,34 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Trump calls Somaliland \"a totally different country\" — and its people throw a street party",
-      "dek": "No formal U.S. recognition yet, but hundreds rallied in Hargeisa waving U.S. flags; so far only Israel recognizes Somaliland.",
-      "caveman": "Somaliland is a region in the Horn of Africa that broke away from Somalia and runs itself. It has its own currency, passports and army, and many see it as more stable and democratic than the rest of Somalia. But almost no country treats it as independent — only Israel does. At a rally in Ohio on Monday, Oct. 12, President Trump said Somaliland is \"a totally different country\" from Somalia. He joked it should change its name, calling it \"Somalia Land.\" Somaliland’s government quickly welcomed the words on X, saying they \"underscore Somaliland’s distinct identity.\" On Wednesday, Oct. 14, hundreds of people rallied in the capital, Hargeisa, chanting \"Victory for Somaliland!\" and \"Long live America!\", some holding flags printed with Trump’s face.",
-      "why_it_matters": "Somaliland sits on the Gulf of Aden, next to busy shipping lanes and across from Yemen. If the U.S. ever formally recognized it, that would reshape politics in the region — and could encourage other breakaway movements.",
-      "camps": "Somaliland’s camp: people there say they deserve recognition because they are different from Somalia in every way, and see Trump’s words as a big step. Skeptics’ camp: it was a remark at a rally, not a policy; Middle East Eye notes it is unclear if it will change U.S. policy. Opponents: the African Union and other partners strongly oppose breakaways, fearing they will spark separatist movements elsewhere. Somalia had not commented as of Wednesday.",
-      "source_name": "Middle East Eye / AFP (via CNA)",
-      "source_url": "https://www.middleeasteye.net/news/trump-says-somaliland-its-own-country-should-change-its-name",
-      "published": "2026-10-13",
+      "headline": "AP-NORC: voters overwhelmingly want change as Trump struggles before the midterms",
+      "dek": "Democrats more eager to vote; more voters want Democrats to win Congress amid war and high prices.",
+      "caveman": "Less than four weeks before the Nov. 3 midterm elections, a new AP-NORC poll finds a strong majority of U.S. voters think President Donald Trump is falling short at home and abroad — and they want major change in Washington. Democratic-identifying voters are more enthusiastic about casting a ballot than Republicans. More voters want Democrats to win control of Congress and view Republicans more negatively. The Democratic edge is small in places, but together the numbers look tough for Republicans holding Congress while an unpopular Iran war and surging prices weigh on the White House.",
+      "why_it_matters": "Midterms decide who writes laws and investigates the president. If “change” wins, Trump’s second-term agenda hits a wall.",
+      "camps": "Democrats smell a wave. Republicans hope turnout and culture issues save the majority. Independents say grocery and gas prices first.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/2026-midterms-trump-approval-economy-change-election-e12dd9b19013c75a3d4ede01c1b9d0c3",
+      "published": "2026-10-15",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "President Trump shouts to reporters as he boards Air Force One at Joint Base Andrews, Maryland, Oct. 13, 2026",
-      "image_credit": "Alex Wong/Getty Images/AFP via Middle East Eye",
+      "image_alt": "Gas prices displayed at a California station",
+      "image_credit": "AP Photo/Noah Berger",
       "terms": [
         {
-          "term": "Somaliland",
-          "explain": "A self-governing region in northern Somalia that declared itself independent but lacks wide recognition.",
+          "term": "midterms",
+          "explain": "U.S. elections halfway through a president’s term; this year Nov. 3.",
           "aliases": [
-            "索馬利蘭"
+            "midterm elections"
           ]
         },
         {
-          "term": "diplomatic recognition",
-          "explain": "When one country officially accepts another as an independent nation.",
-          "aliases": [
-            "recognition",
-            "recognise"
-          ]
-        },
-        {
-          "term": "Horn of Africa",
-          "explain": "The pointy eastern tip of Africa: Somalia, Ethiopia, Eritrea, Djibouti.",
+          "term": "AP-NORC poll",
+          "explain": "National survey from AP and NORC measuring public opinion.",
           "aliases": []
         },
         {
-          "term": "African Union",
-          "explain": "A group of 55 African countries that works on peace and cooperation.",
-          "aliases": [
-            "AU"
-          ]
-        },
-        {
-          "term": "separatism",
-          "explain": "A movement for a region to break away and form its own country.",
-          "aliases": [
-            "secession",
-            "breakaway"
-          ]
+          "term": "control of Congress",
+          "explain": "Which party holds the House and Senate majorities.",
+          "aliases": []
         }
       ]
     },
@@ -520,48 +416,33 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "House Democrats plan a \"first 100 days\" agenda if they win the House on Nov. 3: health costs, tariffs, Iran war votes",
-      "dek": "Hakeem Jeffries, in line to be speaker, says Democrats would move \"right out of the gate\" on affordability and oversight.",
-      "caveman": "The U.S. midterm elections are on Nov. 3. Democrats hope to win control of the House of Representatives, which they lost in 2023. Their leader, Hakeem Jeffries of New York, would become House speaker if they win. On Wednesday, Oct. 14, AP reported Democrats are preparing a \"100-days\" plan focused on cost of living. Jeffries said Democrats would be united on four things: bringing back Affordable Care Act tax breaks that help pay for health insurance, reversing Republican cuts to Medicaid, holding votes against the Iran war, and undoing President Trump’s tariffs. They plan to start in the first 100 hours after the new Congress is seated in January. They also promise big investigations (\"oversight\") of the Trump administration.",
-      "why_it_matters": "Control of the House decides which bills move and who investigates the president. Prices are voters’ top worry, so both parties are fighting over who can make life cheaper.",
-      "camps": "Democratic moderates (Rep. Nikki Budzinski, New Democrat Coalition) want to prove \"Democrats know how to govern.\" Progressives (Rep. Greg Casar, Progressive Caucus) say they won’t act like the GOP’s hard-right Freedom Caucus: \"The Freedom Caucus breaks things. But if you’re a progressive, you want to pass things.\" Some far-left candidates are backed by the Democratic Socialists of America. Republican camp: Speaker Mike Johnson is campaigning in battlegrounds like Maine and dismisses skeptics who predict GOP losses.",
+      "headline": "White House press secretary Katie Zacharia faces questions over claims she’s a lawyer",
+      "dek": "No clear proof she passed a bar exam; debut briefing lasted about 14 minutes and drew harsh reviews.",
+      "caveman": "New White House press secretary Katie Zacharia is under scrutiny about her résumé. She has long called herself a lawyer while building a career as a conservative TV commentator, but neither she nor the White House has shown evidence she passed a bar exam in any U.S. state — or in China, where she once worked at a large law firm. The questions add to confusion over why President Trump elevated her after only a short stint at his social-media company. Her first briefing on Tuesday lasted about 14 minutes before she steered reporters to ask Trump himself, and reviews were rough.",
+      "why_it_matters": "The press secretary is the daily face of the administration. Credibility fights over credentials can stick and distract from policy.",
+      "camps": "Critics: truth in advertising matters for the podium. Defenders: Trump picks communicators, not résumés. Journalists keep asking for bar records.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/midterm-elections-democrats-affordability-corruption-018019529b14a6b3bc4a343a4e17c44f",
-      "published": "2026-10-14",
+      "source_url": "https://apnews.com/article/katie-zacharia-lawyer-bar-trump-press-secretary-b3b7b9747856bcd11df094f331195119",
+      "published": "2026-10-15",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "House Democratic Leader Hakeem Jeffries speaks at a news conference at the U.S. Capitol, Sept. 30, 2026",
-      "image_credit": "AP Photo/J. Scott Applewhite",
+      "image_alt": "Katie Zacharia at the White House briefing room",
+      "image_credit": "AP Photo/Julia Demaree Nikhinson",
       "terms": [
         {
-          "term": "House majority",
-          "explain": "Having more than half the seats in the House of Representatives, which lets a party run it.",
-          "aliases": [
-            "majority"
-          ]
-        },
-        {
-          "term": "Speaker of the House",
-          "explain": "The leader of the House, chosen by the majority party.",
-          "aliases": [
-            "House speaker"
-          ]
-        },
-        {
-          "term": "Affordable Care Act",
-          "explain": "The 2010 health law (\"Obamacare\") that offers tax help to buy insurance.",
-          "aliases": [
-            "ACA",
-            "Obamacare"
-          ]
-        },
-        {
-          "term": "Medicaid",
-          "explain": "A government health program for low-income people.",
+          "term": "press secretary",
+          "explain": "Official who speaks for the president to reporters nearly every day.",
           "aliases": []
         },
         {
-          "term": "oversight",
-          "explain": "Congress checking and investigating what the president’s government does.",
+          "term": "bar exam",
+          "explain": "Hard test lawyers must pass to practice law in a U.S. state.",
+          "aliases": [
+            "the bar"
+          ]
+        },
+        {
+          "term": "briefing",
+          "explain": "On-camera Q&A session with journalists in the White House press room.",
           "aliases": []
         }
       ]
@@ -570,43 +451,32 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Bonnie Garmus is back — \"Lessons in Chemistry\" author releases \"Peck & Peck,\" a comic novel about poets",
-      "dek": "Out Oct. 13 from Scribner: a broke young poet from Yuba City lands in a feuding 1980s New York poetry dynasty.",
-      "caveman": "Bonnie Garmus wrote \"Lessons in Chemistry,\" a mega-bestseller about a 1960s woman chemist who hosts a TV cooking show — it was also made into an Apple TV series. Her second novel, \"Peck & Peck,\" came out Tuesday, Oct. 13. The hero is Batter Gray, 25, an aspiring poet from Yuba City, California. He gets pulled into the family drama of the Pecks, a strange old New York family that runs a famous poetry magazine and is led, generation after generation, by twins. The current twins are feuding brothers. In an interview with Lit Hub, Garmus said the idea grew from a high-school English teacher who read a poem to the class every day. Decades later she started reading a poem a day again, and now tacks her favorites on her wall. She picked the name \"Peck\" because it can mean a hurt (to peck) or a kiss.",
-      "why_it_matters": "A follow-up to a mega-hit is one of the biggest bets in publishing. This one also brings poetry — usually a small, quiet corner of books — to a huge mainstream audience.",
-      "camps": "Fans’ view: Oprah Daily calls it \"a love story, a workplace romp, a satire with a soft heart for fonts, and an ode to poetry.\" Skeptic’s view: second novels after giant debuts face sky-high expectations; early buzz is not the same as lasting love from readers.",
+      "headline": "HOT: LitHub’s best-reviewed books of the week — Kingsolver’s Partita leads the pack",
+      "dek": "Also featured: Sarah Perry, T. Geronimo Johnson, Nathaniel Philbrick and more.",
+      "caveman": "Literary Hub’s weekly “best reviewed” roundup highlights books critics loved this week. Barbara Kingsolver’s Partita is among the standouts, alongside Sarah Perry’s Death of an Ordinary Man, T. Geronimo Johnson’s The Occidental Book of the Dead, and Nathaniel Philbrick’s The Rush. These lists help U.S. readers decide what to buy when the new-release table feels overcrowded. Kingsolver interviews elsewhere on LitHub also kept her in the conversation.",
+      "why_it_matters": "Review aggregates quietly shape bookstore tables and library holds — especially for literary fiction and narrative nonfiction.",
+      "camps": "Fans celebrate big names still delivering. Smaller-press readers note the same famous authors dominate “best of” lists.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/bonnie-garmus-on-writing-a-coming-of-age-novel-of-poets-and-poetry/",
-      "published": "2026-10-13",
+      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-14/",
+      "published": "2026-10-15",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Author Bonnie Garmus, smiling, in a portrait photo",
-      "image_credit": "Photo by Moya Nolan, via Literary Hub",
+      "image_alt": "Book cover collage for LitHub best-reviewed roundup",
+      "image_credit": "Literary Hub",
       "terms": [
         {
-          "term": "debut novel",
-          "explain": "An author’s first published novel.",
-          "aliases": [
-            "debut"
-          ]
-        },
-        {
-          "term": "literary magazine",
-          "explain": "A magazine that publishes poems, stories and essays.",
-          "aliases": [
-            "quarterly"
-          ]
-        },
-        {
-          "term": "satire",
-          "explain": "Writing that uses humor to poke fun at people or institutions.",
+          "term": "literary fiction",
+          "explain": "Novels that focus on character, language and ideas more than pure plot thrills.",
           "aliases": []
         },
         {
-          "term": "coming-of-age story",
-          "explain": "A story about a young person growing up and finding out who they are.",
-          "aliases": [
-            "coming-of-age"
-          ]
+          "term": "narrative nonfiction",
+          "explain": "True stories told with novel-like scenes and structure.",
+          "aliases": []
+        },
+        {
+          "term": "best-reviewed",
+          "explain": "A roundup of books that professional critics praised this week.",
+          "aliases": []
         }
       ]
     },
@@ -614,38 +484,31 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "NOT: One tiny Minnesota school pulled 80 library books — more than every public school in five states combined",
-      "dek": "Even \"Charlotte’s Web\" and a John Deere kids’ cookbook were taken off the shelves, in a state that passed a law against book bans.",
-      "caveman": "Minnesota passed a law against book bans in public schools. But a new PEN America report shows one small school, North Woods School in Cook, Minnesota (about 500 students, K–12), pulled 80 books from its library last school year. That is more than every other public school in Minnesota, Wisconsin, Iowa, North Dakota and South Dakota combined, the Minnesota Star Tribune reports. What happened? A newly hired library assistant, Quinn Krebsbach, recommended new books and put up a Banned Books Week display. Parents complained, and within a week he was out of a job; he says he was fired. Then the school pulled every book added at his request — including \"Charlotte’s Web,\" \"A Wrinkle in Time,\" \"The Bluest Eye,\" \"Gender Queer,\" Elie Wiesel’s Holocaust memoir \"Night,\" and \"The John Deere Farm-to-Table Kids Cookbook.\" Many filled gaps, like books with Native American and queer characters.",
-      "why_it_matters": "It shows how one complaint can empty shelves even where the law tries to protect them. Nationwide, PEN America counted almost 12,000 banned books last school year, mostly in Texas and Florida.",
-      "camps": "Parents’ side: some said the books, especially ones with sexual content, were not right for young kids — \"the books are banned for a reason,\" one mother wrote. District side: the superintendent says the books were not banned, just removed pending review, and a new library policy now exists. Free-reading side: the American Library Association defines a ban as removing a book after a complaint — which is what happened.",
-      "source_name": "Minnesota Star Tribune",
-      "source_url": "https://www.startribune.com/banned-books-minnesota-school-north-woods/601898240",
-      "published": "2026-10-13",
+      "headline": "NOT: Publishers sue Big Tech over AI — while cutting separate AI deals with the same industry",
+      "dek": "LitHub essay on the split screen: courtroom fights on one hand, licensing experiments on the other.",
+      "caveman": "A Literary Hub essay asks why book and news publishers sue AI companies for scraping copyrighted work — yet also sign or explore AI partnerships. The tension showed up at an Authors Guild-style forum on authorship and AI: writers fear unpaid training data, while business teams fear missing the next platform. The piece argues the industry is playing both offense and defense at once, leaving authors confused about who is on their side.",
+      "why_it_matters": "If lawsuits and licenses both stay messy, writers may see neither fair pay nor clear rules — only faster AI tools trained on their books.",
+      "camps": "Author-rights camp: stop unauthorized training. Deal camp: negotiate licenses or lose distribution. Readers mostly want cheap access and trust.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
+      "published": "2026-10-15",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Photo of the Banned Books Week display at North Woods School in Cook, Minnesota, obtained by records request",
-      "image_credit": "Provided by Quinn Krebsbach, obtained via records request from North Woods School (Minnesota Star Tribune)",
+      "image_alt": "Conceptual image of hands and AI for LitHub essay",
+      "image_credit": "Literary Hub",
       "terms": [
         {
-          "term": "book ban",
-          "explain": "Removing a book from a school or library because someone objected to its content (American Library Association definition).",
-          "aliases": [
-            "banned books"
-          ]
-        },
-        {
-          "term": "PEN America",
-          "explain": "A U.S. writers’ group that defends free expression and tracks book bans.",
+          "term": "copyright",
+          "explain": "Legal right that controls copying and reuse of creative work.",
           "aliases": []
         },
         {
-          "term": "Banned Books Week",
-          "explain": "A yearly campaign by librarians to highlight books that people try to ban.",
+          "term": "training data",
+          "explain": "Text and images fed into AI models so they learn patterns.",
           "aliases": []
         },
         {
-          "term": "intellectual freedom",
-          "explain": "The right to read, seek and share ideas without censorship.",
+          "term": "Authors Guild",
+          "explain": "U.S. advocacy group for writers’ contracts and rights.",
           "aliases": []
         }
       ]
@@ -654,40 +517,33 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "NOT: A U.S. magazine says a prize-winning African short story was probably written by AI — and the backlash grows",
-      "dek": "The Atlantic’s Vauhini Vara cites an AI detector; Zimbabwean writer Simbarashe Steyn Kundizeza says the story is \"entirely my own work.\"",
-      "caveman": "The Caine Prize is the top international prize for a short story by an African writer. This year it went to \"The Blue Fighter\" by Zimbabwean writer Simbarashe Steyn Kundizeza. Last weekend, writer Vauhini Vara, who has long studied AI and writing, published a piece in the U.S. magazine The Atlantic suggesting the story was probably written with AI. An AI-detection program called Pangram flagged almost the whole story as AI-made. Kundizeza strongly denies it and posted a detailed history of how he wrote the story. The Caine Prize says it is looking into it — but with human judgment, not software. Lit Hub, writing on Oct. 14, said it is the third major book prize this year hit by AI accusations, after the Commonwealth Prize and France’s Prix Goncourt.",
-      "why_it_matters": "AI makes people doubt whether any writing is human. That doubt can hurt real writers — and the tools used to judge may not be fair to everyone.",
-      "camps": "Detector-trusting side: Vara says Pangram, by its own and some outside research, is \"very effective.\" Caution side: the prize’s board chair wants \"proof that does not come from a machine\"; Lit Hub notes a 2023 Stanford study found older AI detectors flagged more than half of essays by non-native English writers as AI, and warns accusations can unfairly target writers of color.",
+      "headline": "HOT: Ross Douthat’s YA fantasy moves from Substack serialization to bookstore shelves",
+      "dek": "LitHub flags the conservative columnist’s secondary-world saga heading into traditional publishing.",
+      "caveman": "Literary Hub notes that New York Times opinion columnist Ross Douthat is taking a young-adult fantasy project — first shared in serialized form on Substack — into print bookstores. The tone is half marvel, half side-eye: a high-profile political writer crossing into dragons-and-empires territory. Whatever readers think of his columns, the move shows how Substack can still be a tryout stage for big trade publishing bets in the U.S.",
+      "why_it_matters": "It blurs lines between pundit brand and fiction brand — and tests whether online serialization still converts into hardcover sales.",
+      "camps": "Curious readers: separate art from op-eds. Critics: platform celebrities crowd out career fantasists. Booksellers watch preorders.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
-      "published": "2026-10-14",
+      "source_url": "https://lithub.com/huzzah-ross-douthats-ya-fantasy-novel-is-moving-from-substack-to-bookshelves/",
+      "published": "2026-10-15",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Illustration from Lit Hub’s story on generative AI and literary prizes",
+      "image_alt": "Promotional art for Douthat fantasy publishing news",
       "image_credit": "Literary Hub",
       "terms": [
         {
-          "term": "generative AI",
-          "explain": "AI that creates new text, pictures or sound, like ChatGPT.",
+          "term": "YA",
+          "explain": "Young adult — books aimed mainly at teen readers, often read by adults too.",
           "aliases": [
-            "AI-generated"
+            "young adult"
           ]
         },
         {
-          "term": "AI detector",
-          "explain": "Software that guesses whether writing was made by AI. It can be wrong.",
-          "aliases": [
-            "Pangram"
-          ]
-        },
-        {
-          "term": "Caine Prize",
-          "explain": "A yearly award for the best short story by an African writer.",
+          "term": "Substack",
+          "explain": "Newsletter platform where writers publish directly to paying subscribers.",
           "aliases": []
         },
         {
-          "term": "false positive",
-          "explain": "When a test wrongly says \"yes\" — here, calling human writing AI-made.",
+          "term": "serialization",
+          "explain": "Releasing a story in chapters over time instead of all at once.",
           "aliases": []
         }
       ]
@@ -696,38 +552,31 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Yiyun Li’s new novel \"Music Against the Night\" arrives with huge praise",
-      "dek": "Out Oct. 13 from FSG; Ann Patchett calls it maybe \"the most perfectly constructed, moving, and beautiful novel I’ve ever read.\"",
-      "caveman": "Yiyun Li is a Chinese-born American writer, famous for quiet, sharp books about grief and family. Her new novel, \"Music Against the Night,\" came out Tuesday, Oct. 13, from Farrar, Straus and Giroux. It is a historical novel set in 19th-century Russia. In the opening, published as an excerpt by Lit Hub, it is 1837 in the city of Smolensk. A woman named Adelaide Field learns — late, by letter from her son Adrien — that her famous husband, John, has died in Moscow. They had been apart for decades, and another woman had taken her place. Adelaide is proud, bitter and funny, and imagines showing up at the funeral to embarrass everyone. Lit Hub listed it among the big releases of the week, and The New York Times reviewed it the same day.",
-      "why_it_matters": "Li is one of the most respected literary novelists in the U.S. A buzzy new book from her is likely to show up on fall prize lists and \"best of the year\" lists.",
-      "camps": "Fans’ view: novelist Ann Patchett says \"Yiyun Li is the best of all of us.\" Reader note: judging by the excerpt, it is driven by voice, memory and an unhappy marriage more than by fast plot — readers who want quick action may find it slow.",
+      "headline": "NOT / debate: Can romance novels fix the “straight men don’t read fiction” panic?",
+      "dek": "LitHub revisits the gender reading gap — and whether romance is a on-ramp or a stereotype trap.",
+      "caveman": "LitHub takes on a loud U.S. culture argument: surveys and columns say many straight men have stopped reading novels. Some blame phones; some blame “feminized” book marketing; some blame schools. This essay asks whether romance — the biggest fiction engine in American publishing — could pull men back in, or whether that pitch just repeats stereotypes about who is “allowed” to enjoy feelings on the page. It points to headlines and Times opinion pieces that turned a reading gap into a moral crisis.",
+      "why_it_matters": "If half the population checks out of fiction, democracy’s empathy muscles and bookstores’ survival both weaken. The framing of the “crisis” also shapes which books get funded.",
+      "camps": "Romance advocates: gateways matter, stop shaming the genre. Skeptics: the problem is attention economy, not book covers. Many men already read — quietly.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/music-against-the-night/",
-      "published": "2026-10-13",
+      "source_url": "https://lithub.com/can-romance-novels-solve-the-straight-man-reading-crisis/",
+      "published": "2026-10-15",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Book cover of \"Music Against the Night\" by Yiyun Li",
-      "image_credit": "Farrar, Straus and Giroux (cover), via Literary Hub",
+      "image_alt": "Graphic for LitHub romance and reading-crisis essay",
+      "image_credit": "Literary Hub",
       "terms": [
         {
-          "term": "historical novel",
-          "explain": "Fiction set in a real past time and place.",
+          "term": "romance genre",
+          "explain": "Fiction centered on romantic relationships, often with an emotionally satisfying ending.",
           "aliases": []
         },
         {
-          "term": "excerpt",
-          "explain": "A short piece taken from a longer book.",
+          "term": "reading crisis",
+          "explain": "Media phrase for falling reading rates in a group — here, especially men.",
           "aliases": []
         },
         {
-          "term": "FSG",
-          "explain": "Farrar, Straus and Giroux, a major New York publisher of literary books.",
-          "aliases": [
-            "Farrar, Straus and Giroux"
-          ]
-        },
-        {
-          "term": "blurb",
-          "explain": "A short quote of praise printed on or about a book.",
+          "term": "attention economy",
+          "explain": "System where apps compete for every spare minute of your focus.",
           "aliases": []
         }
       ]
@@ -736,47 +585,31 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Pope Leo is eating, walking and saying Mass after lung cancer surgery — but his Latin America trip is in question",
-      "dek": "Doctors removed the lower lobe of the 71-year-old pope’s right lung; tests on whether the cancer spread are not public yet.",
-      "caveman": "Pope Leo XIV, the first American pope, is 71. On Tuesday, Oct. 13, surgeons at Rome’s Gemelli hospital removed the lower part (lobe) of his right lung. The surgery confirmed lung adenocarcinoma, the most common type of lung cancer. On Wednesday, the Vatican said he was recovering normally: he ate breakfast and lunch, started walking in his room, did breathing therapy, and celebrated Mass in a small chapel set up on the hospital’s 10th floor. A key question is still open: doctors would have tested his lymph nodes to see if the cancer spread, but those results have not been made public. One Rome expert said this kind of surgery usually needs 15 to 20 days to recover. The pope is scheduled to visit Uruguay, Argentina and Peru on Nov. 6–17.",
-      "why_it_matters": "The pope leads about 1.4 billion Catholics, and his health affects church plans worldwide. His story also shows that lung cancer, often found late, can sometimes be caught and operated on early.",
-      "camps": "Hopeful view: a Georgetown lung cancer expert, Dr. Stephen Liu (not his doctor), says adenocarcinoma has the most favorable outlook of lung cancer types — but \"we now need to know the stage.\" Cautious view: Peru’s President Keiko Fujimori said recovery \"will take several weeks, longer than expected\" and the trip could change, though the Vatican has announced no changes. Catholics in Chicago and South America gathered to pray for him.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/vatican-pope-leo-surgery-lung-cancer-08a4aca4e5a6002a1cb9a4ca1ba372cc",
-      "published": "2026-10-14",
+      "headline": "Pakistan school roof collapse kills about 35, injures 50+ — survivors say “the sky fell”",
+      "dek": "Two classrooms at Al-Khair school in Peshawar caved in during lessons; children mostly ages 6–12.",
+      "caveman": "A private school roof collapsed on Oct. 15 in Peshawar, northwestern Pakistan, killing at least 34 students and one teacher and injuring more than 50 people, officials said. AP called it among the country’s worst building collapses. Two classrooms at Al-Khair school fell while grades 2–3 were in session. Hospital staff said victims were mostly ages 6 to 12. Rescue teams said they cleared rubble within hours and found no one else trapped. A teacher described the moment as feeling like the sky falling. Building safety and school construction standards are again under harsh public scrutiny.",
+      "why_it_matters": "Kids died in a place meant to be safe. Weak inspection systems turn “routine school day” into mass casualty events.",
+      "camps": "Grieving families demand accountability from builders and officials. Authorities stress rescue speed — critics ask why the roof failed at all.",
+      "source_name": "中央社 / AP",
+      "source_url": "https://www.cna.com.tw/news/aopl/202610160006.aspx",
+      "published": "2026-10-15",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Pope Leo XIV waves as he arrives at Rome’s Agostino Gemelli Polyclinic for surgery, Oct. 13, 2026",
-      "image_credit": "AP Photo/Alessandra Tarantino",
+      "image_alt": "Rescue scene after Pakistan school roof collapse",
+      "image_credit": "AP Photo via 中央社",
       "terms": [
         {
-          "term": "adenocarcinoma",
-          "explain": "The most common kind of lung cancer; it starts in cells that make mucus.",
-          "aliases": [
-            "lung adenocarcinoma"
-          ]
-        },
-        {
-          "term": "lobe",
-          "explain": "A section of the lung. The right lung has three, the left has two.",
-          "aliases": [
-            "lung lobe"
-          ]
-        },
-        {
-          "term": "lymph nodes",
-          "explain": "Small bean-shaped body parts that filter fluid; doctors check them to see if cancer has spread.",
+          "term": "Peshawar",
+          "explain": "Capital city of Khyber Pakhtunkhwa province in northwestern Pakistan.",
           "aliases": []
         },
         {
-          "term": "cancer stage",
-          "explain": "A number describing how big a cancer is and how far it has spread.",
-          "aliases": [
-            "stage"
-          ]
+          "term": "building collapse",
+          "explain": "When a structure fails and falls, often from bad materials, age or overload.",
+          "aliases": []
         },
         {
-          "term": "Vatican",
-          "explain": "The tiny city-state in Rome where the pope lives and leads the Catholic Church.",
+          "term": "mass casualty",
+          "explain": "Emergency with many dead or injured at once.",
           "aliases": []
         }
       ]
@@ -785,47 +618,33 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Cornell professors move toward a no-confidence vote on their president over a gang-rape report",
-      "dek": "Faculty say the school mishandled a woman’s 2024 report; the president admits he never followed up on what happened to her.",
-      "caveman": "Cornell is a top U.S. university in Ithaca, New York. In October 2024, a woman reported she was gang raped at a fraternity house. Last month, she filed a lawsuit (using the name \"Jane Doe\") against seven members of the Chi Phi fraternity and says Cornell mishandled her complaints. All seven deny it — they say the contact was consensual or that they were not involved. The local prosecutor decided within weeks in 2024 that no crime was committed. In a New York Times interview published Tuesday, President Michael Kotlikoff said he never followed up to learn what happened to her; until recently he did not know she had dropped out. On Wednesday, Oct. 14, he faced angry faculty as the Faculty Senate began debating a no-confidence resolution. Debate continues Oct. 28, followed by an electronic vote.",
-      "why_it_matters": "How colleges handle sexual assault reports affects the safety of millions of students. Survivors often say schools protect their reputation more than victims.",
-      "camps": "Faculty critics: one professor estimated 80% of faculty present had lost confidence, saying years of calls for reform were ignored. President’s side: Kotlikoff has publicly admitted errors and this week banned fraternity parties for the rest of the school year and gave state police a role in investigating assault reports. Accused students: they deny the allegations. A no-confidence vote would be mostly symbolic, but could pressure the trustees who pick the president.",
+      "headline": "Hurricane Trudy strengthens to Category 1 as it aims at Mexico’s Pacific coast",
+      "dek": "About 300 miles southwest of Acapulco; may become a major hurricane Friday with heavy rain for Colima and Jalisco.",
+      "caveman": "Trudy became a Category 1 hurricane on Thursday as it approached Mexico’s Pacific coast, the U.S. National Hurricane Center said. It was about 300 miles (480 km) southwest of Acapulco with winds near 75 mph (120 kph), moving northwest at 9 mph. Forecasters said it could become a major hurricane on Friday and dump 4 to 8 inches of rain through the weekend across Colima and Jalisco. Coastal communities watch for flooding and mudslides. (Separately, Tropical Storm Champi was east of Guam with watches posted for some Mariana Islands.)",
+      "why_it_matters": "Pacific Mexico has seen deadly storm floods before. Early warnings only help if people can move and roads stay open.",
+      "camps": "Emergency managers push prep now. Residents remember past storms and worry about housing on steep slopes.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/cornell-university-gang-rape-michael-kotlikoff-248d753cd06f2f7764c3f0ea1df5c643",
+      "source_url": "https://apnews.com/article/hurricane-trudy-mexico-pacific-6eb987f5a1ef914582d95b07fce244da",
       "published": "2026-10-15",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Students walk through Cornell University’s campus in Ithaca, New York, Oct. 7, 2026",
-      "image_credit": "AP Photo/Matt Burkhartt",
+      "image_alt": "Satellite image of Hurricane Trudy in the Pacific",
+      "image_credit": "NOAA via AP",
       "terms": [
         {
-          "term": "no-confidence vote",
-          "explain": "A vote saying a group no longer trusts its leader.",
-          "aliases": [
-            "no confidence"
-          ]
-        },
-        {
-          "term": "Faculty Senate",
-          "explain": "A group of professors that speaks for teachers in running a university.",
+          "term": "Category 1",
+          "explain": "Lowest hurricane rank on the Saffir-Simpson scale; still dangerous winds and surge.",
           "aliases": []
         },
         {
-          "term": "Title IX",
-          "explain": "A U.S. law banning sex discrimination in schools; it guides how colleges handle sexual assault cases.",
+          "term": "major hurricane",
+          "explain": "Category 3 or higher — much stronger winds and damage potential.",
           "aliases": []
         },
         {
-          "term": "fraternity",
-          "explain": "A social club for (mostly male) college students, often with its own house.",
+          "term": "National Hurricane Center",
+          "explain": "U.S. office that tracks and forecasts Atlantic and eastern Pacific tropical storms.",
           "aliases": [
-            "frat"
-          ]
-        },
-        {
-          "term": "trustees",
-          "explain": "The board that ultimately runs a university and chooses its president.",
-          "aliases": [
-            "board of trustees"
+            "NHC"
           ]
         }
       ]
@@ -834,38 +653,33 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Storm floods kill at least 6 in Mexico; soldiers rescue 32 people, including kids, from an orphans’ camp",
-      "dek": "Remnants of Tropical Storm Rachel flooded Ensenada; Hurricane Simon grew to nearly a major hurricane off the Pacific coast.",
-      "caveman": "Two storms hit Mexico’s Pacific coast. In the northern city of Ensenada, Baja California, rain from the remains of Tropical Storm Rachel caused deadly floods. At least five people died there, including a 13-year-old girl and a 4-year-old boy. Five more people are missing, including a father and son who went fishing. About 300 soldiers, police and rescuers searched a flooded stream. Near Ensenada, soldiers used helicopters to rescue 32 people, including 13 children, from Rancho Genesis, a camp for orphans run by missionaries; 22 of those rescued were foreigners, including Americans and Germans. Farther south, Hurricane Simon reached winds of 110 mph (175 km/h), nearly a major hurricane. Its rain earlier killed a 71-year-old person when a wall fell in Chilpancingo, Guerrero. The total death toll rose to six.",
-      "why_it_matters": "Warmer oceans can make storms wetter and stronger. Poor neighborhoods built near streams often get hit hardest by flash floods.",
-      "camps": "Emergency view: authorities stayed on alert for rising rivers in Nayarit and Sinaloa, and the Navy kept searching for missing fishermen. Residents’ view: one Ensenada resident said the flood came at night after power went out — \"the water was sweeping everything away.\" Forecasters expected Simon to gradually weaken.",
+      "headline": "First new sunscreen chemical in 25 years hits U.S. shelves: bemotrizinol (BEMT)",
+      "dek": "FDA cleared it in June; Neutrogena and others now selling broad-spectrum formulas without the white cast.",
+      "caveman": "For the first time in more than 25 years, Americans can buy sunscreen with a new active chemical: bemotrizinol, also called BEMT. The FDA approved it in June; products from Neutrogena and other brands are arriving in stores. Dermatologists say BEMT blocks both UVA and UVB in one ingredient, with less chalky white streaking than some older filters, and studies show low skin absorption. Europe and other regions have used it for years. Experts stress it is “new to the U.S. aisle,” not an untested molecule.",
+      "why_it_matters": "Better sunscreen that people will actually wear can cut skin-cancer risk. The long FDA lag also shows how slow U.S. cosmetic-drug rules can be.",
+      "camps": "Derms: finally a modern filter. Consumer skeptics: want long U.S. safety follow-up. Brands race for shelf space before summer marketing.",
       "source_name": "AP",
-      "source_url": "https://apnews.com/article/mexico-hurricanes-simon-rachel-pacific-deaths-1276142fb7db0f50d0f61d86ae7fa977",
-      "published": "2026-10-14",
+      "source_url": "https://apnews.com/article/bemotrizinol-bemt-new-sunscreen-ingredient-fda-7892cc598c0b553b8c9c6715d7a36d6a",
+      "published": "2026-10-15",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "People walk on the beach after Hurricane Simon passed Puerto Vallarta, Mexico, Oct. 12, 2026",
-      "image_credit": "AP Photo/Fernando Llano",
+      "image_alt": "Neutrogena Ultra Sheer SPF 70 packaging with bemotrizinol",
+      "image_credit": "Neutrogena via AP",
       "terms": [
         {
-          "term": "remnants",
-          "explain": "What is left of a storm after it weakens — still able to dump heavy rain.",
-          "aliases": []
-        },
-        {
-          "term": "major hurricane",
-          "explain": "A hurricane of Category 3 or higher, with winds of at least 111 mph (178 km/h).",
-          "aliases": []
-        },
-        {
-          "term": "landslide",
-          "explain": "When soil and rock suddenly slide down a hill, often after heavy rain.",
+          "term": "bemotrizinol",
+          "explain": "Chemical UV filter (BEMT) newly allowed in U.S. sunscreens; common abroad for years.",
           "aliases": [
-            "mudslide"
+            "BEMT"
           ]
         },
         {
-          "term": "flash flood",
-          "explain": "A flood that rises very fast, often within hours of heavy rain.",
+          "term": "broad spectrum",
+          "explain": "Label meaning the sunscreen protects against both UVA and UVB rays.",
+          "aliases": []
+        },
+        {
+          "term": "FDA",
+          "explain": "U.S. Food and Drug Administration — regulates drugs and many sunscreen ingredients.",
           "aliases": []
         }
       ]
@@ -874,49 +688,33 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Smoke from Indonesian fires chokes Singapore at \"very high\" levels; East Timor shuts all schools",
-      "dek": "Haze from forest and farm fires in Sumatra and Borneo is spreading across Southeast Asia during an El Niño drought.",
-      "caveman": "Every dry season, fires burn in Indonesia’s forests, many set on purpose to clear land for farming (slash-and-burn), especially on the islands of Sumatra and Borneo. This year a strong El Niño weather pattern made things very dry, and fires have burned hundreds of thousands of hectares. The smoke, called haze, drifts to neighbors. On Wednesday, Oct. 14, air pollution in western Singapore reached the \"very high\" level, the top band on its index. Tiny harmful particles (PM2.5) hit 288 micrograms per cubic meter — the World Health Organization’s guideline for a yearly average is 5. East Timor (Timor-Leste) said it will close all schools for three days starting Thursday, Oct. 15. Haze has also reached Malaysia and the Philippines, AFP reported.",
-      "why_it_matters": "Haze hurts lungs and hearts, especially for kids, older people and those with asthma. It also shows how one country’s land use can harm the health of millions across borders.",
-      "camps": "Health view: at this level, the usual advice is to cut outdoor activity, especially for children and people with lung or heart problems. Context: a strong El Niño drought makes fires spread fast and makes them harder to control. Critics’ view: slash-and-burn land clearing for plantations and farms keeps causing the same disaster year after year, and needs stronger enforcement.",
-      "source_name": "CNA (AFP)",
-      "source_url": "https://www.cna.com.tw/news/aopl/202610140269.aspx",
+      "headline": "Pope Leo XIV has lung adenocarcinoma — what that cancer type means",
+      "dek": "Surgeons removed the lower lobe of his right lung; adenocarcinoma is the most common lung-cancer form and often treatable if caught early.",
+      "caveman": "The Vatican confirmed Pope Leo XIV has lung adenocarcinoma after surgery at Rome’s Gemelli hospital that removed the lower lobe of his right lung. AP’s explainer says adenocarcinoma is the most common kind of lung cancer. Outcomes depend heavily on how early it is found; many cases tied to smoking historically, but nonsmokers can get it too. The pope has been resting in hospital after the operation. Church watchers are also asking what happens to governance if a pope is briefly unable to work — canon law still centers authority in the pope himself.",
+      "why_it_matters": "A pope’s health reshapes Catholic leadership rumors worldwide. The diagnosis also puts a plain-language spotlight on a common cancer.",
+      "camps": "Medical optimism if caught early. Vatican watchers debate transparency vs. privacy. Faithful mostly wish him recovery.",
+      "source_name": "AP",
+      "source_url": "https://apnews.com/article/pope-leo-xiv-lung-cancer-adenocarcinoma-56b1c4fa87864d157eb3999a64f94c87",
       "published": "2026-10-14",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Singapore’s Marina Bay Sands hotel shrouded in haze, Oct. 13, 2026",
-      "image_credit": "Reuters, via CNA",
+      "image_alt": "Pope Leo XIV arriving at Gemelli hospital in Rome",
+      "image_credit": "AP Photo",
       "terms": [
         {
-          "term": "haze",
-          "explain": "Smoky, dirty air caused by fires, which can drift across countries.",
-          "aliases": [
-            "smoke haze"
-          ]
-        },
-        {
-          "term": "PM2.5",
-          "explain": "Tiny particles in the air small enough to go deep into the lungs and blood.",
-          "aliases": [
-            "fine particles"
-          ]
-        },
-        {
-          "term": "El Niño",
-          "explain": "A Pacific Ocean warming pattern that brings drought to Southeast Asia.",
+          "term": "adenocarcinoma",
+          "explain": "A cancer that starts in gland-like cells; the most common lung-cancer type.",
           "aliases": []
         },
         {
-          "term": "slash-and-burn",
-          "explain": "Clearing land by cutting and burning plants, often to plant crops.",
-          "aliases": [
-            "land clearing"
-          ]
+          "term": "lobe",
+          "explain": "One section of a lung; humans have three lobes on the right, two on the left.",
+          "aliases": []
         },
         {
-          "term": "WHO guideline",
-          "explain": "Air-quality levels the World Health Organization says are safe for health.",
+          "term": "Gemelli",
+          "explain": "Major hospital in Rome that often treats popes.",
           "aliases": [
-            "WHO"
+            "Agostino Gemelli Polyclinic"
           ]
         }
       ]
