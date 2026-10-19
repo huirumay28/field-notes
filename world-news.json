@@ -1,47 +1,56 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-16T08:00:00+08:00",
-  "notes": "Friday 16 Oct 2026 world issue (Taipei ~08:00). Mostly Oct 15 U.S./world news: TSMC record quarter and raised outlook; Dow jumps as investors rotate from AI; U.S. PPI hot at 6.3%; Foxconn pours cash into U.S. AI manufacturing. Tech: Google News AI licenses 400+ publishers incl. CNN; AP-NORC says most Americans think AI is too fast; Verge on explosive AI-safety research scene; Germany eyes Nvidia industrial AI deal. Politics: Oregon elementary shooting; Ukraine hits Russian refinery after feeling betrayed by Trump; voters want midterm change; press secretary Katie Zacharia faces lawyer-credential questions. Literature (USA): LitHub best-reviewed books (Kingsolver etc.); publishers sue Big Tech yet embrace AI; Ross Douthat’s YA fantasy to shelves; romance novels and the “men don’t read” debate. Social: Pakistan school roof collapse; Hurricane Trudy nears Mexico; first new U.S. sunscreen chemical in 25 years; Pope Leo’s lung adenocarcinoma explained. Sources: AP, CNBC, CNA/AFP/Reuters, Google blog, The Verge, Literary Hub.",
+  "fetched_at": "2026-10-19T08:00:00+08:00",
+  "notes": "Monday 19 Oct 2026 world issue (Taipei ~08:00). Window: Fri 16 Oct through Sun 18 Oct (U.S./Europe time). Finance: Nasdaq’s worst week since June as AI chips slide; U.S. deficit near $2T; Europeans walk out on Russia at IMF Bangkok; Microsoft drops Essex AI data center over power. Tech (USA): Instagram downs No Kings account during rallies; Anthropic red team’s smart-TV AI worm; AI wearables vs wiretap laws; Musk settles $1M giveaway suits. Politics: France unrest (2,400 arrests); Trump pauses Russia sanctions, Starshield row; settlers attack European diplomats in West Bank; update—Homan says Omar could be denaturalized. Literature (USA): Allende wins Premio Planeta under a pen name; LitHub best-reviewed (Yiyun Li); horror-only bookstore; American Girl’s grown-up Samantha. Social: update—Oregon school shooting victims named; Canadian base fire kills 4; Kolkata Durga Puja crush; farmworker heat protections. Sources: Guardian, NPR, CNBC, BBC, Investopedia/Yahoo Finance, Literary Hub.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "TSMC posts another record quarter and raises 2026 sales-growth target to about 44%",
-      "dek": "Q3 profit NT$763.1 billion; Q4 revenue guided at $52.3–$54.3 billion. AI chip demand still roaring.",
-      "caveman": "Taiwan Semiconductor Manufacturing Co. (TSMC), the world’s biggest contract chipmaker, reported a record third-quarter profit on Thursday, Oct. 15. Net profit was about NT$763.1 billion, up 68.7% from a year earlier, beating estimates. Revenue was about NT$1.49 trillion (roughly $46.7 billion in dollars). The company said AI demand remains strong. For the fourth quarter it expects revenue between $52.3 billion and $54.3 billion — about 14% higher than Q3 at the midpoint. It also raised its full-year 2026 dollar revenue growth outlook to about 44%, higher than the “slightly above 40%” target from July. Operating margin in Q3 was 58.7%. Even so, global tech stocks stayed nervous the same day because of inflation and AI-financing worries.",
-      "why_it_matters": "TSMC makes advanced chips used in phones, PCs and AI servers. Its guidance is a global weather report for the AI boom — and for supply chains from Taiwan to Arizona.",
-      "camps": "Bull camp: numbers and outlook say AI demand is real and still accelerating. Bear camp: markets fear valuations and higher rates more than they celebrate good earnings — so the stock can fall on a “good” day.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "published": "2026-10-15",
+      "headline": "Nasdaq has its worst week since June as AI chip stocks keep sliding",
+      "dek": "Friday: Nasdaq −2.1%, S&P 500 −1.1%. Oil back above $100. Traders now see a December rate hike as very likely.",
+      "caveman": "U.S. stocks ended a rough week on Friday (Oct 16). The tech-heavy Nasdaq fell 2.1% to 26,140, the S&P 500 fell 1.1% to 7,659, and the Dow slipped 0.3% to 52,002. For the week, the Nasdaq lost about 4.5%, its worst week since June; the S&P 500 lost about 2%, while the Dow actually rose 0.7%. Chip and AI stocks took the biggest hits: AI cloud company CoreWeave dropped about 12%, and Micron and Intel each fell more than 5%. Why? Investors are nervous that AI companies are borrowing huge amounts to build data centers, and that prices are still rising too fast. Fed chair Kevin Warsh gave no hint about rates in a speech, and futures markets put the chance of a rate hike in December at about 89%. The 10-year Treasury yield sat near 5.09%, and U.S. oil (WTI) jumped 3.4% to about $101 a barrel.",
+      "why_it_matters": "When a few giant AI stocks make up a big slice of the market, their slide drags down retirement funds for everyone. It also hit Asia: Taiwan’s market fell 4.47% last week, and the U.S. chip index’s weekly plunge points to more pressure on Monday.",
+      "camps": "Worried view: borrowing-fueled AI spending plus high oil and high rates is a fragile mix. Calmer view: the Dow rose for the week, showing money is rotating into other stocks rather than fleeing. Analyst Melissa Brown of SimCorp warned that when the top stocks are about 40% of the index, a pullback in them hits the whole market.",
+      "source_name": "Investopedia (via Yahoo Finance)",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html",
+      "published": "2026-10-16",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "TSMC logo on a wall in Hsinchu, Taiwan",
-      "image_credit": "REUTERS/Ann Wang via CNBC",
+      "image_alt": "Traders work on the floor of the New York Stock Exchange",
+      "image_credit": "Michael Nagle / Bloomberg via Getty Images",
       "terms": [
         {
-          "term": "TSMC",
-          "explain": "Taiwan Semiconductor Manufacturing Company — the factory that builds chips designed by other firms.",
+          "term": "Nasdaq",
+          "explain": "A U.S. stock index full of tech companies.",
           "aliases": [
-            "Taiwan Semiconductor"
+            "Nasdaq Composite"
           ]
         },
         {
-          "term": "guidance",
-          "explain": "A company’s own forecast for future sales or profits.",
-          "aliases": []
-        },
-        {
-          "term": "operating margin",
-          "explain": "How much profit is left from sales after running the business, before some other costs.",
-          "aliases": []
-        },
-        {
-          "term": "contract chipmaker",
-          "explain": "A company that manufactures chips for other brands instead of selling its own chip designs.",
+          "term": "S&P 500",
+          "explain": "An index of 500 big U.S. companies; a common measure of “the market.”",
           "aliases": [
-            "foundry"
+            "S&P"
           ]
+        },
+        {
+          "term": "Treasury yield",
+          "explain": "The interest rate the U.S. government pays to borrow. Higher yields make loans pricier for everyone.",
+          "aliases": [
+            "10-year yield"
+          ]
+        },
+        {
+          "term": "rate hike",
+          "explain": "When the central bank raises interest rates to cool prices.",
+          "aliases": [
+            "hike"
+          ]
+        },
+        {
+          "term": "WTI",
+          "explain": "West Texas Intermediate, the main U.S. oil price benchmark.",
+          "aliases": []
         }
       ]
     },
@@ -49,41 +58,45 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Dow jumps more than 500 points as investors rotate away from AI names",
-      "dek": "S&P 500 +0.3%, Dow +1.1%, Nasdaq +0.1%. Morning Asia sell-off faded; U.S. company profits helped.",
-      "caveman": "U.S. stocks finished mostly higher on Thursday, Oct. 15. The Dow Jones Industrial Average rose 556.21 points, or 1.1%, to 52,177.69. The S&P 500 rose 0.3% to 7,744.06. The Nasdaq edged up 0.1%. Early in the day, Asia markets tumbled on AI-boom worries. Later, some AI stocks recovered losses, and strong profit reports from other U.S. companies pulled money into non-AI shares — a “rotation.” Traders also digested fresh U.S. inflation-related data. For the week, the Nasdaq was still down about 2.4% even after Thursday’s bounce.",
-      "why_it_matters": "When investors rotate out of AI, chip and server stocks can swing hard — including in Asia the next morning. Retirement accounts heavy in Big Tech feel it too.",
-      "camps": "Relief camp: breadth improved when non-AI stocks led. Caution camp: one up day does not erase hot inflation or AI funding stress.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f0a4f8aa60a6a24237c419aba38f31fd",
-      "published": "2026-10-15",
+      "headline": "U.S. budget gap hits nearly $2 trillion, the third-biggest ever",
+      "dek": "Spending was $7.4 trillion, tax money in was $5.4 trillion. Interest on the debt alone topped $1 trillion.",
+      "caveman": "The U.S. government spends more than it takes in. That gap is called the deficit. For the budget year that ended Sept. 30, the deficit was about $1.99 trillion, up 12% from $1.78 trillion the year before, CNBC reported (Oct 16). It is the third-largest deficit in U.S. history. The government took in about $5.4 trillion and spent about $7.4 trillion. Big costs: Social Security (about $1.7 trillion), Medicare (about $1.1 trillion), and interest on old debt (more than $1 trillion). Total national debt is now above $40 trillion. Money from corporate taxes fell by about $70 billion, partly because of tax cuts in the “One Big Beautiful Bill.” The government also had to refund about $145 billion in tariffs after a Supreme Court ruling, Reuters reported.",
+      "why_it_matters": "Paying over $1 trillion a year in interest means less money for schools, health care or anything else. Big deficits can also push interest rates up for mortgages and car loans.",
+      "camps": "Administration view: Treasury Secretary Scott Bessent says the plan is to “grow our way out” of the debt with a faster economy. Critics’ view: budget watchers say tax cuts plus rising interest costs make the hole deeper, and someone will have to raise taxes or cut spending later.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "published": "2026-10-16",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Wall Street trading floor or market scene (file)",
-      "image_credit": "Photo via 中央社 / market file",
+      "image_alt": "A display showing the U.S. national debt in Washington, D.C.",
+      "image_credit": "Getty Images via CNBC",
       "terms": [
         {
-          "term": "rotation",
-          "explain": "When investors sell one popular group of stocks and buy another.",
+          "term": "deficit",
+          "explain": "How much more a government spends than it collects in one year.",
           "aliases": [
-            "rotate"
+            "budget deficit"
           ]
         },
         {
-          "term": "Dow Jones",
-          "explain": "A stock index of 30 big U.S. companies; often called “the Dow.”",
+          "term": "national debt",
+          "explain": "All the money the government has borrowed over the years and not paid back.",
           "aliases": [
-            "Dow"
+            "debt"
           ]
         },
         {
-          "term": "S&P 500",
-          "explain": "Index of about 500 large U.S. companies — the main market scoreboard.",
-          "aliases": []
+          "term": "fiscal year",
+          "explain": "The government’s budget year; for the U.S. it runs Oct. 1 to Sept. 30.",
+          "aliases": [
+            "budget year"
+          ]
         },
         {
-          "term": "Nasdaq",
-          "explain": "Exchange and index heavy with technology companies.",
-          "aliases": []
+          "term": "tariff",
+          "explain": "A tax on imported goods.",
+          "aliases": [
+            "tariffs"
+          ]
         }
       ]
     },
@@ -91,42 +104,40 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. producer prices jump 6.3% year-over-year — hottest PPI reading since late 2022",
-      "dek": "September PPI rose 1.3% in one month. Energy from the Middle East conflict helped push costs up.",
-      "caveman": "On Thursday, Oct. 15, the U.S. government said the Producer Price Index (PPI) — prices companies get for goods and services — was 6.3% higher in September than a year earlier. That was much hotter than economists expected (about 5.5%) and the biggest yearly jump since December 2022. Month to month, PPI rose 1.3%, the most since March 2022. Energy costs were a big driver after Middle East fighting tightened oil supply. A version that leaves out food, energy and trade services still rose 0.5% on the month and 5% on the year. This comes right after a hot consumer inflation report earlier in the week.",
-      "why_it_matters": "Producer prices often feed into store prices later. Hot PPI plus hot CPI makes another Federal Reserve rate hike feel more possible — which can shake stocks and mortgages.",
-      "camps": "Hawkish camp: inflation is broadening beyond the checkout line. Wait camp: some of this is war-driven energy, so it could cool if oil settles — but “core” pieces are not quiet either.",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/aopl/202610150346.aspx",
-      "published": "2026-10-15",
+      "headline": "Bank of England chief and Europeans walk out on Russia’s finance minister at IMF meeting",
+      "dek": "Nearly half the room left when Anton Siluanov spoke in Bangkok; the U.S. said Russia should stay at the table.",
+      "caveman": "The International Monetary Fund (IMF) is like a global emergency bank for countries. At its meeting in Bangkok, Thailand, Bank of England governor Andrew Bailey and officials from France, Germany, Scandinavia and the Baltic states walked out when Russia’s finance minister, Anton Siluanov, started to speak, the Guardian reported (Oct 17). It was a protest over Russia’s war in Ukraine. Germany’s central bank chief Joachim Nagel said nearly half of the delegates left. The United States did not join; its representative supported Russia being present. The meeting’s chair, Saudi finance minister Mohammed al-Jadaan, warned that countries’ financial “buffers have been eroded” by years of shocks.",
+      "why_it_matters": "The walkout shows the West is split over how to treat Russia, as Washington takes a softer line. It also happened as the world economy faces high oil prices and war risks.",
+      "camps": "Walkout supporters: you shouldn’t give a stage to a country waging war on its neighbor. U.S. position: keep Russia in the room so talks can continue. Critics of the walkout argue global economic bodies work only if everyone can speak.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "published": "2026-10-17",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Factory or wholesale price related file photo",
-      "image_credit": "Photo: 中央社（檔案／外電）",
+      "image_alt": "Delegates at the IMF and World Bank meetings in Bangkok",
+      "image_credit": "Rungroj Yongrit / EPA (via The Guardian)",
       "terms": [
         {
-          "term": "PPI",
-          "explain": "Producer Price Index — tracks prices at the wholesale / company level, before retail.",
+          "term": "IMF",
+          "explain": "International Monetary Fund: lends to countries in trouble and watches the world economy.",
           "aliases": [
-            "producer price index"
+            "International Monetary Fund"
           ]
         },
         {
-          "term": "CPI",
-          "explain": "Consumer Price Index — tracks prices people pay in stores.",
+          "term": "central bank",
+          "explain": "A country’s main bank that sets interest rates, like the Bank of England.",
           "aliases": [
-            "consumer inflation"
+            "Bank of England"
           ]
         },
         {
-          "term": "Federal Reserve",
-          "explain": "The U.S. central bank that sets key interest rates.",
-          "aliases": [
-            "Fed"
-          ]
+          "term": "walkout",
+          "explain": "Leaving a meeting on purpose as a protest.",
+          "aliases": []
         },
         {
-          "term": "rate hike",
-          "explain": "When the central bank raises interest rates to cool inflation.",
+          "term": "buffers",
+          "explain": "Savings and safety cushions governments keep for bad times.",
           "aliases": []
         }
       ]
@@ -135,34 +146,38 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Foxconn commits about $537 million more to U.S. AI manufacturing footprint",
-      "dek": "Subsidiary deal for Q-Edge shares; company calls it a long-term investment as U.S. customers want local AI gear.",
-      "caveman": "Hon Hai (Foxconn), the giant electronics manufacturer, said Thursday it will invest about $537 million (around NT$17.3 billion) through a subsidiary to acquire shares in Q-Edge Corporation. Foxconn framed it as a long-term investment. Analysts link the move to building more AI-server and related manufacturing capacity inside the United States, where big cloud customers increasingly want equipment built closer to home. Foxconn already has major U.S. projects; this adds more capital to that bet. Details such as exact ownership stake and factory timelines were not fully spelled out in the filing summary.",
-      "why_it_matters": "AI is not only a chip story — it is also a “who builds the boxes” story. Money shifting to U.S. plants affects Taiwan exports, American jobs politics, and Foxconn’s future profits.",
-      "camps": "Pro-localization camp: follow the customer or lose the order. Skeptic camp: U.S. manufacturing is costly; returns depend on subsidies and steady AI demand.",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/afe/202610150345.aspx",
-      "published": "2026-10-15",
+      "headline": "Microsoft drops huge AI data center near London because the power grid can’t deliver until the 2030s",
+      "dek": "The Essex site, planned with Nvidia-backed Nscale, couldn’t get electricity soon enough.",
+      "caveman": "AI needs giant buildings full of computers, called data centers, and they eat lots of electricity. Microsoft has pulled out of a planned AI data center at Loughton in Essex, near London, run by the British company Nscale, the Guardian reported (Oct 18). The local grid operator, UK Power Networks, could not supply enough power until the early-to-mid 2030s. The site was still being used as a scaffolding yard as recently as March. Nscale, which is backed by Nvidia and is reportedly eyeing a stock market listing at a valuation of about $35 billion, said it remains committed to the project. Microsoft is still working with Nscale on a project in Norway.",
+      "why_it_matters": "It shows the real limit on the AI boom isn’t only chips—it’s electricity. Countries that can’t build power lines fast enough may lose investment.",
+      "camps": "Pro-build view: the UK wants to be an AI hub and must speed up grid connections. Skeptical view: data centers strain power and water, and locals ask who benefits. Investors watch whether AI projects announced with fanfare actually get built.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "published": "2026-10-18",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Foxconn manufacturing related file photo",
-      "image_credit": "Photo: 中央社（檔案照片）",
+      "image_alt": "Artist’s impression of the planned Nscale data center at Loughton, Essex (a rendering, not a photo)",
+      "image_credit": "Nscale (via The Guardian)",
       "terms": [
         {
-          "term": "Foxconn",
-          "explain": "Trade name for Hon Hai Precision — major assembler of electronics for global brands.",
+          "term": "data center",
+          "explain": "A huge building full of computer servers that run apps and AI.",
           "aliases": [
-            "Hon Hai"
+            "datacentre"
           ]
         },
         {
-          "term": "AI server",
-          "explain": "Powerful computers packed into racks to run artificial-intelligence workloads.",
-          "aliases": []
+          "term": "power grid",
+          "explain": "The network of power plants and lines that delivers electricity.",
+          "aliases": [
+            "grid"
+          ]
         },
         {
-          "term": "localization",
-          "explain": "Building products in the same country where customers operate, not only overseas.",
-          "aliases": []
+          "term": "IPO",
+          "explain": "Initial public offering: when a company first sells shares on the stock market.",
+          "aliases": [
+            "listing"
+          ]
         }
       ]
     },
@@ -170,33 +185,38 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Google says 400+ publishers — including CNN — now join its News AI licensing pilot",
-      "dek": "Axios, Financial Times and Forbes among new partners. Google pays for content used in AI features with attribution.",
-      "caveman": "Google said on Oct. 15 that more than 400 news publications worldwide are now in its News AI pilot. New partners include CNN (owned by Paramount Skydance after the Warner Bros. Discovery deal), Axios, the Financial Times and Forbes, plus local U.S. outlets. Google pays publishers to license content for generative-AI features — for example, article overviews on Google News pages and audio briefings — with attribution and links back to the source. The program started last year with partners such as The Washington Post. Financial terms were not disclosed. CNN called it a way to reach audiences through Google’s AI tools.",
-      "why_it_matters": "This is one answer to the fight over AI companies using news without paying. It also shows big platforms trying to lock in licensed content before regulation forces messier rules.",
-      "camps": "Publisher camp: better to get paid and linked than scraped for free. Critic camp: deals may favor giants; smaller outlets and independence questions remain.",
-      "source_name": "Google Blog / 中央社",
-      "source_url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
-      "published": "2026-10-15",
+      "headline": "Instagram shuts down the No Kings protest account for hours during Saturday rallies",
+      "dek": "Meta says an automatic anti-bot system made a mistake; Democratic senators aren’t buying the timing.",
+      "caveman": "No Kings is a protest movement against President Trump. On Saturday (Oct 17), it held rallies tied to early voting, including at the Lincoln Memorial in Washington, in Atlanta and in Los Angeles. During the protests, its Instagram account went offline for hours, the Guardian reported (Oct 18). Meta apologized. Spokesperson Andy Stone said bursts of very high activity made its AI tool mistake the account for bot traffic, that the automated action was “clearly taken in error,” and that the account was restored. Sen. Bernie Sanders blamed “billionaire ownership of the media,” and Sen. Chris Murphy called for an investigation.",
+      "why_it_matters": "A handful of tech companies control where Americans talk politics. Even an honest mistake at the wrong moment can silence a movement, which is why people demand transparency.",
+      "camps": "Meta’s view: automated systems remove millions of fake accounts, and errors happen and get fixed. Organizers’ and critics’ view: “Meta owes us an explanation,” the group said; a mistake that silences protesters at the worst moment raises censorship fears. Neutral point: there’s no public evidence yet that it was deliberate.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "published": "2026-10-18",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Google or news AI partnership related image",
-      "image_credit": "Photo: 中央社／Google",
+      "image_alt": "Demonstrators at a No Kings rally in New York",
+      "image_credit": "Madison Swart / AP (via The Guardian)",
       "terms": [
         {
-          "term": "generative AI",
-          "explain": "Software that writes text, images or audio from prompts.",
-          "aliases": [
-            "GenAI"
-          ]
-        },
-        {
-          "term": "licensing",
-          "explain": "Paying for the right to use someone else’s content under agreed rules.",
+          "term": "No Kings",
+          "explain": "A U.S. protest movement opposing what it calls authoritarian moves by President Trump.",
           "aliases": []
         },
         {
-          "term": "attribution",
-          "explain": "Showing who created the original article and linking to it.",
+          "term": "Meta",
+          "explain": "The company that owns Facebook, Instagram and WhatsApp.",
+          "aliases": []
+        },
+        {
+          "term": "bot",
+          "explain": "An automated fake account run by software.",
+          "aliases": [
+            "anti-bot"
+          ]
+        },
+        {
+          "term": "early voting",
+          "explain": "Voting before Election Day at set locations.",
           "aliases": []
         }
       ]
@@ -205,31 +225,38 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Most Americans say AI is developing “too fast,” AP-NORC poll finds",
-      "dek": "64% say too fast; about 8 in 10 want government to keep AI under human control and protect workers.",
-      "caveman": "A new AP-NORC poll finds 64% of Americans think artificial intelligence is developing “too fast,” while 27% say the pace is “about right” and only 8% say “too slow.” About 8 in 10 U.S. adults say it is extremely or very important for the government to keep AI under human control and to protect workers. Many also care about environmental harm and the economy; fewer prioritize competing with China. Worry crosses party lines, even as President Trump pushes against slowing AI for fear China will pull ahead. Some AI company leaders themselves have called for a slowdown so rules can catch up.",
-      "why_it_matters": "Public fear shapes elections, city fights over data centers, and whether Congress writes AI laws. Polls this clear make “go faster” politics harder to sell.",
-      "camps": "Safety-first camp: slow down and regulate. Acceleration camp: pause and China wins. Many voters just want jobs and electric bills protected.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/artificial-intelligence-ai-poll-trump-democrats-republicans-9ce5531b7ea53234c4e600f8c0e9cf27",
-      "published": "2026-10-15",
+      "headline": "Anthropic’s red team built an AI “worm” that hopped across smart TVs",
+      "dek": "The test showed AI could soon spread on its own across devices; experts say it could be possible within months.",
+      "caveman": "A “worm” is a computer virus that copies itself from one device to another by itself. AI company Anthropic’s red team—people hired to attack their own systems to find dangers—built an experimental AI worm that spread across smart TVs, even splitting its work across 15 TVs, the Guardian reported (Oct 18). The team says this kind of attack could become practical by the end of this year. Security veterans, including Joshua Saxe (formerly of Meta) and Chris Inglis (former deputy director of the NSA), told the paper that cheap internet-connected gadgets with weak security could become hiding places for AI attackers.",
+      "why_it_matters": "Your TV, doorbell or fridge may be the weakest door into your home network. AI that can spread on its own would make old security problems much bigger.",
+      "camps": "Alarmed view: AI makes hacking faster and cheaper, and gadget makers aren’t ready. Defenders’ view: testing it first is how you build defenses before criminals do. Skeptics say lab demos don’t always become real-world attacks quickly.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "published": "2026-10-18",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "People holding signs about AI restrictions at a New York hearing",
-      "image_credit": "AP Photo",
+      "image_alt": "Televisions on display at an electronics show",
+      "image_credit": "Kim Kyung-Hoon / Reuters (via The Guardian)",
       "terms": [
         {
-          "term": "AP-NORC",
-          "explain": "Joint polling project of The Associated Press and the NORC research center at the University of Chicago.",
+          "term": "worm",
+          "explain": "Malware that spreads from device to device on its own.",
+          "aliases": [
+            "computer worm"
+          ]
+        },
+        {
+          "term": "red team",
+          "explain": "Experts who attack their own organization’s systems to find weaknesses.",
           "aliases": []
         },
         {
-          "term": "frontier AI",
-          "explain": "The most powerful, cutting-edge AI models.",
+          "term": "smart TV",
+          "explain": "A TV connected to the internet that runs apps.",
           "aliases": []
         },
         {
-          "term": "data center",
-          "explain": "Huge buildings full of computers that power cloud and AI services; they use lots of electricity.",
+          "term": "NSA",
+          "explain": "National Security Agency, the U.S. spy agency for electronic signals.",
           "aliases": []
         }
       ]
@@ -238,34 +265,36 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Inside the suddenly explosive world of AI safety research",
-      "dek": "The Verge on “war room” gatherings of safety labs as frontier models get more capable — and politics heat up.",
-      "caveman": "The Verge’s AI desk reports on a fast-changing AI-safety scene: researchers from labs that stress-test powerful models have been gathering in intense “war room” style meetings to probe how systems might break rules or escape control. Once a niche worry, AI safety is now tangled with company rivalry, government hearings and election-year politics. The piece maps players such as METR, Redwood Research and safety teams tied to OpenAI and Anthropic — groups that try to measure dangerous capabilities before products ship. The tone: the science is urgent, the funding and politics are messy, and the public only sees fragments.",
-      "why_it_matters": "If safety tests are weak, risky systems can reach users first. If tests are strong but ignored, warnings become theater. Either way, the rules for AI are being written in real time.",
-      "camps": "Safety researchers: measure before you scale. Product teams: delay kills competition. Public: wants protection without understanding the jargon.",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "published": "2026-10-15",
+      "headline": "AI gadgets that record everything may run into old U.S. wiretap laws",
+      "dek": "New AI pins and watches summarize your day. In some states, recording people without consent can be illegal.",
+      "caveman": "A new wave of AI wearables listens all day and writes summaries for you. CNBC (Oct 18) points to Amazon’s new Bee Frontier and Bee Eclipse, launched last week, Apple Watch Series 12’s Siri “recap” feature, and Meta’s smart glasses. The problem: many U.S. states have wiretap laws that require everyone in a conversation to agree before it’s recorded. Massachusetts has an especially broad definition. Lawyer Colin Zick of Foley Hoag explained the legal risk, and Tufts University engineering professor Karen Panetta urged people to “embrace with caution.”",
+      "why_it_matters": "If your coworker’s pin is recording your lunch chat, your words may end up in a company’s cloud. Laws written for phone taps are now being tested by AI gadgets.",
+      "camps": "Makers’ view: these tools help memory, accessibility and productivity. Privacy view: people around you never agreed to be recorded. Legal view: the rules vary state by state, and courts haven’t settled how they apply.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "published": "2026-10-18",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Illustration related to AI safety reporting",
-      "image_credit": "The Verge",
+      "image_alt": "Crowds of travelers in Moynihan Train Hall in New York",
+      "image_credit": "Getty Images via CNBC",
       "terms": [
         {
-          "term": "AI safety",
-          "explain": "Research on stopping AI systems from causing large-scale harm or escaping human control.",
-          "aliases": []
-        },
-        {
-          "term": "capability evaluation",
-          "explain": "Tests that check what a model can do — including dangerous tasks.",
+          "term": "wearable",
+          "explain": "A gadget you wear, like a smartwatch, pin or glasses.",
           "aliases": [
-            "evals"
+            "AI wearables"
           ]
         },
         {
-          "term": "Anthropic",
-          "explain": "U.S. AI company known for the Claude models and a strong safety brand.",
+          "term": "wiretap law",
+          "explain": "A law against secretly recording or listening to conversations.",
           "aliases": []
+        },
+        {
+          "term": "consent",
+          "explain": "Agreement or permission.",
+          "aliases": [
+            "two-party consent"
+          ]
         }
       ]
     },
@@ -273,33 +302,42 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Germany plans wide Nvidia partnership to push “physical AI” into factories",
-      "dek": "Handelsblatt: deal could be unveiled next week in Berlin; Jensen Huang expected; hundreds of millions of euros.",
-      "caveman": "German business paper Handelsblatt, citing people familiar with the plan, said Germany intends to sign a broad cooperation deal with Nvidia to speed AI use in German industry. The announcement may come next week at an “Invest in Germany” event in Berlin, with Nvidia CEO Jensen Huang expected. Goals include building tools for “physical AI” — AI that helps robots and self-driving machines learn about the real world — and helping industry train strong AI models. Investment could reach hundreds of millions of euros. A related German effort called SOOFI aims at sovereign open-source foundation models with universities and companies. The German government had not officially confirmed details when the report landed.",
-      "why_it_matters": "Europe worries about depending on U.S. AI stacks. A state-backed Nvidia deal would show how countries try to buy speed without fully owning the chips.",
-      "camps": "Industrial boosters: partner with the best GPU maker now. Sovereignty camp: paying Nvidia may deepen dependence even while labeling projects “sovereign.”",
-      "source_name": "中央社",
-      "source_url": "https://www.cna.com.tw/news/ait/202610160005.aspx",
-      "published": "2026-10-16",
+      "headline": "Musk settles lawsuits over his $1 million-a-day election giveaway",
+      "dek": "Plaintiffs said the 2024 swing-state “lottery” misled voters. Terms weren’t disclosed and need court approval.",
+      "caveman": "Before the 2024 election, Elon Musk’s America PAC handed out $1 million a day to people who signed a petition in seven swing states. Arizona residents later sued, saying voters were misled into signing by the promise of $1 million a day to “randomly selected” signers. Musk and the PAC have now settled two class-action lawsuits, the Guardian reported (Oct 17). The two proposed class actions were in federal court in Austin, Texas; the settlements still need a judge’s approval, and a judge had ordered Musk to testify in June. The settlement terms were not made public.",
+      "why_it_matters": "Very rich donors can reshape elections with giveaways like this. The settlement avoids a trial, so the public may never hear all the details.",
+      "camps": "Critics: the contest blurred the line between campaigning and paying voters. Musk’s side has argued the payments were legal, and a settlement isn’t an admission of wrongdoing.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "published": "2026-10-17",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Computing hardware related to AI accelerators",
-      "image_credit": "Photo via The Verge / file",
+      "image_alt": "Elon Musk and Donald Trump at an event on October 8, 2026",
+      "image_credit": "Julia Demaree Nikhinson / AP (via The Guardian)",
       "terms": [
         {
-          "term": "Nvidia",
-          "explain": "U.S. company whose chips power most large AI training systems.",
+          "term": "PAC",
+          "explain": "Political action committee: a group that raises and spends money on elections.",
           "aliases": [
-            "輝達"
+            "America PAC"
           ]
         },
         {
-          "term": "physical AI",
-          "explain": "AI aimed at robots, cars and machines that move in the physical world — not only chatbots.",
-          "aliases": []
+          "term": "class action",
+          "explain": "One lawsuit filed on behalf of a whole group of people with the same complaint.",
+          "aliases": [
+            "class-action"
+          ]
         },
         {
-          "term": "sovereign AI",
-          "explain": "When a country tries to control its own models, data and compute instead of renting everything abroad.",
+          "term": "settlement",
+          "explain": "An agreement to end a lawsuit without a trial.",
+          "aliases": [
+            "settle"
+          ]
+        },
+        {
+          "term": "swing state",
+          "explain": "A state that could vote for either party.",
           "aliases": []
         }
       ]
@@ -308,32 +346,34 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Shooting at Oregon elementary school: multiple victims; shooter dead — AP says 5 believed dead",
-      "dek": "Silver Rail Elementary in Bend went on lockdown; students bused to reunite with families.",
-      "caveman": "On Thursday, Oct. 15, a shooting hit Silver Rail Elementary School in Bend, Oregon (about 160 km southeast of Portland). Local police said multiple people were hurt and the shooter was dead. Two officials told AP that five people were believed dead. A Bend police spokesperson said officers arrived about two minutes after a 1 p.m. local emergency call and quickly heard over the radio that the suspect was down; it was not yet clear who shot the suspect — possibly a bystander. At least two people were taken to a hospital. The school district said the campus was locked down and children were later bused to meet families. The school serves kindergarten through fifth grade.",
-      "why_it_matters": "Another U.S. school shooting forces the same hard questions about guns, security and how fast help arrives — in an election season when voters already feel unsafe.",
-      "camps": "Gun-safety advocates demand tighter rules after child victims. Gun-rights voices stress armed response and mental health. Investigators still need a full public timeline.",
-      "source_name": "AP / 中央社",
-      "source_url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce",
-      "published": "2026-10-15",
+      "headline": "France rocked by violent unrest: 2,400 arrested, a historic town hall set on fire",
+      "dek": "Student protests over schools have turned into riots; Macron condemns “unbridled violence.”",
+      "caveman": "France has seen four weeks of school marches and barricades by students demanding more teachers and repairs to run-down schools, joined by people angry about the cost of living. On Saturday some of it turned into the worst violence in years, the Guardian reported (Oct 18). At least 2,400 people have been arrested, including a record 855 in Paris. In Limoges, the 19th-century town hall was set on fire. President Emmanuel Macron called it “unbridled violence,” said “nothing justifies” it, and blamed the ultra-left and delinquents. Some politicians are calling for Interior Minister Laurent Nuñez to resign over the policing. Smaller protests have spread to Spain, Italy and Portugal. U.S. President Trump posted that France “is burning” and blamed immigrants, telling France to close its borders, Taiwan’s CNA reported from wire services.",
+      "why_it_matters": "The protests began with real complaints about schools. How the government answers—only with police, or also with fixes—could shape European politics for months.",
+      "camps": "Government: restore order first, punish violence. Peaceful protesters and the left: the anger comes from run-down schools and the cost of living; Macron himself separated peaceful marchers from looters. Right-wing voices: blame immigration and demand tougher policing; others say that framing ignores the original school protests.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "published": "2026-10-18",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Police tape outside Silver Rail Elementary in Bend, Oregon",
-      "image_credit": "AP Photo/Joe Kline",
+      "image_alt": "The town hall in Limoges, France, on fire during unrest",
+      "image_credit": "Pascal Lachenaud / AFP / Getty Images (via The Guardian)",
       "terms": [
         {
-          "term": "lockdown",
-          "explain": "School safety mode: doors secured, students kept inside until police clear the scene.",
+          "term": "interior minister",
+          "explain": "The French minister in charge of police and public order.",
           "aliases": []
         },
         {
-          "term": "elementary school",
-          "explain": "Primary school for young children, often ages about 5–11 in the U.S.",
+          "term": "ultra-left",
+          "explain": "Far-left groups, some of which use street violence.",
           "aliases": []
         },
         {
-          "term": "bystander",
-          "explain": "A person nearby who is not a police officer; sometimes intervenes in emergencies.",
-          "aliases": []
+          "term": "riot",
+          "explain": "A violent public disturbance by a crowd.",
+          "aliases": [
+            "unrest"
+          ]
         }
       ]
     },
@@ -341,38 +381,40 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Ukraine hits a Russian oil refinery after Zelenskyy says he feels betrayed by Trump",
-      "dek": "Kyiv ends a brief energy-truce it says Moscow ignored; drone strike sparks fire in Ryazan region.",
-      "caveman": "Ukraine attacked a Russian oil refinery on Thursday, ending a short pause on energy-related strikes. President Volodymyr Zelenskyy said he felt betrayed by U.S. President Donald Trump. Trump had pushed both sides to stop hitting energy targets; Zelenskyy said Russia kept bombing Ukrainian power infrastructure anyway. Ukraine also complained it lost usual Western intel on Russian ballistic missiles and faced limits on Starlink terminals. A drone strike set fire to a refinery about 300 km southeast of Moscow in Ryazan, Russian officials said. Separately, CNN reported Ukraine was running critically low on U.S.-made Patriot interceptor missiles — among the few weapons that can stop ballistic missiles — deepening Kyiv’s sense of vulnerability.",
-      "why_it_matters": "Energy strikes raise fuel prices and winter blackout risks. A U.S.–Ukraine trust break could change weapons flows and the war’s next months.",
-      "camps": "Kyiv: we paused, Russia didn’t, so we hit back. Moscow: blames Ukrainian drones. Washington: wants leverage for a ceasefire but risks alienating an ally.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
-      "published": "2026-10-15",
+      "headline": "Trump pauses new Russia sanctions and denies cutting Ukraine’s Starshield satellite link",
+      "dek": "Two days before a deadline, Trump used a national-interest waiver; Zelenskyy says the U.S. was behind a satellite outage.",
+      "caveman": "Congress passed a law (named after Sen. Lindsey Graham) to punish Russia with tougher sanctions. Two days before the deadline, President Trump signed an order pausing them, saying it was “in the national interest,” NPR reported (Oct 17–18). Sen. Richard Blumenthal accused him of “sucking up to Vladimir Putin.” Separately, Ukraine lost access to Starshield, the military version of Musk’s Starlink satellite internet. President Volodymyr Zelenskyy told NBC the U.S. was behind it. Trump said “it wasn’t me,” and Secretary of State Marco Rubio called that “categorically false.” Musk said the U.S. military decides how the service can be used. Some senators want an inspector general to investigate. U.S. intelligence sharing with Ukraine has resumed, and Zelenskyy thanked Trump. Meanwhile Russia attacked overnight with 4 cruise missiles and 332 drones.",
+      "why_it_matters": "Ukraine’s army depends on U.S. intelligence and satellite internet to see and talk on the battlefield. Who controls that switch matters for the war.",
+      "camps": "White House: flexibility helps peace talks. Critics in both parties: pausing sanctions rewards Russia and weakens Congress’s law. Ukraine: grateful for renewed help but wants clear answers about the outage.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+      "published": "2026-10-18",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "European leaders meeting with Ukraine’s president",
-      "image_credit": "AP Photo",
+      "image_alt": "Ukrainian President Volodymyr Zelenskyy at an EU summit",
+      "image_credit": "Geert Vanden Wijngaert / AP (via NPR)",
       "terms": [
         {
-          "term": "Patriot",
-          "explain": "U.S.-made air-defense system that can intercept some ballistic missiles.",
+          "term": "sanctions",
+          "explain": "Penalties like trade bans meant to pressure another country.",
+          "aliases": []
+        },
+        {
+          "term": "Starshield",
+          "explain": "SpaceX’s military satellite network, related to Starlink.",
           "aliases": [
-            "Patriot missile"
+            "Starlink"
           ]
         },
         {
-          "term": "ballistic missile",
-          "explain": "A missile that flies a high arc and is hard to shoot down.",
-          "aliases": []
+          "term": "waiver",
+          "explain": "Official permission to skip a rule.",
+          "aliases": [
+            "national-interest waiver"
+          ]
         },
         {
-          "term": "Starlink",
-          "explain": "SpaceX satellite internet used heavily by Ukraine’s military and civilians.",
-          "aliases": []
-        },
-        {
-          "term": "refinery",
-          "explain": "Factory that turns crude oil into fuels like gasoline and diesel.",
+          "term": "inspector general",
+          "explain": "An internal watchdog that investigates a government agency.",
           "aliases": []
         }
       ]
@@ -381,33 +423,40 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "AP-NORC: voters overwhelmingly want change as Trump struggles before the midterms",
-      "dek": "Democrats more eager to vote; more voters want Democrats to win Congress amid war and high prices.",
-      "caveman": "Less than four weeks before the Nov. 3 midterm elections, a new AP-NORC poll finds a strong majority of U.S. voters think President Donald Trump is falling short at home and abroad — and they want major change in Washington. Democratic-identifying voters are more enthusiastic about casting a ballot than Republicans. More voters want Democrats to win control of Congress and view Republicans more negatively. The Democratic edge is small in places, but together the numbers look tough for Republicans holding Congress while an unpopular Iran war and surging prices weigh on the White House.",
-      "why_it_matters": "Midterms decide who writes laws and investigates the president. If “change” wins, Trump’s second-term agenda hits a wall.",
-      "camps": "Democrats smell a wave. Republicans hope turnout and culture issues save the majority. Independents say grocery and gas prices first.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/2026-midterms-trump-approval-economy-change-election-e12dd9b19013c75a3d4ede01c1b9d0c3",
-      "published": "2026-10-15",
+      "headline": "Israeli settlers attack European diplomats and a French mayor in the West Bank",
+      "dek": "Three people were hurt in Taybeh during the olive harvest; even Trump’s ambassador called it terror.",
+      "caveman": "The West Bank is Palestinian land occupied by Israel, where Israeli settlers live in communities most of the world considers illegal. In the Palestinian village of Taybeh, settlers attacked a group that included France’s consul general, the Belgian and Polish consuls, French mayor Bernard Baudoux and the archbishop of Cambrai, who had come during the olive harvest, the Guardian reported (Oct 17). Three people were hurt, and a window of a Belgian armored car was smashed. Separately, Heidi Levine, a 63-year-old Washington Post photographer and U.S. citizen, was beaten late last week and needed surgery. U.S. Ambassador Mike Huckabee called it a “despicable act of terror,” while Prime Minister Benjamin Netanyahu referred to it as an “alleged” attack. Israeli group Yesh Din counted more than 170 settler attacks since Sept. 27. Israel’s foreign minister condemned it and police are investigating; Belgium is pushing for EU sanctions on violent settlers.",
+      "why_it_matters": "Attacks on diplomats are rare and show how settler violence is rising during the olive harvest, when Palestinian farmers are most exposed.",
+      "camps": "Palestinians and rights groups: settlers act with little punishment, and the army often doesn’t stop them. Israeli government: condemns the attack and says police are investigating. European governments: want sanctions; the U.S. asked Israel to crack down.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "published": "2026-10-17",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Gas prices displayed at a California station",
-      "image_credit": "AP Photo/Noah Berger",
+      "image_alt": "The smashed window of mayor Baudoux’s car after the attack in Taybeh",
+      "image_credit": "Emma Graham-Harrison / The Guardian",
       "terms": [
         {
-          "term": "midterms",
-          "explain": "U.S. elections halfway through a president’s term; this year Nov. 3.",
-          "aliases": [
-            "midterm elections"
-          ]
-        },
-        {
-          "term": "AP-NORC poll",
-          "explain": "National survey from AP and NORC measuring public opinion.",
+          "term": "West Bank",
+          "explain": "Palestinian territory occupied by Israel since 1967.",
           "aliases": []
         },
         {
-          "term": "control of Congress",
-          "explain": "Which party holds the House and Senate majorities.",
+          "term": "settlers",
+          "explain": "Israelis living in communities built on occupied land.",
+          "aliases": [
+            "settlements"
+          ]
+        },
+        {
+          "term": "consul general",
+          "explain": "A senior diplomat who represents a country in a city abroad.",
+          "aliases": [
+            "consul"
+          ]
+        },
+        {
+          "term": "Yesh Din",
+          "explain": "An Israeli human-rights group that tracks settler violence.",
           "aliases": []
         }
       ]
@@ -416,33 +465,33 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "White House press secretary Katie Zacharia faces questions over claims she’s a lawyer",
-      "dek": "No clear proof she passed a bar exam; debut briefing lasted about 14 minutes and drew harsh reviews.",
-      "caveman": "New White House press secretary Katie Zacharia is under scrutiny about her résumé. She has long called herself a lawyer while building a career as a conservative TV commentator, but neither she nor the White House has shown evidence she passed a bar exam in any U.S. state — or in China, where she once worked at a large law firm. The questions add to confusion over why President Trump elevated her after only a short stint at his social-media company. Her first briefing on Tuesday lasted about 14 minutes before she steered reporters to ask Trump himself, and reviews were rough.",
-      "why_it_matters": "The press secretary is the daily face of the administration. Credibility fights over credentials can stick and distract from policy.",
-      "camps": "Critics: truth in advertising matters for the podium. Defenders: Trump picks communicators, not résumés. Journalists keep asking for bar records.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/katie-zacharia-lawyer-bar-trump-press-secretary-b3b7b9747856bcd11df094f331195119",
-      "published": "2026-10-15",
+      "headline": "Update: Trump’s border czar says Rep. Ilhan Omar could be stripped of citizenship and deported",
+      "dek": "After the Oct 12 search of her home, Tom Homan said “of course” it’s possible; Obama called it punishment for criticizing Trump.",
+      "caveman": "Last week federal agents searched Rep. Ilhan Omar’s Washington home (our Oct 13 paper). New on Sunday: Trump’s border czar Tom Homan told Fox that “of course” Omar could be denaturalized—have her citizenship taken away—and deported, the Guardian reported (Oct 18). Former President Barack Obama said she was targeted “because she has dared to criticize the president,” and warned there is “no reason to believe it will stop with her.” Omar’s family fled Somalia’s civil war and spent years in a refugee camp in Kenya; she became a citizen at 17 when her father was naturalized, and he filled out the paperwork. Her lawyers say the probe is election interference.",
+      "why_it_matters": "Taking citizenship away from a sitting member of Congress would be almost unheard of. Many naturalized citizens worry about what it would mean for them.",
+      "camps": "Administration: says it’s investigating possible fraud and no one is above the law. Omar, Democrats and civil-liberties groups: it’s political retaliation against a critic. Legal experts note denaturalization requires proving fraud in court and is hard to win.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+      "published": "2026-10-18",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Katie Zacharia at the White House briefing room",
-      "image_credit": "AP Photo/Julia Demaree Nikhinson",
+      "image_alt": "Federal officers carry boxes from Rep. Ilhan Omar’s Washington residence on October 12",
+      "image_credit": "J. Scott Applewhite / AP (via The Guardian)",
       "terms": [
         {
-          "term": "press secretary",
-          "explain": "Official who speaks for the president to reporters nearly every day.",
-          "aliases": []
-        },
-        {
-          "term": "bar exam",
-          "explain": "Hard test lawyers must pass to practice law in a U.S. state.",
+          "term": "denaturalization",
+          "explain": "Taking away citizenship from someone who became a citizen later in life.",
           "aliases": [
-            "the bar"
+            "denaturalized"
           ]
         },
         {
-          "term": "briefing",
-          "explain": "On-camera Q&A session with journalists in the White House press room.",
+          "term": "border czar",
+          "explain": "The White House official in charge of border and deportation policy.",
+          "aliases": []
+        },
+        {
+          "term": "naturalized citizen",
+          "explain": "Someone born abroad who became a citizen.",
           "aliases": []
         }
       ]
@@ -451,31 +500,33 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: LitHub’s best-reviewed books of the week — Kingsolver’s Partita leads the pack",
-      "dek": "Also featured: Sarah Perry, T. Geronimo Johnson, Nathaniel Philbrick and more.",
-      "caveman": "Literary Hub’s weekly “best reviewed” roundup highlights books critics loved this week. Barbara Kingsolver’s Partita is among the standouts, alongside Sarah Perry’s Death of an Ordinary Man, T. Geronimo Johnson’s The Occidental Book of the Dead, and Nathaniel Philbrick’s The Rush. These lists help U.S. readers decide what to buy when the new-release table feels overcrowded. Kingsolver interviews elsewhere on LitHub also kept her in the conversation.",
-      "why_it_matters": "Review aggregates quietly shape bookstore tables and library holds — especially for literary fiction and narrative nonfiction.",
-      "camps": "Fans celebrate big names still delivering. Smaller-press readers note the same famous authors dominate “best of” lists.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-14/",
-      "published": "2026-10-15",
+      "headline": "HOT: Isabel Allende, 84, wins Spain’s €1 million Premio Planeta under a secret pen name",
+      "dek": "She entered as “Luz Ventura” with a sequel to The House of the Spirits.",
+      "caveman": "Isabel Allende, the Chilean-American author whose books have sold more than 80 million copies, entered Spain’s richest literary contest under the fake name “Luz Ventura”—and won, the Guardian reported (Oct 17). The Premio Planeta pays €1 million. Her winning novel, La hora antes del alba (The Hour Before Dawn), continues The House of the Spirits, following Alba through Chile under the Pinochet dictatorship. Allende said winning felt “like winning the Nobel” and that she entered because she had “very little to lose.” Professor Duncan Wheeler of Leeds University said he’d be “very surprised” if the judges didn’t recognize her style, and called the Planeta generous but “definitely not the most prestigious.”",
+      "why_it_matters": "A U.S.-based literary superstar going back to her most famous world is big news for readers; an English translation is likely to be one of the most-watched releases.",
+      "camps": "Fans: a delightful twist—she proved herself again without her famous name. Skeptics: the pen name may not have fooled anyone, and the prize is seen as richer than it is prestigious.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+      "published": "2026-10-17",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Book cover collage for LitHub best-reviewed roundup",
-      "image_credit": "Literary Hub",
+      "image_alt": "Isabel Allende at the Premio Planeta ceremony",
+      "image_credit": "Pau de la Calle / GTRES / Shutterstock (via The Guardian)",
       "terms": [
         {
-          "term": "literary fiction",
-          "explain": "Novels that focus on character, language and ideas more than pure plot thrills.",
+          "term": "pen name",
+          "explain": "A fake name an author writes under.",
+          "aliases": [
+            "pseudonym"
+          ]
+        },
+        {
+          "term": "Premio Planeta",
+          "explain": "A Spanish literary prize run by publisher Planeta; one of the richest in the world.",
           "aliases": []
         },
         {
-          "term": "narrative nonfiction",
-          "explain": "True stories told with novel-like scenes and structure.",
-          "aliases": []
-        },
-        {
-          "term": "best-reviewed",
-          "explain": "A roundup of books that professional critics praised this week.",
+          "term": "sequel",
+          "explain": "A book that continues an earlier story.",
           "aliases": []
         }
       ]
@@ -484,31 +535,33 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "NOT: Publishers sue Big Tech over AI — while cutting separate AI deals with the same industry",
-      "dek": "LitHub essay on the split screen: courtroom fights on one hand, licensing experiments on the other.",
-      "caveman": "A Literary Hub essay asks why book and news publishers sue AI companies for scraping copyrighted work — yet also sign or explore AI partnerships. The tension showed up at an Authors Guild-style forum on authorship and AI: writers fear unpaid training data, while business teams fear missing the next platform. The piece argues the industry is playing both offense and defense at once, leaving authors confused about who is on their side.",
-      "why_it_matters": "If lawsuits and licenses both stay messy, writers may see neither fair pay nor clear rules — only faster AI tools trained on their books.",
-      "camps": "Author-rights camp: stop unauthorized training. Deal camp: negotiate licenses or lose distribution. Readers mostly want cheap access and trust.",
+      "headline": "HOT: Critics’ favorites this week—Yiyun Li’s Music Against the Night leads",
+      "dek": "LitHub’s roundup also features Bonnie Garmus, a new Eugene Debs biography and a book debunking longevity science.",
+      "caveman": "Literary Hub’s weekly list of the best-reviewed books (Oct 16) is led by Yiyun Li’s Music Against the Night, which one critic called “wonderful and bewitching.” Also on the list: Bonnie Garmus’s Peck & Peck, her follow-up to the giant hit Lessons in Chemistry; Shawn Gude’s American Socialist, about the labor leader Eugene Debs; and Saul Justin Newman’s Morbid, which debunks modern longevity science.",
+      "why_it_matters": "Review roundups help readers pick what’s worth their time and push books onto library hold lists and bookstore tables.",
+      "camps": "Fans: a strong week with a celebrated literary writer and a beloved bestseller. Skeptics: aggregate lists tend to reward books that got the most reviews, often from big publishers.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
-      "published": "2026-10-15",
+      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-15/",
+      "published": "2026-10-16",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Conceptual image of hands and AI for LitHub essay",
+      "image_alt": "Book covers featured in LitHub’s best-reviewed books of the week",
       "image_credit": "Literary Hub",
       "terms": [
         {
-          "term": "copyright",
-          "explain": "Legal right that controls copying and reuse of creative work.",
+          "term": "best-reviewed",
+          "explain": "Books that professional critics praised most this week.",
           "aliases": []
         },
         {
-          "term": "training data",
-          "explain": "Text and images fed into AI models so they learn patterns.",
-          "aliases": []
+          "term": "Eugene Debs",
+          "explain": "An American labor leader and five-time Socialist presidential candidate in the early 1900s.",
+          "aliases": [
+            "Debs"
+          ]
         },
         {
-          "term": "Authors Guild",
-          "explain": "U.S. advocacy group for writers’ contracts and rights.",
+          "term": "Lessons in Chemistry",
+          "explain": "Bonnie Garmus’s 2022 bestselling debut novel.",
           "aliases": []
         }
       ]
@@ -517,33 +570,33 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Ross Douthat’s YA fantasy moves from Substack serialization to bookstore shelves",
-      "dek": "LitHub flags the conservative columnist’s secondary-world saga heading into traditional publishing.",
-      "caveman": "Literary Hub notes that New York Times opinion columnist Ross Douthat is taking a young-adult fantasy project — first shared in serialized form on Substack — into print bookstores. The tone is half marvel, half side-eye: a high-profile political writer crossing into dragons-and-empires territory. Whatever readers think of his columns, the move shows how Substack can still be a tryout stage for big trade publishing bets in the U.S.",
-      "why_it_matters": "It blurs lines between pundit brand and fiction brand — and tests whether online serialization still converts into hardcover sales.",
-      "camps": "Curious readers: separate art from op-eds. Critics: platform celebrities crowd out career fantasists. Booksellers watch preorders.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/huzzah-ross-douthats-ya-fantasy-novel-is-moving-from-substack-to-bookshelves/",
-      "published": "2026-10-15",
+      "headline": "HOT: Horror is booming—and now there’s a bookstore that sells only scary books",
+      "dek": "Long Dark House in Alexandria, Virginia, opened about a month ago as horror sales climb.",
+      "caveman": "Chanthal Harris used to work in aviation. Now she runs Long Dark House, a bookstore in Alexandria, Virginia, that sells only horror, NPR reported (Oct 18). It opened about a month ago, right before Halloween season. Horror is hot: NPR cited Nielsen market research showing the genre’s profits up almost 26% year over year, and the horror movie Backrooms made more than $400 million on a $10 million budget.",
+      "why_it_matters": "Small specialty bookstores are a sign of what readers are excited about. Horror readers are often young and active on social media, which helps books spread.",
+      "camps": "Fans: horror lets people face fear safely and talk about real anxieties. Business skeptics: a one-genre shop is a risky bet if the trend cools.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+      "published": "2026-10-18",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Promotional art for Douthat fantasy publishing news",
-      "image_credit": "Literary Hub",
+      "image_alt": "Inside Long Dark House, a horror bookstore in Alexandria, Virginia",
+      "image_credit": "Ryan Benk / NPR",
       "terms": [
         {
-          "term": "YA",
-          "explain": "Young adult — books aimed mainly at teen readers, often read by adults too.",
-          "aliases": [
-            "young adult"
-          ]
-        },
-        {
-          "term": "Substack",
-          "explain": "Newsletter platform where writers publish directly to paying subscribers.",
+          "term": "genre",
+          "explain": "A category of books, like horror, romance or mystery.",
           "aliases": []
         },
         {
-          "term": "serialization",
-          "explain": "Releasing a story in chapters over time instead of all at once.",
+          "term": "Nielsen",
+          "explain": "A company that tracks book sales and media audiences.",
+          "aliases": [
+            "NielsenIQ BookData"
+          ]
+        },
+        {
+          "term": "indie bookstore",
+          "explain": "An independently owned bookshop, not part of a chain.",
           "aliases": []
         }
       ]
@@ -552,31 +605,31 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "NOT / debate: Can romance novels fix the “straight men don’t read fiction” panic?",
-      "dek": "LitHub revisits the gender reading gap — and whether romance is a on-ramp or a stereotype trap.",
-      "caveman": "LitHub takes on a loud U.S. culture argument: surveys and columns say many straight men have stopped reading novels. Some blame phones; some blame “feminized” book marketing; some blame schools. This essay asks whether romance — the biggest fiction engine in American publishing — could pull men back in, or whether that pitch just repeats stereotypes about who is “allowed” to enjoy feelings on the page. It points to headlines and Times opinion pieces that turned a reading gap into a moral crisis.",
-      "why_it_matters": "If half the population checks out of fiction, democracy’s empathy muscles and bookstores’ survival both weaken. The framing of the “crisis” also shapes which books get funded.",
-      "camps": "Romance advocates: gateways matter, stop shaming the genre. Skeptics: the problem is attention economy, not book covers. Many men already read — quietly.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/can-romance-novels-solve-the-straight-man-reading-crisis/",
-      "published": "2026-10-15",
+      "headline": "American Girl turns 40 with a grown-up Samantha novel by Fiona Davis",
+      "dek": "In Samantha: The Next Chapter, the doll’s heroine is 25 in 1920—“from socialite to shopgirl.”",
+      "caveman": "American Girl dolls come with history books about girls from different eras. For the brand’s 40th birthday, bestselling author Fiona Davis wrote Samantha: The Next Chapter, NPR reported (Oct 18). The original Samantha was a rich orphan in 1904; now she is 25 years old in 1920 and goes “from socialite to shopgirl.” NPR also recalled that Addy Walker, added in 1993, was the brand’s first nonwhite doll.",
+      "why_it_matters": "Many adults grew up with these books. Writing grown-up sequels is a way publishers bring nostalgic readers back.",
+      "camps": "Fans: a sweet way for 1990s kids to reunite with a childhood hero. Critics: brands increasingly sell nostalgia; some wonder whether it’s more marketing than literature.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/10/18/nx-s1-5711243/american-girl-40-samantha-fiona-davis",
+      "published": "2026-10-18",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Graphic for LitHub romance and reading-crisis essay",
-      "image_credit": "Literary Hub",
+      "image_alt": "Author Fiona Davis",
+      "image_credit": "Lanna Apisukh for NPR",
       "terms": [
         {
-          "term": "romance genre",
-          "explain": "Fiction centered on romantic relationships, often with an emotionally satisfying ending.",
+          "term": "nostalgia",
+          "explain": "A warm longing for the past.",
           "aliases": []
         },
         {
-          "term": "reading crisis",
-          "explain": "Media phrase for falling reading rates in a group — here, especially men.",
+          "term": "historical fiction",
+          "explain": "Novels set in a real past period.",
           "aliases": []
         },
         {
-          "term": "attention economy",
-          "explain": "System where apps compete for every spare minute of your focus.",
+          "term": "socialite",
+          "explain": "A wealthy person known for going to fancy social events.",
           "aliases": []
         }
       ]
@@ -585,32 +638,34 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Pakistan school roof collapse kills about 35, injures 50+ — survivors say “the sky fell”",
-      "dek": "Two classrooms at Al-Khair school in Peshawar caved in during lessons; children mostly ages 6–12.",
-      "caveman": "A private school roof collapsed on Oct. 15 in Peshawar, northwestern Pakistan, killing at least 34 students and one teacher and injuring more than 50 people, officials said. AP called it among the country’s worst building collapses. Two classrooms at Al-Khair school fell while grades 2–3 were in session. Hospital staff said victims were mostly ages 6 to 12. Rescue teams said they cleared rubble within hours and found no one else trapped. A teacher described the moment as feeling like the sky falling. Building safety and school construction standards are again under harsh public scrutiny.",
-      "why_it_matters": "Kids died in a place meant to be safe. Weak inspection systems turn “routine school day” into mass casualty events.",
-      "camps": "Grieving families demand accountability from builders and officials. Authorities stress rescue speed — critics ask why the roof failed at all.",
-      "source_name": "中央社 / AP",
-      "source_url": "https://www.cna.com.tw/news/aopl/202610160006.aspx",
-      "published": "2026-10-15",
+      "headline": "Update: Oregon school shooting—victims named, a father stopped the attacker",
+      "dek": "At Silver Rail Elementary in Bend, three children and a teacher were killed; a teacher wrestled the gunman before an armed father shot him.",
+      "caveman": "New details on the shooting we reported Friday. At Silver Rail Elementary School in Bend, Oregon, a 16-year-old former student killed three children and a teacher, the BBC reported (Oct 17). A teacher tried to wrestle the gun away, and a father of two students at the school, who was driving past and was armed, ran inside and shot him dead. Two of the dead were named as Rhoam Summer, 5, and teacher Meghan Lambert, 25. A 54-year-old teacher and a 7-year-old child were injured. Police said he carried about 44 more rounds of ammunition.",
+      "why_it_matters": "School shootings remain a uniquely American crisis. Every case restarts the debate over guns and school safety.",
+      "camps": "Gun-rights view: an armed bystander saved lives. Gun-safety view: a 16-year-old should never have had a gun, and stronger laws (like safe storage) would prevent the attack in the first place. Everyone: mourning the children and the teachers who acted.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
+      "published": "2026-10-17",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Rescue scene after Pakistan school roof collapse",
-      "image_credit": "AP Photo via 中央社",
+      "image_alt": "Mourners leave flowers near Silver Rail Elementary School in Bend, Oregon",
+      "image_credit": "Getty Images (via BBC News)",
       "terms": [
         {
-          "term": "Peshawar",
-          "explain": "Capital city of Khyber Pakhtunkhwa province in northwestern Pakistan.",
+          "term": "former student",
+          "explain": "Someone who used to attend the school.",
           "aliases": []
         },
         {
-          "term": "building collapse",
-          "explain": "When a structure fails and falls, often from bad materials, age or overload.",
+          "term": "safe storage law",
+          "explain": "A law requiring guns to be locked away from children.",
           "aliases": []
         },
         {
-          "term": "mass casualty",
-          "explain": "Emergency with many dead or injured at once.",
-          "aliases": []
+          "term": "rounds",
+          "explain": "Bullets.",
+          "aliases": [
+            "ammunition"
+          ]
         }
       ]
     },
@@ -618,34 +673,32 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Hurricane Trudy strengthens to Category 1 as it aims at Mexico’s Pacific coast",
-      "dek": "About 300 miles southwest of Acapulco; may become a major hurricane Friday with heavy rain for Colima and Jalisco.",
-      "caveman": "Trudy became a Category 1 hurricane on Thursday as it approached Mexico’s Pacific coast, the U.S. National Hurricane Center said. It was about 300 miles (480 km) southwest of Acapulco with winds near 75 mph (120 kph), moving northwest at 9 mph. Forecasters said it could become a major hurricane on Friday and dump 4 to 8 inches of rain through the weekend across Colima and Jalisco. Coastal communities watch for flooding and mudslides. (Separately, Tropical Storm Champi was east of Guam with watches posted for some Mariana Islands.)",
-      "why_it_matters": "Pacific Mexico has seen deadly storm floods before. Early warnings only help if people can move and roads stay open.",
-      "camps": "Emergency managers push prep now. Residents remember past storms and worry about housing on steep slopes.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/hurricane-trudy-mexico-pacific-6eb987f5a1ef914582d95b07fce244da",
-      "published": "2026-10-15",
+      "headline": "Fast grass fire and explosion at Canadian army base kill four soldiers",
+      "dek": "At CFB Wainwright in Alberta, the fire moved “a kilometre in 36 seconds”; 39 are in hospital.",
+      "caveman": "A grass fire swept through Canadian Forces Base Wainwright in Alberta, followed by an explosion, the Guardian reported (Oct 18). Officials said the fire moved “a kilometre in 36 seconds.” Four soldiers were killed: Sgt. Morgan Wong and Privates Shaun Farrell, Aidan Goulding and Hayden Lykkemark. Thirty-nine people were taken to hospital, 19 in critical condition. Prime Minister Mark Carney ordered flags at half-mast, and the RCMP is investigating.",
+      "why_it_matters": "It’s one of the deadliest training accidents for Canada’s military in years, and questions about safety on the base will follow.",
+      "camps": "Military: grieving and promising answers. Families and safety experts: want to know whether the fire risk was known and why people couldn’t get away. The investigation hasn’t found a cause yet.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "published": "2026-10-18",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Satellite image of Hurricane Trudy in the Pacific",
-      "image_credit": "NOAA via AP",
+      "image_alt": "Emergency vehicles near CFB Wainwright in Alberta",
+      "image_credit": "John Ulan / The Canadian Press / AP (via The Guardian)",
       "terms": [
         {
-          "term": "Category 1",
-          "explain": "Lowest hurricane rank on the Saffir-Simpson scale; still dangerous winds and surge.",
+          "term": "CFB",
+          "explain": "Canadian Forces Base, a Canadian military base.",
           "aliases": []
         },
         {
-          "term": "major hurricane",
-          "explain": "Category 3 or higher — much stronger winds and damage potential.",
+          "term": "RCMP",
+          "explain": "Royal Canadian Mounted Police, Canada’s national police.",
           "aliases": []
         },
         {
-          "term": "National Hurricane Center",
-          "explain": "U.S. office that tracks and forecasts Atlantic and eastern Pacific tropical storms.",
-          "aliases": [
-            "NHC"
-          ]
+          "term": "half-mast",
+          "explain": "Flying a flag halfway down the pole to show mourning.",
+          "aliases": []
         }
       ]
     },
@@ -653,33 +706,33 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "First new sunscreen chemical in 25 years hits U.S. shelves: bemotrizinol (BEMT)",
-      "dek": "FDA cleared it in June; Neutrogena and others now selling broad-spectrum formulas without the white cast.",
-      "caveman": "For the first time in more than 25 years, Americans can buy sunscreen with a new active chemical: bemotrizinol, also called BEMT. The FDA approved it in June; products from Neutrogena and other brands are arriving in stores. Dermatologists say BEMT blocks both UVA and UVB in one ingredient, with less chalky white streaking than some older filters, and studies show low skin absorption. Europe and other regions have used it for years. Experts stress it is “new to the U.S. aisle,” not an untested molecule.",
-      "why_it_matters": "Better sunscreen that people will actually wear can cut skin-cancer risk. The long FDA lag also shows how slow U.S. cosmetic-drug rules can be.",
-      "camps": "Derms: finally a modern filter. Consumer skeptics: want long U.S. safety follow-up. Brands race for shelf space before summer marketing.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/bemotrizinol-bemt-new-sunscreen-ingredient-fda-7892cc598c0b553b8c9c6715d7a36d6a",
-      "published": "2026-10-15",
+      "headline": "Crowd crush at Durga Puja festival in Kolkata kills at least 17",
+      "dek": "Rain and a loudspeaker announcement set off a stampede; a 7-year-old girl is among the dead.",
+      "caveman": "Durga Puja is one of the biggest Hindu festivals, with huge crowds visiting decorated pavilions. In Kolkata, India, a crowd crush killed at least 17 people, including a 7-year-old girl, and injured 25, the BBC reported (Oct 17). Officials said rain and an announcement caused people to rush. West Bengal’s chief minister, named by the BBC as Suvendhu Adhikari, and Prime Minister Narendra Modi called it tragic. Two years ago, 121 people died in a crush at a religious event in Uttar Pradesh.",
+      "why_it_matters": "Crowd crushes keep happening at big religious gatherings in India. Better crowd control can save lives.",
+      "camps": "Officials: express grief and promise help for families. Safety experts: say organizers need limits on numbers, more exits and clear communication, and that such disasters are preventable.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko",
+      "published": "2026-10-17",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Neutrogena Ultra Sheer SPF 70 packaging with bemotrizinol",
-      "image_credit": "Neutrogena via AP",
+      "image_alt": "Police and a Kolkata Traffic Police ambulance surrounded by onlookers after the crowd crush",
+      "image_credit": "AFP via Getty Images (via BBC News)",
       "terms": [
         {
-          "term": "bemotrizinol",
-          "explain": "Chemical UV filter (BEMT) newly allowed in U.S. sunscreens; common abroad for years.",
+          "term": "crowd crush",
+          "explain": "When a packed crowd pushes so hard that people can’t breathe or fall and get trampled.",
           "aliases": [
-            "BEMT"
+            "stampede"
           ]
         },
         {
-          "term": "broad spectrum",
-          "explain": "Label meaning the sunscreen protects against both UVA and UVB rays.",
+          "term": "Durga Puja",
+          "explain": "A major Hindu festival, especially big in West Bengal.",
           "aliases": []
         },
         {
-          "term": "FDA",
-          "explain": "U.S. Food and Drug Administration — regulates drugs and many sunscreen ingredients.",
+          "term": "chief minister",
+          "explain": "The elected head of an Indian state government.",
           "aliases": []
         }
       ]
@@ -688,33 +741,35 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Pope Leo XIV has lung adenocarcinoma — what that cancer type means",
-      "dek": "Surgeons removed the lower lobe of his right lung; adenocarcinoma is the most common lung-cancer form and often treatable if caught early.",
-      "caveman": "The Vatican confirmed Pope Leo XIV has lung adenocarcinoma after surgery at Rome’s Gemelli hospital that removed the lower lobe of his right lung. AP’s explainer says adenocarcinoma is the most common kind of lung cancer. Outcomes depend heavily on how early it is found; many cases tied to smoking historically, but nonsmokers can get it too. The pope has been resting in hospital after the operation. Church watchers are also asking what happens to governance if a pope is briefly unable to work — canon law still centers authority in the pope himself.",
-      "why_it_matters": "A pope’s health reshapes Catholic leadership rumors worldwide. The diagnosis also puts a plain-language spotlight on a common cancer.",
-      "camps": "Medical optimism if caught early. Vatican watchers debate transparency vs. privacy. Faithful mostly wish him recovery.",
-      "source_name": "AP",
-      "source_url": "https://apnews.com/article/pope-leo-xiv-lung-cancer-adenocarcinoma-56b1c4fa87864d157eb3999a64f94c87",
-      "published": "2026-10-14",
+      "headline": "After America’s hottest summer, farmworkers point to a program that actually protects them from heat",
+      "dek": "The Fair Food Program makes big buyers like Walmart and McDonald’s demand heat breaks; federal rules are stuck.",
+      "caveman": "This past summer was the hottest on record in the U.S., and farmworkers pick crops in that heat. The Guardian (Oct 18) reports that many advocates see the Coalition of Immokalee Workers’ Fair Food Program as the model: 14 retailers, including Walmart, McDonald’s, Whole Foods and Trader Joe’s, agree to buy only from farms that give shade, water and breaks. Another group, WeCount, is pressuring plant grower Costa Farms. Meanwhile, Florida banned cities from passing their own heat rules, a national OSHA heat standard has stalled, and Rep. Mark Messmer has a bill that would block it.",
+      "why_it_matters": "Heat kills workers every year. When governments don’t act, buyer pressure may be the only protection workers get.",
+      "camps": "Workers’ advocates: heat rules are basic safety and should be law. Business groups and some Republicans: one-size-fits-all rules are costly and states should decide. Middle ground: voluntary programs work for some farms but cover only part of the workforce.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
+      "published": "2026-10-18",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Pope Leo XIV arriving at Gemelli hospital in Rome",
-      "image_credit": "AP Photo",
+      "image_alt": "Farmworkers in Immokalee, Florida",
+      "image_credit": "The Washington Post / Getty Images (via The Guardian)",
       "terms": [
         {
-          "term": "adenocarcinoma",
-          "explain": "A cancer that starts in gland-like cells; the most common lung-cancer type.",
-          "aliases": []
-        },
-        {
-          "term": "lobe",
-          "explain": "One section of a lung; humans have three lobes on the right, two on the left.",
-          "aliases": []
-        },
-        {
-          "term": "Gemelli",
-          "explain": "Major hospital in Rome that often treats popes.",
+          "term": "heat standard",
+          "explain": "A rule requiring employers to protect workers from dangerous heat.",
           "aliases": [
-            "Agostino Gemelli Polyclinic"
+            "OSHA heat rule"
+          ]
+        },
+        {
+          "term": "OSHA",
+          "explain": "The U.S. agency for workplace safety.",
+          "aliases": []
+        },
+        {
+          "term": "pre-emption",
+          "explain": "When a higher government (like a state) blocks lower ones (like cities) from making their own rules.",
+          "aliases": [
+            "pre-empted"
           ]
         }
       ]
