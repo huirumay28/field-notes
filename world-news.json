@@ -1,56 +1,56 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-19T08:00:00+08:00",
-  "notes": "Monday 19 Oct 2026 world issue (Taipei ~08:00). Window: Fri 16 Oct through Sun 18 Oct (U.S./Europe time). Finance: Nasdaq’s worst week since June as AI chips slide; U.S. deficit near $2T; Europeans walk out on Russia at IMF Bangkok; Microsoft drops Essex AI data center over power. Tech (USA): Instagram downs No Kings account during rallies; Anthropic red team’s smart-TV AI worm; AI wearables vs wiretap laws; Musk settles $1M giveaway suits. Politics: France unrest (2,400 arrests); Trump pauses Russia sanctions, Starshield row; settlers attack European diplomats in West Bank; update—Homan says Omar could be denaturalized. Literature (USA): Allende wins Premio Planeta under a pen name; LitHub best-reviewed (Yiyun Li); horror-only bookstore; American Girl’s grown-up Samantha. Social: update—Oregon school shooting victims named; Canadian base fire kills 4; Kolkata Durga Puja crush; farmworker heat protections. Sources: Guardian, NPR, CNBC, BBC, Investopedia/Yahoo Finance, Literary Hub.",
+  "fetched_at": "2026-10-20T08:00:00+08:00",
+  "notes": "Tuesday 20 Oct 2026 world issue (Taipei ~08:00). Window: Mon 19 Oct (after the Mon paper) through early Tue 20 Oct. All new vs Mon 19 paper (France unrest and Russia/Ukraine are follow-ups with new developments). Finance: Nasdaq +1.1% AI rebound; China Q3 GDP 4.5%; French yields highest since 2002; Indonesia stocks -5% on MSCI fears; Tech (USA): Musk SpaceX share pledge + Anthropic Public Benefit Fund; DHS bans DeepSeek; nudify apps reach 13-year-olds; OpenAI bugging suspect denied bail; Politics: France curfews; Putin floats Trump-Xi-Putin summit; Australian MP Helen Haines rammed; Israel detains 10 settlers; Literature (USA): HOT Larry David biography, HOT Narnia publishing program, TREND nameless narrators, NOT Time Traveler's Wife sequel; Social: Kenya cult leader guilty of 191 murders; Sudan drone strike kills 80; WFP Gaza cuts; HelloFresh temp workers lawsuit. Sources: Guardian, BBC, CNBC, Publishers Weekly, Literary Hub.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Nasdaq has its worst week since June as AI chip stocks keep sliding",
-      "dek": "Friday: Nasdaq −2.1%, S&P 500 −1.1%. Oil back above $100. Traders now see a December rate hike as very likely.",
-      "caveman": "U.S. stocks ended a rough week on Friday (Oct 16). The tech-heavy Nasdaq fell 2.1% to 26,140, the S&P 500 fell 1.1% to 7,659, and the Dow slipped 0.3% to 52,002. For the week, the Nasdaq lost about 4.5%, its worst week since June; the S&P 500 lost about 2%, while the Dow actually rose 0.7%. Chip and AI stocks took the biggest hits: AI cloud company CoreWeave dropped about 12%, and Micron and Intel each fell more than 5%. Why? Investors are nervous that AI companies are borrowing huge amounts to build data centers, and that prices are still rising too fast. Fed chair Kevin Warsh gave no hint about rates in a speech, and futures markets put the chance of a rate hike in December at about 89%. The 10-year Treasury yield sat near 5.09%, and U.S. oil (WTI) jumped 3.4% to about $101 a barrel.",
-      "why_it_matters": "When a few giant AI stocks make up a big slice of the market, their slide drags down retirement funds for everyone. It also hit Asia: Taiwan’s market fell 4.47% last week, and the U.S. chip index’s weekly plunge points to more pressure on Monday.",
-      "camps": "Worried view: borrowing-fueled AI spending plus high oil and high rates is a fragile mix. Calmer view: the Dow rose for the week, showing money is rotating into other stocks rather than fleeing. Analyst Melissa Brown of SimCorp warned that when the top stocks are about 40% of the index, a pullback in them hits the whole market.",
-      "source_name": "Investopedia (via Yahoo Finance)",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html",
-      "published": "2026-10-16",
+      "headline": "Nasdaq jumps 1.1% as AI chip stocks bounce back after a rough week",
+      "dek": "Intel, AMD and Micron led the rebound. The Dow slipped a little. Oil stayed above $100.",
+      "caveman": "Last week was bad for tech stocks. On Monday they came back. The Nasdaq (a list full of tech companies) rose 1.11% to 26,430.89. The S&P 500 rose 0.41% to 7,690.73. The Dow fell just 36 points to 51,966.03. Chip makers did best: Intel rose about 2% after JPMorgan bank said it likes the stock more now, AMD rose 1.8% and memory maker Micron rose about 3%. One AI cloud company, CoreWeave, still fell a bit after losing about a quarter of its value last week, and the price of insurance against it failing to pay its debt is at worrying levels. Oil is still very expensive: US oil (WTI) rose 2.2% to $103.66 a barrel. This week Meta and Tesla report how much money they made.",
+      "why_it_matters": "Many people's retirement money sits in these stock lists. Investors keep swinging between \"AI will make huge profits\" and \"AI spending is a bubble.\" Oil above $100 also keeps gas and shipping prices high.",
+      "camps": "Bulls: AI demand is real; Anthropic told investors its quarterly sales hit $16.8 billion, and chip makers are selling everything they make. Bears: research firm Gartner says about $3.5 trillion in AI investment could be at risk because profits are not yet keeping up, and bond investors are shunning debt-heavy AI cloud companies like CoreWeave.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+      "published": "2026-10-19",
       "image": "images/wd-fin-1.jpg",
       "image_alt": "Traders work on the floor of the New York Stock Exchange",
-      "image_credit": "Michael Nagle / Bloomberg via Getty Images",
+      "image_credit": "Photo: Michael M. Santiago/Getty Images via CNBC",
       "terms": [
         {
           "term": "Nasdaq",
-          "explain": "A U.S. stock index full of tech companies.",
+          "explain": "A US stock list packed with tech companies like Apple, Nvidia and Microsoft.",
           "aliases": [
             "Nasdaq Composite"
           ]
         },
         {
           "term": "S&P 500",
-          "explain": "An index of 500 big U.S. companies; a common measure of “the market.”",
+          "explain": "A list of 500 big US companies. People use it as a score for the whole US stock market.",
           "aliases": [
             "S&P"
           ]
         },
         {
-          "term": "Treasury yield",
-          "explain": "The interest rate the U.S. government pays to borrow. Higher yields make loans pricier for everyone.",
-          "aliases": [
-            "10-year yield"
-          ]
+          "term": "upgrade",
+          "explain": "When a bank's analysts say a stock is now a better buy than before.",
+          "aliases": []
         },
         {
-          "term": "rate hike",
-          "explain": "When the central bank raises interest rates to cool prices.",
+          "term": "credit default swap",
+          "explain": "A kind of insurance investors buy in case a company can't pay back its debt. When it gets pricey, people are worried.",
           "aliases": [
-            "hike"
+            "CDS"
           ]
         },
         {
           "term": "WTI",
-          "explain": "West Texas Intermediate, the main U.S. oil price benchmark.",
-          "aliases": []
+          "explain": "West Texas Intermediate, the main price for US crude oil.",
+          "aliases": [
+            "Brent"
+          ]
         }
       ]
     },
@@ -58,45 +58,46 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "U.S. budget gap hits nearly $2 trillion, the third-biggest ever",
-      "dek": "Spending was $7.4 trillion, tax money in was $5.4 trillion. Interest on the debt alone topped $1 trillion.",
-      "caveman": "The U.S. government spends more than it takes in. That gap is called the deficit. For the budget year that ended Sept. 30, the deficit was about $1.99 trillion, up 12% from $1.78 trillion the year before, CNBC reported (Oct 16). It is the third-largest deficit in U.S. history. The government took in about $5.4 trillion and spent about $7.4 trillion. Big costs: Social Security (about $1.7 trillion), Medicare (about $1.1 trillion), and interest on old debt (more than $1 trillion). Total national debt is now above $40 trillion. Money from corporate taxes fell by about $70 billion, partly because of tax cuts in the “One Big Beautiful Bill.” The government also had to refund about $145 billion in tariffs after a Supreme Court ruling, Reuters reported.",
-      "why_it_matters": "Paying over $1 trillion a year in interest means less money for schools, health care or anything else. Big deficits can also push interest rates up for mortgages and car loans.",
-      "camps": "Administration view: Treasury Secretary Scott Bessent says the plan is to “grow our way out” of the debt with a faster economy. Critics’ view: budget watchers say tax cuts plus rising interest costs make the hole deeper, and someone will have to raise taxes or cut spending later.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "published": "2026-10-16",
+      "headline": "China's economy grows 4.5% as AI-related exports boom, but home building keeps sinking",
+      "dek": "Factories are humming and exports jumped. Shoppers are still holding back, and property investment fell more than 20%.",
+      "caveman": "China said its economy grew 4.5% from July to September compared with a year earlier. That beat what experts guessed and was faster than the 4.3% in spring. For the first nine months, growth is 4.6%, inside the government's goal of 4.5% to 5%. Factories made 5.5% more stuff in September, but shop sales grew only 1.1%. The big engine is selling things abroad: exports jumped by more than a third in September, helped by AI electronics and cars. But the inside of the economy is weak. Money spent on new buildings, roads and machines fell 7.2% this year, and money put into property fell 20.6%.",
+      "why_it_matters": "China is the world's second-biggest economy and Taiwan's biggest trading partner. If China grows by selling more abroad while its own people buy less, other countries may complain about a flood of cheap Chinese goods.",
+      "camps": "Upbeat view: Beijing hit its targets without new stimulus, and high-tech factories are moving up the value ladder (Pantheon economist Duncan Wrigley). Worried view: growth leans too hard on exports and the AI boom; the housing slump and weak shoppers have not been fixed, and the Iran conflict is still a drag (ABN Amro).",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+      "published": "2026-10-19",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "A display showing the U.S. national debt in Washington, D.C.",
-      "image_credit": "Getty Images via CNBC",
+      "image_alt": "Packages move along a conveyor belt at a Chinese logistics centre",
+      "image_credit": "Photo: Peter Parks/AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "deficit",
-          "explain": "How much more a government spends than it collects in one year.",
+          "term": "GDP",
+          "explain": "Gross domestic product: the total value of everything a country makes and sells. Its growth rate is a report card for the economy.",
           "aliases": [
-            "budget deficit"
+            "economic growth"
           ]
         },
         {
-          "term": "national debt",
-          "explain": "All the money the government has borrowed over the years and not paid back.",
+          "term": "year-on-year",
+          "explain": "Compared with the same period one year earlier.",
+          "aliases": []
+        },
+        {
+          "term": "fixed-asset investment",
+          "explain": "Money spent on long-lasting things like factories, roads, buildings and machines.",
+          "aliases": []
+        },
+        {
+          "term": "stimulus",
+          "explain": "Extra government spending or cheap loans to push the economy to grow faster.",
           "aliases": [
-            "debt"
+            "stimulus measures"
           ]
         },
         {
-          "term": "fiscal year",
-          "explain": "The government’s budget year; for the U.S. it runs Oct. 1 to Sept. 30.",
-          "aliases": [
-            "budget year"
-          ]
-        },
-        {
-          "term": "tariff",
-          "explain": "A tax on imported goods.",
-          "aliases": [
-            "tariffs"
-          ]
+          "term": "retail sales",
+          "explain": "How much people spend in shops and online. It shows if regular people feel confident.",
+          "aliases": []
         }
       ]
     },
@@ -104,41 +105,51 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Bank of England chief and Europeans walk out on Russia’s finance minister at IMF meeting",
-      "dek": "Nearly half the room left when Anton Siluanov spoke in Bangkok; the U.S. said Russia should stay at the table.",
-      "caveman": "The International Monetary Fund (IMF) is like a global emergency bank for countries. At its meeting in Bangkok, Thailand, Bank of England governor Andrew Bailey and officials from France, Germany, Scandinavia and the Baltic states walked out when Russia’s finance minister, Anton Siluanov, started to speak, the Guardian reported (Oct 17). It was a protest over Russia’s war in Ukraine. Germany’s central bank chief Joachim Nagel said nearly half of the delegates left. The United States did not join; its representative supported Russia being present. The meeting’s chair, Saudi finance minister Mohammed al-Jadaan, warned that countries’ financial “buffers have been eroded” by years of shocks.",
-      "why_it_matters": "The walkout shows the West is split over how to treat Russia, as Washington takes a softer line. It also happened as the world economy faces high oil prices and war risks.",
-      "camps": "Walkout supporters: you shouldn’t give a stage to a country waging war on its neighbor. U.S. position: keep Russia in the room so talks can continue. Critics of the walkout argue global economic bodies work only if everyone can speak.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
-      "published": "2026-10-17",
+      "headline": "France's riots spook markets: borrowing costs hit their highest since 2002",
+      "dek": "French stocks, bonds and the euro all fell as unrest piled on top of an already big debt problem.",
+      "caveman": "France already owes a lot of money and runs a budget gap of about 5% of its economy. Now a week of riots has made investors more nervous. On Monday the interest rate France pays to borrow money for 10 years jumped more than 0.1 percentage point, touching its highest level since 2002. The gap between what France and Germany pay to borrow grew to its widest since the euro debt crisis. The main Paris stock list, the CAC 40, fell 1.7%, and the euro dipped slightly. Mike Bell of RBC BlueBay Asset Management summed up the trap: if France cuts spending, people protest; if it doesn't, bond markets punish it — \"either the bond markets riot, or the people riot, or both.\"",
+      "why_it_matters": "When a country pays more to borrow, there is less money left for schools, hospitals and pensions. France is the euro area's second-biggest economy, so its trouble can spread to its neighbours.",
+      "camps": "Worried: investors see a political dead end — no government can cut the deficit without more anger in the streets. Calmer: Ken Egan of ratings agency KBRA pointed to last week's bond sales, which showed buyers still have solid demand for French debt.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+      "published": "2026-10-19",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Delegates at the IMF and World Bank meetings in Bangkok",
-      "image_credit": "Rungroj Yongrit / EPA (via The Guardian)",
+      "image_alt": "Thousands of protesters march in Paris on October 17, 2026",
+      "image_credit": "Photo: Elise Cabane/AFP/Getty Images via CNBC",
       "terms": [
         {
-          "term": "IMF",
-          "explain": "International Monetary Fund: lends to countries in trouble and watches the world economy.",
+          "term": "bond yield",
+          "explain": "The interest rate a government pays when it borrows by selling bonds. Higher yield = investors want more pay for the risk.",
           "aliases": [
-            "International Monetary Fund"
+            "yield",
+            "borrowing costs"
           ]
         },
         {
-          "term": "central bank",
-          "explain": "A country’s main bank that sets interest rates, like the Bank of England.",
+          "term": "deficit",
+          "explain": "When a government spends more than it collects in taxes in a year.",
           "aliases": [
-            "Bank of England"
+            "budget deficit"
           ]
         },
         {
-          "term": "walkout",
-          "explain": "Leaving a meeting on purpose as a protest.",
+          "term": "CAC 40",
+          "explain": "The main list of 40 big companies on the Paris stock market.",
           "aliases": []
         },
         {
-          "term": "buffers",
-          "explain": "Savings and safety cushions governments keep for bad times.",
-          "aliases": []
+          "term": "spread",
+          "explain": "The gap between two interest rates, here what France pays versus what Germany pays.",
+          "aliases": [
+            "OAT-Bund spread"
+          ]
+        },
+        {
+          "term": "euro crisis",
+          "explain": "The 2010–2012 period when several euro countries, like Greece, struggled to pay their debts.",
+          "aliases": [
+            "euro debt crisis"
+          ]
         }
       ]
     },
@@ -146,37 +157,49 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Microsoft drops huge AI data center near London because the power grid can’t deliver until the 2030s",
-      "dek": "The Essex site, planned with Nvidia-backed Nscale, couldn’t get electricity soon enough.",
-      "caveman": "AI needs giant buildings full of computers, called data centers, and they eat lots of electricity. Microsoft has pulled out of a planned AI data center at Loughton in Essex, near London, run by the British company Nscale, the Guardian reported (Oct 18). The local grid operator, UK Power Networks, could not supply enough power until the early-to-mid 2030s. The site was still being used as a scaffolding yard as recently as March. Nscale, which is backed by Nvidia and is reportedly eyeing a stock market listing at a valuation of about $35 billion, said it remains committed to the project. Microsoft is still working with Nscale on a project in Norway.",
-      "why_it_matters": "It shows the real limit on the AI boom isn’t only chips—it’s electricity. Countries that can’t build power lines fast enough may lose investment.",
-      "camps": "Pro-build view: the UK wants to be an AI hub and must speed up grid connections. Skeptical view: data centers strain power and water, and locals ask who benefits. Investors watch whether AI projects announced with fanfare actually get built.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-      "published": "2026-10-18",
+      "headline": "Indonesia's stock market plunges 5% to a six-year low over fears of being kicked out of a key index",
+      "dek": "Index company MSCI proposed moving Indonesia out of its 'emerging markets' group. Goldman says $5.6 billion could leave.",
+      "caveman": "Big investment funds often buy whatever is on lists made by a company called MSCI. On Friday, MSCI proposed moving Indonesia out of its 'emerging markets' list and into a small 'stand-alone' group. On Monday, Jakarta's main stock index fell more than 5%, to its lowest since October 2020. Goldman Sachs bank guessed that funds that copy the list automatically would have to sell about $5.6 billion of Indonesian stocks. MSCI will decide by June, depending on whether Indonesia makes its market more open and better run. MSCI's Indonesia index has already fallen 47% this year, and foreigners have pulled out about $5.1 billion.",
+      "why_it_matters": "Indonesia is Southeast Asia's biggest economy. Money leaving its market can weaken its currency and make life pricier for its people. It also shows how much power a few index companies have over whole countries.",
+      "camps": "Pessimists: Goldman still says avoid Indonesian stocks — weak company profits and rule uncertainty mean the bottom may not be in. Optimists: stocks are now very cheap compared with profits, and if Indonesia fixes transparency before June, the downgrade could be avoided.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+      "published": "2026-10-19",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Artist’s impression of the planned Nscale data center at Loughton, Essex (a rendering, not a photo)",
-      "image_credit": "Nscale (via The Guardian)",
+      "image_alt": "The Semanggi overpass in Jakarta, Indonesia",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "data center",
-          "explain": "A huge building full of computer servers that run apps and AI.",
+          "term": "MSCI",
+          "explain": "A company that makes stock lists (indexes). Trillions of dollars in funds follow its lists.",
+          "aliases": []
+        },
+        {
+          "term": "emerging market",
+          "explain": "A country whose economy is growing and opening up but isn't yet 'rich', like Indonesia or Brazil.",
           "aliases": [
-            "datacentre"
+            "emerging markets"
           ]
         },
         {
-          "term": "power grid",
-          "explain": "The network of power plants and lines that delivers electricity.",
+          "term": "passive fund",
+          "explain": "A fund that just copies an index instead of picking stocks. If a country leaves the index, the fund must sell.",
           "aliases": [
-            "grid"
+            "passive outflows"
           ]
         },
         {
-          "term": "IPO",
-          "explain": "Initial public offering: when a company first sells shares on the stock market.",
+          "term": "downgrade",
+          "explain": "Being moved to a lower category, which can scare investors away.",
           "aliases": [
-            "listing"
+            "reclassification"
+          ]
+        },
+        {
+          "term": "Jakarta Composite Index",
+          "explain": "The main stock index of Indonesia's stock exchange.",
+          "aliases": [
+            "Jakarta index"
           ]
         }
       ]
@@ -185,39 +208,49 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Instagram shuts down the No Kings protest account for hours during Saturday rallies",
-      "dek": "Meta says an automatic anti-bot system made a mistake; Democratic senators aren’t buying the timing.",
-      "caveman": "No Kings is a protest movement against President Trump. On Saturday (Oct 17), it held rallies tied to early voting, including at the Lincoln Memorial in Washington, in Atlanta and in Los Angeles. During the protests, its Instagram account went offline for hours, the Guardian reported (Oct 18). Meta apologized. Spokesperson Andy Stone said bursts of very high activity made its AI tool mistake the account for bot traffic, that the automated action was “clearly taken in error,” and that the account was restored. Sen. Bernie Sanders blamed “billionaire ownership of the media,” and Sen. Chris Murphy called for an investigation.",
-      "why_it_matters": "A handful of tech companies control where Americans talk politics. Even an honest mistake at the wrong moment can silence a movement, which is why people demand transparency.",
-      "camps": "Meta’s view: automated systems remove millions of fake accounts, and errors happen and get fixed. Organizers’ and critics’ view: “Meta owes us an explanation,” the group said; a mistake that silences protesters at the worst moment raises censorship fears. Neutral point: there’s no public evidence yet that it was deliberate.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-      "published": "2026-10-18",
+      "headline": "Musk says he'll give one SpaceX share to every US kid; Anthropic sets aside 5% of its shares for the 'public good'",
+      "dek": "Two AI-era giants pledged big giveaways as pressure grows over what AI will do to jobs.",
+      "caveman": "AI company Anthropic (maker of the Claude chatbot) said on Sunday it will put 5% of its shares into a Public Benefit Fund, and more as the company's value grows. The money could go to charities, to groups hit by AI, or to study how AI replaces jobs. Anthropic says none of it will be used for lobbying or political donations. Elon Musk replied that shares should go straight to the public. On Monday he posted that next year he will give one of his SpaceX shares to every child in America. CNBC counted about 72 million US kids, so that would be about $10.5 billion at Friday's price. He did not say how it would work.",
+      "why_it_matters": "AI companies are about to become some of the most valuable on Earth, while many people fear losing their jobs to AI. Who shares in that wealth is becoming a big political question.",
+      "camps": "Supporters: giving ordinary people and kids a slice of these companies spreads the wealth; Invest America founder Brad Gerstner called Musk's plan possibly the biggest gift ever. Skeptics: there are no details yet; CNBC notes Musk has a spotty record on past giving pledges (like a promised $1 billion to OpenAI that ended at about $38 million), and both companies are preparing for or riding huge stock listings, so the pledges also work as PR.",
+      "source_name": "BBC News (with CNBC)",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+      "published": "2026-10-19",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Demonstrators at a No Kings rally in New York",
-      "image_credit": "Madison Swart / AP (via The Guardian)",
+      "image_alt": "Elon Musk",
+      "image_credit": "Photo: Reuters via BBC News",
       "terms": [
         {
-          "term": "No Kings",
-          "explain": "A U.S. protest movement opposing what it calls authoritarian moves by President Trump.",
-          "aliases": []
-        },
-        {
-          "term": "Meta",
-          "explain": "The company that owns Facebook, Instagram and WhatsApp.",
-          "aliases": []
-        },
-        {
-          "term": "bot",
-          "explain": "An automated fake account run by software.",
+          "term": "share",
+          "explain": "A tiny piece of ownership in a company. If the company grows, the share is worth more.",
           "aliases": [
-            "anti-bot"
+            "shares",
+            "stock"
           ]
         },
         {
-          "term": "early voting",
-          "explain": "Voting before Election Day at set locations.",
+          "term": "Public Benefit Fund",
+          "explain": "Anthropic's new pot of company shares meant to pay for things that help the public.",
           "aliases": []
+        },
+        {
+          "term": "IPO",
+          "explain": "Initial public offering: when a company first sells shares on the stock market.",
+          "aliases": [
+            "stock market listing"
+          ]
+        },
+        {
+          "term": "lobbying",
+          "explain": "Paying people to push politicians to make rules you like.",
+          "aliases": []
+        },
+        {
+          "term": "philanthropy",
+          "explain": "Giving money away to help others, usually by rich people.",
+          "aliases": [
+            "philanthropic"
+          ]
         }
       ]
     },
@@ -225,39 +258,48 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "Anthropic’s red team built an AI “worm” that hopped across smart TVs",
-      "dek": "The test showed AI could soon spread on its own across devices; experts say it could be possible within months.",
-      "caveman": "A “worm” is a computer virus that copies itself from one device to another by itself. AI company Anthropic’s red team—people hired to attack their own systems to find dangers—built an experimental AI worm that spread across smart TVs, even splitting its work across 15 TVs, the Guardian reported (Oct 18). The team says this kind of attack could become practical by the end of this year. Security veterans, including Joshua Saxe (formerly of Meta) and Chris Inglis (former deputy director of the NSA), told the paper that cheap internet-connected gadgets with weak security could become hiding places for AI attackers.",
-      "why_it_matters": "Your TV, doorbell or fridge may be the weakest door into your home network. AI that can spread on its own would make old security problems much bigger.",
-      "camps": "Alarmed view: AI makes hacking faster and cheaper, and gadget makers aren’t ready. Defenders’ view: testing it first is how you build defenses before criminals do. Skeptics say lab demos don’t always become real-world attacks quickly.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-      "published": "2026-10-18",
+      "headline": "US bans Chinese AI DeepSeek from civilian government agencies",
+      "dek": "Homeland Security made the order public Monday. It quietly took effect at the end of July and covers tools built with DeepSeek too.",
+      "caveman": "DeepSeek is a Chinese AI model that is free and cheap to use, so lots of people and companies use it. The US Department of Homeland Security (DHS) has now banned it across civilian government agencies — like the Treasury, the State Department and the Justice Department. The ban also covers any technology built with help from DeepSeek's models. The military's agencies are not included. DHS made the order public on Monday, but it has been in force since the end of July. DHS did not say exactly what the security worry is. American AI firms such as Anthropic and OpenAI have accused some Chinese AI companies, including DeepSeek, of copying their models.",
+      "why_it_matters": "This is another step in the US–China AI race. Some US tech companies (like Snowflake and Vercel) offer DeepSeek to their customers, so rules for government could later spread to business.",
+      "camps": "For the ban: the Trump White House says Chinese firms have exploited American AI, and officials don't want government data flowing into tools tied to a rival country. Against or cautious: DeepSeek is open source and widely used because it's cheap; critics of blanket bans say they can hurt competition and research, and DHS hasn't publicly explained the specific risk. DeepSeek and the Chinese embassy had not commented.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+      "published": "2026-10-19",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Televisions on display at an electronics show",
-      "image_credit": "Kim Kyung-Hoon / Reuters (via The Guardian)",
+      "image_alt": "The DeepSeek logo shown on a smartphone screen",
+      "image_credit": "Photo: CFOTO/Future Publishing via Getty Images, via BBC News",
       "terms": [
         {
-          "term": "worm",
-          "explain": "Malware that spreads from device to device on its own.",
+          "term": "DeepSeek",
+          "explain": "A Chinese AI company whose chatbot and models are free and cheap, making it a big rival to US AI firms.",
+          "aliases": []
+        },
+        {
+          "term": "Department of Homeland Security",
+          "explain": "The US government department in charge of border, immigration and domestic security.",
           "aliases": [
-            "computer worm"
+            "DHS"
           ]
         },
         {
-          "term": "red team",
-          "explain": "Experts who attack their own organization’s systems to find weaknesses.",
+          "term": "open source",
+          "explain": "Software whose code is shared openly so anyone can use or change it.",
           "aliases": []
         },
         {
-          "term": "smart TV",
-          "explain": "A TV connected to the internet that runs apps.",
-          "aliases": []
+          "term": "civilian agencies",
+          "explain": "Government offices that aren't part of the military, like the Treasury or State Department.",
+          "aliases": [
+            "civilian government agencies"
+          ]
         },
         {
-          "term": "NSA",
-          "explain": "National Security Agency, the U.S. spy agency for electronic signals.",
-          "aliases": []
+          "term": "AI model",
+          "explain": "The trained 'brain' behind an AI tool like a chatbot.",
+          "aliases": [
+            "models"
+          ]
         }
       ]
     },
@@ -265,36 +307,47 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "AI gadgets that record everything may run into old U.S. wiretap laws",
-      "dek": "New AI pins and watches summarize your day. In some states, recording people without consent can be illegal.",
-      "caveman": "A new wave of AI wearables listens all day and writes summaries for you. CNBC (Oct 18) points to Amazon’s new Bee Frontier and Bee Eclipse, launched last week, Apple Watch Series 12’s Siri “recap” feature, and Meta’s smart glasses. The problem: many U.S. states have wiretap laws that require everyone in a conversation to agree before it’s recorded. Massachusetts has an especially broad definition. Lawyer Colin Zick of Foley Hoag explained the legal risk, and Tufts University engineering professor Karen Panetta urged people to “embrace with caution.”",
-      "why_it_matters": "If your coworker’s pin is recording your lunch chat, your words may end up in a company’s cloud. Laws written for phone taps are now being tested by AI gadgets.",
-      "camps": "Makers’ view: these tools help memory, accessibility and productivity. Privacy view: people around you never agreed to be recorded. Legal view: the rules vary state by state, and courts haven’t settled how they apply.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "published": "2026-10-18",
+      "headline": "Report: 'nudify' apps are easy for 13-year-olds to download despite Apple and Google parental controls",
+      "dek": "Researchers using test accounts set to age 13 downloaded 135 apps that can strip clothes off people in photos.",
+      "caveman": "'Nudify' apps use AI to make fake nude pictures of real people from normal photos. In US high schools, some students have used them on classmates. A watchdog group, the Tech Transparency Project, made four test accounts on Apple and Google phones, all saying the user was 13. Searching terms like \"AI video generator,\" they could download 135 apps with tools to undress people or put faces on nude bodies. (The researchers tested on AI-made women, not real photos.) A Pennsylvania mother, Morgan Dorfman, told the Guardian a student made sexual videos of her daughter and five other girls with one such app.",
+      "why_it_matters": "Fake nude images can wreck a young person's life and are a form of sexual abuse. Parents rely on phone parental controls, and this report says those controls aren't stopping these apps.",
+      "camps": "Critics: app stores profit from these apps and their age filters are failing kids; laws banning them aren't being enforced well enough. Apple and Google: both say they ban nudify apps and remove ones they find; Google said it suspended violating apps in this case, and Apple said many apps in the report are normal photo editors that can't make nudes.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+      "published": "2026-10-19",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Crowds of travelers in Moynihan Train Hall in New York",
-      "image_credit": "Getty Images via CNBC",
+      "image_alt": "A person looks at a phone screen in the dark (illustrative photo)",
+      "image_credit": "Photo: Spencer Platt/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "wearable",
-          "explain": "A gadget you wear, like a smartwatch, pin or glasses.",
+          "term": "nudify app",
+          "explain": "An app that uses AI to make fake nude images of a person from an ordinary photo.",
           "aliases": [
-            "AI wearables"
+            "nudify apps",
+            "nudification"
           ]
         },
         {
-          "term": "wiretap law",
-          "explain": "A law against secretly recording or listening to conversations.",
+          "term": "deepfake",
+          "explain": "A fake but realistic photo, video or voice made with AI.",
           "aliases": []
         },
         {
-          "term": "consent",
-          "explain": "Agreement or permission.",
+          "term": "parental controls",
+          "explain": "Phone settings that let parents limit what apps and content kids can get.",
+          "aliases": []
+        },
+        {
+          "term": "Tech Transparency Project",
+          "explain": "A US watchdog group that researches big tech companies.",
           "aliases": [
-            "two-party consent"
+            "TTP"
           ]
+        },
+        {
+          "term": "nonconsensual",
+          "explain": "Done without the person agreeing to it.",
+          "aliases": []
         }
       ]
     },
@@ -302,42 +355,47 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Musk settles lawsuits over his $1 million-a-day election giveaway",
-      "dek": "Plaintiffs said the 2024 swing-state “lottery” misled voters. Terms weren’t disclosed and need court approval.",
-      "caveman": "Before the 2024 election, Elon Musk’s America PAC handed out $1 million a day to people who signed a petition in seven swing states. Arizona residents later sued, saying voters were misled into signing by the promise of $1 million a day to “randomly selected” signers. Musk and the PAC have now settled two class-action lawsuits, the Guardian reported (Oct 17). The two proposed class actions were in federal court in Austin, Texas; the settlements still need a judge’s approval, and a judge had ordered Musk to testify in June. The settlement terms were not made public.",
-      "why_it_matters": "Very rich donors can reshape elections with giveaways like this. The settlement avoids a trial, so the public may never hear all the details.",
-      "camps": "Critics: the contest blurred the line between campaigning and paying voters. Musk’s side has argued the payments were legal, and a settlement isn’t an admission of wrongdoing.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "published": "2026-10-17",
+      "headline": "Ex-OpenAI engineer accused of bugging a meeting room held without bail; judge calls Saudi bail offer 'problematic'",
+      "dek": "Prosecutors say Abdulrahman Alfozan hid a recording device in a TV at OpenAI's headquarters. Saudi Arabia offered to pay his bail.",
+      "caveman": "Abdulrahman Alfozan, 35, is a Saudi citizen who worked as an engineer at OpenAI. Prosecutors say on Sept. 28 he hid a recording device inside a TV in an executive meeting room at OpenAI's San Francisco office. On Monday, federal judge Alex Tse ordered him kept in jail until trial, saying he might flee. The Saudi consulate offered to pay his full bail; the judge called it \"problematic\" and like \"a blank check.\" Saudi Arabia has no deal to send suspects back to the US. Prosecutors also say OpenAI executives met government officials in that room around that time, and more serious charges could come. He faces up to five years if convicted. Next court date: Nov. 6.",
+      "why_it_matters": "AI companies now hold secrets that governments care about. This case shows spying fears around AI labs are real, and it could test US–Saudi relations.",
+      "camps": "Prosecution: strong family and money ties to Saudi Arabia make him a flight risk, and the bugging could threaten US national security. Defense side: he has dozens of supporters in court, has not been convicted, and the Saudi government promised supervision and no travel papers; so far he is charged only with trying to intercept conversations.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "published": "2026-10-19",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Elon Musk and Donald Trump at an event on October 8, 2026",
-      "image_credit": "Julia Demaree Nikhinson / AP (via The Guardian)",
+      "image_alt": "Justice Department photo of Abdulrahman Alfozan checking a recording device in OpenAI's office",
+      "image_credit": "Photo: US Department of Justice via CNBC",
       "terms": [
         {
-          "term": "PAC",
-          "explain": "Political action committee: a group that raises and spends money on elections.",
+          "term": "bail",
+          "explain": "Money paid so a person accused of a crime can wait for trial outside jail.",
           "aliases": [
-            "America PAC"
+            "without bail"
           ]
         },
         {
-          "term": "class action",
-          "explain": "One lawsuit filed on behalf of a whole group of people with the same complaint.",
+          "term": "flight risk",
+          "explain": "A worry that a suspect will run away (often abroad) before trial.",
+          "aliases": []
+        },
+        {
+          "term": "extradition treaty",
+          "explain": "An agreement between countries to send suspects back to face trial.",
           "aliases": [
-            "class-action"
+            "extradition"
           ]
         },
         {
-          "term": "settlement",
-          "explain": "An agreement to end a lawsuit without a trial.",
+          "term": "consulate",
+          "explain": "A country's government office in a foreign city that helps its citizens there.",
           "aliases": [
-            "settle"
+            "Saudi Consulate"
           ]
         },
         {
-          "term": "swing state",
-          "explain": "A state that could vote for either party.",
+          "term": "intercept",
+          "explain": "To secretly catch or record other people's communications.",
           "aliases": []
         }
       ]
@@ -346,34 +404,46 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "France rocked by violent unrest: 2,400 arrested, a historic town hall set on fire",
-      "dek": "Student protests over schools have turned into riots; Macron condemns “unbridled violence.”",
-      "caveman": "France has seen four weeks of school marches and barricades by students demanding more teachers and repairs to run-down schools, joined by people angry about the cost of living. On Saturday some of it turned into the worst violence in years, the Guardian reported (Oct 18). At least 2,400 people have been arrested, including a record 855 in Paris. In Limoges, the 19th-century town hall was set on fire. President Emmanuel Macron called it “unbridled violence,” said “nothing justifies” it, and blamed the ultra-left and delinquents. Some politicians are calling for Interior Minister Laurent Nuñez to resign over the policing. Smaller protests have spread to Spain, Italy and Portugal. U.S. President Trump posted that France “is burning” and blamed immigrants, telling France to close its borders, Taiwan’s CNA reported from wire services.",
-      "why_it_matters": "The protests began with real complaints about schools. How the government answers—only with police, or also with fixes—could shape European politics for months.",
-      "camps": "Government: restore order first, punish violence. Peaceful protesters and the left: the anger comes from run-down schools and the cost of living; Macron himself separated peaceful marchers from looters. Right-wing voices: blame immigration and demand tougher policing; others say that framing ignores the original school protests.",
+      "headline": "France orders curfews in parts of Paris and other cities as minister admits police 'lost control'",
+      "dek": "Over 2,500 people have been arrested. Unions called new strikes for Nov. 5. The PM says a state of emergency is possible.",
+      "caveman": "France has had weeks of high school student protests, and last weekend some marches turned into riots and looting. On Monday, Prime Minister Sébastien Lecornu ordered partial curfews: 8pm to 6am on Monday and Tuesday nights in four northern cities including Lille, and 11pm to 6am in two Paris areas — Place de la République and the Les Halles shopping district. Interior Minister Laurent Nuñez admitted police \"lost control\": they expected 200,000 protesters but more than 500,000 came. He offered to quit; President Macron said no. About 2,000 shops were looted, almost 1,000 police were hurt, and 2,513 people were arrested, with 67 jailed. Protesters also blocked the Louvre museum. Unions want new strikes on Nov. 5.",
+      "why_it_matters": "France picks a new president in about six months and is already struggling with debt. Weeks of anger in the streets can shape who wins and what policies come next.",
+      "camps": "Government: order must be restored; Lecornu says targeted curfews are better than closing whole cities, but a state of emergency is not ruled out. Protesters and unions: most of the 500,000+ marchers were peaceful; they denounce \"police repression\", say violent groups on the fringes hijacked the day, and are pushing on with strikes rather than backing down.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "published": "2026-10-18",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "published": "2026-10-19",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "The town hall in Limoges, France, on fire during unrest",
-      "image_credit": "Pascal Lachenaud / AFP / Getty Images (via The Guardian)",
+      "image_alt": "Rioters smash a shop window during the unrest in France",
+      "image_credit": "Photo: Carl Court/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "interior minister",
-          "explain": "The French minister in charge of police and public order.",
-          "aliases": []
-        },
-        {
-          "term": "ultra-left",
-          "explain": "Far-left groups, some of which use street violence.",
-          "aliases": []
-        },
-        {
-          "term": "riot",
-          "explain": "A violent public disturbance by a crowd.",
+          "term": "curfew",
+          "explain": "A rule that people must stay off the streets during certain hours.",
           "aliases": [
-            "unrest"
+            "partial curfews"
           ]
+        },
+        {
+          "term": "state of emergency",
+          "explain": "A legal step that gives the government extra powers for a short time in a crisis.",
+          "aliases": []
+        },
+        {
+          "term": "interior minister",
+          "explain": "The minister in charge of police and public safety.",
+          "aliases": []
+        },
+        {
+          "term": "looting",
+          "explain": "Breaking into shops and stealing during unrest.",
+          "aliases": [
+            "looted"
+          ]
+        },
+        {
+          "term": "Louvre",
+          "explain": "The famous Paris art museum that holds the Mona Lisa.",
+          "aliases": []
         }
       ]
     },
@@ -381,40 +451,45 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Trump pauses new Russia sanctions and denies cutting Ukraine’s Starshield satellite link",
-      "dek": "Two days before a deadline, Trump used a national-interest waiver; Zelenskyy says the U.S. was behind a satellite outage.",
-      "caveman": "Congress passed a law (named after Sen. Lindsey Graham) to punish Russia with tougher sanctions. Two days before the deadline, President Trump signed an order pausing them, saying it was “in the national interest,” NPR reported (Oct 17–18). Sen. Richard Blumenthal accused him of “sucking up to Vladimir Putin.” Separately, Ukraine lost access to Starshield, the military version of Musk’s Starlink satellite internet. President Volodymyr Zelenskyy told NBC the U.S. was behind it. Trump said “it wasn’t me,” and Secretary of State Marco Rubio called that “categorically false.” Musk said the U.S. military decides how the service can be used. Some senators want an inspector general to investigate. U.S. intelligence sharing with Ukraine has resumed, and Zelenskyy thanked Trump. Meanwhile Russia attacked overnight with 4 cruise missiles and 332 drones.",
-      "why_it_matters": "Ukraine’s army depends on U.S. intelligence and satellite internet to see and talk on the battlefield. Who controls that switch matters for the war.",
-      "camps": "White House: flexibility helps peace talks. Critics in both parties: pausing sanctions rewards Russia and weakens Congress’s law. Ukraine: grateful for renewed help but wants clear answers about the outage.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-      "published": "2026-10-18",
+      "headline": "Putin reportedly floats a Trump–Xi–Putin summit on Ukraine — without Zelenskyy",
+      "dek": "The Wall Street Journal says the idea came up in an Oct. 9 call. Russia fired 16 ballistic missiles at Kyiv overnight.",
+      "caveman": "According to the Wall Street Journal, Russian President Vladimir Putin suggested to Donald Trump in an Oct. 9 phone call that he, Trump and China's Xi Jinping meet to end the Ukraine war — with no Ukrainian leader there. It could happen at the APEC summit in Shenzhen, China, in November. US Secretary of State Marco Rubio said there had been \"talks of a meeting\" but he didn't know if it was final. Meanwhile, Russia fired 16 ballistic missiles at Kyiv and more than 200 drones across Ukraine; President Zelenskyy said 550,000 households lost power. Late Monday, Ukrainian officials said a drone strike near a park café in the Kharkiv region killed at least six people, including a toddler and an 11-year-old girl. Ukraine and the US are also arguing over whether US intelligence sharing was interrupted.",
+      "why_it_matters": "A deal about Ukraine made without Ukraine would be a huge change. It also gives China a bigger say in Europe's biggest war, which matters for Taiwan too.",
+      "camps": "Trump side: Trump is open to anything that could end the war, and Rubio denies intelligence sharing was cut. Ukraine and critics: Zelenskyy says easing sanctions on Russia makes the war last longer, and leaving Kyiv out of talks would let big powers decide its fate; some Republicans and European allies are also alarmed.",
+      "source_name": "CNBC (with BBC)",
+      "source_url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "published": "2026-10-19",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Ukrainian President Volodymyr Zelenskyy at an EU summit",
-      "image_credit": "Geert Vanden Wijngaert / AP (via NPR)",
+      "image_alt": "Donald Trump greets Vladimir Putin in Anchorage, Alaska, in August 2025",
+      "image_credit": "Photo: Andrew Harnik/Getty Images via CNBC",
       "terms": [
         {
-          "term": "sanctions",
-          "explain": "Penalties like trade bans meant to pressure another country.",
+          "term": "summit",
+          "explain": "A meeting of top leaders from different countries.",
+          "aliases": [
+            "three-way summit"
+          ]
+        },
+        {
+          "term": "APEC",
+          "explain": "Asia-Pacific Economic Cooperation, a yearly meeting of Pacific Rim economies.",
           "aliases": []
         },
         {
-          "term": "Starshield",
-          "explain": "SpaceX’s military satellite network, related to Starlink.",
+          "term": "ballistic missile",
+          "explain": "A fast rocket that flies high and falls on its target, very hard to stop.",
           "aliases": [
-            "Starlink"
+            "ballistic missiles"
           ]
         },
         {
-          "term": "waiver",
-          "explain": "Official permission to skip a rule.",
-          "aliases": [
-            "national-interest waiver"
-          ]
+          "term": "sanctions",
+          "explain": "Penalties, like trade bans, that countries use to pressure another country.",
+          "aliases": []
         },
         {
-          "term": "inspector general",
-          "explain": "An internal watchdog that investigates a government agency.",
+          "term": "intelligence sharing",
+          "explain": "When one country passes spy and warning information to another, like early alerts of missile launches.",
           "aliases": []
         }
       ]
@@ -423,40 +498,43 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Israeli settlers attack European diplomats and a French mayor in the West Bank",
-      "dek": "Three people were hurt in Taybeh during the olive harvest; even Trump’s ambassador called it terror.",
-      "caveman": "The West Bank is Palestinian land occupied by Israel, where Israeli settlers live in communities most of the world considers illegal. In the Palestinian village of Taybeh, settlers attacked a group that included France’s consul general, the Belgian and Polish consuls, French mayor Bernard Baudoux and the archbishop of Cambrai, who had come during the olive harvest, the Guardian reported (Oct 17). Three people were hurt, and a window of a Belgian armored car was smashed. Separately, Heidi Levine, a 63-year-old Washington Post photographer and U.S. citizen, was beaten late last week and needed surgery. U.S. Ambassador Mike Huckabee called it a “despicable act of terror,” while Prime Minister Benjamin Netanyahu referred to it as an “alleged” attack. Israeli group Yesh Din counted more than 170 settler attacks since Sept. 27. Israel’s foreign minister condemned it and police are investigating; Belgium is pushing for EU sanctions on violent settlers.",
-      "why_it_matters": "Attacks on diplomats are rare and show how settler violence is rising during the olive harvest, when Palestinian farmers are most exposed.",
-      "camps": "Palestinians and rights groups: settlers act with little punishment, and the army often doesn’t stop them. Israeli government: condemns the attack and says police are investigating. European governments: want sanctions; the U.S. asked Israel to crack down.",
+      "headline": "Australian MP Helen Haines in critical condition after a car allegedly rammed her twice outside her office",
+      "dek": "Witnesses say the driver made a U-turn to hit her. A barber pulled the man out of the car. Police arrested a 43-year-old.",
+      "caveman": "Helen Haines is an independent member of Australia's parliament. On Monday, near her office in Wangaratta, Victoria, a Toyota Land Cruiser allegedly hit her, pinning her against a car — then reversed and hit her again. Home Affairs Minister Tony Burke said witnesses described the driver making a U-turn to get into the car park. A barber next door, Ricky Jefferies, ran over, pulled the driver out and held him until police came; he said the man had a knife but threw it away. Police arrested a 43-year-old man from Tarrawingee. Haines was flown to a Melbourne hospital for emergency surgery and is in critical condition. Burke said there were 1,067 reports of threats or harassment against top office holders last year, up from 951.",
+      "why_it_matters": "Attacks on politicians are rising in many democracies. When leaders are not safe meeting voters, it hurts everyone's ability to be heard.",
+      "camps": "This is not a left-right fight; the government praised the bystander who stopped the driver. The open questions: police have not yet said the motive, so whether it was a targeted political attack is still unconfirmed, and the government is reviewing whether more could have been done to protect MPs.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-      "published": "2026-10-17",
+      "source_url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "published": "2026-10-20",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "The smashed window of mayor Baudoux’s car after the attack in Taybeh",
-      "image_credit": "Emma Graham-Harrison / The Guardian",
+      "image_alt": "Independent MP Helen Haines",
+      "image_credit": "Photo: Mick Tsikas/AAP via The Guardian",
       "terms": [
         {
-          "term": "West Bank",
-          "explain": "Palestinian territory occupied by Israel since 1967.",
+          "term": "independent MP",
+          "explain": "A member of parliament who doesn't belong to any political party.",
+          "aliases": [
+            "independent"
+          ]
+        },
+        {
+          "term": "electorate office",
+          "explain": "An MP's local office where voters can come to meet them.",
           "aliases": []
         },
         {
-          "term": "settlers",
-          "explain": "Israelis living in communities built on occupied land.",
-          "aliases": [
-            "settlements"
-          ]
+          "term": "critical condition",
+          "explain": "Very badly hurt; life may be in danger.",
+          "aliases": []
         },
         {
-          "term": "consul general",
-          "explain": "A senior diplomat who represents a country in a city abroad.",
-          "aliases": [
-            "consul"
-          ]
+          "term": "Home Affairs Minister",
+          "explain": "Australia's minister in charge of security, police agencies and borders.",
+          "aliases": []
         },
         {
-          "term": "Yesh Din",
-          "explain": "An Israeli human-rights group that tracks settler violence.",
+          "term": "motive",
+          "explain": "The reason someone commits a crime.",
           "aliases": []
         }
       ]
@@ -465,33 +543,47 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Update: Trump’s border czar says Rep. Ilhan Omar could be stripped of citizenship and deported",
-      "dek": "After the Oct 12 search of her home, Tom Homan said “of course” it’s possible; Obama called it punishment for criticizing Trump.",
-      "caveman": "Last week federal agents searched Rep. Ilhan Omar’s Washington home (our Oct 13 paper). New on Sunday: Trump’s border czar Tom Homan told Fox that “of course” Omar could be denaturalized—have her citizenship taken away—and deported, the Guardian reported (Oct 18). Former President Barack Obama said she was targeted “because she has dared to criticize the president,” and warned there is “no reason to believe it will stop with her.” Omar’s family fled Somalia’s civil war and spent years in a refugee camp in Kenya; she became a citizen at 17 when her father was naturalized, and he filled out the paperwork. Her lawyers say the probe is election interference.",
-      "why_it_matters": "Taking citizenship away from a sitting member of Congress would be almost unheard of. Many naturalized citizens worry about what it would mean for them.",
-      "camps": "Administration: says it’s investigating possible fraud and no one is above the law. Omar, Democrats and civil-liberties groups: it’s political retaliation against a critic. Legal experts note denaturalization requires proving fraud in court and is hard to win.",
+      "headline": "Israeli police detain 10 in rare raid on settlers after attacks on US photojournalist and European diplomats",
+      "dek": "Photographer Heidi Levine had four vertebrae broken. Rights groups say most settler violence against Palestinians goes unpunished.",
+      "caveman": "In the occupied West Bank, US photojournalist Heidi Levine was covering the olive harvest on Friday when masked Israeli men beat and kicked her; she suffered broken bones in her back. The next day, settlers with sticks and iron bars attacked European diplomats and Palestinians picking olives near Taybeh. On Monday, Israeli police said they detained 10 people tied to the attacks on foreigners and to an illegal outpost; a court kept six of them in custody for three to four more days. Prime Minister Benjamin Netanyahu questioned the accounts, calling them \"alleged\" and \"unproven.\" The US secretary of state and US ambassador criticized the attacks. Israeli rights group Yesh Din counted 561 incidents of settler and soldier violence against Palestinians in three weeks.",
+      "why_it_matters": "It took attacks on foreigners to trigger arrests. Palestinians face this kind of violence often, and rights groups say 94% of investigations end without charges.",
+      "camps": "Israeli government and police: Netanyahu cast doubt on the reports; police released raid footage and say they are pursuing those tied to the attacks on foreigners. Critics: Levine, Yesh Din and foreign governments say settlers act with near-total impunity, and the double standard — fast action only when foreigners are hurt — shows the system protects attackers.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
-      "published": "2026-10-18",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "published": "2026-10-19",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Federal officers carry boxes from Rep. Ilhan Omar’s Washington residence on October 12",
-      "image_credit": "J. Scott Applewhite / AP (via The Guardian)",
+      "image_alt": "Photojournalist Heidi Levine in a hospital bed",
+      "image_credit": "Photo: Debbie Hill/UPI/Shutterstock via The Guardian",
       "terms": [
         {
-          "term": "denaturalization",
-          "explain": "Taking away citizenship from someone who became a citizen later in life.",
+          "term": "West Bank",
+          "explain": "Palestinian land that Israel has occupied since 1967.",
           "aliases": [
-            "denaturalized"
+            "occupied West Bank"
           ]
         },
         {
-          "term": "border czar",
-          "explain": "The White House official in charge of border and deportation policy.",
+          "term": "settlers",
+          "explain": "Israelis who live in settlements built on occupied Palestinian land.",
+          "aliases": [
+            "settler"
+          ]
+        },
+        {
+          "term": "outpost",
+          "explain": "A small settlement built without Israeli government approval; illegal even under Israeli law.",
+          "aliases": [
+            "illegal outpost"
+          ]
+        },
+        {
+          "term": "impunity",
+          "explain": "Getting away with doing wrong without any punishment.",
           "aliases": []
         },
         {
-          "term": "naturalized citizen",
-          "explain": "Someone born abroad who became a citizen.",
+          "term": "Yesh Din",
+          "explain": "An Israeli human rights group that tracks violence against Palestinians.",
           "aliases": []
         }
       ]
@@ -500,33 +592,45 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Isabel Allende, 84, wins Spain’s €1 million Premio Planeta under a secret pen name",
-      "dek": "She entered as “Luz Ventura” with a sequel to The House of the Spirits.",
-      "caveman": "Isabel Allende, the Chilean-American author whose books have sold more than 80 million copies, entered Spain’s richest literary contest under the fake name “Luz Ventura”—and won, the Guardian reported (Oct 17). The Premio Planeta pays €1 million. Her winning novel, La hora antes del alba (The Hour Before Dawn), continues The House of the Spirits, following Alba through Chile under the Pinochet dictatorship. Allende said winning felt “like winning the Nobel” and that she entered because she had “very little to lose.” Professor Duncan Wheeler of Leeds University said he’d be “very surprised” if the judges didn’t recognize her style, and called the Planeta generous but “definitely not the most prestigious.”",
-      "why_it_matters": "A U.S.-based literary superstar going back to her most famous world is big news for readers; an English translation is likely to be one of the most-watched releases.",
-      "camps": "Fans: a delightful twist—she proved herself again without her famous name. Skeptics: the pen name may not have fooled anyone, and the prize is seen as richer than it is prestigious.",
+      "headline": "HOT: New Larry David biography 'Emperor of Nothing' gets called the definitive portrait of the Seinfeld creator",
+      "dek": "The Guardian's critic praises Blake J Harris's authorised biography of the comedy legend who kept trying to quit.",
+      "caveman": "Larry David co-created Seinfeld and stars in Curb Your Enthusiasm. A new authorised biography, Emperor of Nothing: The Making of Larry David by Blake J Harris (HarperCollins), is getting strong reviews; the Guardian calls it \"the definitive portrait.\" David agreed to it by email with: \"Oh Jesus. If we must.\" The book shows a man who kept walking away: he stormed off stages as a young stand-up in 1970s New York, quit his first TV job, and twice quit Seinfeld. Fellow comics once thought he was the least likely to succeed. He was 41 when he started writing the Seinfeld pilot with Jerry Seinfeld. Because David is a fairly decent guy with old friends, Harris could talk to almost everyone important in his life.",
+      "why_it_matters": "It's a fun read about how one of TV's most famous comedy minds succeeded without much ambition — and a hot pick for gift season.",
+      "camps": "Fans: the review says it nails why David is funny and how his life turned into his material. Caveat: authorised biographies tend to flatter their subjects, and the critic notes there isn't much dirt — readers wanting scandal won't find it.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
-      "published": "2026-10-17",
+      "source_url": "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography",
+      "published": "2026-10-19",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Isabel Allende at the Premio Planeta ceremony",
-      "image_credit": "Pau de la Calle / GTRES / Shutterstock (via The Guardian)",
+      "image_alt": "Larry David in the HBO comedy series Curb Your Enthusiasm",
+      "image_credit": "Photo: John P. Johnson/HBO via The Guardian",
       "terms": [
         {
-          "term": "pen name",
-          "explain": "A fake name an author writes under.",
+          "term": "authorised biography",
+          "explain": "A life story written with the subject's permission and help.",
           "aliases": [
-            "pseudonym"
+            "authorized biography"
           ]
         },
         {
-          "term": "Premio Planeta",
-          "explain": "A Spanish literary prize run by publisher Planeta; one of the richest in the world.",
+          "term": "Seinfeld",
+          "explain": "A hugely popular 1990s US sitcom, famous as a 'show about nothing'.",
           "aliases": []
         },
         {
-          "term": "sequel",
-          "explain": "A book that continues an earlier story.",
+          "term": "Curb Your Enthusiasm",
+          "explain": "Larry David's HBO comedy show where he plays a cranky version of himself.",
+          "aliases": []
+        },
+        {
+          "term": "stand-up",
+          "explain": "Comedy where one person tells jokes alone on stage to an audience.",
+          "aliases": [
+            "standup"
+          ]
+        },
+        {
+          "term": "pilot",
+          "explain": "The first test episode of a TV show, made to convince a network to order more.",
           "aliases": []
         }
       ]
@@ -535,33 +639,43 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Critics’ favorites this week—Yiyun Li’s Music Against the Night leads",
-      "dek": "LitHub’s roundup also features Bonnie Garmus, a new Eugene Debs biography and a book debunking longevity science.",
-      "caveman": "Literary Hub’s weekly list of the best-reviewed books (Oct 16) is led by Yiyun Li’s Music Against the Night, which one critic called “wonderful and bewitching.” Also on the list: Bonnie Garmus’s Peck & Peck, her follow-up to the giant hit Lessons in Chemistry; Shawn Gude’s American Socialist, about the labor leader Eugene Debs; and Saul Justin Newman’s Morbid, which debunks modern longevity science.",
-      "why_it_matters": "Review roundups help readers pick what’s worth their time and push books onto library hold lists and bookstore tables.",
-      "camps": "Fans: a strong week with a celebrated literary writer and a beloved bestseller. Skeptics: aggregate lists tend to reward books that got the most reviews, often from big publishers.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-15/",
-      "published": "2026-10-16",
+      "headline": "HOT: HarperCollins and Netflix launch a wave of Narnia books ahead of Greta Gerwig's film",
+      "dek": "Tie-in paperbacks, new box sets and a graphic novel are coming before 'Narnia: The Magician's Nephew' hits theaters in February.",
+      "caveman": "Greta Gerwig (who directed Barbie and Little Women) made a movie of C.S. Lewis's 1955 Narnia book The Magician's Nephew — its first time on screen. It comes to theaters worldwide on Feb. 12, 2027, then to Netflix on April 2. Publisher HarperCollins and Netflix announced a big book push to go with it. In November: a movie-cover paperback (English and Spanish), a new seven-book box set with covers by the film's concept artist Vance Kovacs, hardcover sets, deluxe collector's editions, and store-exclusive versions. A graphic novel by Eisner Award winner Ben Hatke comes Jan. 12, 2027. The seven Narnia books have sold more than 120 million copies in 70 countries.",
+      "why_it_matters": "Big movies send millions of people back to the books. This shows how publishers now plan whole product lines around streaming films.",
+      "camps": "Excited: HarperCollins' Liate Stehlik calls the film a coming \"cultural event\" and says the books will pull new readers into Narnia. Skeptical view: so many editions and store exclusives can feel more like merchandising than reading — fans may end up buying the same story several times.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/101563-harpercollins-netflix-announce-narnia-publishing-program-tied-to-greta-gerwig-film.html",
+      "published": "2026-10-19",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Book covers featured in LitHub’s best-reviewed books of the week",
-      "image_credit": "Literary Hub",
+      "image_alt": "Covers of the Narnia: The Magician's Nephew tie-in edition and new box set",
+      "image_credit": "Image: Publishers Weekly",
       "terms": [
         {
-          "term": "best-reviewed",
-          "explain": "Books that professional critics praised most this week.",
-          "aliases": []
-        },
-        {
-          "term": "Eugene Debs",
-          "explain": "An American labor leader and five-time Socialist presidential candidate in the early 1900s.",
+          "term": "tie-in",
+          "explain": "A book edition released to go with a movie or show, often with the film's poster on the cover.",
           "aliases": [
-            "Debs"
+            "movie tie-in"
           ]
         },
         {
-          "term": "Lessons in Chemistry",
-          "explain": "Bonnie Garmus’s 2022 bestselling debut novel.",
+          "term": "box set",
+          "explain": "All the books in a series sold together in one box.",
+          "aliases": []
+        },
+        {
+          "term": "graphic novel",
+          "explain": "A book-length story told in comic-book style.",
+          "aliases": []
+        },
+        {
+          "term": "Eisner Award",
+          "explain": "The top US award for comics.",
+          "aliases": []
+        },
+        {
+          "term": "concept artist",
+          "explain": "The artist who draws how a film's worlds and characters should look before filming.",
           "aliases": []
         }
       ]
@@ -570,33 +684,44 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Horror is booming—and now there’s a bookstore that sells only scary books",
-      "dek": "Long Dark House in Alexandria, Virginia, opened about a month ago as horror sales climb.",
-      "caveman": "Chanthal Harris used to work in aviation. Now she runs Long Dark House, a bookstore in Alexandria, Virginia, that sells only horror, NPR reported (Oct 18). It opened about a month ago, right before Halloween season. Horror is hot: NPR cited Nielsen market research showing the genre’s profits up almost 26% year over year, and the horror movie Backrooms made more than $400 million on a $10 million budget.",
-      "why_it_matters": "Small specialty bookstores are a sign of what readers are excited about. Horror readers are often young and active on social media, which helps books spread.",
-      "camps": "Fans: horror lets people face fear safely and talk about real anxieties. Business skeptics: a one-genre shop is a risky bet if the trend cools.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
-      "published": "2026-10-18",
+      "headline": "TREND: Why do so many buzzy novels never tell you the narrator's name?",
+      "dek": "A Literary Hub essay looks at the nameless narrators in hit books by Katie Kitamura, Ben Lerner, Deborah Levy and Rachel Cusk.",
+      "caveman": "In many recent literary novels, the person telling the story ('I') never gets a name. Writer Ilana Bean noticed this when she finished books and tried to Google them — she didn't know what to call the main character. Her Literary Hub essay lists recent talked-about examples: Audition by Katie Kitamura, Transcription by Ben Lerner, My Year in Paris with Gertrude Stein by Deborah Levy, and Life of M by Rachel Cusk. She notes a critic called it an \"epidemic\" back in 2015, and it hasn't slowed. One common idea is that a nameless narrator lets readers step into the character's shoes. Bean isn't sure that works — and asks what these books want readers to notice.",
+      "why_it_matters": "If you've read a 'quiet, moody city novel' lately, you've likely met this trick. Knowing about it helps you read these books more sharply.",
+      "camps": "Fans of the style: no name can show a shaky sense of self (like the unnamed second Mrs de Winter in Rebecca) and keeps focus on thoughts, not plot. Doubters: Bean, who enjoys these books, says the trick has become so common it's unclear what it adds, and a name isn't really what stops readers from connecting.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/why-are-so-many-contemporary-novelists-not-naming-the-narrator/",
+      "published": "2026-10-19",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Inside Long Dark House, a horror bookstore in Alexandria, Virginia",
-      "image_credit": "Ryan Benk / NPR",
+      "image_alt": "Rows of blank 'Hello my name is' name tags",
+      "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "genre",
-          "explain": "A category of books, like horror, romance or mystery.",
-          "aliases": []
-        },
-        {
-          "term": "Nielsen",
-          "explain": "A company that tracks book sales and media audiences.",
+          "term": "narrator",
+          "explain": "The voice telling the story in a book.",
           "aliases": [
-            "NielsenIQ BookData"
+            "nameless narrator",
+            "unnamed narrator"
           ]
         },
         {
-          "term": "indie bookstore",
-          "explain": "An independently owned bookshop, not part of a chain.",
+          "term": "literary fiction",
+          "explain": "Novels focused on style, character and ideas more than fast plot.",
+          "aliases": []
+        },
+        {
+          "term": "first person",
+          "explain": "A story told by 'I'.",
+          "aliases": []
+        },
+        {
+          "term": "convention",
+          "explain": "A common, accepted way of doing something in writing.",
+          "aliases": []
+        },
+        {
+          "term": "Rebecca",
+          "explain": "Daphne du Maurier's 1938 novel; its narrator, the second Mrs de Winter, is never named.",
           "aliases": []
         }
       ]
@@ -605,31 +730,43 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "American Girl turns 40 with a grown-up Samantha novel by Fiona Davis",
-      "dek": "In Samantha: The Next Chapter, the doll’s heroine is 25 in 1920—“from socialite to shopgirl.”",
-      "caveman": "American Girl dolls come with history books about girls from different eras. For the brand’s 40th birthday, bestselling author Fiona Davis wrote Samantha: The Next Chapter, NPR reported (Oct 18). The original Samantha was a rich orphan in 1904; now she is 25 years old in 1920 and goes “from socialite to shopgirl.” NPR also recalled that Addy Walker, added in 1993, was the brand’s first nonwhite doll.",
-      "why_it_matters": "Many adults grew up with these books. Writing grown-up sequels is a way publishers bring nostalgic readers back.",
-      "camps": "Fans: a sweet way for 1990s kids to reunite with a childhood hero. Critics: brands increasingly sell nostalgia; some wonder whether it’s more marketing than literature.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/18/nx-s1-5711243/american-girl-40-samantha-fiona-davis",
-      "published": "2026-10-18",
+      "headline": "NOT: 'The Time Traveler's Wife' sequel 'Life Out of Order' disappoints the Guardian's critic",
+      "dek": "Audrey Niffenegger's 560-page follow-up swaps the love story for a crowded dystopia.",
+      "caveman": "Audrey Niffenegger's 2003 novel The Time Traveler's Wife was a giant hit: more than 9 million copies in 40 languages, plus a Hollywood film and an HBO show. Now there's a sequel, Life Out of Order. Henry is dead but still pops in from the past, and his daughter Alba has inherited time travel — and is married to different men in past, present and future. Does it match the original's unsettling power? The Guardian's reviewer sums up the 560 pages in one word: no. She says the first book worked because it was a simple love story underneath, but this one chases too many ideas and lands in yet another dystopia.",
+      "why_it_matters": "Sequels to beloved books sell on nostalgia. This review is a warning to lower expectations before you buy.",
+      "camps": "Not hot: the critic says it lacks a strong emotional thread and spreads itself thin. On the other hand: it's one review — longtime fans curious about Alba and the world of the original may still want to try it.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/oct/19/life-out-of-order-by-audrey-niffenegger-review-does-this-sequel-measure-up-to-the-time-travelers-wife",
+      "published": "2026-10-19",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Author Fiona Davis",
-      "image_credit": "Lanna Apisukh for NPR",
+      "image_alt": "Author Audrey Niffenegger",
+      "image_credit": "Photo: Lucy Hewett/The Guardian",
       "terms": [
         {
-          "term": "nostalgia",
-          "explain": "A warm longing for the past.",
+          "term": "sequel",
+          "explain": "A book or film that continues an earlier story.",
           "aliases": []
         },
         {
-          "term": "historical fiction",
-          "explain": "Novels set in a real past period.",
+          "term": "dystopia",
+          "explain": "A story set in a frightening, broken future society.",
           "aliases": []
         },
         {
-          "term": "socialite",
-          "explain": "A wealthy person known for going to fancy social events.",
+          "term": "time travel",
+          "explain": "Moving backward or forward in time, here as a genetic trait.",
+          "aliases": [
+            "time-travel"
+          ]
+        },
+        {
+          "term": "review",
+          "explain": "A critic's opinion piece judging a book.",
+          "aliases": []
+        },
+        {
+          "term": "causal loop",
+          "explain": "A time-travel puzzle where an event causes itself, so there's no clear start.",
           "aliases": []
         }
       ]
@@ -638,34 +775,48 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Update: Oregon school shooting—victims named, a father stopped the attacker",
-      "dek": "At Silver Rail Elementary in Bend, three children and a teacher were killed; a teacher wrestled the gunman before an armed father shot him.",
-      "caveman": "New details on the shooting we reported Friday. At Silver Rail Elementary School in Bend, Oregon, a 16-year-old former student killed three children and a teacher, the BBC reported (Oct 17). A teacher tried to wrestle the gun away, and a father of two students at the school, who was driving past and was armed, ran inside and shot him dead. Two of the dead were named as Rhoam Summer, 5, and teacher Meghan Lambert, 25. A 54-year-old teacher and a 7-year-old child were injured. Police said he carried about 44 more rounds of ammunition.",
-      "why_it_matters": "School shootings remain a uniquely American crisis. Every case restarts the debate over guns and school safety.",
-      "camps": "Gun-rights view: an armed bystander saved lives. Gun-safety view: a 16-year-old should never have had a gun, and stronger laws (like safe storage) would prevent the attack in the first place. Everyone: mourning the children and the teachers who acted.",
+      "headline": "Kenyan cult leader Paul Mackenzie guilty of 191 murders after telling followers to starve their children",
+      "dek": "All but one of the victims were children. 28 other cult leaders were convicted too. Sentencing is set for Nov. 6.",
+      "caveman": "Paul Mackenzie led a doomsday cult in Kenya. He told followers to starve themselves and their children to death so they could \"meet Jesus,\" and taught that school and modern medicine were evil. In 2023, more than 400 bodies were found in shallow graves in Shakahola forest near Kenya's coast. On Monday, a judge in Mombasa found him guilty of murdering 191 people — all but one were children. Twenty-eight other cult leaders were also convicted of murder; they all said no one was forced to die. Sentencing is set for Nov. 6. One father, Stephen Mwiti, lost all six of his children; his ex-wife was among those convicted.",
+      "why_it_matters": "It is one of the deadliest cult cases in modern history. The children who died were denied food, school and medicine because adults followed one man's teachings.",
+      "camps": "The prosecution side: the judge said followers saw Mackenzie as \"Jesus's mouthpiece\", and one co-accused testified he said anyone who resisted fasting should be forced \"through kicks and blows\". The defence: Mackenzie and his co-accused pleaded not guilty and insisted fasting was voluntary. Mackenzie still faces other cases, including terrorism, radicalisation and denying children an education.",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
-      "published": "2026-10-17",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+      "published": "2026-10-19",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Mourners leave flowers near Silver Rail Elementary School in Bend, Oregon",
-      "image_credit": "Getty Images (via BBC News)",
+      "image_alt": "Cult leader Paul Mackenzie (centre)",
+      "image_credit": "Photo: AFP via Getty Images, via BBC News",
       "terms": [
         {
-          "term": "former student",
-          "explain": "Someone who used to attend the school.",
-          "aliases": []
-        },
-        {
-          "term": "safe storage law",
-          "explain": "A law requiring guns to be locked away from children.",
-          "aliases": []
-        },
-        {
-          "term": "rounds",
-          "explain": "Bullets.",
+          "term": "cult",
+          "explain": "A group that follows a leader with extreme beliefs and tight control over members.",
           "aliases": [
-            "ammunition"
+            "doomsday cult"
           ]
+        },
+        {
+          "term": "Shakahola",
+          "explain": "The forest near Kenya's coast where the cult lived and where the graves were found.",
+          "aliases": [
+            "Shakahola forest"
+          ]
+        },
+        {
+          "term": "verdict",
+          "explain": "A court's decision on whether someone is guilty.",
+          "aliases": [
+            "guilty"
+          ]
+        },
+        {
+          "term": "sentencing",
+          "explain": "When the judge decides the punishment after a guilty verdict.",
+          "aliases": []
+        },
+        {
+          "term": "co-accused",
+          "explain": "Other people charged in the same case.",
+          "aliases": []
         }
       ]
     },
@@ -673,31 +824,45 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Fast grass fire and explosion at Canadian army base kill four soldiers",
-      "dek": "At CFB Wainwright in Alberta, the fire moved “a kilometre in 36 seconds”; 39 are in hospital.",
-      "caveman": "A grass fire swept through Canadian Forces Base Wainwright in Alberta, followed by an explosion, the Guardian reported (Oct 18). Officials said the fire moved “a kilometre in 36 seconds.” Four soldiers were killed: Sgt. Morgan Wong and Privates Shaun Farrell, Aidan Goulding and Hayden Lykkemark. Thirty-nine people were taken to hospital, 19 in critical condition. Prime Minister Mark Carney ordered flags at half-mast, and the RCMP is investigating.",
-      "why_it_matters": "It’s one of the deadliest training accidents for Canada’s military in years, and questions about safety on the base will follow.",
-      "camps": "Military: grieving and promising answers. Families and safety experts: want to know whether the fire risk was known and why people couldn’t get away. The investigation hasn’t found a cause yet.",
+      "headline": "Drone strike near a market in Sudan kills 80, many of them people heading home",
+      "dek": "The attack hit a transport hub in al-Dibab, West Kordofan. The RSF's administration blames the army.",
+      "caveman": "Sudan has been at war since April 2023 between the army (SAF) and a paramilitary group called the RSF. On Sunday evening, a drone struck twice, 10 minutes apart, at a transport hub near the market in al-Dibab, West Kordofan, where people gather to ride home to their villages. A witness said he helped bury 50 bodies, including his brother; a medic said 30 more of the injured died, making 80 dead. It is one of the deadliest single strikes of the war. The RSF controls this area, and its administration, called Tasis, accused the army. Drones caused at least 880 civilian deaths from January to April this year.",
+      "why_it_matters": "Sudan has one of the world's biggest humanitarian crises, with hundreds of thousands killed and millions forced from home, yet it gets little attention.",
+      "camps": "RSF side: says the army killed civilians. Army side: in earlier strikes it said it hit RSF fighters, not civilians. The UN: its political chief Rosemary DiCarlo told the Security Council both sides think they can win by force and foreign backers keep fuelling them — with no breakthrough in sight.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "published": "2026-10-18",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "published": "2026-10-19",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Emergency vehicles near CFB Wainwright in Alberta",
-      "image_credit": "John Ulan / The Canadian Press / AP (via The Guardian)",
+      "image_alt": "A man stands in a hole filled with drone parts in El Obeid, Sudan (March photo)",
+      "image_credit": "Photo: Los Angeles Times/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "CFB",
-          "explain": "Canadian Forces Base, a Canadian military base.",
+          "term": "RSF",
+          "explain": "Rapid Support Forces, a paramilitary group fighting Sudan's army.",
+          "aliases": [
+            "Rapid Support Forces"
+          ]
+        },
+        {
+          "term": "SAF",
+          "explain": "Sudanese Armed Forces, Sudan's national army, led by Gen Abdel Fattah al-Burhan.",
+          "aliases": [
+            "army"
+          ]
+        },
+        {
+          "term": "paramilitary",
+          "explain": "An armed group organised like an army but not the official military.",
           "aliases": []
         },
         {
-          "term": "RCMP",
-          "explain": "Royal Canadian Mounted Police, Canada’s national police.",
+          "term": "West Kordofan",
+          "explain": "A state in southern Sudan now under RSF control.",
           "aliases": []
         },
         {
-          "term": "half-mast",
-          "explain": "Flying a flag halfway down the pole to show mourning.",
+          "term": "Tasis",
+          "explain": "The government-like administration the RSF declared in areas it controls.",
           "aliases": []
         }
       ]
@@ -706,34 +871,48 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Crowd crush at Durga Puja festival in Kolkata kills at least 17",
-      "dek": "Rain and a loudspeaker announcement set off a stampede; a 7-year-old girl is among the dead.",
-      "caveman": "Durga Puja is one of the biggest Hindu festivals, with huge crowds visiting decorated pavilions. In Kolkata, India, a crowd crush killed at least 17 people, including a 7-year-old girl, and injured 25, the BBC reported (Oct 17). Officials said rain and an announcement caused people to rush. West Bengal’s chief minister, named by the BBC as Suvendhu Adhikari, and Prime Minister Narendra Modi called it tragic. Two years ago, 121 people died in a crush at a religious event in Uttar Pradesh.",
-      "why_it_matters": "Crowd crushes keep happening at big religious gatherings in India. Better crowd control can save lives.",
-      "camps": "Officials: express grief and promise help for families. Safety experts: say organizers need limits on numbers, more exits and clear communication, and that such disasters are preventable.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko",
-      "published": "2026-10-17",
+      "headline": "Aid cuts force UN food agency to stop feeding half a million people in Gaza each month",
+      "dek": "WFP now helps 1.1 million people, down from 1.6 million this summer. It needs more than £300 million to restore aid.",
+      "caveman": "More than a year after a ceasefire, Gaza still hasn't been rebuilt, there are few jobs, and most people depend on aid to eat. The UN's World Food Programme (WFP) fed about 1.6 million people there this summer. But its funding has fallen by more than half compared with 2025. So from October it cut help to 1.1 million people a month — meaning more than half a million lost support. Ration boxes, cash for food and hot meals were all cut back. WFP needs more than £300 million over six months. A UNICEF survey found 1 in 8 children in Gaza are chronically malnourished or stunted.",
+      "why_it_matters": "Winter is coming, and hunger in Gaza could get worse again. The famine declared in 2025 ended because of big aid deliveries; WFP says those gains are fragile.",
+      "camps": "Aid groups: donors, especially after the Trump administration gutted USAID, have pulled back and families are paying the price; reconstruction and jobs are needed so people don't rely on handouts forever. Donor side: many donor governments have cut aid budgets overall, and promised reconstruction under the ceasefire has not started, so there is no quick fix; WFP says rebuilding the economy is the only way to end dependence on handouts.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+      "published": "2026-10-19",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Police and a Kolkata Traffic Police ambulance surrounded by onlookers after the crowd crush",
-      "image_credit": "AFP via Getty Images (via BBC News)",
+      "image_alt": "WFP workers serve hot meals at a community kitchen in Gaza",
+      "image_credit": "Photo: Mohamed Hinnawi/WFP via The Guardian",
       "terms": [
         {
-          "term": "crowd crush",
-          "explain": "When a packed crowd pushes so hard that people can’t breathe or fall and get trampled.",
+          "term": "World Food Programme",
+          "explain": "The UN agency that gives food aid in emergencies.",
           "aliases": [
-            "stampede"
+            "WFP"
           ]
         },
         {
-          "term": "Durga Puja",
-          "explain": "A major Hindu festival, especially big in West Bengal.",
+          "term": "stunted",
+          "explain": "When a child is too short for their age because of long-term poor nutrition; it can cause lasting harm.",
+          "aliases": [
+            "malnourished"
+          ]
+        },
+        {
+          "term": "ceasefire",
+          "explain": "An agreement to stop fighting.",
           "aliases": []
         },
         {
-          "term": "chief minister",
-          "explain": "The elected head of an Indian state government.",
+          "term": "USAID",
+          "explain": "The US government agency that gave aid abroad; it was largely dismantled by the Trump administration.",
           "aliases": []
+        },
+        {
+          "term": "IPC",
+          "explain": "A global scale for measuring hunger; phase 5 is famine.",
+          "aliases": [
+            "food insecurity"
+          ]
         }
       ]
     },
@@ -741,36 +920,48 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "After America’s hottest summer, farmworkers point to a program that actually protects them from heat",
-      "dek": "The Fair Food Program makes big buyers like Walmart and McDonald’s demand heat breaks; federal rules are stuck.",
-      "caveman": "This past summer was the hottest on record in the U.S., and farmworkers pick crops in that heat. The Guardian (Oct 18) reports that many advocates see the Coalition of Immokalee Workers’ Fair Food Program as the model: 14 retailers, including Walmart, McDonald’s, Whole Foods and Trader Joe’s, agree to buy only from farms that give shade, water and breaks. Another group, WeCount, is pressuring plant grower Costa Farms. Meanwhile, Florida banned cities from passing their own heat rules, a national OSHA heat standard has stalled, and Rep. Mark Messmer has a bill that would block it.",
-      "why_it_matters": "Heat kills workers every year. When governments don’t act, buyer pressure may be the only protection workers get.",
-      "camps": "Workers’ advocates: heat rules are basic safety and should be law. Business groups and some Republicans: one-size-fits-all rules are costly and states should decide. Middle ground: voluntary programs work for some farms but cover only part of the workforce.",
+      "headline": "HelloFresh warehouse temp workers say they were abused, threatened with ICE and denied bathroom breaks",
+      "dek": "An amended class-action complaint over the Newark, New Jersey facility goes before a judge on Oct. 23. HelloFresh denies everything.",
+      "caveman": "HelloFresh sends meal kits to people's homes. Temp workers at its Newark, New Jersey facility, most of them Hispanic, filed a class-action lawsuit in 2024. A newly proposed amended complaint says managers took ID badges workers needed to leave, threatened to call immigration agents (ICE), physically and verbally abused them, sexually harassed Hispanic women, limited bathroom breaks, and scolded them for speaking Spanish. One ex-worker told the Guardian the bathroom limits caused him incontinence problems. A New Jersey judge will look at the amended complaint on Oct. 23.",
+      "why_it_matters": "Many warehouse jobs are filled through temp agencies, often by immigrants who may fear speaking up. The case shows how hard it is to hold big brands responsible for subcontracted workers.",
+      "camps": "Workers: say they were given the hardest jobs and treated worse because they are Latino, and were afraid to complain. HelloFresh: denies all the claims, says an internal investigation found them \"entirely without merit\". The three staffing agencies did not comment but have asked the court to dismiss the case.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
-      "published": "2026-10-18",
+      "source_url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+      "published": "2026-10-19",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Farmworkers in Immokalee, Florida",
-      "image_credit": "The Washington Post / Getty Images (via The Guardian)",
+      "image_alt": "Contents of a HelloFresh meal kit (2018 file photo)",
+      "image_credit": "Photo: Kristoffer Tripplaar/Alamy via The Guardian",
       "terms": [
         {
-          "term": "heat standard",
-          "explain": "A rule requiring employers to protect workers from dangerous heat.",
+          "term": "class action",
+          "explain": "A lawsuit where one or a few people sue on behalf of a whole group with the same complaint.",
           "aliases": [
-            "OSHA heat rule"
+            "class-action"
           ]
         },
         {
-          "term": "OSHA",
-          "explain": "The U.S. agency for workplace safety.",
+          "term": "temp worker",
+          "explain": "Someone hired through a staffing agency to work at another company, often short-term.",
+          "aliases": [
+            "temp workers"
+          ]
+        },
+        {
+          "term": "ICE",
+          "explain": "US Immigration and Customs Enforcement, the agency that arrests and deports immigrants.",
           "aliases": []
         },
         {
-          "term": "pre-emption",
-          "explain": "When a higher government (like a state) blocks lower ones (like cities) from making their own rules.",
+          "term": "staffing agency",
+          "explain": "A company that supplies workers to other businesses.",
           "aliases": [
-            "pre-empted"
+            "staffing agencies"
           ]
+        },
+        {
+          "term": "amended complaint",
+          "explain": "An updated version of the claims in a lawsuit, adding new details.",
+          "aliases": []
         }
       ]
     }
