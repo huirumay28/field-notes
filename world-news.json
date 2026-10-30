@@ -1,36 +1,29 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-10-29T08:00:00+08:00",
-  "notes": "Thursday 29 Oct 2026 world issue (Taipei ~08:00). Window: Wed 28 Oct through early Thu 29 Oct (Taipei). Economy: Fed holds with two hike dissents; UK Budget; Alphabet falls on AI spending; oil above $100 on Iran fears. Tech (USA): Apple touchscreen MacBook Pro; DOJ probes Nvidia-Hugging Face; xAI Elonville in Mississippi; DHS staff data leak. Politics: Israel count; Flavio Bolsonaro in Miami; Putin praises Musk, Rassvet; DOJ pressures California clerk. Literature (USA): Sarah J. Maas Inc. (hot, with a catch); Giridharadas Man in the Mirror (hot); Harvey Awards (hot); Kushner book fight (not). Social: Dolores Huerta dies at 96; Spain train crash; Ebola warning; Jafar Panahi sentenced. Sources: CNBC, BBC, The Guardian, NPR, Publishers Weekly.",
+  "fetched_at": "2026-10-30T08:00:00+08:00",
+  "notes": "Friday 30 Oct 2026 world issue (Taipei ~08:00). Window: Thu 29 Oct through early Fri 30 Oct (Taipei). Economy: US GDP 3.4% with inflation up; Lagarde to quit ECB early; Alphabet loses $500bn; DoorDash buys Instacart. Tech (USA): FTC probes surveillance pricing; DHS staff data leak; AI agent coworkers; Intel plunges 21%. Politics: Israel deadlock and Arab parties; China purges record 33; Alaska Senate 'Dan Sullivan' row; Vance letter to Iran. Literature (USA): publishers vs OpenAI (hot fight); Cassandra Clare final trilogy (hot); RomCon Brooklyn (hot); Baker & Taylor liquidation (not). Social: Dnipro station drone strike; Amnesty on Cambodia scam compounds; Hong Kong fire apology; Lancet on the manosphere. Sources: The Guardian, BBC, CNBC, Publishers Weekly.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "US Fed keeps interest rates the same, but two officials wanted a rise",
-      "dek": "The central bank held its key rate at 3.75%–4%. Two members voted for a hike because prices are still rising too fast.",
-      "caveman": "The Federal Reserve (the Fed) is America's central bank. It sets a key interest rate, which changes how expensive it is to borrow money for homes, cars and businesses. On Wednesday it kept the rate at 3.75% to 4%. Most members agreed, but two of them, Lisa Cook and Beth Hammack, voted 'no' because they wanted to raise the rate. Prices in the US are still climbing faster than the Fed's 2% target, partly because oil prices jumped during the US war with Iran. Raising rates can cool prices down, but it can also slow the economy and cost jobs. Kevin Warsh now leads the Fed. The decision came less than a week before the US midterm elections on Nov. 3.",
-      "why_it_matters": "US interest rates move money around the whole world, including Taiwan's stock market and the Taiwan dollar. Two votes for a hike show the Fed may raise rates soon, which would make borrowing more expensive.",
-      "camps": "Rate-hike side: inflation is sticking around, so the Fed must act before it gets worse. Hold side: the economy is wobbly and oil is a supply problem that higher rates can't fix. Political angle: President Trump wants low rates, and some worry about pressure on the Fed's independence close to an election.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "published": "2026-10-28",
+      "headline": "US economy grows faster than expected, but prices rise faster too",
+      "dek": "GDP grew at a 3.4% yearly pace last quarter. But the Fed's favorite inflation measure jumped to 3.6%, five days before the midterms.",
+      "caveman": "GDP is the total value of everything a country makes and sells. New US government numbers on Thursday showed GDP grew at a 3.4% yearly pace from July to September, a bit better than experts guessed (3.2%). People kept spending, and companies spent huge sums on AI. That was enough to beat the hit from high oil prices caused by the conflict in the Middle East. The bad part: prices are rising faster. The PCE index, the inflation number the Federal Reserve watches most, rose to 3.6% a year in September, up from 3.4%. Another measure, CPI, is at 3.7%. Many economists now expect the Fed to raise interest rates in December. Some economists say the strong GDP number is mostly AI spending and is not a true picture of how ordinary families are doing; consumer mood has fallen sharply this year as gas and grocery prices rose.",
+      "why_it_matters": "When prices rise faster than pay, people can buy less. Higher US interest rates also push up borrowing costs around the world, including in Asia.",
+      "camps": "The White House can point to strong growth before the Nov. 3 elections. Critics say growth is lopsided: AI companies boom while households struggle with prices. Some economists warn that if AI spending slows, growth could drop quickly.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+      "published": "2026-10-29",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "A Federal Reserve official speaks at a press briefing",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "A person shops for groceries in New York City",
+      "image_credit": "Photo: Jeenah Moon/Reuters via The Guardian",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "explain": "The central bank of the United States, often called the Fed.",
+          "term": "GDP",
+          "explain": "Gross domestic product: the total value of goods and services a country produces.",
           "aliases": [
-            "Fed"
-          ]
-        },
-        {
-          "term": "interest rate",
-          "explain": "The price of borrowing money, shown as a percentage per year.",
-          "aliases": [
-            "rates"
+            "gross domestic product"
           ]
         },
         {
@@ -39,15 +32,22 @@
           "aliases": []
         },
         {
-          "term": "dissent",
-          "explain": "When a member votes against the group's decision.",
+          "term": "PCE",
+          "explain": "Personal consumption expenditures price index, the Fed's favorite inflation gauge.",
           "aliases": [
-            "dissented"
+            "PCE index"
+          ]
+        },
+        {
+          "term": "annualized",
+          "explain": "Turned into a yearly rate, as if the same pace lasted a full year.",
+          "aliases": [
+            "yearly pace"
           ]
         },
         {
           "term": "midterm elections",
-          "explain": "US elections held halfway through a president's four-year term, for Congress and many state offices.",
+          "explain": "US elections halfway through a president's term, for Congress and many state jobs.",
           "aliases": [
             "midterms"
           ]
@@ -58,46 +58,44 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "UK Budget: £100 energy help for many homes, bigger tax on banks",
-      "dek": "Chancellor John Healey's first Budget under Prime Minister Andy Burnham also raises the minimum wage by 3.9%.",
-      "caveman": "A 'Budget' is the UK government's yearly plan for taxes and spending. Chancellor John Healey (the finance minister) gave his first one on Wednesday. Big points: households in council-tax bands A to D, the cheaper homes, will get a £100 payment to help with energy bills. A special tax on bank profits goes up from 3% to 6%. The national minimum wage goes up by 3.9%. A cut to fuel duty (the tax on petrol and diesel) is kept going longer. Energy bills are high in Britain, and some forecasts say they could jump by over £400 in January.",
-      "why_it_matters": "It shows how governments are trying to help people with high energy costs, and who they ask to pay for it. Here, the government chose banks.",
-      "camps": "Supporters: help goes to people on lower incomes, and banks made big profits from high interest rates, so they can pay more. Critics on the right: higher bank taxes could hurt investment and the City of London. Some on the left: £100 is small next to real energy bills; they want deeper changes.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go",
-      "published": "2026-10-28",
+      "headline": "Europe's top central banker, Christine Lagarde, will quit nine months early",
+      "dek": "She says she wants 'freedom of speech' to fight 'misrepresentation of the truth.' The ECB also kept interest rates at 2.5%.",
+      "caveman": "The European Central Bank (ECB) sets interest rates for the 20-plus countries that use the euro. Its president, Christine Lagarde, said on Thursday she will leave in March 2027 instead of October. Her reason: the job requires her to stay neutral and talk only about money policy, and she wants to speak freely about world affairs. She said she sees 'the truth being very often damaged.' She did not give examples. The same day, the ECB kept its key rate at 2.5%, even though eurozone inflation hit 3.8%, the highest since 2023. Reports say she may be a candidate to run the World Economic Forum (the Davos meeting). Some think French President Macron wanted her to leave early so a new ECB boss can be picked before France's April election, in case a far-right or far-left president wins.",
+      "why_it_matters": "The ECB boss affects loans, savings and jobs for hundreds of millions of people. A fight over who replaces her could shake markets.",
+      "camps": "Supporters say Lagarde led the bank through Covid and an energy shock and has the right to speak out. Critics say inflation is too high and leaving early adds uncertainty. Possible replacements include Klaas Knot, Pablo Hernández de Cos, Joachim Nagel and Nadia Calviño.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+      "published": "2026-10-29",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Chancellor John Healey presents the Budget in the House of Commons",
-      "image_credit": "Photo: via BBC",
+      "image_alt": "Christine Lagarde, president of the European Central Bank",
+      "image_credit": "Photo: Athit Perawongmetha/Reuters via The Guardian",
       "terms": [
         {
-          "term": "Budget",
-          "explain": "The government's yearly plan for taxes and spending.",
-          "aliases": []
-        },
-        {
-          "term": "chancellor",
-          "explain": "The UK's finance minister, in charge of the Treasury.",
+          "term": "central bank",
+          "explain": "A country's (or region's) main bank, which sets interest rates and watches over money.",
           "aliases": [
-            "Chancellor"
+            "European Central Bank",
+            "ECB"
           ]
         },
         {
-          "term": "council tax band",
-          "explain": "A group that UK homes are put in by value; band A is the cheapest.",
+          "term": "eurozone",
+          "explain": "The group of EU countries that use the euro as money.",
+          "aliases": []
+        },
+        {
+          "term": "neutrality",
+          "explain": "Not taking sides in political arguments.",
           "aliases": [
-            "bands A to D"
+            "neutral"
           ]
         },
         {
-          "term": "minimum wage",
-          "explain": "The lowest hourly pay employers are legally allowed to pay.",
-          "aliases": []
-        },
-        {
-          "term": "fuel duty",
-          "explain": "A tax added to the price of petrol and diesel.",
-          "aliases": []
+          "term": "interest rate",
+          "explain": "The price of borrowing money, shown as a percentage per year.",
+          "aliases": [
+            "rates"
+          ]
         }
       ]
     },
@@ -105,42 +103,42 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Alphabet shares fall about 10% as Google spends huge sums on AI",
-      "dek": "Google's parent spent more cash than it brought in, and says it will spend over $300bn on AI building next year.",
-      "caveman": "Alphabet owns Google. It reported results for July–September. Its cloud business made $30.7bn in sales, which is strong. But investors were worried about spending. Alphabet spent $51.36bn on 'capex' (big things like data centres and chips) in just three months, so its free cash flow turned negative: about minus $9.07bn. That means more money went out than came in. It also said its capex in 2027 will be more than $300bn, and its long-term debt has grown to $125.1bn. The share price fell around 10%.",
-      "why_it_matters": "Big tech firms are borrowing and spending record amounts on AI. If the bet pays off, they win big; if not, investors, workers and the wider economy could get hurt. Many of these data centres use chips made in Taiwan.",
-      "camps": "Bulls: AI cloud demand is real and growing, so spending now means profits later. Bears: spending is growing faster than income, and more debt makes it risky. Others: the AI building boom raises electricity use and local pushback against data centres.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "published": "2026-10-28",
+      "headline": "Google's parent Alphabet loses about $500 billion in value in one day",
+      "dek": "Its AI summaries in search are eating into ad sales, and it is spending more cash than it makes. Shares fell almost 13%, to a six-month low.",
+      "caveman": "Alphabet owns Google. On Thursday its stock fell almost 13%, wiping out just over $500 billion in value and hitting a six-month low. Sales actually grew 25%, to $127.6 billion, and its cloud business grew 103%. So why the panic? Two reasons. First, Google search now shows AI summaries at the top, and that meant fewer ads were sold. Search ads are most of Google's money. Second, profit fell 25%, and the company had 'negative free cash flow' of over $9 billion: it is spending more than it earns, mostly on AI. Microsoft and Amazon also said this week they will keep spending huge amounts on AI. Investors are starting to ask: when will all this AI spending pay off?",
+      "why_it_matters": "Many pension funds and ETFs own Alphabet. Its fall also hurt chip stocks, including Taiwan suppliers that sell to AI data centers.",
+      "camps": "Optimists say Google's cloud boom proves AI will pay off, and the dip is a chance to buy. Skeptics say AI may be eating Google's own search business, and the spending race looks like a bubble. Some critics also worry AI summaries take readers away from the news sites they copy from.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+      "published": "2026-10-29",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "A Google sign outside an office building",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "Google CEO Sundar Pichai",
+      "image_credit": "Photo: EPA via BBC",
       "terms": [
         {
-          "term": "capex",
-          "explain": "Capital expenditure: money spent on long-lasting things like buildings, machines and data centres.",
+          "term": "market value",
+          "explain": "What all of a company's shares are worth added together.",
           "aliases": [
-            "capital expenditure"
+            "value"
           ]
         },
         {
           "term": "free cash flow",
-          "explain": "Cash left after a company pays to run the business and invest. Negative means it spent more than it made.",
+          "explain": "Money left after a company pays its bills and investments. Negative means it is spending more than it brings in.",
           "aliases": [
-            "FCF"
+            "negative free cash flow"
           ]
         },
         {
-          "term": "long-term debt",
-          "explain": "Money a company borrowed that it must repay after more than one year.",
+          "term": "AI summaries",
+          "explain": "Short answers written by AI that appear at the top of Google search results.",
           "aliases": []
         },
         {
           "term": "cloud",
-          "explain": "Renting out computing power and storage over the internet.",
+          "explain": "Renting computer power and storage over the internet.",
           "aliases": [
-            "cloud computing"
+            "Google Cloud"
           ]
         }
       ]
@@ -149,47 +147,44 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Oil stays above $100 on fears the US could hit Iran after the midterms",
-      "dek": "Brent crude was about $115 a barrel after reports the US told Gulf allies to get ready.",
-      "caveman": "Oil prices have been very high because of the war involving the US and Iran. On Wednesday, Brent crude (a world price) was about $115.32 a barrel and US WTI oil about $102.78. Traders were nervous after reports that the US told Gulf states to prepare for possible strikes on Iran after the US midterm elections. Iran-allied Houthi militants also said they fired a ballistic missile at Saudi Arabia's Ras Tanura refinery. The Strait of Hormuz, a narrow sea route where lots of the world's oil passes, is a major worry.",
-      "why_it_matters": "Oil price affects petrol, electricity, airline tickets and the price of almost everything that is shipped. Taiwan imports nearly all its energy, so this hits Taiwan too.",
-      "camps": "Hawks: say pressure on Iran is needed for security. Critics and anti-war voices: another round of strikes could widen the war and push prices even higher. Economists: high oil feeds inflation, making it harder for central banks to cut interest rates.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-      "published": "2026-10-28",
+      "headline": "DoorDash will buy Instacart for $17 billion, joining two big delivery apps",
+      "dek": "The deal would give DoorDash a huge share of US grocery delivery. Instacart's app and name will stay.",
+      "caveman": "DoorDash started as a restaurant delivery app; Instacart is known for grocery delivery in the US and Canada. On Thursday, DoorDash said it will buy Instacart for $17 billion. Instacart's app will keep working, and its 600,000 'shoppers' can keep taking orders. These shoppers are independent contractors, not employees. DoorDash already has about 59% of US delivery app spending; Instacart's share fell from 26% to 18% in five years. DoorDash's boss Tony Xu said grocery is hard to do online, like picking a ripe avocado, and the two companies together can do it better. The deal still needs approval from regulators who check if it hurts competition.",
+      "why_it_matters": "When fewer companies control a market, they may have more power over prices for shoppers and pay for gig workers.",
+      "camps": "Supporters: customers get more stores in one app, and grocers get better tools. Critics and worker groups: one giant company could raise fees and cut pay for delivery workers, who have few protections as contractors. Antitrust regulators may look closely. Notably, the US FTC is already asking both companies about algorithm-based pricing and pay.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+      "published": "2026-10-29",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Oil pumpjacks in a field",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "A food delivery rider waits at a traffic light in Colorado",
+      "image_credit": "Photo: David Zalubowski/AP via The Guardian",
       "terms": [
         {
-          "term": "Brent crude",
-          "explain": "A main world benchmark price for oil, based on North Sea oil.",
+          "term": "acquisition",
+          "explain": "When one company buys another.",
           "aliases": [
-            "Brent"
+            "buy"
           ]
         },
         {
-          "term": "WTI",
-          "explain": "West Texas Intermediate, the main US oil price benchmark.",
-          "aliases": []
-        },
-        {
-          "term": "barrel",
-          "explain": "The standard unit for oil: about 159 litres.",
-          "aliases": []
-        },
-        {
-          "term": "Strait of Hormuz",
-          "explain": "A narrow sea passage near Iran that a large share of the world's oil travels through.",
+          "term": "independent contractor",
+          "explain": "A worker who is not an employee, so usually gets no sick pay, health insurance or minimum-wage protection from the company.",
           "aliases": [
-            "Hormuz"
+            "independent contractors"
           ]
         },
         {
-          "term": "Houthis",
-          "explain": "An armed group in Yemen backed by Iran.",
+          "term": "gig worker",
+          "explain": "Someone who does short jobs through an app, like delivery or rides.",
           "aliases": [
-            "Houthi"
+            "gig workers"
+          ]
+        },
+        {
+          "term": "antitrust",
+          "explain": "Laws that stop companies from getting too much control of a market.",
+          "aliases": [
+            "regulators"
           ]
         }
       ]
@@ -198,40 +193,40 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Apple shows its first touchscreen MacBook Pro",
-      "dek": "After years of saying no, Apple adds a touch screen to its pro laptops. They go on sale Nov. 6 from $2,899.",
-      "caveman": "For a long time Apple said laptops should not have touch screens; that's what the iPad was for. Now it has changed its mind. The new MacBook Pro has a touch screen Apple calls 'ProLED XDR' and runs on new M5 Pro and M5 Max chips. It goes on sale Nov. 6 and starts at $2,899 for the smaller model and $3,399 for the bigger one. Apple's CEO is now John Ternus. The launch comes at a hard time: overall PC shipments fell 20% in the third quarter (IDC data), and analysts say an AI-driven shortage of memory chips has pushed laptop prices up.",
-      "why_it_matters": "Apple's choices shape how the whole industry designs gadgets. Many of the parts and chips inside Macs are made in Taiwan.",
-      "camps": "Fans: touch makes the Mac easier and more flexible. Skeptics: it's very expensive and may blur the line with the iPad. Industry watchers: with PC sales falling, a big new feature may be what Apple needs to get people to upgrade.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28",
+      "headline": "US regulator asks Uber, Delta, Walmart and others: do you charge people different prices using their data?",
+      "dek": "The FTC wants nine companies to explain how algorithms and loyalty programs set prices for shoppers and pay for gig drivers.",
+      "caveman": "The Federal Trade Commission (FTC) protects US consumers. It ordered nine companies (Delta, United, JetBlue, Lyft, Uber, DoorDash, Instacart, Target and Walmart) to hand over information. The question: are they using 'surveillance pricing'? That means using your personal data, like your location, browsing history or buying habits, so two people pay different prices for the same thing. The FTC also wants to know if gig drivers get different pay for the same job based on their personal history. FTC chair Andrew Ferguson said the agency will study these 'opaque' methods. Some US states are already writing laws to ban this. It is not clear if the inquiry will lead to new rules; the FTC cannot fine airlines.",
+      "why_it_matters": "If apps can guess how much you are willing to pay, you might be charged more just because of who you are. This affects anyone who shops or works through apps.",
+      "camps": "Consumer groups: this is long overdue; secret price-setting is unfair. Companies often say personalized prices can mean discounts and that loyalty programs are voluntary. Some note the Trump administration has rolled back many business rules, so it is unclear how far the FTC will go.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
+      "published": "2026-10-29",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "People try out new Apple laptops",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "A Delta plane waits to depart at Dulles airport",
+      "image_credit": "Photo: Al Drago/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "touchscreen",
-          "explain": "A screen you can control by touching it with your fingers.",
+          "term": "FTC",
+          "explain": "Federal Trade Commission, the US agency that protects consumers and fights unfair business practices.",
           "aliases": [
-            "touch screen"
+            "Federal Trade Commission"
           ]
         },
         {
-          "term": "M5 Pro",
-          "explain": "Apple's own computer chips; Pro and Max are the more powerful versions.",
-          "aliases": [
-            "M5 Max"
-          ]
-        },
-        {
-          "term": "PC shipments",
-          "explain": "The number of personal computers sent out to stores and buyers.",
+          "term": "surveillance pricing",
+          "explain": "Setting different prices for different people based on data collected about them.",
           "aliases": []
         },
         {
-          "term": "CEO",
-          "explain": "Chief executive officer, the top boss of a company.",
+          "term": "algorithm",
+          "explain": "A set of computer rules that makes decisions automatically.",
+          "aliases": [
+            "algorithms"
+          ]
+        },
+        {
+          "term": "opaque",
+          "explain": "Hard to see into or understand; not transparent.",
           "aliases": []
         }
       ]
@@ -240,42 +235,40 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "US Justice Department looks into Nvidia's $12.9bn Hugging Face deal",
-      "dek": "Officials are asking whether the AI chip giant buying a popular open AI platform could hurt competition.",
-      "caveman": "Nvidia makes most of the chips that power AI and is one of the world's most valuable companies. It agreed to spend $12.9bn on Hugging Face, a popular website where people share free 'open' AI models and tools. Now the US Department of Justice (DOJ) is asking questions about the deal. Its job includes stopping deals that give one company too much power and hurt competition. A probe does not mean the deal will be blocked, but it can slow it down or force changes.",
-      "why_it_matters": "Hugging Face is a key meeting place for open AI. If one giant owns both the chips and the place where many AI models are shared, it could shape who gets to build AI and on what terms.",
-      "camps": "Nvidia's side: the deal helps developers and open AI grow. Competition watchdogs: Nvidia is already very powerful, and buying a key hub could squeeze rivals. Open-source community: worried about whether the platform will stay neutral.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-      "published": "2026-10-28",
+      "headline": "Leaked data on 40,000+ US homeland security staff: DHS says lives are at risk",
+      "dek": "Hackers calling themselves 'the Department of Peace' released the data. A hosting company in Iceland refused to take it down.",
+      "caveman": "DHS, the US Department of Homeland Security, runs agencies like ICE, which arrests and deports immigrants. On Wednesday a group called DDoSecrets posted data on more than 40,000 DHS staff, plus a searchable database. A hacker group calling itself 'the Department of Peace' said it got the data and wrote that DHS 'has our information, so it's only fair that we have theirs.' DHS asked an Icelandic web company, FlokiNET, to remove it, saying the workers could face harassment, stalking and violence. FlokiNET's boss said no, because the data shows work addresses and work phone numbers, not home ones. DHS said it is working to protect its staff.",
+      "why_it_matters": "It raises hard questions about privacy, accountability and safety, for government workers and for immigrants whose data DHS uses.",
+      "camps": "DHS and supporters: publishing staff details puts ordinary workers and their families in danger. The leakers: DHS holds everyone else's data, so it's 'only fair' the public has theirs, and they hope it limits harm by the agency. The hosting company says only work contact details were shared. Privacy advocates point out that DHS itself uses Medicaid and tax data for immigration enforcement.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak",
+      "published": "2026-10-29",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Nvidia CEO Jensen Huang",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "A federal agent stands guard at an immigration detention facility in Newark, New Jersey",
+      "image_credit": "Photo: Julius Constantine Motal/The Guardian",
       "terms": [
         {
-          "term": "Department of Justice",
-          "explain": "The US government department in charge of law enforcement and enforcing competition laws.",
+          "term": "DHS",
+          "explain": "Department of Homeland Security, the US agency in charge of borders, immigration and disaster response.",
           "aliases": [
-            "DOJ"
+            "Department of Homeland Security"
           ]
         },
         {
-          "term": "antitrust",
-          "explain": "Laws that stop companies from getting too much market power.",
+          "term": "ICE",
+          "explain": "Immigration and Customs Enforcement, the agency that detains and deports immigrants.",
+          "aliases": []
+        },
+        {
+          "term": "leak",
+          "explain": "When secret or private information gets released without permission.",
           "aliases": [
-            "competition law"
+            "leaked"
           ]
         },
         {
-          "term": "open-source",
-          "explain": "Software or AI models that anyone can see, use and change for free.",
-          "aliases": [
-            "open models"
-          ]
-        },
-        {
-          "term": "probe",
-          "explain": "An official investigation.",
+          "term": "hosting company",
+          "explain": "A business that rents out computers to keep websites online.",
           "aliases": []
         }
       ]
@@ -284,41 +277,40 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Musk's xAI offers to buy homes near its noisy power plant, if owners skip a lawsuit",
-      "dek": "In Southaven, Mississippi, neighbours say the AI site is loud and polluting. The company's offer comes with a catch.",
-      "caveman": "xAI is Elon Musk's AI company. It runs giant data centres in the Memphis area, including in Southaven, Mississippi, using dozens of gas turbines (69, according to the Guardian) to make power. Neighbours say the noise never stops and worry about pollution; some have joined a lawsuit. Now agents working for xAI are going door to door offering to buy houses, on one condition: the owners must not join a neighbour's class-action lawsuit over the noise. A realtor reportedly said the target is 418 homes, and 18 owners have already agreed. xAI denies the lawsuit's claims and says it wants to be a good neighbour. Some locals call the idea 'Elonville'.",
-      "why_it_matters": "AI needs huge amounts of electricity. Who pays the price, in noise, dirty air and lost homes, is a big fairness question, and it often falls on nearby neighbourhoods with little power to say no.",
-      "camps": "xAI's side: the data centres bring investment and jobs, and buying homes gives people a way out. Residents and environmental groups: the company is pushing people out and trying to weaken the lawsuit. Local officials: split between wanting the money and protecting residents.",
+      "headline": "Coworkers who aren't people: US startups now run on AI 'agents'",
+      "dek": "One San Francisco startup has 15 humans and about 150 AI agents. Some bosses love it; some workers lose roles or suddenly have to manage bots.",
+      "caveman": "An AI agent is software that does tasks on its own, like booking meetings, writing code or answering customers. The Guardian visited startups in San Francisco where agents have names and 'jobs.' At one company, Anything, there are 15 human workers and about 150 agents, even one that orders office snacks. Its boss thinks that within a year, every company will have more AI coworkers than human ones. A McKinsey survey says about 40% of big organizations used agents in the past year, up from 27%. But there are problems: customers and colleagues who want a real person feel pushed away, some jobs disappear, and employees suddenly become 'managers' of bots that often make mistakes. MIT research says companies are not yet seeing big productivity gains.",
+      "why_it_matters": "This may be what many office jobs look like soon. It affects who gets hired, what skills matter and how lonely work can feel.",
+      "camps": "Fans: agents remove boring work and let small teams do more. Worried workers and labor experts: companies may use agents to cut jobs (one study expects 10-15% fewer staff), and the quality is not there yet. Some say the real test is whether customers are happy, not whether bosses save money.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
-      "published": "2026-10-28",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+      "published": "2026-10-29",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Jason Haley near one of the xAI data centres close to his home in Southaven, Mississippi",
-      "image_credit": "Photo: Brandon Dill/The Guardian",
+      "image_alt": "Workers in San Francisco's tech scene",
+      "image_credit": "Photo: Romilly Lockyer/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "data centre",
-          "explain": "A big building full of computers that run websites and AI.",
+          "term": "AI agent",
+          "explain": "AI software that can do a series of tasks by itself, not just answer one question.",
           "aliases": [
-            "datacenter",
-            "data center"
+            "agents"
           ]
         },
         {
-          "term": "gas turbine",
-          "explain": "A machine that burns natural gas to make electricity.",
+          "term": "startup",
+          "explain": "A new, small company trying to grow fast.",
           "aliases": [
-            "turbines"
+            "startups"
           ]
         },
         {
-          "term": "lawsuit",
-          "explain": "A case brought to court by people who say they were harmed.",
+          "term": "productivity",
+          "explain": "How much work gets done for the time or money put in.",
           "aliases": []
         },
         {
-          "term": "xAI",
-          "explain": "Elon Musk's artificial intelligence company, maker of the Grok chatbot.",
+          "term": "automation",
+          "explain": "Using machines or software to do work humans used to do.",
           "aliases": []
         }
       ]
@@ -327,44 +319,45 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Hackers leak details of over 41,000 US homeland security staff",
-      "dek": "Activist hackers say they got in through Okta, a login company; Okta denies its systems were broken into.",
-      "caveman": "A hacker group calling itself the 'Department of Peace', with well-known hacker maia crimew, says it leaked personal details of more than 41,000 staff at the US Department of Homeland Security (DHS). That includes about 21,000 border agents (CBP) and about 6,600 immigration agents (ICE). The data was shared through DDoSecrets, a group that publishes leaked documents, in a release called 'Icepick'. The hackers claim they got access through Okta, a company that handles logins for many organisations. Okta says it was not hacked. ICE agents often work with their faces covered by masks and sunglasses.",
-      "why_it_matters": "Leaks like this raise hard questions: is exposing government agents holding power to account, or does it put people and their families in danger?",
-      "camps": "Supporters of the leak: ICE has been accused of harsh, secretive raids, and the public deserves to know who is doing them. Critics and the government: publishing personal details can lead to harassment and threats, and hacking is a crime. Security experts: shows how one login system can be a weak point.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
-      "published": "2026-10-28",
+      "headline": "Intel stock crashes about 21% as PC sales slow and a factory blast hurts output",
+      "dek": "The chipmaker's sales forecast missed badly. It blamed weak computer sales and an explosion at its plant in Israel.",
+      "caveman": "Intel makes the main processors (CPUs) inside many laptops and servers. On Thursday its shares fell more than 20% in after-hours trading. Its sales last quarter grew 21%, and its data center and AI business jumped 78%. But sales from PC chips fell 5%, and Intel's forecast for the next three months was much lower than experts expected. Why? Global PC sales are dropping because memory chips and other parts have become very expensive (AI data centers are buying them up). Intel's finance chief said the PC slowdown will last at least until mid-2027. Also, an explosion at Intel's factory in Israel this month killed two workers and shut the plant for a while; that will cost about $600 million in sales.",
+      "why_it_matters": "PCs and laptops may get pricier. The AI boom is not lifting every tech company; it can squeeze the rest by soaking up parts.",
+      "camps": "Bulls: Intel's AI and data center chips are growing fast, and its stock was up about 150% this year before this. Bears: the company still depends a lot on PCs and is spending heavily to catch up in chip-making. Worker-safety advocates are watching the investigation into the deadly factory blast.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "published": "2026-10-29",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "US immigration agents in masks",
-      "image_credit": "Photo: Reuters via BBC",
+      "image_alt": "Intel logo",
+      "image_credit": "Photo: AFP/Getty Images via CNBC",
       "terms": [
         {
-          "term": "DHS",
-          "explain": "Department of Homeland Security, the US agency for border, immigration and disaster security.",
+          "term": "CPU",
+          "explain": "Central processing unit, the main 'brain' chip of a computer.",
           "aliases": [
-            "Homeland Security"
+            "processors"
           ]
         },
         {
-          "term": "ICE",
-          "explain": "Immigration and Customs Enforcement, which arrests and deports immigrants.",
-          "aliases": []
+          "term": "forecast",
+          "explain": "A company's guess about its future sales or profits.",
+          "aliases": [
+            "guidance"
+          ]
         },
         {
-          "term": "CBP",
-          "explain": "Customs and Border Protection, which guards US borders and ports.",
-          "aliases": []
+          "term": "after-hours trading",
+          "explain": "Buying and selling stocks after the normal market day ends.",
+          "aliases": [
+            "extended trading"
+          ]
         },
         {
-          "term": "leak",
-          "explain": "When private information is released to the public without permission.",
-          "aliases": []
-        },
-        {
-          "term": "Okta",
-          "explain": "A US company that helps organisations manage logins and passwords.",
-          "aliases": []
+          "term": "data center",
+          "explain": "A big building full of computers that run websites, apps and AI.",
+          "aliases": [
+            "data centers"
+          ]
         }
       ]
     },
@@ -372,21 +365,21 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Israel election still undecided: Netanyahu's bloc leads but lacks a majority",
-      "dek": "With about 85% of votes counted, his side has 53 seats; up to 480,000 absentee ballots are still to come.",
-      "caveman": "Israel's parliament, the Knesset, has 120 seats. To form a government, a group of parties needs 61. With about 85% of votes counted, Prime Minister Benjamin Netanyahu's right-wing bloc had 53 seats. A bloc led by former army chief Gadi Eisenkot had 48, and Arab-led parties 19. About 430,000 to 480,000 absentee ballots (from soldiers, diplomats and others) still need counting, so the numbers can change. Netanyahu called for 'a strong right-wing national government'. During the vote he also shared an AI-made image of Arab voters, which drew attention.",
-      "why_it_matters": "Who runs Israel affects the war in Gaza and the wider Middle East, which has pushed up oil prices worldwide.",
-      "camps": "Netanyahu's supporters: he keeps Israel strong against its enemies. Opponents: after years of war and corruption trials, it's time for change. Arab citizens: worry about being shut out and targeted by campaign messages.",
+      "headline": "Israel election deadlock: Netanyahu's side accuses Arab parties of 'stealing' the vote",
+      "dek": "Arab-led parties won a record 19 seats and could decide who governs. Opposition leader Gadi Eisenkot says Netanyahu is trying to 'delegitimise' the election.",
+      "caveman": "Israel's parliament, the Knesset, has 120 seats. A side needs 61 to form a government. Final results: Prime Minister Benjamin Netanyahu's bloc won 53 seats, and the main opposition bloc led by Gadi Eisenkot won 48. Two Arab-led party lists won a record 19 seats after many more Arab citizens voted. That makes them possible 'kingmakers.' Netanyahu's Likud party then claimed Arab voters were 'bribed' and that the Arab parties 'stole' the election. The elections committee asked the Shin Bet security service to check claims of illegal money from Qatar and Turkey. Qatar called the claims 'ridiculous and dangerous.' The Arab parties said the claims are baseless.",
+      "why_it_matters": "Who leads Israel affects the wars in Gaza and Lebanon, US-Iran tensions and oil prices.",
+      "camps": "Netanyahu's camp: foreign interference must be investigated. Opposition and Arab parties: this is a smear meant to make it impossible for Eisenkot to work with Arab parties, which is his only path to power, and it insults Arab citizens' right to vote. Neutral observers say the investigation's findings will matter a lot.",
       "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
-      "published": "2026-10-28",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+      "published": "2026-10-29",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Benjamin Netanyahu speaks to supporters",
-      "image_credit": "Photo: via BBC",
+      "image_alt": "Activists hold a sign saying 'Love your neighbour' urging an opposition government including Arab-led parties",
+      "image_credit": "Photo: AFP via Getty Images via BBC",
       "terms": [
         {
           "term": "Knesset",
-          "explain": "Israel's parliament, with 120 seats.",
+          "explain": "Israel's parliament, with 120 members.",
           "aliases": []
         },
         {
@@ -395,16 +388,21 @@
           "aliases": []
         },
         {
-          "term": "coalition",
-          "explain": "A government formed by several parties together.",
+          "term": "kingmaker",
+          "explain": "A smaller group whose support decides who wins power.",
+          "aliases": [
+            "kingmakers"
+          ]
+        },
+        {
+          "term": "delegitimise",
+          "explain": "To make something seem unfair or not valid in people's eyes.",
           "aliases": []
         },
         {
-          "term": "absentee ballots",
-          "explain": "Votes cast by people who can't vote at their usual polling place, like soldiers.",
-          "aliases": [
-            "absentee"
-          ]
+          "term": "Shin Bet",
+          "explain": "Israel's internal security agency.",
+          "aliases": []
         }
       ]
     },
@@ -412,33 +410,40 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Brazil's Flávio Bolsonaro lands in Miami and calls himself the 'true president'",
-      "dek": "After losing to Lula, he flew to the US with his family and repeated claims of fraud that courts have rejected.",
-      "caveman": "Brazil held its presidential election and Luiz Inácio Lula da Silva won a fourth term. His rival, Flávio Bolsonaro (son of jailed ex-president Jair Bolsonaro), flew with his wife and daughters to Miami, wearing a bulletproof vest. In a letter, he called himself Brazil's 'true president', later changing it to 'leader of Brazil', and again claimed, without evidence, that there was 'electoral fraud'. Brazil's courts and even his own party have accepted the result. Brazilian papers say his family got humanitarian visas to the US; Trump said he gave him 'a pass' but won't get involved.",
-      "why_it_matters": "It echoes the 2022 and 2020 fights over stolen-election claims in Brazil and the US. Refusing to accept a vote weakens trust in democracy.",
-      "camps": "Bolsonaro and supporters: claim the vote was unfair. Brazil's courts, Congress leaders and his own party: the result is valid. Lula's camp: says he's running away from the law. US angle: critics say letting him in signals support for election denial.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "published": "2026-10-28",
+      "headline": "China's Communist Party expels a record 33 top members as Xi stresses 'discipline'",
+      "dek": "Half were from the military. So many seats were empty that attendance fell below 300 for the first time in Xi's rule.",
+      "caveman": "China's Communist Party has a Central Committee of top officials. It meets in big sessions called 'plenums.' At the fifth plenum, which ended Thursday, 33 members were kicked out, a record; 16 were from the military. Only 279 members came, compared with 315 a year ago and 364 in 2024. The party said it faced the 'grim reality' that its leadership had sometimes been 'hollowed out.' Xi Jinping has made fighting corruption a central goal since 2012. In the first nine months of this year, about 680,000 people across the party were punished. One military general, Zhang Shengmin, was promoted to the 24-seat Politburo.",
+      "why_it_matters": "Big changes in China's military leadership can affect tensions around Taiwan and the region.",
+      "camps": "The party says it is cleaning out corruption. Some experts say the purges are mainly about Xi keeping control: 'the campaign will continue depending on how secure Xi feels,' one scholar told the BBC. Others say frequent removals may weaken the military in the short term.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+      "published": "2026-10-29",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Flávio Bolsonaro steps off a plane at Miami-Opa Locka airport, Florida",
-      "image_credit": "Photo: Ricardo Arduengo/AFP/Getty Images via The Guardian",
+      "image_alt": "Empty seats at China's Communist Party plenum",
+      "image_credit": "Photo: Getty Images via BBC",
       "terms": [
         {
-          "term": "electoral fraud",
-          "explain": "Cheating in an election, such as fake votes. Brazil's courts found no evidence of it.",
+          "term": "plenum",
+          "explain": "A full meeting of all members of China's Communist Party Central Committee.",
           "aliases": [
-            "fraud"
+            "fifth plenum"
           ]
         },
         {
-          "term": "humanitarian visa",
-          "explain": "Permission to enter a country for safety or humanitarian reasons.",
+          "term": "Central Committee",
+          "explain": "A group of about 200-plus top Communist Party officials.",
           "aliases": []
         },
         {
-          "term": "election denial",
-          "explain": "Refusing to accept a fair election result.",
+          "term": "purge",
+          "explain": "Removing people from power, often in large numbers.",
+          "aliases": [
+            "purges"
+          ]
+        },
+        {
+          "term": "Politburo",
+          "explain": "The small group of top leaders just below Xi Jinping.",
           "aliases": []
         }
       ]
@@ -447,37 +452,41 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Putin calls Elon Musk a 'real genius' and pushes Russia's own satellite internet",
-      "dek": "Russia wants its Rassvet network to rival Starlink, which Ukraine has relied on during the war.",
-      "caveman": "Russian President Vladimir Putin praised Elon Musk as a 'real genius' while promoting Rassvet, Russia's plan for its own satellite internet. Musk's Starlink already has about 13,000 satellites. Ukraine has used Starlink to fight Russia's invasion, but last week Ukrainian troops had sudden Starlink problems, which Musk admitted SpaceX did on purpose. The comments come as the US and Russia seem to be getting closer: Trump recently struck a deal to import Russian diesel, waived some sanctions, and a US citizen was released from Russian custody.",
-      "why_it_matters": "Satellite internet has become a weapon of war. Who controls it, a country or one billionaire, matters for Ukraine and also for Taiwan, which is planning its own satellite backup.",
-      "camps": "Russia: wants independence from Western tech. Ukraine and allies: alarmed that one private company can switch off service in wartime. Critics in the US: warn that warmer US-Russia ties may come at Ukraine's expense.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo",
-      "published": "2026-10-28",
+      "headline": "Alaska Senate race storm: did Democrats recruit a second 'Dan Sullivan' to confuse voters?",
+      "dek": "A New York Times report says Mary Peltola's campaign helped find same-name candidates. Trump wants her prosecuted; the DOJ has sued.",
+      "caveman": "In Alaska, Republican Senator Dan S. Sullivan faces Democrat Mary Peltola in a close race on Nov. 3. In May, a retired teacher named Dan J. Sullivan also entered the race. Republicans said Democrats planted him to confuse voters. Peltola's campaign denied it. But this week The New York Times reported, based on texts, documents and interviews, that her campaign and national Democratic aides did try to recruit him and other Dan Sullivans. This is called 'ballot stacking.' It is not illegal by itself, but the US Justice Department has filed a lawsuit to try to block the result from being certified if the senator loses. Trump has called for Peltola to be prosecuted; Alaska's governor ordered a probe.",
+      "why_it_matters": "This race could decide which party controls the US Senate. It also tests whether elections can be challenged in court before votes are even counted.",
+      "camps": "Republicans: this was a dirty trick to fool voters, and it must be investigated. (The NYT notes both parties have used ballot stacking before.) Democrats and some legal experts: whatever you think of it, it is not a crime. Even Republican Senator Lisa Murkowski, who condemned the tactic, criticized the Justice Department's lawsuit. Many voters across parties say the episode makes them trust politics less.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-ballot-stacking-allegation-explained",
+      "published": "2026-10-29",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Russian President Vladimir Putin",
-      "image_credit": "Photo: Reuters via BBC",
+      "image_alt": "Senator Dan Sullivan and Mary Peltola at a debate in Kodiak, Alaska",
+      "image_credit": "Photo: Nathaniel Wilder/Bloomberg via Getty Images via The Guardian",
       "terms": [
         {
-          "term": "Starlink",
-          "explain": "SpaceX's satellite internet service.",
+          "term": "ballot stacking",
+          "explain": "Adding extra candidates to an election to split or confuse votes.",
           "aliases": []
         },
         {
-          "term": "Rassvet",
-          "explain": "Russia's planned satellite internet network.",
+          "term": "Senate",
+          "explain": "The upper house of the US Congress, with 100 members, two per state.",
           "aliases": []
         },
         {
-          "term": "sanctions",
-          "explain": "Penalties, such as trade limits, one country puts on another.",
-          "aliases": []
+          "term": "certify",
+          "explain": "To officially confirm election results.",
+          "aliases": [
+            "certification"
+          ]
         },
         {
-          "term": "satellite internet",
-          "explain": "Internet sent from satellites in space instead of cables.",
-          "aliases": []
+          "term": "spoiler candidate",
+          "explain": "Someone who can't win but takes votes from another candidate.",
+          "aliases": [
+            "spoiler"
+          ]
         }
       ]
     },
@@ -485,42 +494,42 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "US Justice Department pressures a California election official over 'noncitizen' voters",
-      "dek": "A county clerk says federal officials threatened him over a list of 47 people they claim weren't citizens.",
-      "caveman": "In the US, local officials run elections. Keaton Denlay, the elections clerk in Butte County, California, says the federal Department of Justice threatened him after it handed over a list of 47 people it said were 'noncitizens' on voter lists. Election officials say checks like this must follow the law and real evidence, because mistakes can remove citizens' right to vote. Studies have found that voting by noncitizens is very rare. This comes just before the Nov. 3 midterm elections.",
-      "why_it_matters": "How elections are run, and who gets removed from voter rolls, decides who can vote. Federal pressure on local officials raises worries about fair elections.",
-      "camps": "Trump administration: says it is protecting elections from illegal voting. Election officials and voting-rights groups: say these claims are often wrong and the pressure is meant to scare officials and voters. Neutral experts: noncitizen voting is rare, but voter rolls should be kept accurate through proper legal steps.",
+      "headline": "A letter from JD Vance may be the last chance to avoid a new US-Iran war",
+      "dek": "The US offers sanctions relief if Iran makes nuclear promises first and reopens the Strait of Hormuz. Iran says its conditions come first.",
+      "caveman": "The US and Iran fought a war this year, and oil prices are still high because shipping through the Strait of Hormuz is blocked. US Vice President JD Vance, who was skeptical of the war, sent a personal letter to an Iranian security official, after help from Qatar. The offer: Iran makes commitments on its nuclear program at the start, then the Strait reopens within seven days, and the US lifts some sanctions. Iran's reply is expected soon. But Iran does not want to give up its enriched uranium first if the US can easily undo its side. China has been mentioned as a possible guarantor. Meanwhile, reports say the US military has shown Trump options for new strikes after the Nov. 3 elections.",
+      "why_it_matters": "A new war would push oil and gas prices up worldwide, including in Taiwan, and put many civilian lives at risk.",
+      "camps": "Hawks in Washington: Iran must give up its uranium stockpile first, or face force. Diplomacy supporters: step-by-step deals with guarantees are the only way; a Democratic senator called the strike plans 'insane.' Iran: 'the carrot-and-stick approach has no effect'; it wants sanctions lifted and the wider war, including in Lebanon, to end.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/28/california-elections-federal-agents-voter-fraud",
-      "published": "2026-10-28",
+      "source_url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+      "published": "2026-10-29",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "A man votes in Beverly Hills, California",
-      "image_credit": "Photo: Daniel Cole/Reuters via The Guardian",
+      "image_alt": "US Vice President JD Vance",
+      "image_credit": "Photo: Evan Vucci/Pool Reuters/AP via The Guardian",
       "terms": [
         {
-          "term": "clerk",
-          "explain": "A local official who manages records and, often, elections.",
+          "term": "sanctions",
+          "explain": "Penalties, like trade bans, that countries use to pressure another country.",
           "aliases": [
-            "county clerk"
+            "sanctions relief"
           ]
         },
         {
-          "term": "voter rolls",
-          "explain": "Official lists of people allowed to vote.",
-          "aliases": [
-            "voter lists"
-          ]
-        },
-        {
-          "term": "noncitizen",
-          "explain": "A person who lives in a country but is not a citizen; they can't vote in US federal elections.",
+          "term": "Strait of Hormuz",
+          "explain": "A narrow sea passage near Iran that much of the world's oil travels through.",
           "aliases": []
         },
         {
-          "term": "Department of Justice",
-          "explain": "The US government department in charge of law enforcement.",
+          "term": "enriched uranium",
+          "explain": "Uranium processed to be stronger; very high levels can be used in nuclear bombs.",
           "aliases": [
-            "DOJ"
+            "highly enriched uranium"
+          ]
+        },
+        {
+          "term": "guarantor",
+          "explain": "A trusted third party that promises both sides will keep the deal.",
+          "aliases": [
+            "guarantee"
           ]
         }
       ]
@@ -529,41 +538,38 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT (with a catch): 'Sarah J. Maas, Inc.' as ACOTAR becomes a merch empire",
-      "dek": "Underwear, blankets, kettle corn and $700 gowns: the romantasy hit is now a big brand, and small fan sellers say they're being pushed out.",
-      "caveman": "Sarah J. Maas writes A Court of Thorns and Roses (ACOTAR), a hugely popular romantasy series. The sixth book came out Oct. 27, and the series has sold over 10.5 million copies in trade paperback alone. Publishers Weekly reports that, since Maas moved her licensing to the big agency IMG in 2025, ACOTAR merchandise is everywhere: an underwear line with Knix, throw blankets at Sam's Club, Target kettle corn and gowns costing over $700. But many small fan-run shops, which used to have official licences, say IMG let their licences expire and did not answer their requests. Some fans love the merch; others feel the fan spirit is turning into big business.",
-      "why_it_matters": "It shows how a book can turn into a full brand like a movie franchise, and who wins and loses when that happens.",
-      "camps": "Fans who like it: more ways to enjoy the world they love. Small creators: the big brands are squeezing out the people who built the fan culture. Industry: licensing brings in money and new readers.",
+      "headline": "HOT FIGHT: US publishers line up against OpenAI in big AI copyright case",
+      "dek": "Publisher groups told a New York court that training AI on books without permission is not 'fair use,' and can flood the market with AI copycats.",
+      "caveman": "Authors, including George R.R. Martin, have sued OpenAI and Microsoft for using their books, without asking or paying, to train AI like ChatGPT. The cases are now combined in a federal court in New York, and the authors asked the judge to rule in their favor. This week, the Association of American Publishers and three other groups filed an 'amicus brief' supporting the authors. They argue AI companies' own words show the goal is to make books that compete with the originals; for example, ChatGPT has written fake 'sequels' to Martin's unfinished series. They also quote a Microsoft employee who said authors lose sales because of so many AI-generated books. OpenAI says its use is 'fair use,' which allows some copying without permission.",
+      "why_it_matters": "The outcome could decide whether writers get paid when AI learns from their work, and whether bookstores fill up with cheap AI books.",
+      "camps": "Authors and publishers: copying whole books to build a competing product is theft, not fair use. AI companies: training is like a person learning from reading, and it creates new things. Some librarians and researchers worry that very strict rules could also block useful research.",
       "source_name": "Publishers Weekly",
-      "source_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101633-sarah-j-maas-inc.html",
-      "published": "2026-10-28",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101650-publishers-file-amicus-brief-in-openai-copyright-case.html",
+      "published": "2026-10-29",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Mannequins wearing ACOTAR-themed underwear at the Knix launch in New York",
+      "image_alt": "A federal courthouse in New York",
       "image_credit": "Photo: via Publishers Weekly",
       "terms": [
         {
-          "term": "romantasy",
-          "explain": "Books that mix romance and fantasy.",
+          "term": "copyright",
+          "explain": "The legal right of creators to control copies of their work.",
           "aliases": []
         },
         {
-          "term": "licensing",
-          "explain": "Letting another company use your name or characters on products, for a fee.",
+          "term": "fair use",
+          "explain": "A US rule that allows some copying without permission, for things like criticism, teaching or research.",
+          "aliases": []
+        },
+        {
+          "term": "amicus brief",
+          "explain": "A 'friend of the court' letter from a group that is not in the case but has an opinion.",
           "aliases": [
-            "licence",
-            "license"
+            "friend of the court"
           ]
         },
         {
-          "term": "merch",
-          "explain": "Merchandise: products like clothes or mugs based on a brand or story.",
-          "aliases": [
-            "merchandise"
-          ]
-        },
-        {
-          "term": "trade paperback",
-          "explain": "A larger, better-quality paperback book format.",
+          "term": "summary judgment",
+          "explain": "When a judge decides a case without a full trial because the key facts are clear.",
           "aliases": []
         }
       ]
@@ -572,38 +578,38 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Anand Giridharadas' new book revisits Jordan Neely's death on the subway",
-      "dek": "'Man in the Mirror' argues that both Neely and the man who choked him, Daniel Penny, felt abandoned by America.",
-      "caveman": "In May 2023, Jordan Neely, an unhoused Black man in a mental-health crisis, was shouting threats on a New York subway. Daniel Penny, a white former Marine, held him in a chokehold for about six minutes and Neely died. Video of it split the country. In 2024, Penny was found not guilty of criminally negligent homicide. Journalist Anand Giridharadas spent over two years reporting for his new book, Man in the Mirror: Hope, Struggle, and Belonging in an American City. He says both men felt let down by systems that should have helped them, and that social media turned real people into cartoons.",
-      "why_it_matters": "The case touches race, homelessness, mental health and public safety, all big debates in US cities, including in New York's politics now.",
-      "camps": "Neely's supporters: a Black man in crisis was treated as disposable. Penny's supporters: he stepped in when no police were there. The author's view: look past the viral video to the failures that put both men in that subway car.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
-      "published": "2026-10-28",
+      "headline": "HOT: Cassandra Clare starts the final Shadowhunters trilogy, 20 years after 'City of Bones'",
+      "dek": "'The Last King of Faerie' (Nov. 3) begins the end of one of YA fantasy's biggest series. Clare says she's taking off the guardrails.",
+      "caveman": "Cassandra Clare's 2007 book 'The City of Bones' started the Shadowhunters world: young demon hunters in a secret magical New York. It grew to 17 books, plus a movie and a TV show. Her new book, 'The Last King of Faerie,' comes out Nov. 3 from Knopf. It is book one of 'The Wicked Powers,' the last trilogy in this world. It follows Drusilla Blackthorn, a character fans met as a kid, now grown up. Clare told Publishers Weekly that ending the series feels 'freeing' but also sad, 'like I'm leaving a place or people I know.' This time she wanted no adults around to rescue the young heroes: 'no one can help them.'",
+      "why_it_matters": "YA (young adult) fantasy drives a big share of US book sales, and long series like this keep readers coming back for decades.",
+      "camps": "Longtime fans are thrilled and nervous about the ending. Some critics say the series runs long and leans on old formulas. Either way, booksellers expect a big launch.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/101655-i-don-t-have-to-hold-back-pw-talks-with-cassandra-clare.html",
+      "published": "2026-10-29",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Protesters rally in support of Jordan Neely in New York City in May 2023",
-      "image_credit": "Photo: Michael M. Santiago/Getty Images via NPR",
+      "image_alt": "Author Cassandra Clare",
+      "image_credit": "Photo: via Publishers Weekly",
       "terms": [
         {
-          "term": "unhoused",
-          "explain": "Without a home; a gentler word for homeless.",
+          "term": "YA",
+          "explain": "Young adult: books written mainly for teenagers, though many adults read them too.",
           "aliases": [
-            "homeless"
+            "young adult"
           ]
         },
         {
-          "term": "chokehold",
-          "explain": "Holding someone around the neck so they can't breathe well.",
+          "term": "trilogy",
+          "explain": "A set of three books that tell one story.",
           "aliases": []
         },
         {
-          "term": "acquitted",
-          "explain": "Found not guilty by a court.",
+          "term": "spin-off",
+          "explain": "A new story that grows out of an older one, often following a side character.",
           "aliases": []
         },
         {
-          "term": "criminally negligent homicide",
-          "explain": "Causing a death through extremely careless behaviour.",
+          "term": "Faerie",
+          "explain": "A magical land of fairies in folklore and fantasy stories.",
           "aliases": []
         }
       ]
@@ -612,38 +618,40 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Batman legends and translated comics shine at the Harvey Awards",
-      "dek": "At New York Comic Con, the comics awards celebrated 40 years of 'The Dark Knight Returns' and gave new prizes for comics in translation.",
-      "caveman": "The Harvey Awards are big prizes in the US comics world, named after Mad magazine cartoonist Harvey Kurtzman. This year's ceremony at New York Comic Con was packed with stars. To mark 40 years since The Dark Knight Returns, all the Hall of Fame honourees were people important to Batman comics, like artist David Mazzucchelli and Jenette Kahn, who led DC Comics for over 20 years. Actor Thomas Jane won Best Digital Book for his comic The Lycan. For the first time, the night also included the Sophie Castille Awards for Comics in Translation, honouring comics from other languages.",
-      "why_it_matters": "Comics and graphic novels are among the fastest-growing parts of US book sales, and a translation prize helps readers discover stories from beyond America.",
-      "camps": "Fans: a fun celebration of comics history. Critics of the industry: superhero nostalgia still takes the spotlight from newer voices. Translation advocates: the new prize is a welcome step.",
+      "headline": "HOT: Sold-out RomCon in Brooklyn shows how big, and loud, romance fandom has become",
+      "dek": "300 fans spent a day on panels, signings and very frank talk about sex scenes. The small publisher 831 Stories has a Hulu show in the works.",
+      "caveman": "Romance is one of the best-selling kinds of books in the US. On Oct. 24, about 300 readers packed RomCon, the first convention from the publisher 831 Stories, in Brooklyn's Industry City. There were panels about how romance shapes real life and how to write sex scenes, book signings (Casey McQuiston signed copies of 'Red, White & Royal Blue'), and lots of fan T-shirts and tote bags. 831 Stories only published its first book, Alexandra Romanoff's 'Big Fan,' about two years ago. That 162-page novella and its sequels are now being made into a Hulu series, and the book is sold in airport shops and soon at Target. Publishers Weekly says the main point of the day was simply being with other people who love the genre.",
+      "why_it_matters": "It shows how readers, especially women, are building communities around books and turning small publishers into hits.",
+      "camps": "Fans: romance is finally being taken seriously, and events like this feel welcoming. Some critics still dismiss the genre as 'guilty pleasure' reading; many fans call that sexist. Industry watchers note that live events and merch are now a big part of how books sell.",
       "source_name": "Publishers Weekly",
-      "source_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101553-star-studded-2026-harvey-awards-celebrate-batman-and-translated-comics.html",
-      "published": "2026-10-28",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101638-rallying-the-tropes-a-day-with-brooklyn-s-most-hardcore-romance-fans.html",
+      "published": "2026-10-29",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Winners pose with Harvey Awards trophies at New York Comic Con",
+      "image_alt": "Romance fans at RomCon in Brooklyn",
       "image_credit": "Photo: via Publishers Weekly",
       "terms": [
         {
-          "term": "Harvey Awards",
-          "explain": "US comics awards named after cartoonist Harvey Kurtzman.",
+          "term": "trope",
+          "explain": "A familiar story pattern readers love, like 'enemies to lovers.'",
           "aliases": [
-            "Harveys"
+            "tropes"
           ]
         },
         {
-          "term": "Hall of Fame",
-          "explain": "A special honour for people with a long, important career.",
+          "term": "novella",
+          "explain": "A story longer than a short story but shorter than a novel.",
           "aliases": []
         },
         {
-          "term": "graphic novel",
-          "explain": "A book-length story told in comic form.",
-          "aliases": []
+          "term": "convention",
+          "explain": "A big gathering of fans of something.",
+          "aliases": [
+            "RomCon"
+          ]
         },
         {
-          "term": "translation",
-          "explain": "Turning a text from one language into another.",
+          "term": "genre",
+          "explain": "A type or category of story, like romance or mystery.",
           "aliases": []
         }
       ]
@@ -652,39 +660,44 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "NOT for Kushner: new book's money claims spark a political fight",
-      "dek": "'Princes and Thieves' links Jared Kushner to Gulf money; he calls it 'completely insane' and threatens to sue.",
-      "caveman": "Jared Kushner is President Trump's son-in-law and one of his top Middle East envoys. A new book by journalist Matthew Cole, Princes and Thieves: Jared Kushner and Mohamed bin Zayed's Secret Plot to Remake the Middle East, came out in the US this week. It makes explosive claims linking Kushner to large bank accounts allegedly funded by Gulf states during Trump's first term. Kushner denies everything, says the author has no evidence, demanded that Vanity Fair take down its excerpt, and threatened legal action against the publisher, Simon & Schuster.",
-      "why_it_matters": "Books like this can push questions about money and power into public debate, but claims still need solid evidence.",
-      "camps": "Kushner: the claims are false and were already denied on the record. The author and publisher: stand by the reporting so far. Critics of Trump's family: want official investigations into foreign money. Neutral observers: wait to see the evidence tested.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
-      "published": "2026-10-28",
+      "headline": "NOT: Bankrupt book wholesaler Baker & Taylor proposes selling off what's left",
+      "dek": "The longtime supplier to US libraries owes over $10 million and has about $1.7 million to sell. Ordinary creditors may get nothing.",
+      "caveman": "Baker & Taylor (B&T) was for many years a main 'wholesaler' that sold books to US libraries: it bought from publishers and shipped to libraries. It closed in late 2025 after a deal to be bought by ReaderLink fell apart, and filed for bankruptcy in March 2026. At a court hearing on Oct. 28 in New Jersey, B&T proposed a plan to 'liquidate,' which means sell off its remaining things. Its assets are valued at about $6.6 million, but would bring only about $1.67 million if sold. It owes about $10.2 million. That means nothing is left for 'unsecured creditors,' such as some suppliers. Creditors can vote on the plan until Dec. 1. Other companies already bought pieces of B&T, like its distribution arm and some digital library tools.",
+      "why_it_matters": "Libraries rely on wholesalers to get books quickly and cheaply. When a big one fails, small publishers and libraries feel it.",
+      "camps": "Library advocates say B&T's fall shows how fragile the book supply chain is, and how few big players are left. Business analysts say the company struggled with debt and changing habits for years. Some publishers who are owed money are unlikely to be paid.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101642-b-t-liquidation-plan-proposed-in-bankruptcy-court.html",
+      "published": "2026-10-29",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Jared Kushner speaks at a Board of Peace session in New York",
-      "image_credit": "Photo: Charly Triballeau/AFP/Getty Images via The Guardian",
+      "image_alt": "Image from Publishers Weekly's report on Baker & Taylor",
+      "image_credit": "Photo: via Publishers Weekly",
       "terms": [
         {
-          "term": "envoy",
-          "explain": "A person sent by a government to represent it in talks.",
+          "term": "wholesaler",
+          "explain": "A company that buys large amounts from makers and sells to shops or libraries.",
           "aliases": []
         },
         {
-          "term": "excerpt",
-          "explain": "A short part taken from a longer book.",
-          "aliases": []
-        },
-        {
-          "term": "allegation",
-          "explain": "A claim that someone did something wrong, not yet proven.",
+          "term": "bankruptcy",
+          "explain": "A legal process for a company that can't pay its debts.",
           "aliases": [
-            "claims"
+            "Chapter 11"
           ]
         },
         {
-          "term": "Simon & Schuster",
-          "explain": "A major US book publisher.",
-          "aliases": []
+          "term": "liquidation",
+          "explain": "Selling off everything a company owns to pay its debts.",
+          "aliases": [
+            "liquidate"
+          ]
+        },
+        {
+          "term": "creditor",
+          "explain": "Someone who is owed money.",
+          "aliases": [
+            "creditors",
+            "unsecured creditors"
+          ]
         }
       ]
     },
@@ -692,40 +705,40 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Dolores Huerta, farmworker champion who coined 'Sí, se puede', dies at 96",
-      "dek": "She co-founded the United Farm Workers and fought for workers, women and LGBTQ+ people into her 90s.",
-      "caveman": "Dolores Huerta helped start the United Farm Workers union, which fought for better pay and safer conditions for people picking fruit and vegetables in the US, many of them Latino. She created the slogan 'Sí, se puede!' ('Yes, it can be done!'), later used by Barack Obama's 2008 campaign. She kept marching and speaking about race, poverty, women's and LGBTQ+ rights well into her 90s and received the Presidential Medal of Freedom in 2012. Her family said she died at home on Wednesday. Earlier this year, she revealed that union co-founder César Chávez had sexually abused her in the 1960s, a secret she kept for 60 years.",
-      "why_it_matters": "She is one of the most important labour and feminist leaders in US history, and showed that ordinary workers organising together can win.",
-      "camps": "Admirers: a hero for workers, women and immigrants. Her revelation this year also made many rethink how movements protect women inside them. Some critics on the right opposed her union and political activism.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
-      "published": "2026-10-28",
+      "headline": "Russian drone hits crowded train platform in Ukraine, killing at least 14",
+      "dek": "The jet-powered drone struck the main station in Dnipro as passengers waited. Two 15-year-old girls were also killed in a missile attack on Chernihiv.",
+      "caveman": "On Thursday a Russian jet-powered drone hit a busy platform at the main railway station in Dnipro, a city in central Ukraine. At least 14 people were killed and 14 hurt, including an 11-year-old boy. A train to Zaporizhzhia was standing at the platform. Officials had raised the danger warning before the strike, but many people were still there. In the northern city of Chernihiv, a missile attack killed two 15-year-old girls and injured at least 25, including four children. Russia did not comment; it says it does not target civilians, though it often hits Ukraine's railways. President Zelensky asked for more sanctions and criticized a recent Trump-Putin deal that eased some sanctions so the US can buy Russian diesel.",
+      "why_it_matters": "Trains are a lifeline for ordinary Ukrainians. Attacks on stations put civilians, including children, directly in danger.",
+      "camps": "Ukraine and its European allies: this shows Russia is targeting civilians, and sanctions should be tightened, not eased. Russia: it denies deliberately targeting civilians. Zelensky and other critics of the Trump-Putin diesel deal say easing sanctions rewards Moscow while attacks continue.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko",
+      "published": "2026-10-29",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Dolores Huerta at the California Democratic Party convention in 2025",
-      "image_credit": "Photo: Court Mast/AP via NPR",
+      "image_alt": "The sealed-off site of the drone strike at Dnipro railway station",
+      "image_credit": "Photo: National Police of Ukraine via BBC",
       "terms": [
         {
-          "term": "union",
-          "explain": "A group of workers who join together to bargain for better pay and conditions.",
+          "term": "drone",
+          "explain": "An aircraft with no pilot on board; some carry explosives.",
           "aliases": [
-            "labor union"
+            "drones"
           ]
         },
         {
-          "term": "United Farm Workers",
-          "explain": "A US union for farmworkers, founded in the 1960s.",
+          "term": "civilian",
+          "explain": "A person who is not in the military.",
           "aliases": [
-            "UFW"
+            "civilians"
           ]
         },
         {
-          "term": "Sí, se puede",
-          "explain": "Spanish for 'Yes, it can be done', a famous protest slogan.",
+          "term": "sanctions",
+          "explain": "Penalties, like trade bans, that countries use to pressure another country.",
           "aliases": []
         },
         {
-          "term": "Presidential Medal of Freedom",
-          "explain": "The highest award a US civilian can receive.",
+          "term": "day of mourning",
+          "explain": "An official day for a city or country to grieve together.",
           "aliases": []
         }
       ]
@@ -734,39 +747,44 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Spain high-speed train crash kills at least 68",
-      "dek": "A train from Madrid hit another train that had stopped on the tracks; the minister blames a computer failure and human error.",
-      "caveman": "On Wednesday morning, a high-speed train going from Madrid to Seville crashed into another train that was standing still on the tracks, about 140km south of Madrid. At least 68 people died and dozens were hurt; several carriages fell down a slope. The stopped train, run by private company Iryo, had 147 passengers; the moving one, run by state railway Renfe, had 397. Transport Minister Óscar Puente said a computer failure stopped the first train, then a control centre in Madrid made an 'inexplicable' decision to let trains move again with no speed limits. It is Spain's deadliest train disaster in 13 years.",
-      "why_it_matters": "Fast trains are usually very safe, so a crash like this raises hard questions about automated systems and human checks, lessons for every country with high-speed rail, including Taiwan.",
-      "camps": "Government: points to a system failure followed by human error and promises answers. Rail unions and critics: ask whether private competition and cost-cutting stretched safety. Families: want full accountability.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
-      "published": "2026-10-28",
+      "headline": "Amnesty: Cambodian police and soldiers helped guard brutal scam compounds",
+      "dek": "A report based on 151 survivors says guards used electric batons, hunted escapees and kept people trapped in forced online fraud.",
+      "caveman": "Across southeast Asia, criminal groups run 'scam compounds': guarded buildings where trafficked people are forced to cheat others online, for example with fake romances ('pig butchering'). Many victims were tricked with fake office job ads; the UN says hundreds of thousands have been trafficked. Amnesty International interviewed 151 survivors, visited 82 compounds and studied guards' social media videos. It says Cambodian police and military officers worked as private security guards there, linked to five well-connected security companies. Guards controlled exits, used electric batons, and chased people who escaped. The biggest company, Leap Somnang, was linked to at least 15 compounds and is allegedly controlled by an army colonel. Cambodia says it has shut hundreds of scam centers.",
+      "why_it_matters": "Taiwanese people have been both victims of these scams and trafficked into these compounds. The report suggests the problem is protected by people with power.",
+      "camps": "Amnesty and survivors: officials are part of the system, so real change needs prosecutions of powerful people, not only raids. Cambodia's government says it is cracking down and has closed many centers. Some experts say it's a regional problem that also needs action from banks, tech platforms and other countries.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
+      "published": "2026-10-29",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Train carriages after the high-speed crash in central Spain",
-      "image_credit": "Photo: EPA via BBC",
+      "image_alt": "Two men who said they were forced to work as scammers in Cambodia",
+      "image_credit": "Photo: Yasuyoshi Chiba/AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "high-speed rail",
-          "explain": "Trains that run much faster than normal, often over 250km/h.",
+          "term": "scam compound",
+          "explain": "A guarded building where people, often trafficked, are forced to run online frauds.",
           "aliases": [
-            "high-speed train"
+            "scam compounds",
+            "scam centres"
           ]
         },
         {
-          "term": "Renfe",
-          "explain": "Spain's state-owned railway company.",
+          "term": "human trafficking",
+          "explain": "Moving or holding people by force or trickery to exploit them.",
+          "aliases": [
+            "trafficked"
+          ]
+        },
+        {
+          "term": "pig butchering",
+          "explain": "A scam where criminals build a fake friendship or romance, then steal the victim's money.",
           "aliases": []
         },
         {
-          "term": "Iryo",
-          "explain": "A private rail company running high-speed trains in Spain.",
-          "aliases": []
-        },
-        {
-          "term": "control centre",
-          "explain": "A room where staff watch and direct train traffic.",
-          "aliases": []
+          "term": "Amnesty International",
+          "explain": "A global human rights organization.",
+          "aliases": [
+            "Amnesty"
+          ]
         }
       ]
     },
@@ -774,36 +792,36 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Africa's Ebola outbreak is 'unprecedented' and could reach the UK, health chief warns",
-      "dek": "With about 10,000 cases and nearly 5,000 deaths, Africa CDC's leader compares it to the early days of Covid.",
-      "caveman": "Ebola is a dangerous disease that spreads through body fluids like blood or vomit. The current outbreak started in the Democratic Republic of Congo (DRC) and has spread to Kenya and Uganda. It has reached about 10,000 cases and almost 5,000 deaths, and for the first time three African regions are affected. Dr Jean Kaseya, head of the Africa Centres for Disease Control and Prevention, said every country, including the UK, should get ready. He reminded people that at the start of Covid, many countries said there was no risk, then became hotspots.",
-      "why_it_matters": "Diseases don't stop at borders. Helping poorer countries fight outbreaks early protects everyone.",
-      "camps": "Health experts: rich countries should send money, vaccines and staff now, not later. Some governments: focus on border checks at home. Aid groups: cuts to global health funding have made outbreaks harder to control.",
+      "headline": "Hong Kong's leader apologises for the fire that killed 168 people; families say it's not enough",
+      "dek": "A report found 'decades of failure' and blamed four government departments along with private contractors. One minister resigned.",
+      "caveman": "In November 2025, a small fire, probably started by a cigarette, spread across seven of the eight towers at Wang Fuk Court, a housing estate in Hong Kong. The buildings were wrapped in bamboo scaffolding and netting for repairs. 168 people died, the world's deadliest home fire since 1980. On Thursday an independent report said private contractors were the 'main culprits,' but four government departments had 'lax enforcement': ignored warnings, bad building materials and fire alarms that were turned off. Hong Kong's leader John Lee and seven officials bowed and apologised. Housing secretary Winnie Ho has resigned. Seven people and two companies face charges, including manslaughter. A man who lost his wife said all the named department heads should step down.",
+      "why_it_matters": "It shows how weak safety checks during building repairs can turn a small fire into a disaster, a lesson for any crowded city, including Taipei.",
+      "camps": "The government: it accepts part of the blame and will investigate its own role for three months. Victims' families: the apology is late, and officials should face real consequences. Critics say Hong Kong's government has focused more on silencing criticism than on fixing safety problems.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "published": "2026-10-28",
+      "source_url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "published": "2026-10-29",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "A map of countries affected by Ebola at the Nigeria Centre for Disease Control in Abuja",
-      "image_credit": "Photo: Sodiq Adelakun/Reuters via The Guardian",
+      "image_alt": "The Wang Fuk Court housing estate in Hong Kong's Tai Po district as fire took hold in November 2025",
+      "image_credit": "Photo: AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "Ebola",
-          "explain": "A severe, often deadly virus spread through body fluids.",
+          "term": "scaffolding",
+          "explain": "A temporary frame put up around a building during repairs.",
           "aliases": []
         },
         {
-          "term": "outbreak",
-          "explain": "A sudden rise in cases of a disease in one area.",
+          "term": "manslaughter",
+          "explain": "Killing someone without planning to, for example through serious carelessness.",
           "aliases": []
         },
         {
-          "term": "Africa CDC",
-          "explain": "Africa Centres for Disease Control and Prevention, the African Union's public health agency.",
+          "term": "lax enforcement",
+          "explain": "When officials don't properly check or punish rule-breaking.",
           "aliases": []
         },
         {
-          "term": "hotspot",
-          "explain": "A place where a disease is spreading fast.",
+          "term": "chief executive",
+          "explain": "The title of Hong Kong's top leader.",
           "aliases": []
         }
       ]
@@ -812,37 +830,39 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Iran gives film-maker Jafar Panahi a new prison sentence and seizes his assets",
-      "dek": "The Palme d'Or winner got five years and one month in a trial he didn't attend, plus a travel ban.",
-      "caveman": "Jafar Panahi is one of Iran's most famous film directors. Last year he won the top prize at Cannes, the Palme d'Or, for It Was Just an Accident. Now an Iranian court has sentenced him, in absentia (without him there), to five years and one month in prison, ordered all his assets seized, banned him from travelling for two years and from social media for two years. His lawyer says the charges are unclear and they only learned of the case when his bank accounts were frozen. A friend says Panahi has not been arrested yet. Human rights groups say Iran is cracking down on artists.",
-      "why_it_matters": "Punishing artists is a way to scare a whole society into silence. Panahi's case is watched worldwide as a test of free expression in Iran.",
-      "camps": "Iran's authorities: say they are enforcing the law against 'propaganda'. Human rights groups and film-makers: say it is punishment for telling the truth in his films. Legal experts: say seizing assets without a clear legal link may break Iran's own constitution.",
+      "headline": "Experts: treat the 'manosphere' and online misogyny like a public health problem",
+      "dek": "A Lancet report says sites selling anger at women are a business model, and the response should look like the fight against smoking.",
+      "caveman": "The 'manosphere' is a mix of websites, influencers and online groups that tell young men their problems are caused by women and feminism. A new report in The Lancet, a top medical journal, says governments should treat it like smoking or junk food: as a public health issue. That would mean schools, health services and community groups working together. The authors say it has become a money-making industry: anger and grievance get clicks, so the most extreme content is rewarded. Co-author Prof. Kent Buse said, 'Boys and men are not the problem.' He blamed loneliness, money worries and companies that profit from young men's insecurity. The authors say just banning content will fail; boys need something better to belong to.",
+      "why_it_matters": "Online misogyny can lead to harassment and violence against women and girls, and also harms the mental health of boys and young men.",
+      "camps": "Supporters: a public-health approach targets the companies and conditions, not just individual boys. Some free-speech advocates may worry that treating online speech as a 'health problem' could slide into censorship, though the authors say bans alone won't work. Some men's advocates say young men's real struggles, like jobs and loneliness, need more attention than labels.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "published": "2026-10-28",
+      "source_url": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+      "published": "2026-10-29",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Iranian film-maker Jafar Panahi",
-      "image_credit": "Photo: Carlos Álvarez/Getty Images via The Guardian",
+      "image_alt": "Illustration image accompanying the Guardian's report on the manosphere",
+      "image_credit": "Photo: miniseries/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "in absentia",
-          "explain": "When a trial happens without the accused person present.",
+          "term": "manosphere",
+          "explain": "Online spaces and influencers that promote anger at women and narrow ideas of manhood.",
           "aliases": []
         },
         {
-          "term": "Palme d'Or",
-          "explain": "The top prize at the Cannes Film Festival.",
+          "term": "misogyny",
+          "explain": "Dislike of, or prejudice against, women.",
           "aliases": []
         },
         {
-          "term": "assets",
-          "explain": "Things a person owns that have value, like money, property or homes.",
+          "term": "public health",
+          "explain": "Protecting the health of a whole population, not just treating sick individuals.",
           "aliases": []
         },
         {
-          "term": "crackdown",
-          "explain": "Strong government action to stop or punish something, often critics.",
-          "aliases": []
+          "term": "The Lancet",
+          "explain": "One of the world's oldest and most respected medical journals.",
+          "aliases": [
+            "Lancet"
+          ]
         }
       ]
     }
