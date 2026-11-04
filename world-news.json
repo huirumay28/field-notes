@@ -1,57 +1,64 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-03T08:00:00+08:00",
-  "notes": "Tuesday 3 Nov 2026 world issue (Taipei ~08:00). Window: Mon 2 Nov (US Election Day is Tue 3 Nov). Economy: oil falls 7% on US-Iran deal hopes; Ryanair fare rises and pay freeze; Trump drops South Africa and Rwanda from Agoa; Fed to vote less often. Tech (USA): Anthropic revised S-1 ($17bn Q3, $895bn commitments); chatbots mislead voters; Palantir commercial beats government; Intel foundry test after 45% plunge. Politics: Supreme Court rules against Trump on California ballots; six things to watch on election night; Russian bombs kill 26 at Ukraine aid centre; Burnham slavery apology dialogue. Literature (USA): Readwise e-bookstore (hot); Clint Smith on WWII (hot); LitHub November nonfiction and SFF picks (hot). Social: Australia under-16 social media ban in High Court; UK softens care-worker settlement plan; first US bird flu death this year; DV survivor and late tagging. Sources: CNBC, BBC, The Guardian, NPR, Publishers Weekly, Literary Hub.",
+  "fetched_at": "2026-11-04T08:00:00+08:00",
+  "notes": "Wednesday 4 Nov 2026 world issue (Taipei ~08:00). Window: Tue 3 Nov (US Election Day; results not yet known at press time). Economy: US tech stocks bounce after AI-spending scare; Disney plans thousands of layoffs; Schaeffler cuts 3,460 jobs; UK-EU draft food (SPS) deal. Tech (USA): Apple warns of unprecedented memory prices; Google ties Search to AI for schools; CrowdStrike AI kill switch; AI 'slopaganda' political ads. Politics: Americans vote in midterms; US strikes Iran's Qeshm Island; Russia confirms Abu Dhabi talks; Spain's transport minister resigns after crash. Literature (USA): Strand pays $1.5m over PPP loan (not); Chicago's Unabridged changes hands (hot); university presses back Meridian (hot); LitHub 20 new books (hot). Social: New York measles death; Supreme Court on Catholic preschools and LGBTQ parents; US medical debt; UK MPs may face record checks. Sources: The Guardian, CNBC, BBC, NPR, Publishers Weekly, Literary Hub.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Oil prices drop more than 7% as the US and Iran both talk about a deal",
-      "dek": "US crude fell to about $96 a barrel, its biggest one-day drop since July. But traders have seen 'peace hopes' come and go before.",
-      "caveman": "For eight months, fighting involving Iran has scared energy markets, because a lot of the world's oil passes near Iran. On Monday, both sides sounded softer. President Trump told reporters Iran wants to 'make a deal and that could happen.' Secretary of State Marco Rubio said Trump would rather solve this peacefully, though he 'hasn't made a decision' about new strikes. Iran's President Masoud Pezeshkian said Tehran wants to fix problems through talks, and its foreign minister said a deal is possible if Washington shows 'goodwill.' Result: US oil (WTI) fell 7.4% to $96.46 a barrel and global Brent oil fell 7.6% to $104.77. Prices had jumped more than 10% in October because traders feared a bigger war after the US midterm elections. CNBC notes this has happened before: prices fell on peace rumors, then the fighting got worse and prices shot back up.",
-      "why_it_matters": "Oil prices flow into almost everything: gas, plane tickets, food delivery, factory costs. A real deal could cool inflation around the world, including in Taiwan.",
-      "camps": "Optimists say both governments now have reasons to make a deal, and markets are right to relax. Skeptics say talk is cheap: past 'peace hopes' collapsed, and oil is still far above normal. Some critics also note the timing, one day before US elections, and say voters should watch actions, not words.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "published": "2026-11-02",
+      "headline": "US tech stocks bounce back after an AI-spending scare, as Americans vote",
+      "dek": "The Nasdaq rose 0.83% on Election Day after falling into a 'correction'. Nvidia gained 2.3%, but Apple fell 1.9% because memory chips cost more.",
+      "caveman": "For about a week, investors had been selling tech and AI stocks. They worried that companies are spending huge sums on AI chips and data centers that may not pay off soon. By Monday, the Nasdaq (a stock index full of tech companies) was in 'correction territory': 10% below its 6 October record. On Tuesday it climbed back 0.83%, and the wider S&P 500 rose 0.37%. Chipmakers led the way: Nvidia gained 2.3% after four down days, and AMD, Broadcom and Micron also jumped. The Dow fell 0.38%, dragged down by Apple, which slipped 1.9% after warning that pricier memory chips will squeeze its profits. Cheaper oil helped the mood: Brent crude fell to $103 a barrel, down from $117 at the end of October, amid talk of new negotiations with Iran and Russia. The midterm elections did not seem to move markets much, though traders expect Democrats to win at least the House, which could mean more AI rules.",
+      "why_it_matters": "Taiwan's stock market fell sharply the same day on the same AI fears. When US chip stocks swing, Taiwan's market, its currency, and many retirement savings swing with them.",
+      "camps": "Bulls say AI demand is real and the dip was a normal pause after a big run. Bears say the spending is running ahead of profits and the bounce may not last. Some on the left argue that if Democrats win, stronger AI regulation is overdue; business groups warn too many rules could slow innovation.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+      "published": "2026-11-03",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Crude oil storage tanks seen from above",
-      "image_credit": "Photo: Reuters, via CNBC",
+      "image_alt": "The Apple flagship store in Hangzhou, China",
+      "image_credit": "Photo: Long Wei/VCG/Getty Images, via The Guardian",
       "terms": [
         {
-          "term": "barrel",
-          "explain": "The standard unit for oil: about 159 liters.",
+          "term": "Nasdaq",
+          "explain": "A US stock index packed with tech companies like Apple, Nvidia and Microsoft.",
           "aliases": [
-            "a barrel"
+            "the Nasdaq"
           ]
         },
         {
-          "term": "WTI",
-          "explain": "West Texas Intermediate, the main price for US crude oil.",
+          "term": "S&P 500",
+          "explain": "An index of 500 big US companies; a common way to measure 'the market'.",
           "aliases": [
-            "West Texas Intermediate"
+            "S&P"
           ]
         },
         {
-          "term": "Brent",
-          "explain": "The main international oil price, based on oil from the North Sea.",
+          "term": "Dow",
+          "explain": "The Dow Jones index of 30 large US companies.",
           "aliases": [
-            "Brent crude"
+            "Dow Jones"
           ]
         },
         {
-          "term": "crude oil",
-          "explain": "Raw oil pumped from the ground before it is turned into gasoline or jet fuel.",
+          "term": "correction",
+          "explain": "When a stock index falls 10% or more from its recent high.",
           "aliases": [
-            "crude"
+            "correction territory"
           ]
         },
         {
-          "term": "midterms",
-          "explain": "US elections held halfway through a president's four-year term, for Congress and many state jobs.",
+          "term": "memory chips",
+          "explain": "Chips that store data in phones and computers. AI data centers are buying so many that prices are soaring.",
           "aliases": [
-            "midterm elections"
+            "memory"
+          ]
+        },
+        {
+          "term": "Brent crude",
+          "explain": "The main international oil price.",
+          "aliases": [
+            "Brent"
           ]
         }
       ]
@@ -60,51 +67,48 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Ryanair warns of 'double-digit' fare rises next summer and may freeze staff pay",
-      "dek": "Europe's biggest budget airline says its fuel bill could jump by €2 billion because of the war with Iran. Its profit fell 16%.",
-      "caveman": "Ryanair is a low-cost airline that flies all over Europe. On Monday it said plane tickets next summer will be 'materially higher', meaning a lot more expensive, because jet fuel costs shot up after the US-Israel war with Iran. Boss Michael O'Leary said fares need to rise by 'double digits' (10% or more), maybe even 20% to fully cover fuel, though he doubts they'll get that high. Ryanair also said it is thinking about a temporary pay freeze for workers and will slow hiring. Unite, a union for Ryanair staff, said nobody had told it about any such plan. Profit before tax for April to September fell 16% to €2.4 billion. Ryanair had 'hedged' 80% of its fuel, meaning it bought it ahead at fixed prices, but the other 20% cost much more.",
-      "why_it_matters": "When a giant budget airline raises prices, the whole travel market usually follows. Cheap flights may get harder to find in 2027, and workers may pay part of the bill.",
-      "camps": "Ryanair says it has no choice: fuel is one of its biggest costs. Unions say workers should not pay for a war they did not start, especially while the company is still very profitable. Travelers' groups say airlines raise fares fast when fuel rises but cut them slowly when fuel falls.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
-      "published": "2026-11-02",
+      "headline": "Disney plans several thousand layoffs and asks some managers to cut costs by up to 20%",
+      "dek": "The cuts would come on top of an early-retirement offer from August. Netflix and the newly merged Paramount–Warner Bros. are cutting too.",
+      "caveman": "Disney, which owns theme parks, Marvel, Pixar, ESPN and the Disney+ streaming service, is preparing to lay off several thousand workers, CNBC reports. Some managers have been told to cut their costs by as much as 20%. It is one of the first big moves by new CEO Josh D'Amaro. In August, Disney offered some staff early retirement and said 'involuntary staff reductions' had already begun and would continue into next year. Disney had about 231,000 employees at the end of its 2025 fiscal year. It is not alone: Netflix said last month it would lay off about 6% of its workforce, and Skydance, the company formed by merging Paramount and Warner Bros. Discovery, is also expected to cut jobs to save $6 billion over three years. Disney reports its next earnings on 17 November.",
+      "why_it_matters": "Hollywood is shrinking as streaming, merger costs and AI change how films and shows are made. Thousands of creative and office jobs are on the line, not just executives.",
+      "camps": "Investors often cheer cost cuts because profits can rise. Unions and workers say big media companies keep paying executives well while ordinary staff lose their jobs, and worry AI will be used to replace them. Company leaders argue they must get leaner to compete with tech giants like YouTube and Netflix.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+      "published": "2026-11-03",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "A Ryanair plane on an airport runway",
-      "image_credit": "Photo: Getty Images, via BBC",
+      "image_alt": "A statue of Walt Disney and Mickey Mouse in front of Cinderella Castle at a Disney park",
+      "image_credit": "Photo: Getty Images, via CNBC",
       "terms": [
         {
-          "term": "budget airline",
-          "explain": "An airline that sells cheap basic tickets and charges extra for things like bags.",
+          "term": "layoffs",
+          "explain": "When a company ends people's jobs to save money, not because of their performance.",
           "aliases": [
-            "low-cost airline"
+            "lay off",
+            "job cuts"
           ]
         },
         {
-          "term": "hedging",
-          "explain": "Buying fuel ahead of time at a fixed price, to protect against price jumps.",
+          "term": "early retirement",
+          "explain": "An offer for older workers to retire sooner, often with extra pay, so the company can shrink.",
+          "aliases": []
+        },
+        {
+          "term": "fiscal year",
+          "explain": "A company's 12-month accounting year; it doesn't always match the calendar year.",
           "aliases": [
-            "hedged"
+            "fiscal"
           ]
         },
         {
-          "term": "pay freeze",
-          "explain": "When a company stops giving raises for a period of time.",
-          "aliases": [
-            "wage freeze"
-          ]
+          "term": "synergies",
+          "explain": "Savings a company expects after a merger, often by cutting overlapping jobs.",
+          "aliases": []
         },
         {
-          "term": "pre-tax profit",
-          "explain": "Money a company made before paying taxes.",
+          "term": "earnings",
+          "explain": "A company's quarterly report on how much money it made.",
           "aliases": [
-            "profit before tax"
-          ]
-        },
-        {
-          "term": "union",
-          "explain": "A group of workers who join together to bargain for better pay and conditions.",
-          "aliases": [
-            "Unite"
+            "earnings report"
           ]
         }
       ]
@@ -113,49 +117,53 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Trump moves to kick South Africa and Rwanda out of a US-Africa trade deal",
-      "dek": "The program, called Agoa, lets African countries sell thousands of products to the US with no import tax. Both countries would lose it from January 2027.",
-      "caveman": "Agoa (the African Growth and Opportunity Act) is a US program that lets eligible African countries send thousands of goods to America duty-free, meaning without import taxes. President Trump told Congress he plans to remove South Africa and Rwanda from 1 January 2027. US Trade Representative Jamieson Greer said a yearly review found both countries broke the program's rules. The US pointed to barriers against American business, and to national security and foreign policy concerns. For Rwanda, it also raised human rights, the rule of law, workers' rights and the lack of political freedom. Just a week earlier, the US Treasury sanctioned Rwanda's defense ministry, accusing it of sending thousands of troops to fight beside the M23 rebels in eastern DR Congo. For South Africa, the US also cited corruption. Trump has repeatedly clashed with South Africa's government, and last year falsely accused it of 'white genocide'.",
-      "why_it_matters": "Losing duty-free access can hurt factories and farms that export to the US, from cars to fruit, and the workers who depend on them.",
-      "camps": "Supporters say trade benefits should be a reward for good behavior, and Rwanda's role in DR Congo's war is serious. South Africa's defenders say the move is political punishment for its foreign policy, like its genocide case against Israel. Economists warn ordinary workers in Africa will feel the pain, not the leaders.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
-      "published": "2026-11-02",
+      "headline": "Germany's car industry crisis deepens: parts maker Schaeffler cuts 3,460 jobs and looks to defense",
+      "dek": "Most of the cuts are in Germany. Europe now sells far fewer new cars than before the pandemic, and Chinese electric cars are pushing in.",
+      "caveman": "Schaeffler makes parts that go inside cars, like bearings and engine pieces. On Tuesday it said it will cut 3,460 jobs and close or shrink five sites; 2,660 of the jobs are in Germany. By 2028, about 18% of its core German workforce will be gone. Why? Europe is buying far fewer new cars: EU car registrations fell from 15.3 million a year to about 10.8 million. The switch to electric cars also needs fewer parts, and cheaper Chinese EVs are winning customers. Volkswagen, Europe's biggest carmaker, is cutting around 100,000 jobs. Like other German industrial firms, Schaeffler is now looking at the defense industry, where Europe is spending more money, as a new source of business.",
+      "why_it_matters": "Germany is Europe's biggest economy and its car industry is a key customer for Taiwanese parts and chip makers. When German factories shrink, supply chains far away feel it.",
+      "camps": "Company leaders say cuts are painful but needed to survive. German unions say workers are paying for bosses' slow move to electric cars and want job guarantees. Some economists argue Europe should protect its car industry from Chinese competition; others say tariffs would make cars more expensive for ordinary buyers.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/schaeffler-job-cuts-europe.html",
+      "published": "2026-11-03",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Donald Trump and South African President Cyril Ramaphosa at the White House",
-      "image_credit": "Photo: Getty Images, via BBC",
+      "image_alt": "A worker moves an engine at a Volkswagen factory in Zwickau, Germany",
+      "image_credit": "Photo: Getty Images, via CNBC",
       "terms": [
         {
-          "term": "Agoa",
-          "explain": "African Growth and Opportunity Act: a US program giving African countries tax-free access to US markets.",
+          "term": "auto supplier",
+          "explain": "A company that makes parts and sells them to carmakers.",
           "aliases": [
-            "African Growth and Opportunity Act"
+            "parts maker",
+            "supplier"
           ]
         },
         {
-          "term": "duty-free",
-          "explain": "With no import tax added.",
+          "term": "registrations",
+          "explain": "The number of new cars officially registered; a way to count car sales.",
           "aliases": [
-            "tariff"
+            "car registrations"
           ]
         },
         {
-          "term": "sanctions",
-          "explain": "Penalties, like blocking money or business, used to pressure a government or group.",
+          "term": "EV",
+          "explain": "Electric vehicle: a car that runs on a battery instead of gasoline.",
           "aliases": [
-            "sanctioned"
+            "electric cars",
+            "EVs"
           ]
         },
         {
-          "term": "M23",
-          "explain": "A rebel armed group fighting in eastern Democratic Republic of Congo.",
-          "aliases": []
+          "term": "defense industry",
+          "explain": "Companies that make weapons and military equipment.",
+          "aliases": [
+            "defense"
+          ]
         },
         {
-          "term": "trade representative",
-          "explain": "The US official who leads trade talks for the president.",
+          "term": "union",
+          "explain": "A group of workers who join together to bargain with their employer.",
           "aliases": [
-            "US Trade Representative"
+            "unions"
           ]
         }
       ]
@@ -164,48 +172,51 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "The Fed will vote on interest rates less often. That could mean a longer wait for cheaper loans",
-      "dek": "New Fed chair Kevin Warsh says one of the eight meetings next year will be a 'strategy' meeting with no rate vote, and two the year after.",
-      "caveman": "The Federal Reserve ('the Fed') is America's central bank. Its interest rate affects what people pay on credit cards, mortgages and car loans. On 28 October it kept its rate at 3.75% to 4%, because inflation is still well above its 2% goal. Chair Kevin Warsh then said the Fed will keep meeting eight times a year, but in 2027 one meeting will be a 'strategy' meeting with no rate vote and no statement. In 2028 there will be two, leaving six chances a year to change rates (plus emergency meetings). Some experts say that means borrowers could wait longer for relief when rates are high, and face more uncertainty when buying a home. Others say the bigger issue is whether banks pass on rate cuts as fast as they pass on increases. Even without a Fed hike, credit card rates are creeping up, LendingTree says, as card companies protect themselves from people falling behind on payments.",
-      "why_it_matters": "Fed decisions ripple around the world, including Taiwan's currency and stock market. Fewer votes could mean slower changes in global borrowing costs.",
-      "camps": "Supporters say fewer votes cut 'noise' and let the Fed think long-term instead of reacting to every data point. Critics say it makes the Fed slower to help families when the economy weakens. Consumer advocates focus elsewhere: lenders, not just the Fed, decide what people actually pay.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-      "published": "2026-11-02",
+      "headline": "UK and EU agree a draft deal to scrap Brexit red tape on food exports",
+      "dek": "British sausages, burgers and shellfish could flow to Europe without costly vet checks. In return, Britain would follow EU food rules as they change.",
+      "caveman": "When Britain left the EU, sending food across the border got hard. Exporters had to pay for vet-signed paperwork, around £200 per health certificate, and their trucks faced checks. Some small firms simply stopped: one yoghurt maker told the BBC it quit exporting because of vets' fees. Now the UK and EU have agreed a draft 'SPS' deal, a 200-page text sent to EU countries this week, ahead of a UK-EU summit later this month. It would remove most of those checks, so fresh sausages, burgers and shellfish could be sold in Europe again. The government says the UK economy could gain £5.1bn a year, and Prime Minister Andy Burnham says up to 0.4% extra on GDP. The catch is 'dynamic alignment': Britain would follow EU food and farming rules, including new ones, without having a vote on them.",
+      "why_it_matters": "It shows how a country can slowly rebuild trade after a big split. It is also a lesson for any economy, including Taiwan, that trade deals often mean accepting someone else's rules.",
+      "camps": "Supporters say cheaper, easier trade helps farmers, small businesses and shoppers. Brexit supporters say 'dynamic alignment' means taking orders from Brussels without a say, undoing what voters chose. Others in the middle say the deal is practical, but parliament should be able to review new EU rules.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "published": "2026-11-03",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Federal Reserve Chair Kevin Warsh speaking at a news conference",
-      "image_credit": "Photo: Getty Images, via CNBC",
+      "image_alt": "A fisherman sorts his catch on a boat",
+      "image_credit": "Photo: Chris Ratcliffe/Bloomberg via Getty Images, via BBC",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "explain": "America's central bank, which sets key interest rates.",
-          "aliases": [
-            "the Fed",
-            "Fed"
-          ]
-        },
-        {
-          "term": "interest rate",
-          "explain": "The extra cost of borrowing money, shown as a percent per year.",
-          "aliases": [
-            "rates"
-          ]
-        },
-        {
-          "term": "inflation",
-          "explain": "When prices go up over time, so money buys less.",
+          "term": "Brexit",
+          "explain": "Britain's exit from the European Union, completed in 2020.",
           "aliases": []
         },
         {
-          "term": "mortgage",
-          "explain": "A loan used to buy a home.",
+          "term": "SPS",
+          "explain": "Sanitary and phytosanitary rules: food safety and animal and plant health checks.",
           "aliases": [
-            "mortgages"
+            "SPS deal",
+            "SPS agreement"
           ]
         },
         {
-          "term": "prime rate",
-          "explain": "The basic rate banks charge their best customers; many credit cards follow it.",
+          "term": "red tape",
+          "explain": "Annoying paperwork and rules that slow things down.",
+          "aliases": []
+        },
+        {
+          "term": "export health certificate",
+          "explain": "A document, signed by a vet, proving food is safe to sell abroad.",
+          "aliases": [
+            "health certificate"
+          ]
+        },
+        {
+          "term": "dynamic alignment",
+          "explain": "Agreeing to automatically follow another side's rules, even as they change.",
+          "aliases": []
+        },
+        {
+          "term": "GDP",
+          "explain": "Gross domestic product: the total value of everything an economy produces.",
           "aliases": []
         }
       ]
@@ -214,57 +225,49 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "tech",
-      "headline": "Anthropic's IPO filing shows $17 billion in quarterly sales, a huge loss, and $895 billion promised for computing power",
-      "dek": "The maker of the Claude chatbot is growing incredibly fast, but growth slowed in the third quarter, and its spending commitments are enormous.",
-      "caveman": "Anthropic, the AI company behind the Claude chatbot, plans to sell shares on the stock market (an IPO). On Monday it updated its official filing, called an S-1, with new numbers. In July to September it made about $17 billion in revenue, more than 11 times the same period last year. But growth slowed: up 47% from the previous quarter, compared with 144% and 132% in the two quarters before. It lost $23.29 billion in that quarter; for the first nine months it lost $104 billion, though most of that is an accounting change tied to the value of its debt-like investments, not cash spent. The big eye-opener: Anthropic has signed deals to spend about $895.4 billion, almost all on computing power and data centers. It gets much of that power from Amazon, Google and SpaceX. Its S-1 lists more than 90 pages of risks. Rival OpenAI is aiming to go public in 2027.",
-      "why_it_matters": "A few AI companies are making promises worth hundreds of billions of dollars. If AI demand slows, those bets could shake markets, including Taiwan's chip and server makers.",
-      "camps": "Fans see the fastest-growing software business in history, with real paying customers. Skeptics say losses are huge, growth is slowing, and spending promises are bigger than many countries' economies. Some investors also worry about data centers getting built on time as interest rates rise.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "published": "2026-11-02",
+      "headline": "Apple warns of an 'unprecedented' rise in memory chip prices",
+      "dek": "Revenue beat expectations and Apple raised some prices to cope, but shares still fell. The AI boom is soaking up the world's memory chips.",
+      "caveman": "Apple reported strong quarterly results: revenue of $114.5bn, up 12% from a year earlier, and earnings of $2.10 per share. But the company, now led by new CEO John Ternus, warned that the price of memory chips is rising at an 'unprecedented' pace. Memory chips store data inside phones and computers. AI data centers are buying enormous amounts of them, so there are fewer left and prices are jumping. That means each iPhone or Mac costs Apple more to make, which squeezes its profit margins. Apple says raising some prices has offset part of the hit. Apple's shares fell 2.75% in after-hours trading, and slid 1.9% the next day.",
+      "why_it_matters": "If Apple, one of the richest companies on earth, feels the squeeze, everyone does. Phones, laptops and game consoles could get more expensive, and memory makers in Korea and Taiwan are booming.",
+      "camps": "Investors focused on the margin warning. Fans of Apple note sales are still growing fast. Critics of the AI boom say this is a hidden cost: AI companies' chip buying is pushing up prices for regular consumers.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "published": "2026-11-03",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Anthropic CEO Dario Amodei walking with security staff",
-      "image_credit": "Photo: AFP via Getty Images, via CNBC",
+      "image_alt": "A customer holds the newly launched iPhone Duo at the Apple store on Fifth Avenue in New York",
+      "image_credit": "Photo: Ryan Murphy/AP, via The Guardian",
       "terms": [
-        {
-          "term": "IPO",
-          "explain": "Initial public offering: when a private company first sells shares to the public.",
-          "aliases": [
-            "go public"
-          ]
-        },
-        {
-          "term": "S-1",
-          "explain": "The official document a company files with US regulators before an IPO.",
-          "aliases": [
-            "prospectus"
-          ]
-        },
         {
           "term": "revenue",
           "explain": "All the money a company takes in from sales, before costs.",
           "aliases": []
         },
         {
-          "term": "net loss",
-          "explain": "When a company's costs are bigger than its income.",
+          "term": "earnings per share",
+          "explain": "Profit divided by the number of shares; a common way to measure company profit.",
           "aliases": [
-            "loss"
+            "EPS"
           ]
         },
         {
-          "term": "compute",
-          "explain": "The computer power needed to train and run AI models.",
+          "term": "profit margin",
+          "explain": "How much of each dollar of sales is left as profit.",
           "aliases": [
-            "computing power"
+            "margin",
+            "margins"
           ]
         },
         {
-          "term": "neocloud",
-          "explain": "A newer company that rents out AI computing power, competing with Amazon, Google and Microsoft.",
+          "term": "after-hours trading",
+          "explain": "Buying and selling shares after the main stock market closes.",
           "aliases": [
-            "neoclouds"
+            "after hours"
           ]
+        },
+        {
+          "term": "unprecedented",
+          "explain": "Never happened before.",
+          "aliases": []
         }
       ]
     },
@@ -272,49 +275,51 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "tech",
-      "headline": "AI chatbots are giving voters wrong election info, a study finds, and Claude made the most errors on voting questions",
-      "dek": "About 14% of chatbot answers on how and when to vote were wrong or out of date. Some bots even listed who to vote for.",
-      "caveman": "More Americans are asking AI chatbots about elections. A nonprofit called Innovating for the Public Good tested seven popular tools: Google AI Mode and AI Overviews, Anthropic's Claude, Microsoft Copilot, Google Gemini, OpenAI's ChatGPT and Perplexity. In October, 13.9% of answers to voting-logistics questions (when, where, how to vote) were outdated or wrong. About 5.9% could actually make someone miss a deadline or go on the wrong day. Accuracy depended more on which chatbot than on the question. Claude and Copilot produced three-quarters of the clear errors; on voting questions Claude was wrong or outdated about one in three times, Copilot one in four, ChatGPT one in ten. In one example NPR saw, Claude gave registration deadlines for a Michigan district that were later than the real ones. A researcher called the error rates 'extremely troubling.' Microsoft said accurate election info is a priority.",
-      "why_it_matters": "Today, 3 November, is Election Day in the US. The safest source for voting info is still your official election office, not a chatbot.",
-      "camps": "Researchers say AI sounds confident even when wrong, which is dangerous for democracy. AI companies say they point users to official sources and keep improving. Some experts argue for rules requiring chatbots to avoid election advice or clearly link to official sites; others worry about free speech and want voluntary fixes.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-      "published": "2026-11-02",
+      "headline": "Google tells schools: if you switch off our AI, students lose Google Search too",
+      "dek": "New York Mayor Zohran Mamdani accused Google of using its 'monopoly power to force AI into our public schools'.",
+      "caveman": "Google announced new AI products for classrooms, plus new controls so schools can limit them. For K-12 student accounts, its Gemini AI tools and Google Search will now be switched off until a school turns them on. But there's a catch: Google says Search and AI are 'deeply integrated', so if a school blocks Google's AI, students also lose Google Search. They will just see a message saying it isn't available. Critics called it a 'hostile ultimatum'. New York City Mayor Zohran Mamdani, who recently paused generative AI tools in city schools through eighth grade, said 'no corporation should have the power to dictate how we teach our children.' Former Federal Trade Commission chair Lina Khan said Google was using its search monopoly to 'coerce schools into adopting AI'.",
+      "why_it_matters": "Students everywhere use Google to do homework. If a single company can say 'take our AI or lose search', schools lose real choice about how kids learn.",
+      "camps": "Google says it is giving schools more control, not less, and that modern search simply runs on AI. Teachers and parents who worry about AI cheating and learning loss see it as a penalty for saying no. Antitrust critics say this is exactly why big tech monopolies need stronger rules.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "published": "2026-11-03",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "People looking at their phones while waiting in line outside a polling place",
-      "image_credit": "Photo: Jon Cherry/Getty Images, via NPR",
+      "image_alt": "A Google sign on a building",
+      "image_credit": "Photo: Gary Hershorn/Getty Images, via The Guardian",
       "terms": [
         {
-          "term": "chatbot",
-          "explain": "A computer program you can type or talk to, which answers in human-like language.",
-          "aliases": [
-            "chatbots",
-            "AI chatbot"
-          ]
-        },
-        {
-          "term": "misinformation",
-          "explain": "False or misleading information, shared by mistake or on purpose.",
+          "term": "K-12",
+          "explain": "US school years from kindergarten to 12th grade, roughly ages 5 to 18.",
           "aliases": []
         },
         {
-          "term": "voter registration",
-          "explain": "Signing up officially so you are allowed to vote.",
-          "aliases": [
-            "register to vote"
-          ]
-        },
-        {
-          "term": "nonprofit",
-          "explain": "An organization that doesn't try to make profit for owners.",
+          "term": "Gemini",
+          "explain": "Google's AI chatbot and family of AI models.",
           "aliases": []
         },
         {
-          "term": "logistics",
-          "explain": "The practical details: when, where and how something happens.",
+          "term": "monopoly",
+          "explain": "When one company controls almost all of a market, so others can't compete.",
           "aliases": [
-            "voting logistics"
+            "monopoly power"
           ]
+        },
+        {
+          "term": "moratorium",
+          "explain": "A temporary ban or pause.",
+          "aliases": []
+        },
+        {
+          "term": "FTC",
+          "explain": "Federal Trade Commission, the US agency that protects consumers and enforces competition law.",
+          "aliases": [
+            "Federal Trade Commission"
+          ]
+        },
+        {
+          "term": "ultimatum",
+          "explain": "A final demand: do this, or face a bad result.",
+          "aliases": []
         }
       ]
     },
@@ -322,49 +327,51 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "tech",
-      "headline": "Palantir's business sales pass its government sales for the first time, as companies rush to use its AI tools",
-      "dek": "Revenue nearly doubled and topped $2 billion in a quarter. CEO Alex Karp again said AI labs should be nationalized.",
-      "caveman": "Palantir is a US data and AI software company, long known for working with the military, spy agencies and immigration enforcement. On Monday it reported July-September results that beat Wall Street's guesses. Total revenue nearly doubled from a year ago and passed $2 billion for the first time. Profit more than doubled to $1.13 billion. The big change: US business (commercial) revenue jumped 148% to $984 million, beating US government revenue of $953 million (up 96%) for the first time. Palantir raised its forecast for the year to about $8.53 billion in revenue. CEO Alex Karp said nobody in software has had results like this, ever. He again said governments should nationalize the big AI labs, calling it the 'only realistic way' to handle who is responsible when AI causes harm. The stock still dipped about 3% after hours.",
-      "why_it_matters": "Palantir shows AI is moving from hype into everyday company systems. Its government work also raises big questions about surveillance and privacy.",
-      "camps": "Investors cheer the growth and profits. Civil-liberties groups criticize Palantir's role in immigration enforcement and policing data. Some observers find it striking that a tech CEO calls for nationalizing AI labs, while others see it as a dig at rivals like OpenAI and Anthropic.",
+      "headline": "CrowdStrike launches an 'AI kill switch' to stop company AI agents that go rogue",
+      "dek": "The tool can cut a misbehaving AI agent off from a company's network, but a human still has to make the call.",
+      "caveman": "Companies are now using 'AI agents': AI programs that can take actions on their own, like reading files, sending emails or changing systems. What if one goes wrong? Cybersecurity company CrowdStrike launched a 'kill switch' built into its Falcon platform. It can spot what an internal AI agent is doing, stop it, block it from restarting, and cut off its access to the company network. A human must approve the shutdown. CrowdStrike also announced it will work with Anthropic's Claude Cowork tool. Fears are rising after recent incidents, including a July breach at Hugging Face blamed on rogue AI agents and a record crypto hack disclosed by Binance last week. Over the summer, US lawmakers from both parties proposed requiring AI companies to build shutdown abilities into their models. Some critics say one emergency stop button is too simple for huge, connected AI systems.",
+      "why_it_matters": "As AI starts doing real work, not just chatting, the question 'who can switch it off?' becomes a safety question for banks, hospitals and power grids.",
+      "camps": "Security companies say kill switches are a basic safety feature, like a circuit breaker. Some engineers doubt one button can control complex systems. Privacy and labor advocates add that the bigger question is how much power companies should give AI agents in the first place.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "published": "2026-11-02",
+      "source_url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "published": "2026-11-03",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Palantir CEO Alex Karp speaking to reporters",
-      "image_credit": "Photo: Getty Images, via CNBC",
+      "image_alt": "CrowdStrike's CEO speaking at an event",
+      "image_credit": "Photo: Reuters, via CNBC",
       "terms": [
         {
-          "term": "commercial revenue",
-          "explain": "Money a company earns from selling to businesses, not governments.",
+          "term": "AI agent",
+          "explain": "An AI program that can take actions by itself, not just answer questions.",
           "aliases": [
-            "commercial"
+            "AI agents",
+            "agents"
           ]
         },
         {
-          "term": "nationalize",
-          "explain": "When a government takes ownership or control of a private company.",
+          "term": "kill switch",
+          "explain": "A way to shut something down quickly in an emergency.",
+          "aliases": []
+        },
+        {
+          "term": "go rogue",
+          "explain": "Start acting in ways nobody intended or approved.",
           "aliases": [
-            "nationalization"
+            "rogue"
           ]
         },
         {
-          "term": "guidance",
-          "explain": "A company's own forecast of future sales or profit.",
-          "aliases": [
-            "forecast"
-          ]
+          "term": "cybersecurity",
+          "explain": "Protecting computers and networks from hackers and attacks.",
+          "aliases": []
         },
         {
-          "term": "extended trading",
-          "explain": "Stock trading that happens after the normal market closes.",
-          "aliases": [
-            "after hours"
-          ]
+          "term": "circuit breaker",
+          "explain": "A device that cuts off electricity when something goes wrong.",
+          "aliases": []
         },
         {
-          "term": "surveillance",
-          "explain": "Watching or collecting data on people, often by governments.",
+          "term": "bipartisan",
+          "explain": "Supported by both major parties, Democrats and Republicans.",
           "aliases": []
         }
       ]
@@ -373,49 +380,54 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "tech",
-      "headline": "Intel's stock fell 45% in October. Now its plan to make chips for other companies faces a big test",
-      "dek": "The PC slump and memory shortages hit Intel hard. It still has no big outside customer for its most advanced chips, the area where TSMC leads.",
-      "caveman": "Intel is an American chip company. For years it has tried to build a 'foundry' business: making chips for other companies, the way Taiwan's TSMC does. It has spent a lot of its $108 billion in factory spending over five years on this, but still has no major customer for its newest chips. Its stock had risen sixfold after the US government took a 10% stake in August 2025 and Nvidia invested $5 billion. Then last Thursday Intel said sales this quarter would be $1-2 billion below expectations, because people are not upgrading PCs as memory and parts get pricey. The stock fell 29% on Friday, its worst day since the 1970s, and 45% for October, its worst month on record. Its data-center chip sales grew 78%, but Intel can't make enough. It is moving some Oregon factory space away from its advanced 18A chips to older chips. A former Intel board member warned that makes it look less reliable to possible foundry customers.",
-      "why_it_matters": "If Intel's foundry stalls, more of the world keeps depending on TSMC in Taiwan. That brings business to Taiwan but also more pressure from the US to build chips at home.",
-      "camps": "Bulls say Intel's AI server chips are selling well and US government support gives it time. Bears say it keeps missing goals and can't serve outside customers if it can't even meet its own demand. Policy voices argue the US needs Intel to succeed for national security, whatever the stock price.",
+      "headline": "AI 'slopaganda' floods US political ads, and there is no federal law to stop it",
+      "dek": "More than $187m was spent on nearly 300 AI-made election ads. Over 90% of that spending came from the Republican side, a study found.",
+      "caveman": "'Slopaganda' mixes 'AI slop' (cheap, fake-looking AI content) and 'propaganda'. Before the midterms, a lot of it showed up in political ads. The Wesleyan Media Project counted more than $187 million spent on nearly 300 ads made or edited with AI, and says that's almost surely too low, because many ads don't say they used AI. Over 90% of the spending came from Republican candidates or groups, and most didn't include a warning label. CNBC found examples like a fake video of New York Democratic Governor Kathy Hochul posted by her Republican opponent. There is no full federal law on AI in political ads; about 30 states have their own rules, but candidates don't always follow them. Platforms like Meta, Google and X are trying to watch for it.",
+      "why_it_matters": "If voters can't tell a real video from a fake one, elections get harder to trust. The same tools are already used in Taiwan's elections, often by outside actors.",
+      "camps": "Supporters of regulation want clear labels and a federal law. Free-speech advocates warn that banning political ads, even fake ones, could be abused to silence criticism and satire. Republicans who use AI ads say they are just a cheaper way to make campaign content; critics say spreading fakes about opponents crosses a line no matter who does it.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-      "published": "2026-11-02",
+      "source_url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "published": "2026-11-03",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Intel CEO Lip-Bu Tan at an Intel event",
-      "image_credit": "Photo: Getty Images, via CNBC",
+      "image_alt": "Political candidates speaking at campaign events",
+      "image_credit": "Photo: via CNBC",
       "terms": [
         {
-          "term": "foundry",
-          "explain": "A factory business that makes chips designed by other companies.",
-          "aliases": [
-            "fab",
-            "foundries"
-          ]
-        },
-        {
-          "term": "18A",
-          "explain": "Intel's most advanced chipmaking process, meant to compete with TSMC.",
+          "term": "slopaganda",
+          "explain": "AI 'slop' plus propaganda: cheap, fake AI content used to push a political message.",
           "aliases": []
         },
         {
-          "term": "stake",
-          "explain": "Part ownership of a company.",
+          "term": "AI slop",
+          "explain": "Low-quality content mass-produced with AI.",
+          "aliases": [
+            "slop"
+          ]
+        },
+        {
+          "term": "propaganda",
+          "explain": "Information, often misleading, spread to push people toward a political view.",
           "aliases": []
         },
         {
-          "term": "data center",
-          "explain": "A building full of computers that run websites, cloud services and AI.",
+          "term": "disclosure",
+          "explain": "A label telling viewers that AI was used.",
           "aliases": [
-            "data centers"
+            "disclaimer",
+            "disclaimers"
           ]
         },
         {
-          "term": "wafer",
-          "explain": "A thin round slice of silicon on which many chips are made.",
+          "term": "deepfake",
+          "explain": "A fake video or audio made with AI that looks real.",
           "aliases": [
-            "wafers"
+            "fake video"
           ]
+        },
+        {
+          "term": "federal law",
+          "explain": "A national law in the US, passed by Congress, rather than a state law.",
+          "aliases": []
         }
       ]
     },
@@ -423,52 +435,52 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "US Supreme Court rules against Trump's push to make California set aside ballots",
-      "dek": "The Justice Department claimed 20,000 non-citizens were on California's voter rolls but never showed how it got the list.",
-      "caveman": "The night before Election Day, the US Supreme Court said no to the Trump administration. The Justice Department (DoJ) had claimed 20,000 non-citizens were on California's voter lists. In mid-October it gave Los Angeles and Sacramento election officials a USB drive with names, gave them only 48 hours to review it, and demanded they separate and not count those people's ballots until they proved citizenship. Officials refused, and lower courts sided with California. The DoJ never explained how it built the list, and election officials said it seemed to contain many mistakes. Los Angeles County's top election official said DoJ gave no evidence or method. The administration had even threatened to prosecute officials who counted ballots from ineligible voters, which experts say has no legal basis. Voting-rights groups called the whole thing a ploy to cast doubt on the midterms.",
-      "why_it_matters": "In the US, states run elections. This ruling protects that system and means ballots in the biggest state get counted normally.",
-      "camps": "The administration says it is trying to stop non-citizens from voting, which is illegal. California and voting-rights groups say non-citizen voting is extremely rare and the list looked sloppy, so the real goal was to scare voters and create distrust. Some conservatives agree with checking rolls but say it must be done carefully, with evidence and time.",
+      "headline": "Americans vote in midterm elections seen as a referendum on Trump",
+      "dek": "Control of the House and Senate, both held by Republicans, is at stake. Results were not yet known when this issue was made.",
+      "caveman": "On Tuesday 3 November, Americans voted in the 'midterms', elections held halfway through a president's four-year term. All of the House of Representatives and about a third of the Senate are on the ballot, plus 36 governors and many local offices and ballot questions. Republicans control both houses of Congress now. Trump made himself the center of the race, holding dozens of rallies and telling supporters to vote as if his name were on the ballot. The party in the White House usually loses seats in midterms. Polls suggested Democrats were well placed to win the House; the Senate was harder, because many seats up for grabs are in states Trump won. Democrats focused on the cost of living; Republicans on Trump's agenda. Note: results were still coming in when this issue was put together, so check live results for who won.",
+      "why_it_matters": "Congress decides budgets, laws and investigations. Who controls it decides how much of Trump's agenda, on immigration, the Iran war, tariffs, can move forward in his last two years.",
+      "camps": "Democrats framed the vote as a check on a president whose power has gone largely unchecked. Republicans said voters should reward Trump's agenda and that Democrats offer no clear plan. Independents in polls mostly said prices and jobs mattered most.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
-      "published": "2026-11-02",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+      "published": "2026-11-03",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Voters casting ballots at City Hall in San Francisco",
-      "image_credit": "Photo: Bloomberg/Getty Images, via The Guardian",
+      "image_alt": "Voters fill out ballots on the last day of early voting in Detroit, Michigan",
+      "image_credit": "Photo: Sarah Yenesel/EPA, via The Guardian",
       "terms": [
         {
-          "term": "Supreme Court",
-          "explain": "The highest court in the United States.",
+          "term": "midterms",
+          "explain": "US elections held two years into a president's term.",
           "aliases": [
-            "supreme court"
+            "midterm elections"
           ]
         },
         {
-          "term": "Justice Department",
-          "explain": "The US government department in charge of federal law enforcement and lawyers.",
+          "term": "referendum",
+          "explain": "Here: a vote treated as a thumbs up or down on one person or idea.",
+          "aliases": []
+        },
+        {
+          "term": "House of Representatives",
+          "explain": "The bigger chamber of Congress; all 435 seats are elected every two years.",
           "aliases": [
-            "DoJ",
-            "justice department"
+            "House"
           ]
         },
         {
-          "term": "voter rolls",
-          "explain": "Official lists of people registered to vote.",
-          "aliases": [
-            "voter lists"
-          ]
+          "term": "Senate",
+          "explain": "The smaller chamber of Congress, with 100 senators; about a third are elected every two years.",
+          "aliases": []
         },
         {
-          "term": "ballot",
-          "explain": "The paper or form you use to vote.",
-          "aliases": [
-            "ballots"
-          ]
+          "term": "blue wave",
+          "explain": "A big win for Democrats (whose color is blue).",
+          "aliases": []
         },
         {
-          "term": "sequester",
-          "explain": "To set aside and keep separate.",
+          "term": "ballot initiative",
+          "explain": "A question voters decide directly, like a new law.",
           "aliases": [
-            "segregate"
+            "ballot initiatives"
           ]
         }
       ]
@@ -477,53 +489,53 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "US midterm Election Day: six things to watch as results come in",
-      "dek": "Early clues from Indiana, Kentucky and Florida; independents; young voters; and close Senate fights in Michigan and Texas.",
-      "caveman": "Today Americans vote for all of the House, a third of the Senate, and many governors. NPR's guide: First, watch early results. Indiana and Kentucky report first (6pm Eastern, 7am Wednesday in Taiwan). If Republican-held seats like Indiana's 5th and Kentucky's 6th are close, it could signal a Democratic wave. Second, independents: since Trump arrived, Republicans do well when they win at least 46% of them. Third, Michigan's Senate race between Democrat Abdul El-Sayed and Republican Mike Rogers; Democrats usually need about 68% in Detroit's Wayne County to win the state. Fourth, young voters: only about 1 in 5 vote in midterms, but when Democrats win them by 20+ points, they usually do well. Fifth, Texas: Democrat James Talarico leads Ken Paxton narrowly in polls, but no Democrat has won statewide there since 1994. BBC also reports this is the most expensive midterm ever, nearly $12 billion.",
-      "why_it_matters": "Whoever controls Congress decides budgets, investigations and what laws Trump can pass. US policy on trade, tariffs and Taiwan can shift with it.",
-      "camps": "Democrats hope anger over prices and Trump's policies brings a 'wave.' Republicans say their voters will show up and polls have underestimated them before, especially in Texas. Neutral analysts warn early results can mislead, because mail ballots in some states are counted later.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-      "published": "2026-11-02",
+      "headline": "US strikes Iran's Qeshm Island in what officials call a limited, defensive attack",
+      "dek": "The strikes came after Iran's Revolutionary Guards fired on a US aircraft. Mediators from Qatar and Pakistan are trying to prevent a return to all-out war.",
+      "caveman": "The US and Israel went to war with Iran in February. Now there is an uneasy pause, with talks on and off. On Monday, the US hit Qeshm Island, in the narrow Strait of Hormuz where much of the world's oil passes, US officials told CBS. They called the strikes 'limited and defensive', a response to Iran's Revolutionary Guards firing on a US aircraft. Iran's state media reported explosions; the Guards said they shot down three US drones. Trump, facing falling polls and pressure from his own party to end the war, said he was in 'no rush' to escalate and that Iran is crippled financially, but also floated hitting an underground nuclear-linked site. Iran's parliament speaker Mohammad Bagher Ghalibaf said the 'ball is in America's court'. Qatar and Pakistan are mediating.",
+      "why_it_matters": "Any fighting near the Strait of Hormuz pushes up oil prices worldwide, including what Taiwan pays for fuel and electricity.",
+      "camps": "The US government calls the strikes self-defense. Iran calls them aggression. Many Democrats and some Republicans want Congress to have a say and want the war ended; hawks argue pressure is what brings Iran to the table.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "published": "2026-11-03",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "People walk past a voting sign in Detroit, Michigan",
-      "image_credit": "Photo: Spencer Platt/Getty Images, via NPR",
+      "image_alt": "Ships at sea seen from a beach in the Gulf region",
+      "image_credit": "Photo: via BBC",
       "terms": [
         {
-          "term": "House",
-          "explain": "The US House of Representatives, the larger chamber of Congress.",
+          "term": "Strait of Hormuz",
+          "explain": "A narrow sea passage next to Iran; about a fifth of the world's oil passes through it.",
           "aliases": [
-            "House of Representatives"
+            "Hormuz"
           ]
         },
         {
-          "term": "Senate",
-          "explain": "The smaller chamber of Congress, with two senators per state.",
-          "aliases": []
-        },
-        {
-          "term": "independents",
-          "explain": "Voters not registered with either major party.",
+          "term": "IRGC",
+          "explain": "Iran's Islamic Revolutionary Guard Corps, a powerful military force loyal to Iran's supreme leader.",
           "aliases": [
-            "independent"
+            "Revolutionary Guards"
           ]
         },
         {
-          "term": "turnout",
-          "explain": "How many eligible people actually vote.",
-          "aliases": []
-        },
-        {
-          "term": "wave",
-          "explain": "When one party wins many seats at once.",
+          "term": "drone",
+          "explain": "An aircraft with no pilot on board, flown remotely.",
           "aliases": [
-            "Democratic wave"
+            "drones"
           ]
         },
         {
-          "term": "flip",
-          "explain": "When a seat changes from one party to the other.",
-          "aliases": []
+          "term": "escalate",
+          "explain": "Make a conflict bigger or more intense.",
+          "aliases": [
+            "escalation"
+          ]
+        },
+        {
+          "term": "mediator",
+          "explain": "A neutral party that helps two sides talk and reach a deal.",
+          "aliases": [
+            "mediating",
+            "mediators"
+          ]
         }
       ]
     },
@@ -531,46 +543,41 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Russian bombs kill 26 at a Ukrainian village aid centre, Kyiv says",
-      "dek": "Huge 3,000kg bombs hit a school used to hand out aid in Komyshuvakha, then a second strike hit where people sheltered. Rescuers were among the dead.",
-      "caveman": "In the village of Komyshuvakha, in southern Ukraine's Zaporizhzhia region, at least nine 3,000kg aerial bombs hit on Monday, the regional head said. President Volodymyr Zelensky said the first strike hit a school used for humanitarian aid, and a second hit the place where people were sheltering. At least 26 people died, including two rescuers and four police officers, according to Ukrainian officials; people were still under the rubble. Rescue work had to stop several times because of Russian drones. Russia's military did not comment. Zelensky said Russia must have known residents got aid there every week, and called it proof Russia doesn't want to calm the war. He noted that just before, Russia and Ukraine had worked together to evacuate civilians from the occupied town of Oleshky during a short ceasefire brokered by US First Lady Melania Trump. Peace talks between Ukraine, Russia and the US are due to resume soon.",
-      "why_it_matters": "Attacks on aid sites hurt the people with the least: elderly and poor villagers who stayed. They also make upcoming peace talks harder.",
-      "camps": "Ukraine says this shows Russia is not serious about peace. Russia usually says it targets military sites, but has not commented here. Many international law experts say hitting a place where civilians get aid, especially with a second strike on rescuers, could be a war crime and should be investigated.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "published": "2026-11-02",
+      "headline": "Russia confirms new Ukraine peace talks in Abu Dhabi as Melania Trump prepares to host a ceasefire meeting",
+      "dek": "Talks are set for 10–11 November. Zelenskyy insists nothing about Ukraine can be decided without Ukraine at the table.",
+      "caveman": "Russia says it will send negotiators to Abu Dhabi, in the United Arab Emirates, on 10 and 11 November for new talks about ending the war in Ukraine. Vladimir Medinsky, a Kremlin adviser who led Russia's team in earlier talks, will lead again. Separately, First Lady Melania Trump is set to host a meeting on Thursday about a ceasefire around Kherson, a front-line region in southern Ukraine. There is also talk of a possible meeting between Putin, Trump and China's Xi Jinping. Ukraine's President Volodymyr Zelenskyy welcomed efforts for peace but said Kyiv must be at the table for any deal about its future.",
+      "why_it_matters": "Russia's war is the biggest in Europe since World War II. How it ends, and whether big powers decide for smaller countries, matters a lot for Taiwan too.",
+      "camps": "Supporters of quick talks say every month of war costs thousands of lives. Ukraine and many European allies fear a deal made over Ukraine's head would reward invasion. Skeptics note Russia has joined talks before while continuing heavy attacks.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+      "published": "2026-11-03",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "A burned-out vehicle and damaged buildings after the bombing",
-      "image_credit": "Photo: via BBC",
+      "image_alt": "First Lady Melania Trump at a White House event",
+      "image_credit": "Photo: Getty Images, via CNBC",
       "terms": [
         {
-          "term": "humanitarian aid",
-          "explain": "Help like food, water and medicine given to people in a crisis.",
-          "aliases": [
-            "aid",
-            "humanitarian"
-          ]
-        },
-        {
-          "term": "aerial bomb",
-          "explain": "A bomb dropped from a plane.",
-          "aliases": [
-            "glide bomb"
-          ]
-        },
-        {
           "term": "ceasefire",
-          "explain": "An agreement to stop fighting for a time.",
+          "explain": "An agreement to stop fighting, at least for a while.",
           "aliases": []
         },
         {
-          "term": "occupied",
-          "explain": "Controlled by an enemy army.",
+          "term": "Kremlin",
+          "explain": "Russia's government, named after its headquarters in Moscow.",
           "aliases": []
         },
         {
-          "term": "war crime",
-          "explain": "A serious breaking of the laws of war, like deliberately attacking civilians.",
+          "term": "Abu Dhabi",
+          "explain": "The capital of the United Arab Emirates, often used for neutral talks.",
+          "aliases": []
+        },
+        {
+          "term": "Kherson",
+          "explain": "A region in southern Ukraine, partly occupied by Russia.",
+          "aliases": []
+        },
+        {
+          "term": "Kyiv",
+          "explain": "The capital of Ukraine; also used to mean Ukraine's government.",
           "aliases": []
         }
       ]
@@ -579,47 +586,46 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "UK prime minister Andy Burnham will ask countries hurt by Britain's role in slavery to help shape a formal apology",
-      "dek": "He is starting a 'structured dialogue' at the Commonwealth summit in Antigua. Downing Street rules out paying reparations.",
-      "caveman": "Britain played a huge role in the transatlantic slave trade, which forced millions of Africans to work as enslaved people, mainly in the Caribbean and Americas. Prime Minister Andy Burnham is heading to the Commonwealth leaders' summit in Antigua and Barbuda, which starts Tuesday. His office said he will launch a 'structured dialogue' asking affected countries what form an official apology should take, saying their input is essential. UK officials say other Commonwealth countries reacted positively. But Downing Street has ruled out reparations, meaning payments to make up for the harm. Instead, Burnham is expected to propose a system to restructure debt for countries facing high borrowing costs. Burnham wrote in the Guardian that Britain should 'show leadership again'. King Charles is also in Antigua; No 10 denied the king had been embarrassed by the plan.",
-      "why_it_matters": "Many Caribbean countries say slavery's harm still shapes their poverty and debt today. How Britain apologizes could become a model for other former colonial powers.",
-      "camps": "Supporters say an apology is long overdue, and asking affected nations first is respectful. Many Caribbean leaders say an apology without reparations is not enough. Critics in Britain say today's people shouldn't apologize for things done centuries ago, or worry it will lead to big payment demands.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
-      "published": "2026-11-02",
+      "headline": "Spain's transport minister resigns after a train crash that killed at least 69 people",
+      "dek": "Óscar Puente said no minister could stay after two disasters on the same line in under a year. Spain votes on 29 November.",
+      "caveman": "Last Wednesday, near the town of Urda south of Madrid, a high-speed train smashed into the back of a train that was standing still. At least 69 people died and dozens were hurt. It was Spain's worst rail crash since 2013 and one of Europe's worst in modern times. In January, another crash on the same line killed 46 people. On Tuesday, after hours of questions in parliament, Transport Minister Óscar Puente resigned. 'A transport minister in a country like Spain cannot remain in office after two accidents of this seriousness in less than a year,' he said. Opposition parties and even some government allies had demanded he go. Investigators are still working out exactly why the trains collided. Spain holds a general election on 29 November.",
+      "why_it_matters": "When public services fail, people want someone to take responsibility. Rail safety is also a real issue for Taiwan, where trains carry millions every day.",
+      "camps": "Opposition parties say the resignation came too late and the government ignored warnings after January. The governing Socialists say Puente did the honorable thing and the focus should now be on finding the cause. Rail unions point to years of underinvestment in maintenance under several governments.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+      "published": "2026-11-03",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Prime Minister Andy Burnham",
-      "image_credit": "Photo: Russell Cheyne/Reuters, via The Guardian",
+      "image_alt": "Óscar Puente speaking in Spain's Congress",
+      "image_credit": "Photo: Reuters, via BBC",
       "terms": [
         {
-          "term": "Commonwealth",
-          "explain": "A group of 56 countries, most once part of the British Empire.",
+          "term": "resign",
+          "explain": "Quit a job, usually after pressure or a scandal.",
           "aliases": [
-            "Chogm"
+            "resignation",
+            "resigns"
           ]
         },
         {
-          "term": "reparations",
-          "explain": "Payments or other help to make up for a past wrong.",
+          "term": "high-speed train",
+          "explain": "A train that runs at 250 km/h or faster, like Taiwan's HSR.",
+          "aliases": [
+            "high-speed"
+          ]
+        },
+        {
+          "term": "minister",
+          "explain": "A senior government official in charge of one area, like transport.",
           "aliases": []
         },
         {
-          "term": "transatlantic slave trade",
-          "explain": "The forced shipping of millions of Africans across the Atlantic, from the 1500s to the 1800s.",
-          "aliases": [
-            "slave trade"
-          ]
+          "term": "general election",
+          "explain": "A national election that chooses a new parliament and government.",
+          "aliases": []
         },
         {
-          "term": "Downing Street",
-          "explain": "The UK prime minister's office and home; also called No 10.",
-          "aliases": [
-            "No 10"
-          ]
-        },
-        {
-          "term": "debt restructuring",
-          "explain": "Changing loan terms so a country can afford to pay.",
+          "term": "underinvestment",
+          "explain": "Not spending enough money to keep something safe and working.",
           "aliases": []
         }
       ]
@@ -628,49 +634,51 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: Readwise launches an e-bookstore with all Big Five publishers and a 'Strava for reading' twist",
-      "dek": "The small, self-funded company bought a French e-book seller just to get publisher deals. Its app tracks how deeply you read and lets friends see.",
-      "caveman": "Readwise is a small US company (25 staff, no outside investors) known for apps that save your Kindle highlights. Now it has opened Readwise Books, an e-bookstore plus reading app, in public beta. It sells titles from all five of the biggest US publishers. Getting those deals is hard: publishers want proof you can sell e-books before they sign, which co-founder Daniel Doyon called a chicken-and-egg problem. So Readwise bought Glose, a Paris e-book seller that already had the deals. The twist: the app tracks your reading like a fitness tracker, logging words read and time, and labels stages like 'immersed' or 'active.' Friends can follow your reading sessions, like the exercise app Strava. It sent free e-readers to a couple hundred small book influencers. Sales are US-only for now. Doyon says he wants people to choose it because it's better, not because they dislike Amazon.",
-      "why_it_matters": "Amazon's Kindle dominates e-books. New competitors could give readers and authors more choice, but tracking reading also raises privacy questions.",
-      "camps": "Fans of reading challenges love the social, data-driven idea. Critics worry that turning reading into stats and public 'performance' could spoil quiet, private reading, and want clear rules on what data is collected. Industry watchers ask if any newcomer can really dent Amazon.",
-      "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/digital/retailing/article/101658-readwise-launches-e-bookstore-with-big-five-catalog-wellness-ambitions.html",
-      "published": "2026-11-02",
+      "headline": "NOT: New York's Strand bookstore pays nearly $1.5m to settle a case over its Covid loan",
+      "dek": "Prosecutors said owner Nancy Bass Wyden, wife of Senator Ron Wyden, wrongly certified the store was eligible. The Strand calls it an honest mistake.",
+      "caveman": "The Strand, the famous New York bookstore known for its '18 miles of books', will pay $1,482,560 to settle a case about a $932,350 Covid relief loan it got in 2021. The loans came from the Paycheck Protection Program (PPP), meant to help small businesses keep paying workers during the pandemic. But Congress had banned businesses controlled by a spouse of a member of Congress from the second round of loans. Owner Nancy Bass Wyden is married to Ron Wyden, a Democratic senator from Oregon. The office of US Attorney Jeanine Pirro said her signed statement on the application was 'knowingly and materially false'. The Strand said it was an 'unintentional' mistake and it didn't know about the rule. The settlement makes no finding that the store is liable.",
+      "why_it_matters": "The Strand is one of America's best-known independent bookstores. It is also a political story: Wyden is a fierce Trump critic, and Pirro was appointed by Trump.",
+      "camps": "Prosecutors say rules apply to everyone, including families of powerful lawmakers. The Strand's defenders say it was a paperwork error during a crisis, and some see politics in a Trump appointee targeting a critic's family. Both can be true: the rule existed, and the case is also political.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+      "published": "2026-11-03",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Screens from the Readwise Books reading app",
-      "image_credit": "Photo: Readwise, via Publishers Weekly",
+      "image_alt": "Strand owner Nancy Bass Wyden with Strand books and merchandise on a TV set",
+      "image_credit": "Photo: Getty Images, via CNBC",
       "terms": [
         {
-          "term": "e-bookstore",
-          "explain": "An online shop that sells digital books.",
+          "term": "PPP",
+          "explain": "Paycheck Protection Program: US government loans during Covid that could be forgiven if businesses kept paying workers.",
           "aliases": [
-            "e-book",
-            "e-books"
+            "PPP loan",
+            "Paycheck Protection Program"
           ]
         },
         {
-          "term": "Big Five",
-          "explain": "The five largest US publishers: Penguin Random House, HarperCollins, Simon & Schuster, Hachette and Macmillan.",
+          "term": "settle",
+          "explain": "End a legal case by agreeing to pay or do something, without a trial.",
+          "aliases": [
+            "settlement"
+          ]
+        },
+        {
+          "term": "liability",
+          "explain": "Legal responsibility for doing something wrong.",
+          "aliases": [
+            "liable"
+          ]
+        },
+        {
+          "term": "US attorney",
+          "explain": "A federal prosecutor in charge of one region.",
           "aliases": []
         },
         {
-          "term": "public beta",
-          "explain": "An early version of a product opened to everyone for testing.",
+          "term": "certify",
+          "explain": "Officially state that something is true.",
           "aliases": [
-            "beta"
+            "certification"
           ]
-        },
-        {
-          "term": "influencer",
-          "explain": "A person with many social-media followers who can sway what they buy or read.",
-          "aliases": [
-            "influencers"
-          ]
-        },
-        {
-          "term": "Strava",
-          "explain": "A popular app where people track and share their runs and bike rides.",
-          "aliases": []
         }
       ]
     },
@@ -678,40 +686,48 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: Clint Smith turns to World War II and its last witnesses in his next book",
-      "dek": "The award-winning author of How the Word Is Passed says teachers must reject using history as an 'ideological weapon'.",
-      "caveman": "Clint Smith's bestseller How the Word Is Passed looked at how places across America remember, or avoid remembering, slavery. It won the National Book Critics Circle Award. His next adult book, Just Beneath the Soil: World War II Through the Eyes of Its Last Witnesses (Knopf, May 2027), visits memorials and survivors around the world. He told Publishers Weekly the idea came while touring: people kept asking how Germany remembers the Holocaust compared with how the US remembers slavery. Visiting Germany made him realize he understood WWII less than he thought. He says these are the last years when people who lived through the war are still alive, and asks whether the weakening of the post-war world order is linked to losing those who remember how bad things can get. A former high school teacher, he will speak to English teachers (NCTE) on 21 November, urging them to teach complexity and many stories.",
-      "why_it_matters": "Smith's books help readers connect the past with today's fights over monuments, school curriculums and book bans.",
-      "camps": "Admirers say Smith models honest history: listening to people and places, not slogans. Critics of 'reckoning' history, mostly on the right, say schools focus too much on national wrongs. Smith's answer is that teaching many perspectives is not an agenda; erasing them is.",
+      "headline": "HOT: Chicago's gay-owned Unabridged Bookstore changes hands after 46 years, and sales are up 40%",
+      "dek": "Founder Ed Devereux sold the Boystown shop to Shane Khosropour, its chief book buyer for more than 20 years,, who promises to keep its famous LGBTQ section.",
+      "caveman": "Unabridged Bookstore opened in 1980 in Chicago's Lakeview neighborhood, in the area known as Boystown, the heart of the city's gay community. Founder Ed Devereux built it as a general bookstore with a big selection of gay and lesbian books. On 1 October, after 46 years, he sold it to Shane Khosropour, the store's chief book buyer, who has worked there for more than 20 years. Devereux will stay involved informally, reading and recommending books. Khosropour says the LGBTQ section is 'the best in the country, sort of a store-within-a-store', and he doesn't plan big changes: 'I'm just planning on keeping it open and relevant, and a welcoming place.' Good news for indie bookshops: Devereux told PW this spring that sales were up 40% over 2025, and the store was a finalist for PW's 2026 Bookstore of the Year.",
+      "why_it_matters": "Independent bookstores, especially LGBTQ ones, are community spaces as much as shops. A smooth handover to someone who already loves the store is the best way to keep one alive.",
+      "camps": "Supporters say queer bookstores matter more now, as some US states ban LGBTQ books from schools and libraries. Others note indie shops still face tough competition from Amazon and rising rents, so one success story doesn't fix the business.",
       "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/101666-living-history-pw-talks-with-clint-smith.html",
-      "published": "2026-11-02",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101672-chicago-s-unabridged-bookstore-changes-hands-after-46-years.html",
+      "published": "2026-11-03",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Author Clint Smith and the cover of Just Beneath the Soil",
+      "image_alt": "Storefront buildings on a Chicago street",
       "image_credit": "Photo: Publishers Weekly",
       "terms": [
         {
-          "term": "Holocaust",
-          "explain": "The Nazi genocide of six million Jews and millions of others during World War II.",
-          "aliases": []
-        },
-        {
-          "term": "National Book Critics Circle Award",
-          "explain": "A top US book prize chosen by book critics.",
+          "term": "indie bookstore",
+          "explain": "An independently owned bookstore, not part of a big chain.",
           "aliases": [
-            "NBCC"
+            "independent bookstore",
+            "indie"
           ]
         },
         {
-          "term": "NCTE",
-          "explain": "National Council of Teachers of English, a big US teachers' group.",
+          "term": "Boystown",
+          "explain": "A neighborhood in Chicago known as the center of its LGBTQ community.",
           "aliases": []
         },
         {
-          "term": "ideological",
-          "explain": "Driven by a fixed set of political beliefs.",
+          "term": "LGBTQ",
+          "explain": "Lesbian, gay, bisexual, transgender and queer people.",
           "aliases": [
-            "ideology"
+            "LGBTQ+"
+          ]
+        },
+        {
+          "term": "changes hands",
+          "explain": "Gets a new owner.",
+          "aliases": []
+        },
+        {
+          "term": "book bans",
+          "explain": "Removing books from schools or libraries, often LGBTQ or race-related titles.",
+          "aliases": [
+            "banned books"
           ]
         }
       ]
@@ -720,51 +736,50 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Hot reads: Literary Hub picks 10 nonfiction books for November, from Amazon poison hunters to the origin of 'boycott'",
-      "dek": "The list includes Hermione Lee, Matt O'Hara's The Flying Death and Olivia Swarthout's fun word-history guide.",
-      "caveman": "Literary Hub, a popular US book website, chose 10 new nonfiction books to read this month. Matt O'Hara's The Flying Death follows Richard Gill, an American who in 1938 went down the Amazon River looking for curare, the poison local tribes used on blow darts. He hoped it could cure diseases, including his own, and make him rich. Curare did change anesthesia (medicine that puts patients to sleep for surgery) worldwide, but O'Hara shows how the Indigenous people who discovered its secrets were used and left behind. Olivia Swarthout's The Wordspotter's Guide is a light, well-researched walk through English word history, like how 'boycott' came from Charles Boycott, a land agent who enforced unfair rules on Irish tenants until the community refused to deal with him. The list also includes work by famed biographer Hermione Lee, Orlando Swayne and Sarah Haas.",
-      "why_it_matters": "Monthly 'best of' lists help readers find books, and help smaller titles get noticed in a crowded market.",
-      "camps": "Readers love curated lists as a shortcut. Some critics say these lists repeat the same big-publisher books. LitHub's mix of history, science and language books shows nonfiction is broader than politics and self-help.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/10-great-nonfiction-titles-to-read-in-november/",
-      "published": "2026-11-02",
+      "headline": "HOT: Three top university presses back Meridian, a service that lets AI tools cite real scholarly books",
+      "dek": "Cambridge, Johns Hopkins and Princeton are founding publishers. The content can't be used to train AI models.",
+      "caveman": "When students ask AI chatbots questions, the answers often come from random websites, or are made up. Meridian, a new service from Salt Lake City start-up Cashmere, wants to fix that. Cambridge University Press, Johns Hopkins University Press and Princeton University Press are its first partners. When a researcher asks an AI tool a question, Meridian lets the tool pull its answer from peer-reviewed books and journals the person's library already pays for, cite the source, and send them to the published version. The content cannot be used to train AI models or be resold. It uses MCP, an open standard created by Anthropic that lets AI assistants connect to outside databases. Cashmere raised $5 million earlier this year.",
+      "why_it_matters": "It's a test of whether publishers and authors can get paid, and get credit, in the AI age, instead of having their work scraped for free.",
+      "camps": "Publishers say this protects authors' work while helping students find reliable sources. Some authors' groups remain wary of any AI deals and want stronger consent and payment. AI optimists say better sources make AI answers more accurate for everyone.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+      "published": "2026-11-03",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Covers of ten new nonfiction books for November",
-      "image_credit": "Image: Literary Hub",
+      "image_alt": "Portrait photo accompanying PW's report on Meridian",
+      "image_credit": "Photo: Publishers Weekly",
       "terms": [
         {
-          "term": "nonfiction",
-          "explain": "Books about real people, events and facts.",
-          "aliases": []
-        },
-        {
-          "term": "curare",
-          "explain": "A plant-based poison used by Amazon peoples on darts; later used in medicine.",
-          "aliases": []
-        },
-        {
-          "term": "anesthesia",
-          "explain": "Medicine that stops pain or puts patients to sleep for surgery.",
+          "term": "university press",
+          "explain": "A publisher run by a university, mostly for academic books.",
           "aliases": [
-            "anesthetics"
+            "university presses"
           ]
         },
         {
-          "term": "etymology",
-          "explain": "The study of where words come from.",
+          "term": "peer-reviewed",
+          "explain": "Checked by other experts before being published.",
+          "aliases": []
+        },
+        {
+          "term": "train AI",
+          "explain": "Feed huge amounts of text into an AI model so it learns patterns.",
           "aliases": [
-            "etymological"
+            "training"
           ]
         },
         {
-          "term": "boycott",
-          "explain": "Refusing to buy from or deal with someone as a protest.",
-          "aliases": []
+          "term": "MCP",
+          "explain": "Model Context Protocol: an open standard that lets AI assistants connect to other tools and databases.",
+          "aliases": [
+            "Model Context Protocol"
+          ]
         },
         {
-          "term": "Indigenous",
-          "explain": "The first peoples who lived in a place before colonizers arrived.",
-          "aliases": []
+          "term": "cite",
+          "explain": "Name where information came from.",
+          "aliases": [
+            "citation"
+          ]
         }
       ]
     },
@@ -772,46 +787,43 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: November's best sci-fi and fantasy includes 'gig-economy ghosts', queer fairy tales and a medieval abortionist",
-      "dek": "Literary Hub's monthly genre list says to use the extra hour from the clock change to read instead of doomscroll.",
-      "caveman": "Literary Hub's monthly science fiction and fantasy list mixes spy stories in space, horror and fairy tales. Curtis C. Chen's Kangaroo Forth continues his series about a secret agent who carries a pocket universe only he controls. Ry Herman's This Knight Topples Empires queers familiar fairy tales; it is based on a Romanian story, 'The Girl Who Became a Boy', following Jules on a gender-bending quest. Other picks include a far-future world with 'flicker ghosts' tied to gig work, vampire broodmothers, a present day changed by a magical role-playing game, and a medieval healer who fights for women's rights. The writer's message: curl up under a blanket and swap doomscrolling for reading.",
-      "why_it_matters": "Genre fiction is where many writers explore today's worries, like gig work, gender and reproductive rights, safely inside imagined worlds.",
-      "camps": "Fans say SFF is having a creative boom, with more queer and diverse voices. Some readers find 'issue' themes heavy-handed and want pure escapism. In the US, books with LGBTQ+ or abortion themes are also among the most targeted by school book bans, which makes lists like this matter.",
+      "headline": "HOT: 20 new books out today, from Tom Drury, Elizabeth McCracken, Louise Kennedy and more",
+      "dek": "Literary Hub's weekly list for 3 November includes Drury's 'West of Loveland' and McCracken's 'Seven Stories About Tammy'.",
+      "caveman": "Every Tuesday is release day for new books in the US, and Literary Hub rounds up the ones worth noticing. This week's list of 20 includes new fiction from Tom Drury, a cult favorite known for quiet, funny novels set in small-town Midwest America ('West of Loveland'); Elizabeth McCracken, a prize-winning writer of sharp, tender short fiction ('Seven Stories About Tammy'); and Louise Kennedy, the Irish writer whose earlier novel 'Trespasses' was a big hit, with 'Stations'. The list mixes novels, story collections and nonfiction. Good starting points if you want something new to read this month.",
+      "why_it_matters": "Release-day lists help readers spot new books before they become famous, and show which writers critics are excited about right now.",
+      "camps": "Lists like this lean toward literary fiction from established writers. Some readers and critics want more space for debut authors, translated books and writers of color; LitHub's lists usually include some, but big names get the headline.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/vampiric-broodmothers-gig-economy-ghosts-and-medieval-abortionists-novembers-best-sci-fi-and-fantasy-books/",
-      "published": "2026-11-02",
+      "source_url": "https://lithub.com/louise-kennedy-tom-drury-elizabeth-mccracken-and-more-20-new-books-out-today/",
+      "published": "2026-11-03",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Book cover art showing figures before a glowing fantasy city",
-      "image_credit": "Image: Literary Hub",
+      "image_alt": "Illustrated cover art from one of this week's new books",
+      "image_credit": "Photo: Literary Hub",
       "terms": [
         {
-          "term": "SFF",
-          "explain": "Science fiction and fantasy.",
-          "aliases": [
-            "sci-fi",
-            "fantasy"
-          ]
-        },
-        {
-          "term": "gig economy",
-          "explain": "Work done as short paid tasks, often through apps, like delivery or ride-hailing.",
+          "term": "release day",
+          "explain": "The day a new book officially goes on sale; in the US it's usually Tuesday.",
           "aliases": []
         },
         {
-          "term": "queer",
-          "explain": "An umbrella word for LGBTQ+ people; 'to queer' a story is to retell it from an LGBTQ+ view.",
-          "aliases": [
-            "queers"
-          ]
-        },
-        {
-          "term": "doomscrolling",
-          "explain": "Endlessly scrolling bad news online.",
+          "term": "cult favorite",
+          "explain": "A writer or work with a small but very devoted fan base.",
           "aliases": []
         },
         {
-          "term": "abortionist",
-          "explain": "Someone who performs abortions; here, a healer in a medieval-style world.",
+          "term": "short story collection",
+          "explain": "A book made up of several short stories.",
+          "aliases": [
+            "story collection"
+          ]
+        },
+        {
+          "term": "literary fiction",
+          "explain": "Fiction focused on style and character more than plot formulas.",
+          "aliases": []
+        },
+        {
+          "term": "debut",
+          "explain": "A writer's first book.",
           "aliases": []
         }
       ]
@@ -820,45 +832,45 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Australia's ban on social media for under-16s faces its first big court test",
-      "dek": "A digital-rights group and Reddit say the ban takes away young people's right to communicate. The government says it won't be intimidated by big tech.",
-      "caveman": "Since last December, Australia has banned children under 16 from 10 platforms, including Facebook, Instagram, TikTok, YouTube, Snapchat, X, Reddit and Threads. Companies must take 'reasonable steps' to keep them off or face fines up to A$99 million. Starting Tuesday, Australia's High Court holds two days of hearings on challenges to the ban. The Digital Freedom Project, led by a New South Wales lawmaker, argues the ban breaks an implied constitutional right to free political communication. Reddit is challenging too, saying the ban hurts privacy and political rights, while still obeying it for now. Two teens who started the case withdrew, but one, Noah Jones, will attend; he says money should go to removing predators and harmful content instead. No company has been fined yet, though regulators are investigating several. Meta closed about half a million accounts at the start, but many kids say they easily got around age checks.",
-      "why_it_matters": "Many countries, possibly including Taiwan, are watching Australia's experiment. The court result could shape how the world protects kids online.",
-      "camps": "Supporters, including many parents, say social media harms kids' mental health and platforms won't fix it alone. Critics say a blanket ban is too blunt, pushes teens to riskier corners, and requires age checks that collect everyone's private data. Teens themselves are divided.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
-      "published": "2026-11-02",
+      "headline": "A New York child dies of measles, the state's first measles death in 30 years",
+      "dek": "Governor Kathy Hochul blamed Washington for 'deliberately' eroding vaccine protections. US cases this year are more than double last year's.",
+      "caveman": "Measles is a very contagious virus. It can cause fever, rash, pneumonia and brain swelling, and kills about one to three of every 1,000 people who catch it. A vaccine prevents it, and the US had stopped local spread back in 2000. But vaccination rates have dropped below the 95% needed to stop outbreaks. Now a child in Lewis County, in rural northern New York, has died after catching measles, the state's first measles death in 30 years. Governor Kathy Hochul said she was heartbroken and blamed the federal government for 'deliberately' eroding progress on vaccines. The CDC counted 4,588 US measles cases in 2026 by late October, more than double 2025; Pennsylvania alone reported 1,338. In October Hochul declared a disaster emergency so more health workers could give measles shots.",
+      "why_it_matters": "Diseases that were nearly gone can come back fast when fewer people vaccinate. Children too young for shots, or with weak immune systems, are the most at risk.",
+      "camps": "Public health experts and Democrats blame the federal health department under Robert F Kennedy Jr for spreading doubt about vaccines. RFK Jr and his supporters say they are giving parents more choice and information. Doctors in both parties stress the measles vaccine is safe and highly effective.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
+      "published": "2026-11-03",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Australian teen Noah Jones",
-      "image_credit": "Photo: Digital Freedom Project, via BBC",
+      "image_alt": "A vial of measles, mumps and rubella vaccine",
+      "image_credit": "Photo: Matt Rourke/AP, via The Guardian",
       "terms": [
         {
-          "term": "High Court",
-          "explain": "Australia's highest court, which decides constitutional cases.",
+          "term": "measles",
+          "explain": "A highly contagious virus that causes fever and rash and can be deadly.",
           "aliases": []
         },
         {
-          "term": "constitutional challenge",
-          "explain": "A court case arguing a law breaks the country's constitution.",
+          "term": "vaccination rate",
+          "explain": "The share of people who have been vaccinated.",
           "aliases": [
-            "constitution"
+            "vaccination rates"
           ]
         },
         {
-          "term": "age verification",
-          "explain": "Checking a user's age before letting them use a service.",
+          "term": "outbreak",
+          "explain": "A sudden rise in cases of a disease in one area.",
           "aliases": [
-            "age checks"
+            "outbreaks"
           ]
         },
         {
-          "term": "eSafety Commissioner",
-          "explain": "The Australian official who enforces online safety rules.",
+          "term": "CDC",
+          "explain": "Centers for Disease Control and Prevention, the US public health agency.",
           "aliases": []
         },
         {
-          "term": "digital rights",
-          "explain": "People's rights online, like privacy and free speech.",
+          "term": "disaster emergency",
+          "explain": "An official order that gives the government extra powers to respond quickly.",
           "aliases": []
         }
       ]
@@ -867,48 +879,53 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "UK softens immigration plan for care workers, but many migrants will still wait 10 years to settle",
-      "dek": "Care workers can apply for permanent status after five years, not 15. Many others face rule changes applied to people already in the country.",
-      "caveman": "In the UK, 'settlement' (indefinite leave to remain) means you can live there permanently. Home Secretary Shabana Mahmood had planned to make care workers, who look after elderly and disabled people, wait 15 years. After pushback from her own cabinet and health unions, she offered them a five-year route instead. But most tough rules stay: people earning under £50,000 will wait 10 years instead of five, and people who arrived irregularly, such as on small boats, could wait up to 30 years. The changes apply even to people already in the UK. Mahmood said settlement 'must be earned.' Some Labour MPs said vital workers like scientists and chefs will be caught. The Law Society said changing rules backward undermines legal certainty. The Conservatives and Reform UK's Nigel Farage called the care-worker change a 'capitulation.' No parliamentary vote is needed.",
-      "why_it_matters": "Many migrants, including care and health workers from Asia and Africa, built life plans around the old rules. Changing them midway affects families, jobs and trust.",
-      "camps": "The government says the public wants lower migration and rules that reward contribution. Unions and migrant groups say it punishes people who keep the health and care system running. The right says even the softened plan is too weak. Lawyers say changing rules retroactively is unfair whatever your view on migration.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
-      "published": "2026-11-02",
+      "headline": "Supreme Court leans toward letting taxpayer-funded Catholic preschools turn away children of LGBTQ parents",
+      "dek": "Colorado's free pre-K program bans discrimination. The Denver archdiocese says that violates its religious freedom.",
+      "caveman": "In 2022, Colorado started paying for preschool for every four-year-old, about $6,300 per child per year. Religious schools can join, but they must follow the state's anti-discrimination law. The Catholic Archdiocese of Denver wants the money but also wants to refuse children whose parents are gay or transgender. It says the rule violates its constitutional right to practice religion freely. (Catholic Charities and some other Catholic groups in the state do follow the rules.) At the Supreme Court on Tuesday, the conservative majority seemed ready to side with the archdiocese; Justice Neil Gorsuch suggested Colorado was ignoring earlier rulings on religious freedom. The three liberal justices strongly disagreed: Justice Ketanji Brown Jackson compared it to a school refusing the children of Black people on religious grounds, and Justice Sonia Sotomayor pressed the archdiocese's lawyer on the fact that its school could reject a child because of the parents. Colorado argued that public money should serve all families equally. A decision is expected by summer 2027.",
+      "why_it_matters": "This decides how far religious freedom goes when public money is involved, and whether children of LGBTQ families can be shut out of programs every taxpayer funds.",
+      "camps": "Religious-liberty supporters say the state can't force faith schools to act against their beliefs to get the same funding as others. LGBTQ advocates and Colorado say taxpayer money must not be used to discriminate against small children. Legal experts note the court has steadily expanded religious rights in recent years.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case",
+      "published": "2026-11-03",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Home Secretary Shabana Mahmood in Downing Street",
-      "image_credit": "Photo: Wiktor Szymanowicz/Shutterstock, via The Guardian",
+      "image_alt": "The US Supreme Court in Washington, D.C.",
+      "image_credit": "Photo: Saul Loeb/AFP via Getty Images, via NPR",
       "terms": [
         {
-          "term": "settlement",
-          "explain": "Permission to live in the UK permanently.",
+          "term": "pre-K",
+          "explain": "Preschool for children before kindergarten, usually age four.",
           "aliases": [
-            "indefinite leave to remain",
-            "settle"
+            "preschool"
           ]
         },
         {
-          "term": "Home Secretary",
-          "explain": "The UK minister in charge of immigration, police and security.",
+          "term": "archdiocese",
+          "explain": "A large Catholic Church district led by an archbishop.",
           "aliases": []
         },
         {
-          "term": "care worker",
-          "explain": "Someone paid to help elderly, sick or disabled people with daily life.",
+          "term": "free exercise of religion",
+          "explain": "A US constitutional right to practice your religion without government interference.",
           "aliases": [
-            "care workers"
+            "religious freedom",
+            "religious liberty"
           ]
         },
         {
-          "term": "retrospective",
-          "explain": "Applying a new rule to things that already happened or people already here.",
+          "term": "nondiscrimination law",
+          "explain": "A law that says you can't treat people worse because of who they are.",
           "aliases": [
-            "retroactively"
+            "anti-discrimination"
           ]
         },
         {
-          "term": "Reform UK",
-          "explain": "A right-wing UK party led by Nigel Farage, focused on cutting immigration.",
+          "term": "conservative majority",
+          "explain": "The six Supreme Court justices appointed by Republican presidents.",
+          "aliases": []
+        },
+        {
+          "term": "exemption",
+          "explain": "Permission not to follow a rule that applies to others.",
           "aliases": []
         }
       ]
@@ -917,46 +934,46 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "Washington state resident dies after catching bird flu from infected dairy cows",
-      "dek": "It is the first US bird flu death this year. Officials say risk to the public stays low, but 33 dairy herds in one county tested positive since October.",
-      "caveman": "Bird flu (avian influenza, H5N1) mostly infects birds, but in recent years it has spread to US dairy cows. Health officials in Yakima County, Washington, said a resident who caught it at a dairy with infected cattle was hospitalized with severe illness and died on Sunday. The person had other health problems. The Associated Press says it is the first US bird flu death this year. Since early October, 33 dairy herds in the county have tested positive. The county has three confirmed human cases; the third person, also exposed at a dairy, did not get seriously ill. Officials are contacting people who were in close contact. They stress that the risk to the general public is low; the people most at risk are dairy workers and others who spend a lot of time near infected animals.",
-      "why_it_matters": "Each human infection gives the virus a chance to change. Scientists watch closely for any sign it spreads between people, which could start a pandemic.",
-      "camps": "Public health experts urge more testing of cows and protective gear for farm workers, many of whom are immigrants and fear speaking up. Some farmers worry testing will hurt business. Experts say: don't panic, but take it seriously, and avoid raw (unpasteurized) milk.",
+      "headline": "Millions of Americans are still crushed by medical debt, even as charities wipe some away",
+      "dek": "Americans owed at least $220bn in medical debt in 2024. Experts say forgiveness helps, but the real problem is healthcare people can't afford.",
+      "caveman": "In the US, getting sick can mean getting a huge bill. Even people with insurance often have to pay a lot before coverage kicks in. In 2024, Americans owed at least $220bn in medical debt, according to the research group KFF; about 14 million people owed more than $1,000 and 3 million owed more than $10,000. One in five households had an overdue medical bill. Charities like Undue Medical Debt buy old debt from hospitals and collectors very cheaply (a $1 donation wipes out about $100 of debt) and then cancel it. Relief has grown a lot this year. But experts say it's a bandage: people keep falling into debt because care costs too much.",
+      "why_it_matters": "Taiwan's national health insurance means most people never see bills like this. Comparing the two shows why health systems are a big political fight in the US.",
+      "camps": "Progressives say the fix is universal coverage, like 'Medicare for All', and strict limits on prices. Conservatives prefer more competition and price transparency, and warn government-run care would raise taxes. Most people across parties agree that surprise bills and aggressive debt collection are unfair.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
-      "published": "2026-11-02",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/03/medical-debt-healthcare",
+      "published": "2026-11-03",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Microscope image of H5N1 bird flu virus particles",
-      "image_credit": "Photo: National Institute of Allergy and Infectious Diseases/AP, via The Guardian",
+      "image_alt": "People demonstrate in support of Medicare for All in Washington DC in 2021",
+      "image_credit": "Photo: Probal Rashid/LightRocket/Getty Images, via The Guardian",
       "terms": [
         {
-          "term": "bird flu",
-          "explain": "A flu virus that mainly infects birds but can spread to animals and people.",
-          "aliases": [
-            "avian influenza",
-            "H5N1"
-          ]
-        },
-        {
-          "term": "dairy herd",
-          "explain": "A group of cows raised for milk.",
-          "aliases": [
-            "herds"
-          ]
-        },
-        {
-          "term": "pandemic",
-          "explain": "A disease spreading across many countries at once.",
+          "term": "medical debt",
+          "explain": "Money people owe for healthcare bills they couldn't pay.",
           "aliases": []
         },
         {
-          "term": "underlying health conditions",
-          "explain": "Existing illnesses that make someone more likely to get very sick.",
+          "term": "deductible",
+          "explain": "The amount you must pay yourself before insurance starts paying.",
+          "aliases": [
+            "deductibles"
+          ]
+        },
+        {
+          "term": "debt collector",
+          "explain": "A company that buys or chases unpaid debts.",
+          "aliases": [
+            "collectors",
+            "collection agencies"
+          ]
+        },
+        {
+          "term": "Medicare for All",
+          "explain": "A proposal for the US government to cover everyone's healthcare.",
           "aliases": []
         },
         {
-          "term": "unpasteurized",
-          "explain": "Not heat-treated to kill germs, like raw milk.",
+          "term": "KFF",
+          "explain": "A US non-profit that researches health policy.",
           "aliases": []
         }
       ]
@@ -965,52 +982,51 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "UK domestic violence survivor lived 'in terror' because her attacker was released from prison without a tracking tag",
-      "dek": "A new inspection report says nearly half of offenders aren't tagged promptly on release; some wait up to five months.",
-      "caveman": "Michelle, 38, lives in a mobile home with her four children. Her ex-partner punched her, threatened her with a knife and kicked in her door, and was sent back to prison more than once for breaking probation rules. When he was released again, weeks passed without an electronic tracking tag, so relatives slept on her floor to protect her. 'It is as if they are waiting for something really bad to happen,' she said. Days after The Guardian asked the government about it, he was fitted with a GPS tag and an alcohol tag; a government source said there was no link. Hundreds of survivors are asking why tags are not fitted before offenders leave prison. Instead, the private company Serco fits them afterwards. A report by the chief inspectors of probation and prisons found nearly half of offenders are not tagged promptly, and one in 10 waits up to five months.",
-      "why_it_matters": "Tags only protect victims if they work from day one. Gaps right after release are when survivors are often most at risk.",
-      "camps": "Survivors and women's groups say tag people before they walk out the door. The government says it is improving the system and denies the Guardian's question caused the fix. Critics of outsourcing say giving public safety jobs to private firms like Serco creates delays and less accountability.",
+      "headline": "UK MPs could face criminal record checks under a plan to stop violence against women in Parliament",
+      "dek": "Parliament becomes the first legislature in the world with 'White Ribbon' accreditation, promising a three-year plan to change its culture.",
+      "caveman": "Britain's Parliament has a long reputation for sexism and harassment: long late-night hours, lots of bars on site, and staff who work directly for powerful MPs with little HR help. A 2018 survey found nearly 20% of people there had experienced or seen sexual harassment. Now, after a cross-party campaign led by Labour MP Emily Darlington and backed by the Speaker, Lindsay Hoyle, Parliament is getting 'White Ribbon' accreditation, a culture-change program that started in Canada. The three-year plan is expected to include 'bystander training' (how to spot and step in when you see harassment), higher behavior standards for MPs and peers, and possibly criminal record checks for new MPs before they get a security pass.",
+      "why_it_matters": "When lawmakers make rules for everyone else, their own workplace should be safe too. It's a model other parliaments, including Taiwan's Legislative Yuan, could look at.",
+      "camps": "Campaigners say checks and training are overdue. Some MPs worry about fairness and privacy, and argue voters, not background checks, should decide who serves. Others say the details matter: training only works if complaints are taken seriously and abusers face real consequences.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag",
-      "published": "2026-11-02",
+      "source_url": "https://www.theguardian.com/society/2026/nov/03/uk-mps-criminal-record-checks-violence-against-women",
+      "published": "2026-11-03",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Anonymous portrait of domestic violence survivor Michelle",
-      "image_credit": "Photo: Peter Flude/The Guardian",
+      "image_alt": "A silhouette in front of the Houses of Parliament in London at dusk",
+      "image_credit": "Photo: Rasid Necati Aslim/Anadolu/Getty Images, via The Guardian",
       "terms": [
         {
-          "term": "domestic violence",
-          "explain": "Abuse by a partner or family member at home.",
+          "term": "MP",
+          "explain": "Member of Parliament, an elected lawmaker in the UK.",
           "aliases": [
-            "domestic abuse"
+            "MPs"
           ]
         },
         {
-          "term": "electronic tag",
-          "explain": "A device worn on the ankle that tracks where an offender goes.",
+          "term": "criminal record check",
+          "explain": "Checking whether a person has past criminal convictions.",
           "aliases": [
-            "tracking tag",
-            "GPS tag",
-            "tag"
+            "background check"
           ]
         },
         {
-          "term": "probation",
-          "explain": "Rules and supervision for an offender living outside prison.",
+          "term": "accreditation",
+          "explain": "Official recognition that an organization meets certain standards.",
           "aliases": []
         },
         {
-          "term": "survivor",
-          "explain": "Someone who has lived through abuse or violence.",
-          "aliases": [
-            "survivors"
-          ]
+          "term": "bystander training",
+          "explain": "Teaching people how to notice and safely step in when they see harassment.",
+          "aliases": []
         },
         {
-          "term": "outsourcing",
-          "explain": "When a government pays a private company to do a public job.",
-          "aliases": [
-            "Serco"
-          ]
+          "term": "peers",
+          "explain": "Members of the House of Lords, the UK's upper chamber.",
+          "aliases": []
+        },
+        {
+          "term": "cross-party",
+          "explain": "Involving members of different political parties.",
+          "aliases": []
         }
       ]
     }
