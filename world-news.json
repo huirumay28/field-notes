@@ -1,47 +1,44 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-06T08:00:00+08:00",
-  "notes": "Friday 6 Nov 2026 world issue (Taipei ~08:00). Window: Thu 5 Nov (two days after US midterms). Economy: Nasdaq −5.5% AI scare; BoE hikes to 4%; poor-country debt $9.4tn; Mag7 −$1tn / Musk names −$420bn. Tech (USA): OpenAI data-center pledges; Dems push moratorium; tech barons after blue wave; Musk midterm flop. Politics: Dems to-do list; Joshua Wong 10 years; Paraguay president quits bank crash; Newsom clears death row. Literature: Min Jin Lee HOT; Goncourt AI NOT; Miéville Goldsmiths HOT; Rogoyska Paris award HOT. Social: abortion ballots; Europe bomb hoaxes; France strikes; teens exercise gap.",
+  "fetched_at": "2026-11-09T08:00:00+08:00",
+  "notes": "Monday 9 Nov 2026 world issue (Taipei ~08:00). Window: Fri 6 – Sun 8 Nov. Economy: US jobs +165k; AI stocks bounce in US, Kospi −6%; Paraguay Ueno Bank collapse; Democrats target tariffs. Tech (USA): Nvidia probes Jensen Huang spy-link affair; Anthropic IPO vs AI backlash; Cybertruck wind-down; child-safety lawsuits. Politics: Trump 'giant step back' + Miller chief of staff; Eisenkot tasked in Israel; NZ hung result; Europe joins Abu Dhabi Ukraine talks. Literature (USA): Maas ACOTAR HOT; Queens library ransomware NOT; PW salary report NOT; Maira Kalman 'Joy' HOT. Social: Kraków shooting; Egypt train crash; Uyghurs in Thailand; Washington trans sports ban.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Nasdaq has worst day in 18 months (−5.5%); Dow −3.4% as markets fear AI slowdown after Democrat wins",
-      "dek": "Chip stocks lead crash. SanDisk −22%, Western Digital −17%. VIX fear index jumps 61%.",
-      "caveman": "On Thursday, US tech stocks got crushed. The Nasdaq fell about 5.5% — worst day in 18 months — and entered ‘correction’ (more than 10% below its recent high). More than $2 trillion of Nasdaq value vanished in one day. The Dow fell over 1,800 points (−3.4%); S&P 500 fell about 4.3%. Why? Investors bet Democrats winning Congress and many governor races means tougher rules on AI data centers. Memory and hard-drive stocks led the slide. Wall Street’s fear gauge (VIX) jumped 61%. This erased Wednesday’s happy post-election rally.",
-      "why_it_matters": "When US tech crashes, Taiwan chip and AI supply-chain stocks often follow the next morning. Pension funds and global ETFs feel it too.",
-      "camps": "Bulls say the selloff is overdone panic. Bears say AI spending dreams just met politics. Trump allies blame Democrats; Democrats say voters already rejected data-center sprawl.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-      "published": "2026-11-05",
+      "headline": "US added 165,000 jobs in October — nearly three times what experts guessed; unemployment dips to 4.1%",
+      "dek": "Earlier months were revised up too. Wages rose 3.1% from a year ago.",
+      "caveman": "Every month the US government counts how many new jobs the economy made. Experts guessed about 59,000 for October. The real number was 165,000. The unemployment rate (share of people who want work but can't find it) fell a little, to 4.1%. August and September were also revised higher. Pay went up 0.4% in one month and 3.1% over a year. One catch: a wider measure that also counts people stuck in part-time work or who gave up looking rose to 7.9%, because many more people started looking for work. Economists called it the best report in a while — a sign the economy is not falling into a slump, even with stock-market panic over AI.",
+      "why_it_matters": "Strong US jobs can keep interest rates higher for longer. That affects mortgage rates, the US dollar, and money flowing in and out of Asian stock markets like Taiwan's.",
+      "camps": "Optimists say the economy is steady and the stock drop is about AI, not a recession. Cautious voices point to the rising ‘wider’ jobless measure. Workers' groups note pay gains are still modest against living costs.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published": "2026-11-06",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Nasdaq traders / market reaction",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "A recruiter greets a job seeker at a hiring event",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "Nasdaq",
-          "explain": "US stock index heavy with tech companies.",
+          "term": "nonfarm payrolls",
+          "explain": "The main monthly count of US jobs, leaving out farm work.",
+          "aliases": [
+            "payrolls"
+          ]
+        },
+        {
+          "term": "unemployment rate",
+          "explain": "Share of people who want a job but don't have one.",
           "aliases": []
         },
         {
-          "term": "correction",
-          "explain": "Drop of more than 10% from a recent high.",
+          "term": "revised",
+          "explain": "Changed later when more complete data comes in.",
           "aliases": []
         },
         {
-          "term": "VIX",
-          "explain": "‘Fear index’ — higher means investors expect wild swings.",
-          "aliases": []
-        },
-        {
-          "term": "data center",
-          "explain": "Huge buildings full of computers that run AI and the cloud.",
-          "aliases": []
-        },
-        {
-          "term": "chip stocks",
-          "explain": "Companies that make computer chips, like Nvidia or memory makers.",
+          "term": "labor force",
+          "explain": "Everyone who has a job or is looking for one.",
           "aliases": []
         }
       ]
@@ -50,37 +47,41 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Bank of England raises rates to 4% — first hike in over three years — warns Iran war keeps inflation hot",
-      "dek": "Eight of nine MPC members vote for +0.25pp. Oil stuck above $100; UK inflation may hit 4.9% mid-2027.",
-      "caveman": "Britain’s central bank lifted its base rate from 3.75% to 4% — first rise in more than three years. Eight policymakers said yes; one wanted an even bigger half-point jump. The Iran war kept oil expensive (often above $100 a barrel), so the Bank now thinks UK inflation could climb to 4.9% by mid-next year (it was 3.5% in September). Governor Andrew Bailey said another hike is possible unless the war cools, but this is not the start of an endless hiking cycle. Higher rates hurt people with mortgages; savers get a bit more interest.",
-      "why_it_matters": "UK rates affect global money flows and the pound. Cost-of-living pain also shapes politics in a big democracy.",
-      "camps": "Hawks say fight inflation first. Doves say households already hurt. Markets watch the Dec 17 meeting and oil news.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-      "published": "2026-11-05",
+      "headline": "After trillions vanish, AI stocks bounce a little in the US — but South Korea's Kospi falls 6% and Europe slides",
+      "dek": "Nasdaq gains 1.1% Friday after a 5.5% crash; chipmaker SK Hynix drops more than 10%.",
+      "caveman": "On Thursday, investors dumped tech shares, wiping out trillions of dollars of value. They feared the Democrats' big midterm win means new rules that slow down AI and the huge data centers it needs. On Friday, US markets calmed: the tech-heavy Nasdaq rose 1.1%, the S&P 500 rose 0.3%, and the Dow slipped 0.4%. Big names like Nvidia and Tesla won back some ground. But Asia and Europe had a rough Friday. South Korea's main index, the Kospi, fell 6%, and memory-chip maker SK Hynix fell over 10%. Germany, France and Spain fell too; London's FTSE 100 lost about 1%. President Trump defended AI, saying only ‘foolish leadership’ would say no to its riches.",
+      "why_it_matters": "Taiwan, Korea and Japan are the factories of the AI boom. When the US mood on AI changes, their stocks — and the pensions and savings tied to them — swing hardest.",
+      "camps": "Bulls say the panic was overdone and AI demand is real. Bears say AI spending got ahead of itself and politics is now catching up. Many voters say they simply want a say over data centers near their homes.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "published": "2026-11-06",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Bank of England / interest rate decision",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "A trader watches screens on the stock exchange floor",
+      "image_credit": "Photo: AFP via Getty Images / BBC",
       "terms": [
         {
-          "term": "base rate",
-          "explain": "The central bank’s main interest rate that guides loans and savings.",
+          "term": "Nasdaq",
+          "explain": "US stock index full of tech companies.",
           "aliases": []
         },
         {
-          "term": "MPC",
-          "explain": "Monetary Policy Committee — the group that votes on UK rates.",
+          "term": "Kospi",
+          "explain": "South Korea's main stock index.",
           "aliases": []
         },
         {
-          "term": "inflation",
-          "explain": "Prices going up over time.",
-          "aliases": []
+          "term": "sell-off",
+          "explain": "When many investors sell at once and prices drop fast.",
+          "aliases": [
+            "rout"
+          ]
         },
         {
-          "term": "mortgage",
-          "explain": "Home loan; higher rates usually mean bigger monthly payments.",
-          "aliases": []
+          "term": "data center",
+          "explain": "Giant building full of computers that power AI and the internet.",
+          "aliases": [
+            "data centres"
+          ]
         }
       ]
     },
@@ -88,36 +89,38 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Poorest countries’ debt hits record $9.4tn; World Bank says they pay highest rates since late 1980s",
-      "dek": "Debt up 5.5% last year — fastest in four years. Average new interest for poorest: 8.2%.",
-      "caveman": "The World Bank says developing countries now owe a record $9.4 trillion. Debt rose 5.5% last year, fastest in four years, helped by lots of private lending. The poorest countries (ones that can get cheap World Bank loans) paid an average 8.2% interest on new borrowing — highest since the late 1980s. Examples: Laos ~11.5%, Congo ~13.9%, Kenya ~9.2%. High debt service means less money for schools, health, and food security when global shocks hit. The UK, as future G20 president, talks about a new debt drive linked partly to slavery legacy debates.",
-      "why_it_matters": "When poor countries drown in interest, crises can spread — migration, unrest, and unpaid loans to rich-world banks.",
-      "camps": "Creditors want repayment. Debtor nations and activists want relief and cheaper finance. The Bank says access improved but the price did not.",
+      "headline": "Paraguay bank collapse freezes accounts for 60% of adults — and topples the president",
+      "dek": "Digital lender Ueno Bank failed; ex-president Santiago Peña is charged and under house arrest.",
+      "caveman": "Ueno Bank was a phone-app bank in Paraguay (a country in South America). It grew super fast, offered high returns, and even sponsored the national football team. Last week the central bank shut it down for being insolvent — it owed more than it had. Overnight, nearly 3 million people — about 60% of adults — could not reach their money. Some businesses say sales fell up to 80%. President Santiago Peña, accused of favoring the bank, resigned, hoping to keep a lifetime Senate seat that protects ex-presidents. Lawmakers took that seat away anyway. Prosecutors charged him with ‘breach of trust’ and asked to hold him in custody; he is under house arrest. One customer said he now has to ‘work miracles’ to pay bills.",
+      "why_it_matters": "It shows how one fast-growing app bank can become ‘too big to fail’ in a small country. Paraguay is also one of Taiwan's few remaining diplomatic allies; Taiwan says ties are not affected.",
+      "camps": "Critics say Peña's government let Ueno grow with too little oversight. His allies call the charges political. Ordinary savers mostly want one thing: their money back.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-      "published": "2026-11-05",
+      "source_url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+      "published": "2026-11-07",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Protesters seek debt relief at IMF-World Bank meetings",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Santiago Peña signs his resignation letter in Asunción",
+      "image_credit": "Photo: Laura Fioravanti/AP via The Guardian",
       "terms": [
         {
-          "term": "external debt",
-          "explain": "Money a country owes to foreign lenders.",
+          "term": "insolvent",
+          "explain": "Owing more money than you have; can't pay debts.",
+          "aliases": [
+            "insolvency"
+          ]
+        },
+        {
+          "term": "central bank",
+          "explain": "A country's top money authority; it watches over banks.",
           "aliases": []
         },
         {
-          "term": "debt service",
-          "explain": "Cash spent just to pay interest and principal.",
+          "term": "house arrest",
+          "explain": "Being forced to stay at home instead of jail while a case goes on.",
           "aliases": []
         },
         {
-          "term": "G20",
-          "explain": "Group of 20 big economies that meet on global rules.",
-          "aliases": []
-        },
-        {
-          "term": "concessional lending",
-          "explain": "Loans with softer terms for poorer countries.",
+          "term": "breach of trust",
+          "explain": "Misusing power or money that people trusted you with.",
           "aliases": []
         }
       ]
@@ -126,33 +129,40 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Magnificent 7 lose about $1tn in one day; Musk’s Tesla + SpaceX shed $420bn+ after midterms",
-      "dek": "AI selloff + fear of probes and data-center rules hit the richest tech names.",
-      "caveman": "Thursday’s rout was huge in dollar terms. CNBC tallied that the ‘Magnificent 7’ mega-tech group lost about $1 trillion in market value. Separately, Elon Musk’s Tesla (about −11%) and SpaceX (about −9%) together lost over $420 billion in market value since Tuesday’s close. Forbes says Musk’s fortune fell from over $1 trillion toward under $800 billion. He spent roughly $470 million backing Republicans — most of his picks lost. Democrats now control Congress; in Texas, new Democratic leaders criticize big data centers. Investors fear probes and tighter rules for Musk companies.",
-      "why_it_matters": "Paper wealth swings this big move indexes, retirement funds, and the mood for AI investment worldwide — including Taiwan’s supply chain.",
-      "camps": "Musk allies call it temporary politics. Critics say voters rejected oligarch spending. Traders just see risk and hit sell.",
+      "headline": "Democrats plan to go after Trump's tariffs first — especially the trade war with Canada",
+      "dek": "New House majority wants votes to take back Congress's power over tariffs, plus investigations into tariff exemptions.",
+      "caveman": "Tariffs are taxes on goods brought in from other countries. For two years President Trump used them a lot, on his own authority. Democrats, who will control Congress from January, say these tariffs make life more expensive. Their plan has two parts. First: a ‘first 100 hours’ burst of bills, including ones that give Congress back its power over trade. Hakeem Jeffries, likely the next House Speaker, calls ending Trump's tariffs a top priority. Senator-elect Abdul El-Sayed of Michigan says ending the Canada trade war must happen ‘immediately.’ Second: investigations. Democrat Jamie Raskin has asked for records on which companies got special tariff exemptions, suggesting favors for Trump allies. Trump can still veto bills, so a fight is coming.",
+      "why_it_matters": "US tariffs shape prices worldwide and decide how much Taiwan's companies pay to sell to America. A change here would hit factories and supply chains across Asia.",
+      "camps": "Democrats say tariffs are a hidden tax on families. Trump and allies say tariffs protect US jobs and are leverage in deals. Some economists say undoing tariffs quickly could still be messy for businesses.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
-      "published": "2026-11-05",
+      "source_url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "published": "2026-11-08",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Tech stock selloff / Mag7",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "President Donald Trump",
+      "image_credit": "Photo: AFP via Getty Images / CNBC",
       "terms": [
         {
-          "term": "Magnificent 7",
-          "explain": "Nickname for a handful of giant US tech stocks that drove recent bull markets.",
+          "term": "tariff",
+          "explain": "A tax on goods imported from another country.",
           "aliases": [
-            "Mag7"
+            "tariffs"
           ]
         },
         {
-          "term": "market cap",
-          "explain": "Company value = share price × number of shares.",
+          "term": "veto",
+          "explain": "When the president refuses to sign a bill, blocking it unless Congress overrides.",
           "aliases": []
         },
         {
-          "term": "midterms",
-          "explain": "US elections halfway through a president’s term.",
+          "term": "exemption",
+          "explain": "Special permission not to follow a rule or pay a tax.",
+          "aliases": [
+            "exemptions"
+          ]
+        },
+        {
+          "term": "Speaker",
+          "explain": "The leader of the US House of Representatives.",
           "aliases": []
         }
       ]
@@ -161,31 +171,38 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "OpenAI pledges: pay full power costs, no NDAs with officials, publish plans after voters reject data centers",
-      "dek": "Local ballots: voters backed limits on almost all of 41 measures across 10 states.",
-      "caveman": "Two days after election day, OpenAI put out promises for the data centers it owns: pay the full cost of electricity, ask communities for input, publish construction plans, and stop using non-disclosure agreements (NDAs) that keep deals secret from the public. It also floated a policy blueprint for lawmakers. Meta, Microsoft, Google and Anthropic have floated similar ideas. On Tuesday, Ballotpedia-style tallies showed voters backed restrictions or rejected pro-build measures in all but one of 41 local data-center ballots across 10 states. People worried about water, power bills, jobs, and AI anxiety.",
-      "why_it_matters": "AI needs giant computer barns. If towns keep saying no — and companies change rules — build speed and chip demand can slow.",
-      "camps": "OpenAI says this is a ‘high floor’ of good behavior. Activists want laws, not promises. Industry fears delays.",
+      "headline": "Nvidia opens probe into CEO Jensen Huang after he admits affair with woman US agencies call a Chinese spy",
+      "dek": "Board says it sees no sign secrets leaked; lawmakers from both parties want answers by Nov 18.",
+      "caveman": "Jensen Huang runs Nvidia, the company that makes the chips most AI runs on — one of the most valuable firms on Earth. He was born in Taiwan. Reports in The New York Times and Financial Times say US intelligence believes a businesswoman named Alice Huang, linked to an Nvidia customer called Megaspeed, was passing information to China. On Sunday, Jensen Huang emailed staff: he admitted he had an affair with her, apologized to his family, and said the board had opened an independent investigation. The board says it has ‘no reason to believe’ national security or company secrets were compromised. Megaspeed has been accused of helping restricted Chinese firms get Nvidia chips. Three House Republican committee chairs want a closed-door briefing on Nov 18; Democratic Senator Chris Coons promises his own investigation.",
+      "why_it_matters": "Nvidia sits at the center of the US–China tech fight and depends heavily on TSMC in Taiwan. Questions about its boss could affect chip export rules and the AI supply chain.",
+      "camps": "Nvidia says no secrets were shared and Huang stays CEO. Critics in both parties ask whether China tried to sway US chip policy through him. Some warn against judging before the investigation ends.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-      "published": "2026-11-05",
+      "source_url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "published": "2026-11-08",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "OpenAI / data center policy",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "Nvidia CEO Jensen Huang",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "NDA",
-          "explain": "Non-disclosure agreement — a secrecy contract.",
+          "term": "board of directors",
+          "explain": "Group that oversees a company's leaders on behalf of shareholders.",
+          "aliases": [
+            "board"
+          ]
+        },
+        {
+          "term": "export controls",
+          "explain": "Government rules limiting which products can be sold to certain countries.",
           "aliases": []
         },
         {
-          "term": "ballot measure",
-          "explain": "A yes/no question voters decide directly on election day.",
+          "term": "closed-door briefing",
+          "explain": "A private meeting with lawmakers, not open to the public.",
           "aliases": []
         },
         {
-          "term": "blueprint",
-          "explain": "A suggested plan for rules, not yet law.",
+          "term": "intelligence agencies",
+          "explain": "Government spy and security services, like the CIA or FBI.",
           "aliases": []
         }
       ]
@@ -194,31 +211,36 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "Top Democrats push to rein in AI buildout: Sanders calls for ‘national data center moratorium now’",
-      "dek": "56% of CNBC poll voters said AI/data centers were a big vote factor; chip ETF SOXX −9%.",
-      "caveman": "After the midterm sweep, progressive Democrats moved fast on AI infrastructure. Sen. Bernie Sanders cheered local bans and posted: ‘National data center moratorium now.’ House members said pausing AI development should be Day-1 priority. CNBC’s voter poll: 56% said AI and data centers were a crucial or major factor; of those, 65% backed Democrats for Congress. Chip-linked stocks sold off hard (SOXX nearly −9%; Nvidia about −8%; AMD more than −14%). Candidates who flipped races had attacked ‘data center’ opponents by name.",
-      "why_it_matters": "A national pause would be a huge shift for Big Tech, utilities, and Taiwan’s AI hardware orders.",
-      "camps": "Progressives want brakes on Big Tech. Industry warns of losing the AI race to China. Moderates may prefer local rules over a full freeze.",
+      "headline": "Anthropic's giant IPO walks into an AI backlash: voters said no to 40 of 41 data-center ballot measures",
+      "dek": "Investors now see a $1–1.5 trillion value, down from $2 trillion talk; Nasdaq debut likely mid-November.",
+      "caveman": "Anthropic is the AI company behind the Claude chatbot. It plans to sell shares to the public for the first time (an IPO), probably on the Nasdaq in mid-November. But the mood has changed fast. In last week's US elections, voters showed distrust of tech billionaires and AI. Candidates who wanted tougher AI rules won in states like Michigan, Ohio, Texas and Georgia. Local communities voted against data-center-related measures in 40 of 41 cases. An NBC exit poll found more than half of voters said data centers were a crucial or major factor in their vote. Investors now talk about valuing Anthropic at $1 trillion to $1.5 trillion, down from $2 trillion. A behavioral scientist told CNBC a huge-valuation IPO feeds the ‘big tech billionaire’ image people dislike.",
+      "why_it_matters": "How this IPO goes will show whether money keeps pouring into AI. That money buys chips and servers — many made in Taiwan.",
+      "camps": "Supporters say Anthropic has positioned itself as safety-focused and still has strong demand. Skeptics say the price is a ‘stretch’ in a falling market. Community groups say AI firms must earn local trust for data centers, power and water.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "published": "2026-11-05",
+      "source_url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "published": "2026-11-07",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Data center / Democratic lawmakers",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "AI executive speaking at the World Economic Forum in Davos",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "moratorium",
-          "explain": "A temporary ban or freeze.",
+          "term": "IPO",
+          "explain": "Initial public offering: when a private company first sells shares to the public.",
           "aliases": []
         },
         {
-          "term": "SOXX",
-          "explain": "ETF that tracks many semiconductor stocks.",
+          "term": "valuation",
+          "explain": "How much investors think a whole company is worth.",
           "aliases": []
         },
         {
-          "term": "progressive",
-          "explain": "Left wing of the Democratic Party.",
+          "term": "ballot measure",
+          "explain": "A question voters decide directly, like a local rule or law.",
+          "aliases": []
+        },
+        {
+          "term": "exit poll",
+          "explain": "A survey of voters right after they vote.",
           "aliases": []
         }
       ]
@@ -227,31 +249,33 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "Tech barons knelt to Trump at inauguration — now a blue Congress looks like a hit list",
-      "dek": "Voters punished oligarch influence and AI sprawl; Casar: hold billionaires accountable.",
-      "caveman": "Photos of Musk, Bezos, Zuckerberg at Trump’s 2025 inauguration once meant power. After Democrats took Congress and many governorships — even in deep-red places like Texas — that bet looks risky. Reporting says anger at tech oligarchs, AI boom, data centers, and surveillance cameras helped drive votes. Rep. Greg Casar: voters rejected Republicans ‘bought and paid for by AI billionaires.’ Sen. Jon Ossoff blasted Silicon Valley bunker culture. Fortunes that ballooned under Maga + AI now face committees, taxes, and regulation talk.",
-      "why_it_matters": "Who writes the rules for AI and monopoly power will shape the next decade of tech — and Taiwan’s biggest customers.",
-      "camps": "Tech PR will pivot to Democrats. Populists on left and right still distrust Big Tech. Investors price political risk.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
-      "published": "2026-11-05",
+      "headline": "Musk says Tesla will wind down the Cybertruck in Texas by mid-2027 to make room for robotaxis",
+      "dek": "US sales fell 48% last year; SpaceX itself bought $131 million worth of the steel trucks.",
+      "caveman": "The Cybertruck is Tesla's sharp-edged steel pickup truck. Elon Musk once predicted 250,000 sales a year. It never came close. Researchers at Cox Automotive estimate about 20,000 were sold in the US last year — down 48% from 2024. One big buyer was Musk's own rocket company, SpaceX, which spent $131 million on them. Now Musk says Tesla will ‘wind down’ Cybertruck production at its Texas factory around the middle of next year, to build the Cybercab — a two-seat self-driving taxi with no steering wheel. He didn't say if the truck will be made anywhere else, but said the existing Cybertrucks ‘will be around for a long time.’",
+      "why_it_matters": "It shows how hype and real demand can be very different. Tesla is betting its future on robotaxis, which still face safety and legal questions.",
+      "camps": "Fans call the Cybertruck bold and loved. Critics call it an expensive flop. Investors are split on whether robotaxis are Tesla's next big win or another overpromise.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "published": "2026-11-06",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Tech CEOs at Trump inauguration",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Tesla Cybertruck",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "oligarch",
-          "explain": "Extremely rich person with big political power.",
+          "term": "wind down",
+          "explain": "Slowly reduce and then stop.",
           "aliases": []
         },
         {
-          "term": "Maga",
-          "explain": "Trump’s ‘Make America Great Again’ political brand.",
-          "aliases": []
+          "term": "robotaxi",
+          "explain": "A taxi that drives itself with no human driver.",
+          "aliases": [
+            "Cybercab"
+          ]
         },
         {
-          "term": "bunker",
-          "explain": "Hardened shelter — used here as a metaphor for rich people preparing for disaster.",
+          "term": "gigafactory",
+          "explain": "Tesla's name for its giant factories.",
           "aliases": []
         }
       ]
@@ -260,26 +284,38 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "Musk spent nearly $500m on midterms — and mostly lost; analysis calls the bet a flop",
-      "dek": "Biggest GOP donor still saw his candidates fail as Democrats swept.",
-      "caveman": "Elon Musk poured nearly half a billion dollars into Republican midterm races — the biggest donor push of its kind — yet most candidates he backed lost. Analyses frame the spending as a flop: money bought ads and noise, not durable voter love. Combined with Thursday’s stock hit to Tesla and SpaceX, the political and market bill for aligning hard with Trump-era politics arrived at once. The story sits next to voter backlash against AI billionaires and data centers.",
-      "why_it_matters": "If money-in-politics stops working for tech titans, they may change lobbying — or double down. Either path moves policy.",
-      "camps": "Musk allies say one cycle isn’t destiny. Critics say voters rejected pay-to-win politics. Campaign pros study which messages failed.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
-      "published": "2026-11-04",
+      "headline": "Snap settles to keep its CEO off the stand as child-safety lawsuits pile up — while Big Tech pushes AI into classrooms",
+      "dek": "Meta and YouTube already lost a social-media injury trial this year; more trials start in March.",
+      "caveman": "Many US families are suing social-media companies, saying apps were designed to hook kids and harmed their mental health. Earlier this year, Meta and YouTube lost a big jury trial. This week Snap (maker of Snapchat) settled one related case, so CEO Evan Spiegel did not have to testify in a Los Angeles court. A lawyer told CNBC these settlements show companies trying to avoid public trials as their reputations take hits. At the same time, Google, Meta and AI firms are pushing AI tools into schools. A child-development psychologist said safety must be built in from the start, ‘not after the fact.’ More trials are set for March.",
+      "why_it_matters": "Kids everywhere, including in Taiwan, use the same apps. US court cases often push companies to change product design worldwide.",
+      "camps": "Parents and advocates say companies knew the risks and must pay. Tech firms say they've added safety tools and that settling is not admitting guilt. Teachers are split on AI in class: helpful tutor or new distraction.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+      "published": "2026-11-07",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Elon Musk political spending fallout",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Smartphone showing social media apps",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "donor",
-          "explain": "Person or group that gives money to campaigns.",
+          "term": "settle",
+          "explain": "End a lawsuit by agreeing to a deal, usually paying money, before a verdict.",
+          "aliases": [
+            "settlement"
+          ]
+        },
+        {
+          "term": "jury trial",
+          "explain": "A trial where ordinary citizens decide the outcome.",
           "aliases": []
         },
         {
-          "term": "midterms",
-          "explain": "US elections in the middle of a presidential term.",
+          "term": "testify",
+          "explain": "Answer questions under oath in court.",
+          "aliases": []
+        },
+        {
+          "term": "engagement",
+          "explain": "How much time and attention users give an app.",
           "aliases": []
         }
       ]
@@ -288,32 +324,39 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "After blue wave, Democrats sketch a long to-do list for new Congress majority",
-      "dek": "House + Senate control opens probes, spending fights, and checks on Trump’s last years.",
-      "caveman": "Democrats won both chambers. NPR and other outlets describe a long wish list: oversight of Trump-era deals, possible energy and crypto probes, abortion and health policy, and pressure on Big Tech / data centers. Some races were still counting, but the majority math looks solid enough that markets and foreign capitals are already gaming a constrained White House. Divided or opposed Congress can slow tariffs, appointments, and war policy — or spark shutdown fights.",
-      "why_it_matters": "US lawmaking shapes Taiwan security aid, chip rules, and global markets. A blue Congress changes the bargaining table.",
-      "camps": "Democratic activists want fast action. Trump allies vow resistance. Swing voters may punish chaos either way.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
-      "published": "2026-11-05",
+      "headline": "Trump says America took a ‘giant step back’ after Republican midterm losses; hardliner Stephen Miller becomes chief of staff today",
+      "dek": "Trump offers UFC boss Dana White the press secretary job; his attorney general hints at probes of Democrats.",
+      "caveman": "Last Tuesday, Republicans lost control of both houses of Congress. On Sunday, President Trump posted that America ‘took a giant step back in History’ and promised to come back ‘bigger and stronger.’ Instead of moving to the middle, he seems to be moving further right. Stephen Miller, a hardline aide known for tough immigration policies, starts as White House chief of staff on Monday. Trump also offered Dana White, head of the fighting league UFC, the job of press secretary. When Democrats said they would investigate the administration, Trump said he told the Justice Department to ‘look into’ them; Attorney General Todd Blanche said ‘there could be’ investigations, without naming any crime. Democrats say Miller and Elon Musk will likely be investigated by Congress from January.",
+      "why_it_matters": "A president fighting a hostile Congress can mean gridlock, government shutdown threats, and more use of executive power — all of which ripple into world trade and security, including US policy on Taiwan.",
+      "camps": "Trump allies say he must fight, not surrender, to a ‘radical’ Congress. Democrats say voters rejected his agenda and threats against lawmakers are dangerous. Some Republicans quietly worry a bunker strategy will cost them in 2028.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "published": "2026-11-08",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "US Capitol / midterm aftermath",
-      "image_credit": "Photo: via NPR",
+      "image_alt": "Donald Trump",
+      "image_credit": "Photo: Eric Lee/Reuters via The Guardian",
       "terms": [
         {
-          "term": "blue wave",
-          "explain": "Big election win for Democrats (blue = party color).",
+          "term": "chief of staff",
+          "explain": "The president's top aide who runs the White House team.",
+          "aliases": []
+        },
+        {
+          "term": "press secretary",
+          "explain": "The White House spokesperson who talks to reporters.",
           "aliases": []
         },
         {
           "term": "oversight",
-          "explain": "Congress investigating and checking the executive branch.",
+          "explain": "Congress checking and investigating what the government does.",
           "aliases": []
         },
         {
-          "term": "chamber",
-          "explain": "One house of Congress: House or Senate.",
-          "aliases": []
+          "term": "midterms",
+          "explain": "US elections held halfway through a president's four-year term.",
+          "aliases": [
+            "midterm"
+          ]
         }
       ]
     },
@@ -321,34 +364,39 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Hong Kong’s Joshua Wong sentenced to 10 years for ‘foreign collusion’ under national security law",
-      "dek": "Second NSL conviction; Amnesty says law is used to crush peaceful advocacy.",
-      "caveman": "Activist Joshua Wong — face of 2014 Umbrella protests as a teen — got 10 years after pleading guilty to ‘foreign collusion.’ Judge William Tam called his acts ‘grave,’ saying Wong sought foreign sanctions with exiled activist Nathan Law. Sentence runs with remaining time from a prior security case. Law called it crushing hope for democracy; Amnesty said the security law is a tool to punish peaceful work. Taiwan’s presidential office also condemned the verdict.",
-      "why_it_matters": "Hong Kong’s legal chill is a human-rights story and a warning about how ‘security’ laws can erase opposition.",
-      "camps": "Hong Kong authorities say courts apply the law. Rights groups call it political persecution. Democracies issue statements; leverage is limited.",
+      "headline": "Israel's president asks Netanyahu rival Gadi Eisenkot to try to form a government after deadlocked election",
+      "dek": "Eisenkot's bloc has 48 of 120 seats, Netanyahu's 53; both Arab-majority parties back Eisenkot.",
+      "caveman": "In Israel, no party usually wins a majority alone, so parties team up to reach 61 of 120 seats. After the 27 October election, nobody got there. Prime Minister Benjamin Netanyahu's religious-nationalist camp won 53 seats; the opposition led by former army chief Gadi Eisenkot (Yashar party) won 48. President Isaac Herzog chose Eisenkot to try first, partly because both Arab-majority parties — which made record gains — endorsed him. Eisenkot called for a ‘national emergency government.’ His paths are hard: share power with Netanyahu, rely on Arab-led parties (some of his allies refuse), or deal with ultra-Orthodox parties who demand their community be exempt from military service. If he succeeds, he would replace Israel's longest-serving leader.",
+      "why_it_matters": "Who leads Israel affects the wars and ceasefires in Gaza and with Iran — and with them, oil prices and global security.",
+      "camps": "Eisenkot's supporters want change after years of Netanyahu and war. Netanyahu's camp says it is still the biggest bloc. Arab parties see a rare chance to shape government; some Jewish nationalist voters reject that idea.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-      "published": "2026-11-05",
+      "source_url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "published": "2026-11-08",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Joshua Wong",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Gadi Eisenkot",
+      "image_credit": "Photo: Paulina Patimer/JNA/ZUMA Press Wire/Shutterstock via The Guardian",
       "terms": [
         {
-          "term": "national security law",
-          "explain": "2020 Hong Kong law criminalizing secession, subversion, terrorism, collusion.",
+          "term": "coalition",
+          "explain": "Several parties joining together to make a majority and govern.",
+          "aliases": []
+        },
+        {
+          "term": "bloc",
+          "explain": "A group of parties on the same side.",
+          "aliases": []
+        },
+        {
+          "term": "ultra-Orthodox",
+          "explain": "Very strictly religious Jewish communities.",
+          "aliases": []
+        },
+        {
+          "term": "kingmaker",
+          "explain": "A small group whose support decides who wins power.",
           "aliases": [
-            "NSL"
+            "kingmakers"
           ]
-        },
-        {
-          "term": "Umbrella protests",
-          "explain": "2014 Hong Kong democracy sit-ins.",
-          "aliases": []
-        },
-        {
-          "term": "foreign collusion",
-          "explain": "Charge of working with outsiders against the state.",
-          "aliases": []
         }
       ]
     },
@@ -356,31 +404,33 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Paraguay president Santiago Peña quits after Ueno Bank freeze hits ~3 million savers",
-      "dek": "Digital bank collapse sparks protests; impeachment was already moving; VP to take over.",
-      "caveman": "Paraguay’s right-wing president Santiago Peña resigned after a banking crisis. Central bank put Ueno Bank into resolution; about 3 million customers — roughly 60% of adults, the bank claimed — saw deposits frozen, leaving families without grocery money. Executives were arrested; streets filled with protesters. Ueno grew fast with cash-back and soccer sponsorship, and held hundreds of millions in state and pension cash. Peña faced impeachment with broad support; he quit by video saying the republic comes first. NPR notes impeachment followed minutes after resignation in some accounts.",
-      "why_it_matters": "A modern ‘fintech for the masses’ failure can topple a government overnight — and wipe household savings.",
-      "camps": "Opposition blames cozy ties and weak supervision. Peña frames resignation as duty. Depositors just want their money.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-      "published": "2026-11-05",
+      "headline": "New Zealand election ends with no clear winner; newcomer Qiulae Wong's centrist party could decide who governs",
+      "dek": "Final count not until 27 November; ‘who won the election’ was New Zealand's top Google search.",
+      "caveman": "New Zealand voted on Saturday. Neither the center-right National Party of Prime Minister Christopher Luxon nor the center-left Labour Party of Chris Hipkins won enough seats. Voters, tired of economic troubles and unexcited by both leaders, gave more votes to smaller parties. A surprise: the Opportunity party, led by 38-year-old political newcomer Qiulae Wong, won about seven seats. She promises ‘evidence-based centrism’ and says she could work with either side. That makes her a possible kingmaker. Talks to form a government won't really start until final results come out on 27 November, so it may be weeks before New Zealanders know their next leader.",
+      "why_it_matters": "It's part of a global trend: voters drifting away from big traditional parties toward newcomers and smaller groups.",
+      "camps": "National says it's still best placed to lead. Labour says voters punished the government. Supporters of small parties say their stronger voice will force big parties to compromise.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election",
+      "published": "2026-11-08",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Santiago Peña",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Prime Minister Christopher Luxon addresses supporters in Auckland",
+      "image_credit": "Photo: Alex Robertson/AP via NPR",
       "terms": [
         {
-          "term": "resolution",
-          "explain": "Official takeover of a failing bank to wind it down or save parts.",
+          "term": "center-right / center-left",
+          "explain": "Moderate conservative / moderate progressive.",
           "aliases": []
         },
         {
-          "term": "impeachment",
-          "explain": "Legislature removing a president for alleged wrongdoing.",
-          "aliases": []
+          "term": "minor party",
+          "explain": "A smaller political party that usually wins few seats.",
+          "aliases": [
+            "minor parties"
+          ]
         },
         {
-          "term": "fintech",
-          "explain": "Finance + technology apps and digital banks.",
+          "term": "centrism",
+          "explain": "Politics in the middle, mixing ideas from left and right.",
           "aliases": []
         }
       ]
@@ -389,34 +439,39 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "California’s Newsom commutes all 548 death sentences to life without parole",
-      "dek": "Largest modern US clearing of a death row; follows outrage over a botched Tennessee execution.",
-      "caveman": "Governor Gavin Newsom turned every California death sentence into life without parole — 529 men and 19 women, largest death row in the Western Hemisphere. He called state killing incompatible with justice in an imperfect system. Newsom already paused executions in 2019 and emptied the San Quentin death chamber. California has not executed anyone since 2006; many waited 15+ years. The move blocks future governors from restarting the machinery of death for these people. It also boosts Newsom’s 2028 presidential profile among progressives — and angers death-penalty supporters.",
-      "why_it_matters": "Capital punishment is a core human-rights fight. California’s size makes this the biggest single US shift in years.",
-      "camps": "Abolitionists celebrate. Victims’ families are split. Conservatives call it soft on crime. Courts still review individual cases.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-      "published": "2026-11-05",
+      "headline": "Europe says it will join US-brokered Russia–Ukraine talks in Abu Dhabi this week, despite Kremlin saying no",
+      "dek": "Trump hints a deal ‘might involve all of Europe’; Zelenskyy warns of a new ‘Yalta.’",
+      "caveman": "The US is hosting peace talks between Russia and Ukraine in Abu Dhabi (in the United Arab Emirates) on Tuesday and Wednesday. They were supposed to be three-way: US, Russia, Ukraine. Russia's spokesman said Europe had no role. But France's foreign minister said Sunday, ‘France will be there and will ensure that Europe's voice is heard.’ It's unclear whether Europeans will negotiate or only observe. After meeting a Kremlin envoy, President Trump said the coming deal is ‘going to involve more than Ukraine’ and ‘might involve all of Europe.’ Ukraine's President Zelenskyy said he hadn't been told the details and compared it to the 1945 Yalta conference, where big powers decided Europe's borders without asking smaller countries. Russian missile strikes hit Kyiv again on Saturday.",
+      "why_it_matters": "How this war ends will shape whether big countries can take land by force — something Taiwan watches closely.",
+      "camps": "Europe says it can't be left out of decisions about its own security. Russia wants a deal with Washington alone. Ukraine fears being pressured into giving up land. Trump says he wants the war over fast.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks",
+      "published": "2026-11-08",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Gavin Newsom",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Bomb crater seen through the destroyed walls of a kindergarten in Kyiv",
+      "image_credit": "Photo: Dan Bashakov/AP via NPR",
       "terms": [
         {
-          "term": "commute",
-          "explain": "Change a sentence to a lesser one.",
+          "term": "Kremlin",
+          "explain": "Russia's government (named after its seat of power in Moscow).",
           "aliases": []
         },
         {
-          "term": "death row",
-          "explain": "Prisoners waiting under a death sentence.",
-          "aliases": []
-        },
-        {
-          "term": "life without parole",
-          "explain": "Stay in prison until death; no release date.",
+          "term": "broker",
+          "explain": "Help two sides reach a deal as a go-between.",
           "aliases": [
-            "LWOP"
+            "US-brokered"
           ]
+        },
+        {
+          "term": "Yalta",
+          "explain": "1945 meeting where the US, UK and Soviet Union divided postwar Europe.",
+          "aliases": []
+        },
+        {
+          "term": "envoy",
+          "explain": "An official sent to represent a government in talks.",
+          "aliases": []
         }
       ]
     },
@@ -424,31 +479,40 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Min Jin Lee’s American Hagwon — glorious, immersive follow-up to Pachinko, critics cheer",
-      "dek": "Guardian review: deep dive into Korean-American ambition, education factories, and family.",
-      "caveman": "Min Jin Lee — author of the beloved novel Pachinko — is back with American Hagwon. Early reviews call it richly immersive: a story about hagwons (private cram schools), immigrant hustle, and what ‘making it’ costs. Lee remains ‘hot’: book clubs, awards chatter, and readers who loved Pachinko want the next long visit into Korean diaspora life. If you like big character novels about class and belonging, this is the heat check of the week.",
-      "why_it_matters": "Who’s hot in US literary fiction often becomes what libraries buy, what book clubs read, and what gets adapted later.",
-      "camps": "Fans celebrate another epic. Some readers tire of ‘immigrant novel’ marketing boxes. Teachers may assign excerpts on education pressure.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko",
-      "published": "2026-11-05",
+      "headline": "HOT: Sarah J. Maas's new ACOTAR book sells 958,000 hardcovers in one week — the biggest debut of 2026",
+      "dek": "A Court of Splintered Harmony outsold the next 78 bestsellers combined; another Maas novel lands January 12.",
+      "caveman": "Sarah J. Maas writes ‘romantasy’ — romance mixed with fantasy. Her series A Court of Thorns and Roses (ACOTAR) is hugely popular, especially with young women on BookTok. The newest book, A Court of Splintered Harmony, came out October 27 and sold 958,195 hardcover copies in its first week in the US, according to sales tracker Circana BookScan. That's more than the next 78 books on the Publishers Weekly bestseller list put together, and the biggest first week of the year. It is already the fourth best-selling book of 2026. Her publisher, Bloomsbury, which had a weak first half, is counting on her. The next book, A Court of Forgotten Melody, comes out January 12, 2027.",
+      "why_it_matters": "It shows who really drives book sales now: genre fiction and online fan communities, not just prize-winning literary novels.",
+      "camps": "Fans say romantasy gets readers, especially teens, excited about books. Some critics dismiss it as formula. Booksellers mostly just say thank you — one author can keep a whole publisher afloat.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101707-maas-s-latest-acotar-novel-sells-nearly-1-million-copies-in-first-week.html",
+      "published": "2026-11-06",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Min Jin Lee / American Hagwon",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "A Court of Splintered Harmony by Sarah J. Maas",
+      "image_credit": "Photo: via Publishers Weekly",
       "terms": [
         {
-          "term": "hagwon",
-          "explain": "Korean private after-school cram academy.",
+          "term": "romantasy",
+          "explain": "Books that mix romance and fantasy.",
           "aliases": []
         },
         {
-          "term": "Pachinko",
-          "explain": "Min Jin Lee’s famous multi-generation Korean-Japanese epic novel.",
-          "aliases": []
+          "term": "BookScan",
+          "explain": "Service that counts how many print books are sold in stores.",
+          "aliases": [
+            "Circana BookScan"
+          ]
         },
         {
-          "term": "diaspora",
-          "explain": "People living outside their ancestral homeland.",
+          "term": "hardcover",
+          "explain": "A book with a hard, stiff cover — usually the first, pricier edition.",
+          "aliases": [
+            "hardcovers"
+          ]
+        },
+        {
+          "term": "backlist",
+          "explain": "Older books a publisher still sells.",
           "aliases": []
         }
       ]
@@ -457,32 +521,38 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "NOT / controversy: Prix Goncourt winner admits using AI — French prize shaken",
-      "dek": "Philippe Jaenada’s win meets backlash after AI disclosure; ‘who wrote this?’ fight goes mainstream.",
-      "caveman": "France’s top literary prize, the Prix Goncourt, is in a storm: the winner admits using AI in the work. For traditionalists, that is a hard ‘not’ — prizes were meant for human craft. For others, the fight is honesty and rules, not the tool itself. Either way, the scandal is now part of US literary conversation too: journals, MFA blogs, and publishers argue what counts as authorship when machines draft sentences.",
-      "why_it_matters": "If major prizes blur human vs AI credit, contracts, copyright, and school honor codes all get messy.",
-      "camps": "Purists want bans. Experimenters want disclosure labels. Prize boards scramble to write clearer rules.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-      "published": "2026-11-05",
+      "headline": "NOT: Queens Public Library's whole online system held for ransom by hackers",
+      "dek": "66 branches stay open, but Wi-Fi, computers, the app and e-books are down; staff go back to manual checkout.",
+      "caveman": "On Wednesday, November 4, hackers attacked the online network of the Queens Public Library in New York City, which runs 66 branches. Everything digital went offline: the website, public computers, self-checkout machines, Wi-Fi, the app, and e-books. The hackers are demanding a ransom — money to unlock it. Nobody has said how much or who did it. It's also unknown if users' personal information was stolen. The library's CEO said it is ‘a victim of the type of world we're living in.’ Branches are still open, and librarians check books in and out by hand. Lit Hub's writer, a Queens native, was furious: libraries give books, internet and classes to people for free, in one of the most diverse places in the world.",
+      "why_it_matters": "For many people, the library is their only free internet and computer. Attacks on public services hurt the poorest most.",
+      "camps": "Everyone agrees attacking a library is low. Security experts say public institutions are easy targets because they lack money for cybersecurity. Some argue governments should fund protection for libraries, schools and hospitals.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/the-queens-public-library-system-is-being-held-for-ransom/",
+      "published": "2026-11-06",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Prix Goncourt / books",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Queens Public Library",
+      "image_credit": "Photo: via Literary Hub",
       "terms": [
         {
-          "term": "Prix Goncourt",
-          "explain": "France’s most famous literary prize.",
-          "aliases": []
+          "term": "ransomware",
+          "explain": "Malicious software that locks your files until you pay.",
+          "aliases": [
+            "ransom"
+          ]
         },
         {
-          "term": "authorship",
-          "explain": "Who counts as the true writer of a text.",
-          "aliases": []
+          "term": "branch",
+          "explain": "One local location of a larger library system.",
+          "aliases": [
+            "branches"
+          ]
         },
         {
-          "term": "disclosure",
-          "explain": "Telling readers you used a tool like AI.",
-          "aliases": []
+          "term": "cyberattack",
+          "explain": "An attempt to break into or damage computer systems.",
+          "aliases": [
+            "cyber attacks"
+          ]
         }
       ]
     },
@@ -490,31 +560,33 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: China Miéville wins Goldsmiths Prize for 1,200-page novel The Rouse",
-      "dek": "£10,000 UK prize for ‘fiction that breaks the mould’; jury says he was destined for it.",
-      "caveman": "British novelist China Miéville — long a cult hero of weird, political, inventive fiction — won the Goldsmiths Prize for The Rouse, a 1,200-page beast. The prize rewards novels that take risks with form. Judges basically said: of course this guy. For US readers of speculative and literary experimental work, Miéville stays ‘hot’ when big prizes validate huge, strange books in an age of short attention.",
-      "why_it_matters": "Prizes steer what bookstores shelve face-out and what translation scouts notice.",
-      "camps": "Fans of door-stopper novels rejoice. Casual readers may fear the page count. Academics love teaching ‘mould-breaking’ form.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/04/china-mieville-wins-10000-goldsmiths-prize-for-the-rouse",
-      "published": "2026-11-04",
-      "image": "images/wd-lit-3.jpg",
-      "image_alt": "China Miéville / Goldsmiths Prize",
-      "image_credit": "Photo: via The Guardian",
+      "headline": "NOT so hot: US publishing pay slips — median salary $78,000 — and workers who use AI the most like it the least",
+      "dek": "Publishers Weekly's annual survey of 886 people: 3% raises, high job satisfaction, but few promotions.",
+      "caveman": "Every year, Publishers Weekly asks people who work in US book publishing about their pay and jobs. This year 886 people answered. The median salary (the middle number) was $78,000, down from $80,000 in 2024. Most got only a modest raise of about 3%. About 80% of workers are women. The share of new workers who are not white fell a bit, which some link to the Trump administration's pushback against diversity programs. Still, 60% said they are very satisfied with their jobs; the biggest complaint is that there's little chance to move up. On AI: 73% said their company uses AI somehow, mostly for market research — but the more people use it, the less they like it, and many worry about AI's effect on their jobs.",
+      "why_it_matters": "The people who choose, edit and sell books shape what we all get to read. Low pay can push out people without family money, making books less diverse.",
+      "camps": "Some publishers say tight budgets limit raises. Workers and unions say low pay is why talent leaves. Opinions on AI split: useful helper for data tasks, or a threat to creative jobs.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html",
+      "published": "2026-11-06",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "Goldsmiths Prize",
-          "explain": "UK award for innovative fiction.",
+          "term": "median",
+          "explain": "The middle value when numbers are lined up from low to high.",
+          "aliases": [
+            "median salary"
+          ]
+        },
+        {
+          "term": "DEI",
+          "explain": "Diversity, equity and inclusion — programs to include more kinds of people.",
           "aliases": []
         },
         {
-          "term": "speculative fiction",
-          "explain": "Stories with unreal or futuristic elements (sci-fi, fantasy-adjacent).",
-          "aliases": []
-        },
-        {
-          "term": "door-stopper",
-          "explain": "Slang for a very thick book.",
+          "term": "BIPOC",
+          "explain": "Black, Indigenous and people of color.",
           "aliases": []
         }
       ]
@@ -523,31 +595,33 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Christina Rogoyska’s Hotel Exile wins 2026 American Library in Paris Book Award",
-      "dek": "$5,000 prize + hand-bound edition; WWII Paris history that reads like lived memory.",
-      "caveman": "Lit Hub reports Christina Rogoyska won the American Library in Paris Book Award for Hotel Exile: Paris in the Shadow of War. Jury (including last year’s winner Sue Prideaux, Molly Ringwald, Dan Jones) praised its spirit. Prize: $5,000 and a special hand-bound copy; another copy goes into the library’s special collections. For US/Anglophone readers who love narrative history with novelistic heat, this is a fresh ‘who’s hot’ marker from a Paris–US literary bridge.",
-      "why_it_matters": "Paris-based English prizes help US audiences find history books with international buzz.",
-      "camps": "History buffs excited. Novel purists may shrug at nonfiction winning bookish heat. Libraries expand WWII Paris shelves.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/heres-the-winner-of-the-2026-american-library-in-paris-book-award/",
-      "published": "2026-11-05",
-      "image": "images/wd-lit-4.jpg",
-      "image_alt": "American Library in Paris Book Award",
-      "image_credit": "Photo: via Literary Hub",
+      "headline": "HOT: Maira Kalman's new book ‘Joy’ argues you can't have joy without sorrow",
+      "dek": "The New York painter-author's gouache paintings go on show at Mary Ryan Gallery this month.",
+      "caveman": "Maira Kalman is a beloved New York artist and author of more than 30 books, known for colorful, playful paintings with short, funny, wise words. Her new book is simply called ‘Joy.’ She worried it would be a hard sell in dark times. Her morning routine: coffee and reading the obituaries — it gives ‘a sense of proportion,’ she told NPR. Then she walks around Manhattan looking for small moments that make her heart stop. The book shows a woman putting on red lipstick in Paris, a man playing violin under a cherry tree, and a swimmer coming up for air. Most of the text is questions. Her big idea: ‘You cannot be joyous without sorrow.’ The paintings are on show at the Mary Ryan Gallery in New York this month.",
+      "why_it_matters": "In a heavy news season, a book about noticing small joys is getting attention — and it's a reminder that art books can be both light and deep.",
+      "camps": "Fans find her work comforting and honest. Some readers find whimsy too sweet for hard times; Kalman's answer is that joy and sorrow live side by side.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/07/nx-s1-6012223-e1/how-painter-maira-kalman-finds-joy-in-darkness",
+      "published": "2026-11-07",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "American Library in Paris",
-          "explain": "English-language library and cultural hub in Paris.",
+          "term": "gouache",
+          "explain": "A thick, matte watercolor-like paint.",
           "aliases": []
         },
         {
-          "term": "narrative history",
-          "explain": "History written with story-like scenes and characters.",
-          "aliases": []
+          "term": "obituary",
+          "explain": "A news notice about someone who has died, often telling their life story.",
+          "aliases": [
+            "obituaries"
+          ]
         },
         {
-          "term": "special collections",
-          "explain": "Rare or treasured books kept for research.",
+          "term": "whimsy",
+          "explain": "Playful, quirky humor.",
           "aliases": []
         }
       ]
@@ -556,31 +630,38 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "social",
-      "headline": "Midterm ballots protect abortion rights in Nevada and Virginia; Missouri keeps 2024 protections",
-      "dek": "Idaho keeps its ban. Reproductive-rights night mostly succeeds inside the blue wave.",
-      "caveman": "Voters decided several abortion measures. Nevada passed a constitutional right to abortion through the second trimester (then regulate after viability except for life/health). Virginia approved a ‘fundamental right to reproductive freedom’ covering abortion, contraception, and fertility care with similar trimester rules. Missouri rejected Amendment 3, which would have rolled back 2024 protections and added gender-care bans for minors. Idaho voters did not repeal that state’s ban. Overall, rights advocates call it a successful night nested in the wider Democratic wave.",
-      "why_it_matters": "State constitutions now matter as much as the US Supreme Court for abortion access.",
-      "camps": "Rights groups celebrate. Anti-abortion groups regroup for legislatures and courts. National parties will keep using the issue in 2028.",
+      "headline": "Kraków shooting: gunman kills six in old-town square; Poland opens terrorism probe into far-right suspect",
+      "dek": "The 24-year-old's parents and sister were found dead at home; two days of national mourning.",
+      "caveman": "On Saturday afternoon, a 24-year-old man wearing military-style clothes and a bulletproof vest drove into Kraków's main square — packed with tourists — and started shooting at random. Six people were killed, including a 32-year-old British man and a 51-year-old Austrian woman; 17 were hurt, including two police officers. Police wounded and arrested him. Later, police found his father, mother and sister dead at the family home about 100 miles away. Poland's interior minister said the suspect was fascinated by far-right ideas and held ‘ultra-nationalistic’ views. Prosecutors are treating it as terrorism. Mass shootings are rare in Poland; the country is now in two days of mourning, and people leave candles in the square.",
+      "why_it_matters": "It adds to worries across Europe about young people being radicalized online by extremist content.",
+      "camps": "Officials call for more action against online extremism. Some politicians focus on gun access; others on mental health and policing. Victims' families ask for answers on how warning signs were missed.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
-      "published": "2026-11-05",
+      "source_url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+      "published": "2026-11-08",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Abortion rights supporters celebrate",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "People mourn near the scene of the shooting in Kraków",
+      "image_credit": "Photo: Jakub Porzycki/Reuters via The Guardian",
       "terms": [
         {
-          "term": "ballot measure",
-          "explain": "Law or amendment decided by voters directly.",
+          "term": "terrorism",
+          "explain": "Violence meant to scare people for a political or ideological goal.",
+          "aliases": [
+            "terrorist offence"
+          ]
+        },
+        {
+          "term": "far-right",
+          "explain": "Extreme nationalist politics, often hostile to immigrants or minorities.",
           "aliases": []
         },
         {
-          "term": "viability",
-          "explain": "Point when a fetus might survive outside the womb.",
+          "term": "radicalized",
+          "explain": "Pushed toward extreme beliefs, often through online content.",
           "aliases": []
         },
         {
-          "term": "constitutional amendment",
-          "explain": "Change to a state constitution; hard to reverse.",
+          "term": "national mourning",
+          "explain": "Official days when a country honors victims.",
           "aliases": []
         }
       ]
@@ -589,31 +670,33 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "social",
-      "headline": "Hoax bomb threats disrupt 25+ European flights; second wave this week sparks hybrid-war fears",
-      "dek": "Ryanair, Aer Lingus, Wizz and more divert; all clear so far; at least 33 flights hit this week.",
-      "caveman": "Fake bomb warnings hit at least 25 flights across Europe on Thursday — Italy, Ireland, UK, Spain, Bulgaria, and more. Planes diverted or searched; nothing found. Airlines included Ryanair, Aer Lingus, Wizz, Finnair, easyJet and others. Heathrow and Birmingham got threats judged hoaxes. Similar scares hit earlier in the week (total 33+ flights). Investigators have not proved a state actor like Russia or Iran, but politicians talk ‘hybrid war’ — cheap chaos without real bombs. Iata urged finding the source.",
-      "why_it_matters": "Even fake threats cost money, trust, and nerves — and can be used to rattle open societies.",
-      "camps": "Security agencies chase digital trails. Airlines want faster triage so every hoax doesn’t ground a plane. Public fear is the attacker’s product.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "published": "2026-11-05",
+      "headline": "Two trains collide near Giza, Egypt: at least seven dead, more than 100 injured",
+      "dek": "A train to Fayoum hit the back of a stopped Cairo–Aswan train; carriages fell down an embankment.",
+      "caveman": "On Sunday, two trains heading south from Giza and Cairo collided in Egypt. A train going from Giza to Fayoum crashed into the back of another train that was stopped on the tracks on its way to Aswan. Several carriages flipped and rolled down a slope; one looked split in two. At least seven people died, including one of the train drivers, and more than 100 were hurt, mostly with broken bones and head injuries. Prosecutors warned the death toll could rise. President Sisi ordered an investigation and said anyone negligent will be held accountable. The crash happened near the site of Egypt's worst train disaster, a 2002 fire that killed more than 370 people.",
+      "why_it_matters": "Egypt's railways carry millions of poorer people who can't afford other transport. Repeated crashes raise questions about safety spending.",
+      "camps": "The government points to big rail upgrades in recent years. Critics say old signals and poor maintenance still put passengers at risk. Families want accountability, not just inquiries.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+      "published": "2026-11-08",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Planes at European airport",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "People search derailed train carriages near Giza",
+      "image_credit": "Photo: Getty Images via BBC",
       "terms": [
         {
-          "term": "hoax",
-          "explain": "A false threat meant to scare or disrupt.",
+          "term": "derail",
+          "explain": "When a train comes off its tracks.",
+          "aliases": [
+            "derailed"
+          ]
+        },
+        {
+          "term": "embankment",
+          "explain": "A raised bank of earth that tracks or roads run on.",
           "aliases": []
         },
         {
-          "term": "hybrid war",
-          "explain": "Mixing cyber, propaganda, crime, and scare tactics with or instead of open fighting.",
-          "aliases": []
-        },
-        {
-          "term": "Iata",
-          "explain": "Global airline trade group.",
+          "term": "negligent",
+          "explain": "Careless in a way that causes harm.",
           "aliases": []
         }
       ]
@@ -622,31 +705,40 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "social",
-      "headline": "France: hundreds of thousands march as unions strike over cost of living and public-service cuts",
-      "dek": "Government tally ~600k; CGT union says nearly 1.6m. Teachers, nurses, rail workers, students.",
-      "caveman": "France saw another big protest day. Unions called a general strike; teachers, hospital staff, rail workers, and students marched in Paris and other cities. Government said at least 600,000 people; the CGT union claimed almost 1.6 million. Police presence was heavy (~70,000); tear gas in Bordeaux and Lyon. Protesters say Macron-era budget squeezes hit services while debt nears 120% of GDP. Rail unions warn cuts deepen poverty and freeze public pay.",
-      "why_it_matters": "Street pressure can force budget changes — or harden governments. Europe watches France’s debt vs dignity fight.",
-      "camps": "Unions want wages and services. Government cites debt math. Students want usable schools. Tear gas videos polarize TV audiences.",
+      "headline": "Two Uyghur men fear Thailand will send them back to China, where they say they'll be ‘like slaves’",
+      "dek": "Last year Thailand deported 40 Uyghur men despite UN pleas; rights groups urge a safe third country.",
+      "caveman": "Uyghurs are a mostly Muslim ethnic group in western China. The UN has said China's crackdown on them may be a crime against humanity. In 2014, more than 200 Uyghurs fled China and were caught in Thailand. Women and children were later sent to Turkey, but the men were sent back to China in groups. Last year Thailand deported 40 of them, even though the US and Canada reportedly offered to take them; their whereabouts are still unknown, the UN says. Now two more men, just moved to an immigration detention center after a prison term, fear they are next. One told his girlfriend he wants to go ‘anywhere else but China.’ Human Rights Watch says Thailand should let them go to a safe third country.",
+      "why_it_matters": "It's a test of whether smaller countries will bow to Beijing's pressure on human rights. Taiwan faces similar Chinese pressure on its partners.",
+      "camps": "Rights groups say deportation could mean torture or disappearance. Thailand has said it follows its laws and diplomatic relations. China says Uyghur policy is about security and calls criticism interference.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-      "published": "2026-11-05",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "published": "2026-11-08",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "French protesters and students",
-      "image_credit": "Photo: via The Guardian",
+      "image_alt": "Illustration: letters from Uyghur men at risk of deportation",
+      "image_credit": "Photo: Guardian Pictures/EPA via The Guardian",
       "terms": [
         {
-          "term": "general strike",
-          "explain": "Many industries stop work on the same day.",
+          "term": "Uyghurs",
+          "explain": "A mostly Muslim Turkic ethnic group from Xinjiang, western China.",
+          "aliases": [
+            "Uyghur"
+          ]
+        },
+        {
+          "term": "deportation",
+          "explain": "Forcing someone to leave a country.",
+          "aliases": [
+            "deported"
+          ]
+        },
+        {
+          "term": "crime against humanity",
+          "explain": "Very serious, widespread attacks on civilians, under international law.",
           "aliases": []
         },
         {
-          "term": "CGT",
-          "explain": "Major French left-wing trade union.",
-          "aliases": []
-        },
-        {
-          "term": "GDP",
-          "explain": "Size of a country’s economy.",
+          "term": "third country",
+          "explain": "A different country that agrees to take refugees.",
           "aliases": []
         }
       ]
@@ -655,31 +747,40 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "social",
-      "headline": "Teens worldwide still don’t move enough — girls fall even further behind, new data show",
-      "dek": "Global adolescent exercise gap is a quiet health emergency.",
-      "caveman": "NPR reports new findings: teenagers around the world still fail to get enough physical activity, and girls lag boys even more. Screens, unsafe streets, sports access, and school schedules all play roles. Experts warn lifelong risks — heart disease, mental health, bone strength — start with habits formed now. Fix ideas include safer play spaces, quality PE, and cutting the homework-vs-sport tradeoff that hits girls harder in many cultures.",
-      "why_it_matters": "Public health is not only hospitals; it is whether kids can run, play, and feel strong.",
-      "camps": "Schools say curricula are packed. Parents cite safety and time. Health agencies push PE and city design.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-      "published": "2026-11-05",
+      "headline": "‘The blue wave isn't applicable to trans people’: Washington state voters approve school sports ban; advocates prepare lawsuit",
+      "dek": "Initiative 638 requires girls to ‘verify biological sex’; opponents warn of invasive exams.",
+      "caveman": "While Democrats won big across the US last week, voters in Washington state — long a safe haven for transgender people — approved Initiative 638. It bans transgender girls from girls' school sports and takes effect next month. The text says all girls in school sports must ‘verify biological sex,’ which can include confirming ‘reproductive anatomy.’ Opponents say that could force tens of thousands of girls into invasive body checks. A coalition of advocacy groups plans to sue in state courts, citing Washington's strong privacy and anti-discrimination laws. The same conservative group, Let's Go Washington, lost its two other ballot measures this year, including one to repeal a tax on high earners.",
+      "why_it_matters": "It shows that voters can lean left on economics and still back limits on trans rights — and that courts are now the main battlefield.",
+      "camps": "Supporters say the ban is about fairness and safety in girls' sports. Opponents say it singles out a tiny group of kids and invades all girls' privacy. Legal experts expect a long court fight.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/society/2026/nov/08/trans-ban-washington-state-legal-battle",
+      "published": "2026-11-08",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Teenagers exercising / activity gap",
-      "image_credit": "Photo: via NPR",
+      "image_alt": "A No Hate in Washington State rally in Seattle",
+      "image_credit": "Photo: Lindsey Wasson/AP via The Guardian",
       "terms": [
         {
-          "term": "adolescent",
-          "explain": "Young person roughly age 10–19.",
+          "term": "transgender",
+          "explain": "A person whose gender identity is different from the sex they were assigned at birth.",
+          "aliases": [
+            "trans"
+          ]
+        },
+        {
+          "term": "initiative",
+          "explain": "A law proposed by citizens and decided by a public vote.",
+          "aliases": [
+            "Initiative 638"
+          ]
+        },
+        {
+          "term": "safe haven",
+          "explain": "A place where people are protected from harm.",
           "aliases": []
         },
         {
-          "term": "PE",
-          "explain": "Physical education class at school.",
-          "aliases": []
-        },
-        {
-          "term": "gender gap",
-          "explain": "Difference in outcomes between girls and boys.",
+          "term": "blue wave",
+          "explain": "A big election win for Democrats (whose color is blue).",
           "aliases": []
         }
       ]
