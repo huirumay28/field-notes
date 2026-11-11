@@ -1,47 +1,52 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-10T08:00:00+08:00",
-  "notes": "Tuesday 10 Nov 2026 world issue (Taipei ~08:00). Window: Mon 9 Nov. Economy: Boeing cuts 5%; PepsiCo 1,000 jobs; UK low-wind power call; Children's Place bankruptcy. Tech (USA): FBI probes Huang affair; Anthropic Fable/Mythos 5.2; CoreWeave doom-cycle; Senate permitting bill, data centers pay. Politics: Massie impeachment of Hegseth; Trump doubts midterms; Pope Leo rebukes Milei; Trump says Iran war over. Literature (USA): Biden memoir tour cut NOT; Fisketjon dies NOT; Hoffman memoir HOT; Capote auction HOT. Social: Senegal migrant boat; Russell Brand sentenced; Gaza landslide; Queensland rape-case report.",
+  "fetched_at": "2026-11-11T08:00:00+08:00",
+  "notes": "Wednesday 11 Nov 2026 world issue (Taipei ~08:00). Window: Tue 10 Nov. Economy: US October CPI +0.4%, 10-year yield back near 5%, Waller flags possible 50bp December hike; Brent briefly under $90 on Iran-war-over hopes; SoftBank $7B quarterly loss; White House presses on tariffs after midterms. Tech (USA): Anthropic IPO $70–78, up to $1.4tn, trading Nov. 19; Nvidia hires Wachtell as shares slump and a shareholder lawsuit lands; CoreWeave beats and lifts guidance; Ring unveils indoor drone and Rover patrol robot. Politics: House 211–204 vote buries Hegseth impeachment; first day of Ukraine talks in Abu Dhabi called constructive; Israel's new Knesset sworn in as Eisenkot tries to unseat Netanyahu; US boycotts UN human-rights review for a second year. Literature (USA): HOT Proulx, Maddow, Nelson books out; HOT Stylus Prize $750k to Graywolf, One Story, The Porch; NOT WeLib ordered to pay publishers $19.5m; NOT librarian and comics advocate Katharine Kan dies at 71. Social: Trinidad and Tobago anti-gay laws overturned; House report says US failures enabled Epstein after 2005; Board of Peace says Israel's Gaza flood-aid response is insufficient; FDA requires NAION vision warning on GLP-1 drugs.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Boeing will cut about 5% of its passenger-jet workers because building planes is going slower than planned",
-      "dek": "Layoff notices start in December; Boeing now hopes to reach 52 of its 737 Max jets a month in late 2027.",
-      "caveman": "Boeing is one of the world's two big makers of passenger planes. It planned to build more 737 Max jets each month, but making the wings has gone slower than expected. Fewer planes means Boeing has more workers than it needs. So the head of its commercial-plane unit, Stephanie Pope, told staff it will cut about 5% of that workforce. Some will happen by not replacing people who leave; the rest are layoffs, with notices starting in December. Boeing is trying to hold steady at about 47 Max jets a month and hopes to hit 52 a month in the second half of 2027.",
-      "why_it_matters": "Airlines around the world, including in Asia, are waiting for new planes. Slow deliveries can mean fewer flights and higher ticket prices. And thousands of factory families feel the job cuts.",
-      "camps": "Boeing says it must match staff to a slower plan. Unions and workers say workers keep paying for management mistakes. Safety advocates say going slow is better than rushing after Boeing's past quality problems.",
+      "headline": "US prices rose 0.4% in October, more than expected, and the 10-year Treasury yield raced back toward 5%",
+      "dek": "Core inflation also came in a bit hot. A Federal Reserve official said that if prices stay high, a bigger rate increase in December should be on the table.",
+      "caveman": "The US government said consumer prices rose 0.4% from September to October. Economists had expected 0.3%. That is slower than September's 0.6% jump, but still hotter than hoped. Core prices, which skip food and energy, rose 0.3%, also a bit above forecasts. After the report, the yield on the 10-year Treasury note — the rate that helps set mortgages and many loans — traded back above 5% before easing to about 4.99%. The 2-year yield, which tracks what people think the Federal Reserve will do next, jumped more than 0.18 percentage points. Fed Governor Christopher Waller, speaking in London, said that if inflation keeps coming in high, officials should consider a 0.50 percentage-point rate increase in December, not just 0.25, or the Fed's credibility could be at risk. A weak auction of $42 billion in Treasury notes added to the selloff in bonds.",
+      "why_it_matters": "When the government has to pay more to borrow, mortgages, car loans and credit cards often get more expensive too. That is hard on households still angry about high prices after the midterm elections.",
+      "camps": "Some Fed officials want to hit inflation harder so it does not get stuck. Others worry that raising rates too fast could hurt jobs and the housing market. Markets now see a tighter path into 2027.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "published": "2026-11-10",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Boeing 737 Max jets on the factory floor",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Traders watch US stock and bond moves on a busy market day",
+      "image_credit": "Photo: Reuters via CNBC",
       "terms": [
         {
-          "term": "layoffs",
-          "explain": "When a company tells workers their jobs are ending.",
+          "term": "consumer price index",
+          "explain": "A monthly measure of how much a basket of everyday goods and services costs. If it rises, your money buys less.",
           "aliases": [
-            "involuntary layoffs"
+            "CPI",
+            "inflation"
           ]
         },
         {
-          "term": "attrition",
-          "explain": "Shrinking staff by not replacing people who quit or retire.",
-          "aliases": []
-        },
-        {
-          "term": "737 Max",
-          "explain": "Boeing's best-selling single-aisle passenger plane.",
+          "term": "core CPI",
+          "explain": "The same price measure, but without food and energy, which jump around a lot. Officials watch it to see the underlying trend.",
           "aliases": [
-            "Max"
+            "core inflation"
           ]
         },
         {
-          "term": "production rate",
-          "explain": "How many planes a factory finishes each month.",
-          "aliases": []
+          "term": "Treasury yield",
+          "explain": "The interest rate the US government pays to borrow. When yields go up, bond prices fall, and many other loan rates often follow.",
+          "aliases": [
+            "10-year yield"
+          ]
+        },
+        {
+          "term": "basis point",
+          "explain": "One hundredth of a percentage point. So 50 basis points is 0.50%.",
+          "aliases": [
+            "bps"
+          ]
         }
       ]
     },
@@ -49,31 +54,35 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "PepsiCo cuts about 1,000 jobs as Americans buy fewer of its drinks and snacks",
-      "dek": "North American drink sales fell 2% last quarter even after price cuts and more ads.",
-      "caveman": "PepsiCo makes Pepsi, Gatorade, Lay's chips and Doritos. Its home business in North America is struggling: in the last three months, it sold 2% fewer drinks, and snack sales were flat. The company already cut prices and spent more on ads, but the fix is taking longer than hoped. Now it will cut about 1,000 jobs over the next week, saying it wants to be faster and better connected. PepsiCo has about 306,000 workers worldwide, about 125,000 in the US. Its stock is down almost 1% this year while the overall US market is up about 11%.",
-      "why_it_matters": "Big food companies are a sign of how ordinary shoppers feel. When people buy fewer chips and sodas, it often means budgets are tight — or tastes are moving to healthier choices and weight-loss drugs.",
-      "camps": "The company says it is making the business stronger. Workers say job cuts are an easy fix for bosses. Some health experts note people may simply be drinking less sugar, which is not bad news for everyone.",
+      "headline": "Brent crude briefly slips below $90 for the first time since August after Trump says the Iran war is nearing an end",
+      "dek": "The global oil benchmark settled at $91.49, down about 1%. US crude settled at $86.04. Airline shares rose; oil companies fell.",
+      "caveman": "Oil prices dropped on Tuesday as markets took in President Donald Trump's comments that the nearly nine-month US war with Iran could end \"fairly soon\" and that Iran was \"militarily … effectively over.\" Brent crude, the price used for most of the world's oil, briefly fell to $89.16 a barrel, the first time since August it had dipped under $90, and settled down 1.17% at $91.49. US West Texas Intermediate crude settled at $86.04. Oil had already fallen sharply on Monday. Trump also said Gulf countries would rather keep a naval blockade than see new fighting. Crude started this year near $60, then soared as high as $130 when strikes escalated in the spring. Airline stocks in Europe rose on hopes of cheaper fuel; BP and Shell shares fell. Markets have been extremely sensitive to any hint that the Iran conflict is easing or heating up again.",
+      "why_it_matters": "Oil feeds into gasoline, airfare and the cost of shipping goods. A lasting drop would ease some inflation pressure, but prices can snap back if peace talks fail.",
+      "camps": "Trump presents the war as basically over. Iran's leaders have been more cautious about whether talks are even happening. Energy traders are hopeful but not fully convinced.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+      "published": "2026-11-10",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Bottles of Pepsi",
+      "image_alt": "Crude oil infrastructure as prices fall on hopes the Iran war is ending",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "volume",
-          "explain": "How many items a company sold, not how much money it made.",
-          "aliases": []
+          "term": "Brent crude",
+          "explain": "The main international oil price, used as a benchmark for about 80% of the world's crude.",
+          "aliases": [
+            "Brent"
+          ]
         },
         {
-          "term": "earnings outlook",
-          "explain": "A company's guess of how much profit it will make.",
-          "aliases": []
+          "term": "WTI",
+          "explain": "West Texas Intermediate, the main US oil price.",
+          "aliases": [
+            "US crude"
+          ]
         },
         {
-          "term": "S&P 500",
-          "explain": "An index of 500 big US companies, used to measure the US stock market.",
+          "term": "naval blockade",
+          "explain": "Using ships to stop another country from moving goods or weapons by sea.",
           "aliases": []
         }
       ]
@@ -82,36 +91,40 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Britain's power operator makes a rare morning call for more electricity as the wind stops blowing across Europe",
-      "dek": "The shortfall shrank and was cancelled by 9am — officials say there was never a risk of blackouts.",
-      "caveman": "Great Britain gets a lot of its electricity from wind. On Monday, forecasts showed very little wind across Europe. The National Energy System Operator (Neso), which keeps supply and demand balanced every minute, warned on Sunday night that it was about 1,400 megawatts short for Monday morning — and asked power plants to offer about 800 more, like one medium gas plant. Power companies stepped up. The gap shrank to 500, then 200, and the warning was cancelled just after 9am. Such notices used to come mostly on cold winter evenings; now they are showing up at odd times, even in summer heatwaves.",
-      "why_it_matters": "As countries switch to wind and solar, they need backup for calm, dark days — batteries, gas plants, or power cables to neighbors. Taiwan faces the same puzzle as it grows renewable energy.",
-      "camps": "Neso says this was routine and safe. Clean-energy supporters say it shows why more storage and grid links are needed. Critics of fast green policy say it proves the system still depends on gas.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall",
-      "published": "2026-11-09",
+      "headline": "SoftBank posts a $7 billion quarterly loss after a hit on US AI data-center equipment and a drop in Intel shares",
+      "dek": "The Japanese investment giant also booked a $3.7 billion loss over six months tied to changing plans for power gear at American projects.",
+      "caveman": "SoftBank, the big Japanese firm that pours money into technology companies, reported a net loss of 1.12 trillion yen, about $7 billion, for its fiscal second quarter. Part of the pain came from US artificial-intelligence data-center projects, and part from a fall in the value of its Intel shares. Over the six months ending September 30, it recorded a 597.2 billion yen, or $3.7 billion, loss after changing procurement plans for power-generation equipment meant for those US sites. SoftBank had bought equipment early because it feared shortages and long waits; by the end of September it had already paid $9.48 billion for power gear, including for a campus in Pike County, Ohio. Revenue still rose 13.3% over those six months, helped by telecom and AI computing. Its Vision Fund unit swung to a loss. SoftBank's stake in OpenAI was valued at $99.6 billion at the end of September, on $54.6 billion invested; a newer, higher OpenAI valuation had not yet been counted.",
+      "why_it_matters": "SoftBank is one of the biggest backers of the AI boom. A loss this large shows that building data centers is not just about chips — it is also about scarce electric power, and the bets can go wrong.",
+      "camps": "The company says it had to secure equipment early. Critics see another reminder that AI infrastructure is expensive, delayed and hard to finance. Investors will watch whether a higher OpenAI valuation later offsets the hit.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "published": "2026-11-10",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Offshore wind turbines",
-      "image_credit": "Photo: Caroline Walker / The Guardian",
+      "image_alt": "SoftBank founder Masayoshi Son at a public event",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "megawatt",
-          "explain": "A unit of electric power. 1 megawatt can run hundreds of homes.",
+          "term": "SoftBank",
+          "explain": "A Japanese company best known for investing in technology firms through its Vision Funds.",
+          "aliases": []
+        },
+        {
+          "term": "data center",
+          "explain": "A building full of computers that run internet services and AI systems. They need huge amounts of electricity.",
           "aliases": [
-            "MW",
-            "megawatts"
+            "data-center"
           ]
         },
         {
-          "term": "margin notice",
-          "explain": "A warning that the spare power cushion is getting thin.",
+          "term": "Vision Fund",
+          "explain": "SoftBank's giant pools of money for investing in tech companies around the world.",
           "aliases": [
-            "electricity margin notice"
+            "Vision Funds"
           ]
         },
         {
-          "term": "grid",
-          "explain": "The network of power plants and wires that carries electricity.",
+          "term": "procurement",
+          "explain": "The process of buying equipment or supplies, often far in advance.",
           "aliases": []
         }
       ]
@@ -120,37 +133,37 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Children's Place, a big US kids' clothing chain, files for bankruptcy and looks for a buyer",
-      "dek": "Its 514 stores stay open for now; the company blames tariffs and slower shopping.",
-      "caveman": "The Children's Place sells clothes for babies and kids, and also owns Gymboree. It has 514 stores in North America and sells in 13 countries. On Sunday it filed for Chapter 11 bankruptcy, which lets a company keep running while it deals with debts. It wants offers from buyers by December 9 and hopes to close a sale by the end of December. Stores and websites stay open for now. The company says tariffs (taxes on imported goods) and shoppers spending less hurt it. A Saudi investment firm, Mithaq Capital, took control in 2024 when it was already in trouble, but things did not turn around.",
-      "why_it_matters": "Most kids' clothes are made in Asia. Tariffs raise their cost, and families feel it. A big chain closing can also mean lost jobs at malls.",
-      "camps": "Free-trade supporters say tariffs are pushing stores like this over the edge. Tariff supporters say retailers relied too much on cheap imports. Others say the bigger problem is shoppers moving online to cheaper sites.",
+      "headline": "The White House says it will keep Trump's tariffs going, even after voters punished Republicans over high prices",
+      "dek": "A former top Trump economic adviser called the tariffs \"a consumption tax on the US consumer.\" A new poll found 62% of Americans want them repealed.",
+      "caveman": "One week after the midterm elections, in which high prices helped Democrats win, the White House said it would stay the course on tariffs — extra taxes on imported goods. Jim Goyer, who runs the White House Office of Public Liaison, told a business gathering in Washington that tariffs help rebuild US factories, protect supply chains and serve national security. \"We are just getting started,\" he said. Later the same day, Gary Cohn, who was President Donald Trump's chief economic adviser in his first term, disagreed in public. \"Tariffs are a consumption tax on the US consumer,\" he said, arguing that they raise prices and make people think twice about buying. A CNBC voter poll found about two-thirds of voters said Trump's policies added to inflation, and nearly nine in 10 said the cost of living was a major or crucial reason for their vote. A Reuters/Ipsos poll released Tuesday found 62% of Americans supported repealing the tariffs, and only 21% approved of Trump's handling of living costs.",
+      "why_it_matters": "Tariffs can protect some factories, but they often make imported food, clothes, parts and machines more expensive. That tension is now a central fight after the election.",
+      "camps": "The White House says the old trading system is gone and tariffs are here to stay. Many voters, and even some former Trump aides, say the policy is showing up in household bills.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+      "published": "2026-11-10",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "A Children's Place store front",
+      "image_alt": "Shipping containers at a US port, a symbol of tariff-affected trade",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "Chapter 11",
-          "explain": "A type of US bankruptcy that lets a company keep operating while it fixes its debts or sells itself.",
+          "term": "tariff",
+          "explain": "A tax on goods coming into a country. Importers usually pay it first, then often pass some or all of the cost on to shoppers.",
           "aliases": [
-            "bankruptcy protection",
-            "bankruptcy"
+            "tariffs",
+            "duties"
           ]
         },
         {
-          "term": "tariffs",
-          "explain": "Taxes a country puts on goods coming in from other countries.",
-          "aliases": [
-            "tariff"
-          ]
-        },
-        {
-          "term": "assets",
-          "explain": "Things a company owns that have value — stores, brands, stock.",
+          "term": "consumption tax",
+          "explain": "A tax you pay when you buy something, rather than on your paycheck. Cohn is saying tariffs work like this for shoppers.",
           "aliases": []
+        },
+        {
+          "term": "midterm elections",
+          "explain": "US elections in the middle of a president's term, when the whole House and part of the Senate can change hands.",
+          "aliases": [
+            "midterms"
+          ]
         }
       ]
     },
@@ -158,38 +171,39 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "Trump says the FBI is investigating Nvidia CEO Jensen Huang's affair with an alleged Chinese spy",
-      "dek": "Nvidia lost about $250 billion in value on Monday as shares fell about 4%.",
-      "caveman": "Jensen Huang runs Nvidia, the company that makes most of the chips powering AI. On Sunday he admitted he had an affair. US intelligence officials believe the woman, Alice Huang (no relation), who ran Singapore company Megaspeed, was a spy for China, the New York Times reported. President Trump said Monday the FBI is now looking into it. He said he called Huang, who told him he had no idea she was a spy — and Trump said he believes him. Nvidia's board started its own independent investigation and says it sees no sign that secrets leaked. China calls the claims groundless. Lawmakers from several committees want Huang at a closed-door briefing next week.",
-      "why_it_matters": "Nvidia is the most important company in the AI boom and a huge customer for Taiwan chipmakers. Any risk that its secrets or chips reached China is a national-security question for the US — and a market worry for Taiwan.",
-      "camps": "Trump and many tech leaders are standing by Huang. Democrats and some Republicans want answers on what officials knew and when. Some reporting says US officials were warned last spring. China says it is a smear.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-      "published": "2026-11-09",
+      "headline": "Anthropic sets its IPO price at $70 to $78 a share and aims to start trading on November 19",
+      "dek": "At the top of the range the Claude-maker could be worth about $1.4 trillion and raise more than $64 billion, plus a $26 billion side deal with big tech firms including TSMC and Nvidia.",
+      "caveman": "Anthropic, the US company behind the Claude chatbot, filed a new price range for its stock-market debut: $70 to $78 a share for 825 million shares. People familiar with the plans said it aims to set the final price on November 18 and begin trading on November 19. At the high end it could raise up to $64.35 billion and be worth as much as $1.405 trillion, counting all shares and options — huge, but below the $2 trillion some backers had talked about earlier this year. Anthropic also arranged a $26 billion private sale of stock, at the same price as the IPO, to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and Taiwan Semiconductor Manufacturing Company. About 20% of the IPO is aimed at ordinary investors, more than the usual 5% to 10%. The timing is rocky: last week's midterm elections and worries about high interest rates have made investors more nervous about paying for giant AI buildouts.",
+      "why_it_matters": "This would be one of the biggest market debuts ever. If the stock soars, it could restart excitement about AI companies; if it stumbles, it would feed doubts that the spending boom can pay off.",
+      "camps": "Bulls point to huge demand and a long list of famous backers. Skeptics note that earlier $2 trillion talk has been walked down, and midterm politics could slow new data centers.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "published": "2026-11-10",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Donald Trump and Nvidia CEO Jensen Huang",
-      "image_credit": "Photo: Getty Images via BBC",
+      "image_alt": "Anthropic's office or branding as the company prepares to go public",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "FBI",
-          "explain": "The US federal police agency that also hunts spies.",
-          "aliases": []
-        },
-        {
-          "term": "espionage",
-          "explain": "Spying — secretly gathering information for another government.",
+          "term": "IPO",
+          "explain": "Initial public offering: the first time a company sells shares to the public and lists them on a stock exchange.",
           "aliases": [
-            "spy"
+            "stock market debut",
+            "flotation"
           ]
         },
         {
-          "term": "independent investigation",
-          "explain": "A probe run by outside lawyers, not the company's own bosses.",
+          "term": "valuation",
+          "explain": "What the whole company is said to be worth, based on the share price times all the shares.",
           "aliases": []
         },
         {
-          "term": "closed-door briefing",
-          "explain": "A private meeting with lawmakers, not open to the public.",
+          "term": "private placement",
+          "explain": "A sale of shares to chosen investors, not through the public offering itself.",
+          "aliases": []
+        },
+        {
+          "term": "retail allocation",
+          "explain": "The slice of new shares reserved for ordinary individual investors, not just big funds.",
           "aliases": []
         }
       ]
@@ -198,43 +212,34 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "Anthropic releases faster, cheaper Claude models — its first big launch since its CEO called for slowing AI down",
-      "dek": "Claude Fable 5.2 and Mythos 5.2 arrive as the company prepares a stock-market debut that could value it at $1–1.5 trillion.",
-      "caveman": "Anthropic is a US AI company that makes the Claude chatbot. On Monday it released two new top models, Fable 5.2 and Mythos 5.2. It says they answer 30% faster and cost 20% less than the last version. In September its CEO, Dario Amodei, had called for slowing the pace of AI. The company says this is \"pacing, not pausing\" and that the models went through extra safety tests. Mythos is powerful at cybersecurity, so access has been limited; Fable is a public version with more guardrails. Anthropic is getting ready to sell shares to the public, possibly as soon as next week, aiming for a value of $1 trillion to $1.5 trillion.",
-      "why_it_matters": "This tests whether a company that talks a lot about AI safety can also win in a cut-throat market. The IPO is also a big signal for whether investors still believe in AI after recent stock crashes.",
-      "camps": "Supporters say careful releases with new safety checks are the responsible path. Critics say \"slow down\" means little if new models keep coming. Investors worry about high costs and growing anti-AI anger in US politics.",
+      "headline": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair; shares fall again and investors sue",
+      "dek": "The board named former federal prosecutor Joon H. Kim to lead the probe. The stock dropped about 6% on Tuesday after a 4% fall on Monday.",
+      "caveman": "Nvidia's independent board members said they have hired the New York law firm Wachtell, Lipton, Rosen & Katz, and attorney Joon H. Kim, a former acting US attorney in Manhattan, to investigate CEO Jensen Huang and whether company secrets or national security were compromised. Huang has admitted an affair with Alice Huang, also known as Huang Le, a former executive at Nvidia customer Megaspeed. US officials have been reported as concluding she was tied to Chinese intelligence. The FBI is also investigating. Nvidia shares fell about 6% on Tuesday, after more than 4% on Monday, as investors worried the investigation could force the co-founder and CEO out. A shareholder lawsuit filed in federal court in San Jose, California, accuses Nvidia and Huang of misleading investors about the relationship and about Megaspeed, which has faced questions over whether Nvidia chips were diverted to China. Nvidia has said it studied Megaspeed's chip deployments. The company has been under pressure from critics and lawmakers over what it knew.",
+      "why_it_matters": "Nvidia makes the chips that power most leading AI systems. If its CEO were forced out, or if export rules tightened further, the shock would move through the whole tech economy, including Taiwan's supply chain.",
+      "camps": "The board says it wants a thorough, independent investigation. Huang's supporters argue he should stay and that customer meetings are normal. Investors and some politicians want clearer answers about China and succession.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+      "published": "2026-11-10",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Anthropic CEO Dario Amodei at the company's San Francisco headquarters",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Nvidia CEO Jensen Huang, whose board has hired a law firm to investigate",
+      "image_credit": "Photo: Reuters via CNBC",
       "terms": [
         {
-          "term": "frontier model",
-          "explain": "The most advanced AI systems at the cutting edge.",
-          "aliases": [
-            "frontier models"
-          ]
-        },
-        {
-          "term": "IPO",
-          "explain": "Initial public offering — when a company first sells shares on the stock market.",
-          "aliases": [
-            "roadshow"
-          ]
-        },
-        {
-          "term": "tokens",
-          "explain": "Small pieces of text AI reads and writes; AI is often priced per million tokens.",
+          "term": "independent investigation",
+          "explain": "A review run by outside lawyers, not by the CEO's own team, meant to look at what happened without taking his side.",
           "aliases": []
         },
         {
-          "term": "guardrails",
-          "explain": "Safety limits built into an AI to stop harmful uses.",
+          "term": "shareholder lawsuit",
+          "explain": "A case in which investors accuse a company or its leaders of hiding important facts and hurting the stock.",
           "aliases": [
-            "safeguards"
+            "class-action"
           ]
+        },
+        {
+          "term": "Megaspeed",
+          "explain": "A Singapore-based company that buys Nvidia chips. It has been accused, and Nvidia has disputed, of helping send chips to China.",
+          "aliases": []
         }
       ]
     },
@@ -242,45 +247,34 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "AI cloud renter CoreWeave faces a 'doom cycle' fear: lenders get nervous as voters turn against data centers",
-      "dek": "Its bonds now pay over 16%, a sign lenders see real risk; results come out Tuesday.",
-      "caveman": "CoreWeave is a \"neocloud\": a company that buys huge numbers of Nvidia chips and rents that computing power to AI firms. It pays for the chips mostly with borrowed money. In the past month, neocloud stock prices fell by half. In last week's US elections, voters rejected data centers in 40 of 41 local ballot measures, and Democrats won many governor races. Lenders now worry. Some CoreWeave bonds pay above 16% interest, and the cost of insurance against it failing to repay jumped 50% in a month. The \"doom cycle\" fear: tighter loans slow building, which hurts income, which makes loans even harder. CoreWeave's CEO says customer deals are not affected.",
-      "why_it_matters": "A lot of the AI boom runs on debt. If lenders pull back, AI building slows — which would affect Taiwan's server and chip makers.",
-      "camps": "Bulls say demand for AI computing is still huge and the panic is overdone. Bears say too much borrowing on hopeful growth looks like past bubbles. Local residents who voted no say they are protecting their power bills, water and land.",
+      "headline": "AI cloud company CoreWeave beats revenue forecasts and raises its outlook, easing some slowdown fears",
+      "dek": "Revenue jumped 168% from about $1.36 billion a year earlier. The company still lost $709 million and is carrying almost $47 billion in debt.",
+      "caveman": "CoreWeave, a US company that rents out Nvidia chips in the cloud so other firms can run AI, reported stronger third-quarter results than Wall Street expected and raised its forecast for 2026. Revenue soared 168% from about $1.36 billion a year earlier. The company still posted a net loss of $709 million, or $1.27 a share, wider than the $110 million loss a year ago. It now expects 2026 revenue of $13 billion to $13.3 billion and adjusted operating income of $1.275 billion to $1.375 billion, both higher than its August guidance and higher than analysts' estimates. The stock rose after hours. Even so, CoreWeave has lost more than 40% of its market value in the past month. Some of its bonds recently yielded more than 16%, a sign lenders are nervous. The company ended the quarter with almost $47 billion in debt. Its finance chief said it does not plan to issue more parent-level unsecured debt through 2027 at today's yields, and will lean on customer prepayments and loans tied to specific assets.",
+      "why_it_matters": "This is a test of whether the companies building AI data centers can keep growing even as borrowing gets more expensive. Strong demand is encouraging; the debt pile is the worry.",
+      "camps": "Bulls say the numbers show AI demand is still real. Skeptics note the company is losing money and owes a huge amount, so a tight credit market could still squeeze it.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "published": "2026-11-10",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "CoreWeave CEO Michael Intrator on CNBC at the New York Stock Exchange",
+      "image_alt": "CoreWeave leadership at a public forum as the company reports earnings",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "neocloud",
-          "explain": "A newer company that rents out AI computing power, competing with Amazon, Microsoft and Google.",
+          "term": "CoreWeave",
+          "explain": "A US \"neocloud\" company: it buys expensive AI chips and rents the computing time to other businesses.",
+          "aliases": []
+        },
+        {
+          "term": "guidance",
+          "explain": "A company's own forecast of future sales or profits, which investors use to judge whether business is speeding up or slowing down.",
           "aliases": [
-            "neoclouds"
+            "outlook"
           ]
         },
         {
-          "term": "bond yield",
-          "explain": "The interest a borrower must pay; higher means lenders see more risk.",
-          "aliases": [
-            "yields"
-          ]
-        },
-        {
-          "term": "credit default swap",
-          "explain": "Insurance investors buy in case a company can't repay its debt.",
-          "aliases": [
-            "CDS"
-          ]
-        },
-        {
-          "term": "data center",
-          "explain": "A giant building full of computers that power the internet and AI.",
-          "aliases": [
-            "data centers"
-          ]
+          "term": "unsecured debt",
+          "explain": "Borrowed money that is not tied to a specific building or machine as collateral. It is usually riskier, so lenders demand higher interest.",
+          "aliases": []
         }
       ]
     },
@@ -288,41 +282,29 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "US Senate moves forward a bill to build power plants and power lines faster — and make AI data centers pay for their own electricity",
-      "dek": "The 73–25 vote opens debate; Trump and many Democrats both back it.",
-      "caveman": "In the US, big projects like power plants, mines and power lines can wait years for environmental reviews. A bipartisan bill (supported by both parties), the Bipartisan American Affordability and Jobs Act, would speed up those reviews by changing several environmental laws. It would also make it easier to approve new power lines. And it would force AI companies and data-center builders to pay for the power and grid upgrades they need, instead of everyday customers. On Monday the Senate voted 73–25 to start debate. Republicans want to build faster in general; Democrats want faster solar and wind. Backers want it passed before the current Congress ends in January.",
-      "why_it_matters": "Data centers are driving up power demand and, in some places, household bills. Who pays for new power is becoming a big political fight.",
-      "camps": "Supporters say the US cannot build clean energy or anything else under today's slow rules. Environmental groups worry faster reviews mean less protection for nature and local communities. Some say making AI firms pay is a fair, overdue change.",
+      "headline": "Amazon's Ring unveils a $250 indoor flying camera and a $1,000 robot to patrol offices and warehouses",
+      "dek": "The textbook-sized drone follows a preset path when an alarm goes off, then flies itself back to its charger. It is not allowed to go outside.",
+      "caveman": "Ring, the Amazon-owned doorbell-camera company, introduced two new security gadgets on Tuesday. The Ring Drone Cam costs $250. It is a small indoor drone that can fly from room to room, including upstairs, when a window, door or other sensor is triggered, or when the owner sends it. It can fly for up to eight minutes, then return to its charging dock by itself. CEO Jamie Siminoff said the built-in lights could scare off someone outside at night. The drone is noisy, and Ring says it cannot legally fly outdoors under US aviation rules. The company also launched the $1,000 Ring Rover Cam, a wheeled security robot based on Amazon's older Astro home robot, meant to patrol offices, warehouses and other workplaces. It has a rising camera, a siren, two-way audio and a light that shines on the ceiling so people can see where it is. Ring, which Amazon bought in 2018, has faced years of privacy criticism, including over police partnerships. It says an LED light flashes when the devices are recording.",
+      "why_it_matters": "A camera that flies around your house, or rolls around a workplace, collects far more than a doorbell video. The tools may deter crime, but they also deepen questions about who is being watched, and who else can see the footage.",
+      "camps": "Ring says one moving device can replace many fixed cameras, and that privacy is the default. Civil-liberties critics have long argued Ring is too close to police and too eager to put cameras in private spaces.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/senate-infrastructure-bill-data-centers.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "published": "2026-11-10",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "High-voltage electricity power lines",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Ring's indoor security drone hovering in a hallway",
+      "image_credit": "Photo: Ring via CNBC",
       "terms": [
         {
-          "term": "permitting",
-          "explain": "Getting government approval to build something.",
-          "aliases": [
-            "permitting reform"
-          ]
-        },
-        {
-          "term": "bipartisan",
-          "explain": "Supported by both major US parties.",
+          "term": "Ring",
+          "explain": "A company Amazon bought in 2018, best known for video doorbells and home security cameras.",
           "aliases": []
         },
         {
-          "term": "lame duck session",
-          "explain": "The weeks after an election when the old Congress is still in charge.",
+          "term": "Astro",
+          "explain": "Amazon's earlier home robot, now being reused as the base for Ring's workplace patrol robot.",
           "aliases": [
-            "lame duck"
+            "Ring Rover Cam"
           ]
-        },
-        {
-          "term": "transmission lines",
-          "explain": "Big power lines that carry electricity long distances.",
-          "aliases": []
         }
       ]
     },
@@ -330,40 +312,36 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "A Republican congressman forces a House vote on impeaching Defense Secretary Pete Hegseth",
-      "dek": "Thomas Massie lists eight charges; Trump says \"I'll stand by him.\"",
-      "caveman": "Impeachment is how the US Congress can charge a top official with serious wrongdoing — like a work firing, not a prison sentence. Rep. Thomas Massie, a Republican from Kentucky, filed articles of impeachment against Pete Hegseth, who runs the military, with eight charges of \"high crimes and misdemeanors.\" That sets up a House vote within about two days. Massie lost his primary this year after Hegseth campaigned for his opponent. He says the core issue is whether Congress really controls decisions to go to war. Hegseth calls it a \"sham.\" Trump backs him: \"He won two wars.\"",
-      "why_it_matters": "It is rare for a president's own party to push to impeach his cabinet member. It also tests Congress's power over war, after the long US war with Iran.",
-      "camps": "Massie and critics say Hegseth must answer for how wars were run. Hegseth and Trump call it revenge by a defeated lawmaker. Some Democrats, who take power in January, say tougher oversight is coming anyway.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-      "published": "2026-11-09",
+      "headline": "The House votes 211–204 to send Pete Hegseth's impeachment to committee, effectively killing the effort",
+      "dek": "Republican Thomas Massie forced the vote a day after filing eight articles. Almost no time remains before Democrats take over Congress in January.",
+      "caveman": "The US House of Representatives voted 211 to 204 on Tuesday to send impeachment articles against Defense Secretary Pete Hegseth to a committee. That move almost certainly means the House will not vote on actually impeaching him before this Congress ends. The effort was started Monday by Rep. Thomas Massie, a Kentucky Republican who often breaks with President Donald Trump. Massie accused Hegseth of waging war without Congress's approval, of extrajudicial killings in Caribbean boat strikes against suspected drug smugglers, and of going after Sen. Mark Kelly, a military veteran, in a way that chilled free speech. House Republican leaders wanted the effort stopped. CNBC reported that every Republican except Massie voted to send it to committee, and that all Democrats voted against that referral, because they wanted the impeachment to keep moving. Trump then claimed the effort had \"miserably FAILED\" and called it an \"EXONERATION.\" Democrats take control of the House and Senate in early January, leaving little time for this Congress to act.",
+      "why_it_matters": "Impeachment is how Congress can try to remove a Cabinet official. Burying the vote means there will be no full House judgment on Hegseth's conduct in the Iran war and other operations before power changes hands.",
+      "camps": "Trump and Republican leaders call the case a stunt. Massie and Democrats say the charges deserved a real debate, not a procedural burial. Hegseth's office said he followed lawful presidential orders.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "published": "2026-11-10",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Rep. Thomas Massie at the US Capitol",
-      "image_credit": "Photo: Roberto Schmidt / Getty Images via NPR",
+      "image_alt": "Defense Secretary Pete Hegseth, whose impeachment bid was blocked in the House",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
           "term": "impeachment",
-          "explain": "When the House formally charges an official with wrongdoing; the Senate then decides whether to remove them.",
+          "explain": "A formal charge by the House that a president or other official committed serious wrongdoing. The Senate would then hold a trial.",
           "aliases": [
-            "impeach",
             "articles of impeachment"
           ]
         },
         {
-          "term": "high crimes and misdemeanors",
-          "explain": "The Constitution's phrase for serious abuse of power.",
+          "term": "refer to committee",
+          "explain": "A procedural vote that sends a measure off the floor and into a committee, which can let it die quietly when time is short.",
           "aliases": []
         },
         {
-          "term": "war powers",
-          "explain": "The rules on who can send the US into war — Congress or the president.",
-          "aliases": []
-        },
-        {
-          "term": "primary",
-          "explain": "An election inside a party to pick its candidate.",
-          "aliases": []
+          "term": "extrajudicial",
+          "explain": "Done outside the courts. Critics use this word when they say killings happened without a legal trial or clear authority.",
+          "aliases": [
+            "extrajudicial killings"
+          ]
         }
       ]
     },
@@ -371,41 +349,34 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Trump questions whether the midterm elections were honest — days after saying he would accept the results",
-      "dek": "He offered no evidence; experts and officials say the vote went smoothly.",
-      "caveman": "Last week, Democrats won control of both the House and the Senate. On election night Trump told the New York Times he was \"absolutely willing\" to accept the results. On Monday he posted on Truth Social: \"Does anybody really believe that this 'Election' was honest?\" He made vague claims about polls, vote \"dumps\" and \"machines\" without specific proof. State and local officials said voting was mostly problem-free. An MIT election expert said vote counts came in with the normal, expected patterns. A few races, including Senate seats in Alaska and Mississippi, are still not called.",
-      "why_it_matters": "When a leader doubts elections without proof, people may lose trust in voting itself — even people on the winning side. That can make peaceful handovers of power harder.",
-      "camps": "Trump's supporters say they are just asking questions about surprise results. Election officials of both parties say the system worked. Democracy experts warn that repeated fraud claims without evidence wear down faith in democracy.",
+      "headline": "Zelensky calls the first day of Ukraine peace talks in Abu Dhabi \"constructive\"; a second day follows",
+      "dek": "US officials said Moscow and Kyiv were showing a little flexibility on who would control Ukraine's east after a war. Prisoner exchanges were also discussed.",
+      "caveman": "Senior officials from Ukraine, Russia and the United States met for about four hours in Abu Dhabi on Tuesday, the first of two days of talks aimed at ending Russia's full-scale war. President Volodymyr Zelensky, who was not in the room, said the discussion had been \"constructive and quite substantive.\" US Secretary of State Marco Rubio, speaking from Paris, called it \"very productive.\" Officials on the scene were tight-lipped. US officials had said earlier that both sides were privately showing \"a little bit of flexibility\" on who would control Ukraine's eastern regions after a war. Zelensky said humanitarian issues, including prisoner-of-war exchanges, were discussed. President Donald Trump's son-in-law, Jared Kushner, told delegates the US had \"narrowed the gaps\" and hoped to move toward a solution that ends the war. Kushner and Steve Witkoff are part of the US team. Expectations for a sudden breakthrough remain low. Talks were due to continue on Wednesday.",
+      "why_it_matters": "A real opening in talks could mean fewer deaths and a path to rebuilding. A weak deal, though, could lock in territorial losses and leave Ukraine less secure.",
+      "camps": "The US presents itself as a broker narrowing differences. Ukraine wants security guarantees, not just a ceasefire. Russia has not publicly shown that it will give up its core demands.",
       "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
-      "published": "2026-11-09",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+      "published": "2026-11-10",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Donald Trump speaking",
+      "image_alt": "Officials gather for Ukraine-Russia-US talks in Abu Dhabi",
       "image_credit": "Photo: Getty Images via BBC",
       "terms": [
         {
-          "term": "midterm elections",
-          "explain": "US elections held halfway through a president's four-year term.",
-          "aliases": [
-            "midterms",
-            "midterm"
-          ]
-        },
-        {
-          "term": "legitimacy",
-          "explain": "Whether a result is accepted as fair and real.",
-          "aliases": [
-            "integrity"
-          ]
-        },
-        {
-          "term": "voter fraud",
-          "explain": "Illegal voting; studies show it is extremely rare in the US.",
+          "term": "trilateral talks",
+          "explain": "Meetings with three sides at the table. Here that means Ukraine, Russia and the United States.",
           "aliases": []
         },
         {
-          "term": "called",
-          "explain": "When media declare a race winner after enough votes are counted.",
+          "term": "prisoner of war",
+          "explain": "A soldier captured by the other side in a war. Exchanges send some of those people home.",
+          "aliases": [
+            "POW",
+            "prisoner-of-war"
+          ]
+        },
+        {
+          "term": "eastern regions",
+          "explain": "Areas in eastern Ukraine, including places Russia occupies or claims, that are a core dispute in any peace deal.",
           "aliases": []
         }
       ]
@@ -414,36 +385,34 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Pope Leo tells Argentina's President Milei: the economy must serve people, not the other way round",
-      "dek": "On his first stop in the late Pope Francis's home country, Leo defends the poor, pensioners and disabled people hit by cuts.",
-      "caveman": "Javier Milei, Argentina's president, has made deep spending cuts (called austerity) for three years to fight inflation — including cuts to help for disabled people. Pope Leo XIV, head of the world's 1.4 billion Catholics, arrived in Buenos Aires on Sunday. Standing with Milei, he said \"the economy must be at the service of the people.\" He spoke up for poor families, pensioners and the sick. He also hinted at Milei's harsh language, saying democracy needs listening and careful words. Huge crowds cheered. It is the first papal visit to Argentina in nearly 40 years, and Leo is touring just three weeks after lung-cancer surgery.",
-      "why_it_matters": "Argentina is a big test of whether harsh cuts can fix a broken economy. The pope's words give weight to people who say the poor are paying the price.",
-      "camps": "Milei's supporters say austerity brought inflation down and saved the economy. Critics, unions and many Catholics say it hurt the weakest. Some say the pope should stay out of politics; others say defending the poor is his job.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-      "published": "2026-11-09",
+      "headline": "Israel's new parliament is sworn in as Gadi Eisenkot tries to assemble a government and oust Netanyahu",
+      "dek": "Eisenkot's bloc won 48 seats, Netanyahu's 53 — both short of a majority in the 120-seat Knesset. Eisenkot has 28 days, plus a possible two-week extension.",
+      "caveman": "Israel's newly elected parliament, the Knesset, was sworn in as opposition leader Gadi Eisenkot, a former army chief, tries to form a government and replace caretaker Prime Minister Benjamin Netanyahu. Eisenkot received more formal recommendations from lawmakers than Netanyahu, so he has been given the first chance, even though not all of his backers want to govern together. In October's election, Eisenkot's four-party bloc won 48 seats and Netanyahu's bloc won 53, so neither has the 61 needed for a majority. Eisenkot has 28 days to build a coalition, with a possible two-week extension. Almost half of the new members did not serve in the last parliament, and Arab-led parties have a record number of seats. After the swearing-in, Netanyahu warned against a government that depends on Arab parties, and called for a national-unity government to face what he called the threat of a nuclear Iran. Eisenkot called that speech \"delusional, divisive, hate-filled and shameful\" and said Netanyahu was unfit to stay in office. Netanyahu remains caretaker prime minister until a coalition is formed, which could take weeks.",
+      "why_it_matters": "Whoever forms the next government will shape the war's aftermath, Gaza policy, and talks with Israel's neighbors. A long stalemate would leave a caretaker in charge at a volatile moment.",
+      "camps": "Netanyahu's camp says only a unity government, without Arab parties, is safe. Eisenkot's camp says voters wanted a change and that Netanyahu should go. Smaller parties will hold the bargaining power.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+      "published": "2026-11-10",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Pope Leo shakes hands with Argentine president Javier Milei in Buenos Aires",
-      "image_credit": "Photo: Daniel Dal Zennaro / EPA via The Guardian",
+      "image_alt": "Israeli opposition leader Gadi Eisenkot, who has been tasked with trying to form a government",
+      "image_credit": "Photo: Reuters via BBC",
       "terms": [
         {
-          "term": "austerity",
-          "explain": "Big government spending cuts to reduce debt or inflation.",
-          "aliases": [
-            "austerity measures"
-          ]
-        },
-        {
-          "term": "inflation",
-          "explain": "When prices rise quickly and money buys less.",
+          "term": "Knesset",
+          "explain": "Israel's parliament. It has 120 seats. A government usually needs at least 61 supporters.",
           "aliases": []
         },
         {
-          "term": "pontiff",
-          "explain": "Another word for the pope.",
+          "term": "caretaker prime minister",
+          "explain": "The person who keeps running the government after an election, until a new coalition is agreed.",
           "aliases": [
-            "papal"
+            "caretaker"
           ]
+        },
+        {
+          "term": "coalition",
+          "explain": "An alliance of parties that together have enough seats to govern, because no single bloc won a majority.",
+          "aliases": []
         }
       ]
     },
@@ -451,37 +420,38 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Trump says the US war with Iran is 'effectively over' and new attacks don't seem necessary",
-      "dek": "Gulf leaders lobbied him not to restart fighting; the US naval blockade stays for now.",
-      "caveman": "The US and Iran have been at war for almost nine months. Before the US midterm elections, the US kept sending troops to the Middle East, and some expected new strikes afterward. On Monday, after meeting Qatar's prime minister, Trump said more military action \"doesn't seem to be a very necessary thing\" and that the war is \"effectively over\" — but the US is \"locked and loaded\" if needed. He said Gulf states prefer the current situation: a huge US naval blockade. Trump has claimed a peace deal was close many times before. Vice-President JD Vance said the war was a key reason Republicans lost the midterms.",
-      "why_it_matters": "The war has pushed up oil prices worldwide, including in Taiwan. Calmer talk already helped oil fall to its lowest level since August.",
-      "camps": "Supporters say pressure worked and the blockade keeps Iran in check. Critics say Trump often overstates progress and the war has no clear plan. Gulf neighbors mainly want to avoid more missiles flying.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
-      "published": "2026-11-09",
+      "headline": "The United States boycotts its UN human-rights review for a second year, the first country ever to skip twice",
+      "dek": "Washington has already left the Human Rights Council, but the review is supposed to be mandatory for every UN member. The ACLU and other groups still showed up in Geneva.",
+      "caveman": "The United States left an empty chair at the United Nations' universal periodic review in Geneva, a process in which every country's human-rights record is examined by other countries every few years. It is the second year in a row the US has skipped, and the first time any UN member has failed to appear twice. Israel once skipped a review in 2013 and came back nine months later; no country had missed two. Civil-society groups still traveled to Geneva, led by the American Civil Liberties Union. The ACLU's Jamil Dakwar said the Trump administration was violating rights \"unabashed,\" pointing to the treatment of immigrants, student protesters and LGBTQ people, and warned that the administration wanted to \"dismantle human rights.\" The State Department replied that the US has withdrawn from the 47-member Human Rights Council, which it accuses of \"anti-American rhetoric.\" Leaving the council, though, does not cancel the review, which is supposed to cover all 193 UN members. The UN has few ways to punish a no-show. Rights groups want the review to go ahead anyway, using evidence already submitted.",
+      "why_it_matters": "If the most powerful country can skip a review that is meant to apply to everyone, the idea that no government is above scrutiny gets weaker — and other governments may copy the tactic.",
+      "camps": "The US administration says the council is biased and hostile. Rights groups say that is a reason to show up and argue, not to walk away, and they see a wider pattern of leaving international bodies.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "published": "2026-11-10",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Donald Trump speaks to reporters in the White House briefing room",
-      "image_credit": "Photo: Alex Brandon / AP via The Guardian",
+      "image_alt": "The UN Human Rights Council meets in Geneva, where the US left an empty chair",
+      "image_credit": "Photo: Lian Yi / Xinhua via Getty Images",
       "terms": [
         {
-          "term": "blockade",
-          "explain": "Using ships to stop goods going in or out of a country.",
+          "term": "universal periodic review",
+          "explain": "A UN process in which every member country's human-rights record is examined, in turn, by other countries.",
           "aliases": [
-            "naval blockade"
+            "UPR",
+            "human rights review"
           ]
         },
         {
-          "term": "escalation",
-          "explain": "Making a conflict bigger or more violent.",
+          "term": "Human Rights Council",
+          "explain": "A 47-country UN body that meets in Geneva on human-rights issues. The US has formally withdrawn from it.",
           "aliases": [
-            "escalate"
+            "UN Human Rights Council"
           ]
         },
         {
-          "term": "Gulf states",
-          "explain": "Arab countries along the Persian Gulf, like Qatar, Saudi Arabia and the UAE.",
+          "term": "ACLU",
+          "explain": "The American Civil Liberties Union, a US group that goes to court and to international forums to defend civil rights.",
           "aliases": [
-            "Gulf allies"
+            "American Civil Liberties Union"
           ]
         }
       ]
@@ -490,35 +460,29 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "NOT so hot: Joe Biden cuts back his book tour as his cancer advances — but his memoir 'Promise Me America' still lands Nov. 17",
-      "dek": "The former president says some days are better than others; the book calls Jan. 6 a shame that should follow Trump \"to his grave.\"",
-      "caveman": "Joe Biden was US president from 2021 to 2025. In May 2025 he was diagnosed with an aggressive prostate cancer. His White House memoir, Promise Me America, comes out on November 17. Usually a big memoir means a long tour of interviews and events. But Biden posted that his illness \"slows me down,\" so he will do far fewer talks and hopes \"the words on the page speak for themselves.\" Much of the book covers the January 6, 2021 attack on the US Capitol by Trump supporters. Biden writes plainly that \"Donald Trump led an insurrection.\"",
-      "why_it_matters": "Presidential memoirs are major publishing events and part of how history gets written. Fewer appearances may hurt sales — and fewer chances to answer questions about his age and record.",
-      "camps": "Fans see a moving, last-word book from a man facing illness. Critics, including some Democrats, still blame Biden for staying in the 2024 race too long. Trump supporters reject his account of January 6.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
-      "published": "2026-11-09",
+      "headline": "HOT: A big Tuesday for US books — Annie Proulx's stories, Rachel Maddow on the Justice Department, Willie Nelson on late-life art",
+      "dek": "Literary Hub's list of 20 new titles also includes novels by Chinelo Okparanta and Gabriel Bump, and a study of journalist Janet Malcolm.",
+      "caveman": "Tuesday was a packed release day in US publishing. Annie Proulx, the author of The Shipping News and the story that became the film Brokeback Mountain, published New and Selected Stories from Scribner, mixing classic work with three new stories. MSNBC host Rachel Maddow released Department of Fate, a history of the US Justice Department. Willie Nelson published The Last Leaf, about making art later in life. Other notable arrivals include Chinelo Okparanta's novel This Impossible Life, Gabriel Bump's Don't Stop Snowing, James Gleick's history of the telephone, and Eve Sneider's The Absent Woman, about the late journalist Janet Malcolm. (Dustin Hoffman's memoir also came out; it was already getting reviews this week.) For readers trying to catch up before the holidays, it is a mixed table: serious nonfiction, a career-spanning story collection, and new fiction.",
+      "why_it_matters": "Publication day is when books actually reach stores and libraries. A cluster of well-known names can set the conversation for the rest of the year, especially as awards season continues.",
+      "camps": "Some readers are here for Proulx's fiction. Others want Maddow's account of American law and power, or Nelson's reflections. The risk of a celebrity-heavy season is that quieter novels get less space.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/annie-proulx-dustin-hoffman-rachel-maddow-and-more-20-new-books-out-today/",
+      "published": "2026-11-10",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Joe Biden speaks to a crowd in Columbia, South Carolina",
-      "image_credit": "Photo: Sean Rayford / Getty Images via The Guardian",
+      "image_alt": "Covers and new titles featured in Literary Hub's list of books out November 10",
+      "image_credit": "Photo: Literary Hub",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A book where someone tells the story of their own life.",
+          "term": "New and Selected Stories",
+          "explain": "A book that gathers an author's best older short stories and adds some new ones, often as a career landmark.",
           "aliases": []
         },
         {
-          "term": "book tour",
-          "explain": "Events and interviews an author does to promote a new book.",
+          "term": "Justice Department",
+          "explain": "The US government department that runs federal prosecutors and much of the country's top law enforcement. Maddow's book is about its history.",
           "aliases": [
-            "promotion"
-          ]
-        },
-        {
-          "term": "insurrection",
-          "explain": "A violent uprising against the government.",
-          "aliases": [
-            "January 6"
+            "DOJ",
+            "Department of Justice"
           ]
         }
       ]
@@ -527,33 +491,35 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "NOT: Gary Fisketjon, the editor behind Cormac McCarthy, Donna Tartt and Don DeLillo, dies at 72",
-      "dek": "He launched Vintage Contemporaries in 1984 and spent 29 years at Knopf shaping modern American fiction.",
-      "caveman": "Book editors work behind the scenes: they pick books and help writers make them better. Gary Fisketjon was one of the most famous. In 1984 he started Vintage Contemporaries, a paperback line that made young writers cool to read. At Knopf, for 29 years, he worked with Cormac McCarthy, Donna Tartt, Don DeLillo, Jay McInerney, Joy Williams, Tobias Wolff and others — many now seen as classics of late-20th-century American fiction. He was known for very close, line-by-line editing. Knopf let him go in 2019 for breaking company policy; in 2025 he started a new fiction imprint, Panamerica. Knopf's publisher called him \"the foremost literary editor of his generation.\"",
-      "why_it_matters": "Many books we call \"great American novels\" passed through an editor's hands. His death marks the end of an era of star editors.",
-      "camps": "Writers and publishers praise his eye and care. His 2019 exit is a reminder that his career also had a messy end; the reason was not made public.",
+      "headline": "HOT: A new Stylus Prize gives $250,000 each to Graywolf Press, One Story magazine, and Nashville's Porch Writers' Collective",
+      "dek": "The Literary Arts Fund asked writers across the US to nominate the nonprofits that actually help them work. The awards are unrestricted cash.",
+      "caveman": "The Literary Arts Fund, marking one year since it launched, announced the first winners of its Stylus Prize, a new award for literary nonprofits. The three honorees are Graywolf Press, a respected Minnesota publisher; One Story, a magazine devoted to short stories; and The Porch Writers' Collective, a community group in Nashville. Each will receive $250,000 to spend as they choose, for a total of $750,000. Nominations were gathered anonymously from writers around the country. Money for the prize comes from philanthropic groups led by the Mellon Foundation, which last year pledged $50 million to nonprofit literary arts through 2030. Fund director Jen Benka said these groups run workshops, festivals, magazines and books, and help writers meet readers. One Story's founders called the award \"a transformational moment\" and said it would help them plan beyond immediate bills. The news lands in a period of tight budgets and disappearing public arts funding.",
+      "why_it_matters": "Most literary groups live on small grants and donations. An unrestricted quarter-million dollars can keep a magazine or press going, raise pay, or fund the next few years of programs.",
+      "camps": "Writers and small publishers are celebrating. Some in the wider arts world will watch whether a few headline winners are enough, given how many other local groups are also struggling.",
       "source_name": "Publishers Weekly",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/Obituary/article/101727-tastemaking-american-fiction-editor-gary-fisketjon-dies.html",
-      "published": "2026-11-09",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/101741-literary-arts-fund-awards-750k-to-nonprofits-with-new-prize.html",
+      "published": "2026-11-10",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Editor Gary Fisketjon",
+      "image_alt": "Announcement of the inaugural Stylus Prize for literary nonprofits",
       "image_credit": "Photo: Publishers Weekly",
       "terms": [
         {
-          "term": "editor",
-          "explain": "The person at a publisher who chooses books and helps writers improve them.",
+          "term": "unrestricted cash award",
+          "explain": "A grant the recipient can spend as it sees fit, not tied to one narrow project.",
           "aliases": [
-            "literary editor"
+            "unrestricted"
           ]
         },
         {
-          "term": "imprint",
-          "explain": "A brand name a publisher uses for a line of books.",
-          "aliases": []
+          "term": "Graywolf Press",
+          "explain": "A well-known nonprofit literary publisher based in Minnesota.",
+          "aliases": [
+            "Graywolf"
+          ]
         },
         {
-          "term": "Knopf",
-          "explain": "A famous New York book publisher.",
+          "term": "One Story",
+          "explain": "A US literary magazine that publishes short stories and also mentors writers.",
           "aliases": []
         }
       ]
@@ -562,36 +528,31 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Dustin Hoffman's memoir 'Look at Me' — the star of The Graduate finally tells his side",
-      "dek": "Ghostwritten with New Yorker writer Ariel Levy, it sets the record straight on the famous \"Try acting, dear boy\" story.",
-      "caveman": "Dustin Hoffman is an American actor famous for The Graduate, Rain Man and Tootsie. His new autobiography is called Look at Me. The title comes from British actor Laurence Olivier, who once told him acting is really about saying \"look at me.\" A Guardian review says the book was written with help from New Yorker writer Ariel Levy. One big reveal: the legend that Hoffman stayed up all night to look tired \"for his art,\" and Olivier mocked him, is wrong. Hoffman says he was really out partying, and a magazine writer twisted the story to make him look silly.",
-      "why_it_matters": "Celebrity memoirs are some of the biggest sellers in US publishing, especially near the holidays. This one is getting serious reviews, not just gossip coverage.",
-      "camps": "Fans enjoy the inside stories about classic films. Some readers want more honesty about past accusations of sexual misconduct against Hoffman, which he has apologized for. Critics debate whether ghostwritten memoirs are really the star's own voice.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
-      "published": "2026-11-09",
+      "headline": "NOT: A US court orders pirate site WeLib to pay 13 publishers $19.5 million and tells its hosts to take it down",
+      "dek": "The default judgment, entered November 9 in Manhattan, mirrors a similar $19.5 million ruling against Anna's Archive earlier this year. Publishers say WeLib copied that site.",
+      "caveman": "A federal judge in New York has ordered the pirate book site WeLib to pay 13 publishers $19.5 million. Judge Victor Marrero also told the companies that register and host its web addresses to take the site offline, after the operators never answered the lawsuit. In a default judgment entered November 9, the court awarded the maximum damages for willful copyright infringement: $150,000 for each of 130 works. Each publisher listed 10 titles, so each is owed $1.5 million. In May, another judge in the same court issued the same kind of $19.5 million default judgment against Anna's Archive, a similar site whose operators also never showed up. Publishers say WeLib copied Anna's Archive's code and much of its collection, and tried to make money by offering AI companies high-speed access to pirated books and papers. The Association of American Publishers helped organize the June suit, filed by houses including Penguin Random House, HarperCollins, Hachette, Macmillan, Simon & Schuster, and education and science publishers such as Elsevier, Pearson and Wiley. WeLib claimed to hold more than 43 million books and 98 million papers.",
+      "why_it_matters": "Free piracy sites undercut authors and publishers, and they are also becoming a source of text for AI training. Winning a judgment is one thing; actually collecting the money and keeping a site offline is harder.",
+      "camps": "Publishers call the sites businesses, not libraries, especially when faster downloads cost money. Open-access advocates argue that lawsuits do not fix high book and journal prices, and that shadow libraries often reappear under new names.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101735-court-orders-pirate-site-welib-to-pay-publishers-19-5-million.html",
+      "published": "2026-11-10",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Dustin Hoffman in The Graduate",
-      "image_credit": "Photo: Bettmann Archive via The Guardian",
+      "image_alt": "Publishers Weekly report on a court order against the pirate site WeLib",
+      "image_credit": "Photo: Publishers Weekly",
       "terms": [
         {
-          "term": "autobiography",
-          "explain": "A life story written by (or with) the person themselves.",
-          "aliases": [
-            "memoir"
-          ]
+          "term": "default judgment",
+          "explain": "A court ruling entered because the other side never showed up to defend itself.",
+          "aliases": []
         },
         {
-          "term": "ghostwriter",
-          "explain": "A writer who helps write a book published under someone else's name.",
-          "aliases": [
-            "ghosted",
-            "ghostwritten"
-          ]
+          "term": "statutory damages",
+          "explain": "An amount of money set by copyright law, not by proving exact lost sales. The maximum here was $150,000 per work.",
+          "aliases": []
         },
         {
-          "term": "method acting",
-          "explain": "An acting style where actors try to really live the feelings of a role.",
+          "term": "Anna's Archive",
+          "explain": "Another large pirate library for books and papers. Publishers already won a similar judgment against it this year.",
           "aliases": []
         }
       ]
@@ -600,31 +561,28 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "HOT (and weird): Truman Capote's belongings go up for auction — including his dog's ashes",
-      "dek": "\"The Magpie and the Swans\" sale lists items from his New York apartment and Long Island house.",
-      "caveman": "Truman Capote was a famous American writer of Breakfast at Tiffany's and In Cold Blood. He died in 1984. His biographer and friend Gerald Clarke has looked after his things for 40 years. Now they are being sold in a public auction called \"The Magpie and the Swans.\" A magpie is a bird known for collecting shiny things — like Capote, who loved glitter and comfort. Lit Hub picked nine of the strangest items: a bulldog tote bag, decorative dog heads, a leopard-head ashtray, solid gold safety pins, early Richard Avedon photos — and the ashes of his beloved bulldog.",
-      "why_it_matters": "Writers' homes and objects help fans feel close to them, and auctions like this keep a writer's fame alive for new generations.",
-      "camps": "Fans and collectors are thrilled. Others find selling a pet's ashes a bit much. Some say important items should go to libraries or museums, not private buyers.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/you-can-now-buy-the-ashes-of-truman-capotes-dog/",
-      "published": "2026-11-09",
+      "headline": "NOT: Katharine Kan, the librarian who spent decades getting comics onto US library shelves, has died at 71",
+      "dek": "She died on October 12 after working until weeks before her death. In the 1980s she had to argue just to buy trade-paperback comics for teenagers.",
+      "caveman": "Katharine \"Kat\" Kan, a librarian who helped make comics a normal part of American libraries, has died at 71. Publishers Weekly reported the news on November 10; she died on October 12. Her husband wrote that she refused to retire until her health forced her to, only weeks before her death. Kan was born in Tokyo in 1955 and trained as a librarian in Hawaii. She led young-adult services in the Hawaii State Library system, later worked in Indiana and in Panama City, Florida, and advised library suppliers on graphic novels. She also wrote a long-running comics column for a library journal. In a 2011 interview she recalled that in the mid-1980s her system would not buy comic books, even as staff wondered how to get teenage boys back into libraries. She pushed to buy trade paperbacks like Teenage Mutant Ninja Turtles and Elfquest, then watched boys discover that a librarian their mom's age loved comics too. \"It all started from there,\" she said, \"and I ended up becoming an 'expert' by default.\"",
+      "why_it_matters": "Many adults now treat graphic novels as serious reading, but that shift in libraries was fought for by people like Kan, one shelf at a time.",
+      "camps": "Colleagues remember her as persistent and generous. Her career also shows how slowly institutions change: what is obvious now was once against the rules.",
+      "source_name": "Publishers Weekly",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/Obituary/article/101730-katharine-kan-librarian-and-comics-advocate-dies-at-71.html",
+      "published": "2026-11-10",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Truman Capote at home among his belongings",
-      "image_credit": "Photo: Literary Hub",
+      "image_alt": "Katharine Kan, librarian and advocate for comics in libraries",
+      "image_credit": "Photo: Publishers Weekly",
       "terms": [
         {
-          "term": "auction",
-          "explain": "A sale where people bid, and the highest offer wins.",
-          "aliases": []
+          "term": "graphic novel",
+          "explain": "A book-length comic, often sold in libraries and bookstores rather than as a floppy pamphlet.",
+          "aliases": [
+            "comics"
+          ]
         },
         {
-          "term": "estate",
-          "explain": "Everything a person owned when they died.",
-          "aliases": []
-        },
-        {
-          "term": "biographer",
-          "explain": "Someone who writes the story of another person's life.",
+          "term": "trade paperback",
+          "explain": "A standard bookstore-format paperback. In the 1980s, some libraries would buy comics in this form even when they would not buy periodical comic books.",
           "aliases": []
         }
       ]
@@ -632,156 +590,149 @@
     {
       "id": "wd-soc-1",
       "section": "world",
-      "category": "social",
-      "headline": "At least 39 people die after a migrant boat sinks off Senegal on the way to Spain's Canary Islands",
-      "dek": "Only one survivor found so far; the Atlantic route is one of the deadliest in the world.",
-      "caveman": "Many young people in West Africa try to reach Europe by taking small wooden boats across the Atlantic to Spain's Canary Islands. A boat sank between Dakar, Senegal's capital, and the northern city of Saint-Louis. At least 39 people died and one was rescued; it is not known how many are missing. Rescuers are searching 25km of coast, but strong currents push bodies away. Senegal's president urged young people not to risk the trip and promised to fight the smugglers. A Spanish rights group counted 635 deaths on this route in just January to May 2026, and estimates about 21 people die for every 100 who arrive.",
-      "why_it_matters": "People take this risk because they see no future at home — no jobs, climate damage, and depleted fishing. It is a global story about poverty and borders.",
-      "camps": "Governments focus on stopping smugglers and patrolling seas. Rights groups say safe, legal ways to migrate would save lives. Some in Europe want tougher borders; others say Europe's fishing fleets and trade policies helped cause the problem.",
+      "category": "society",
+      "headline": "A UK court overturns Trinidad and Tobago's laws against same-sex intimacy after an 11-year fight",
+      "dek": "The Privy Council, the islands' final court of appeal, said the colonial-era rules violated the right to private and family life. Campaigner Jason Jones brought the case.",
+      "caveman": "London's Judicial Committee of the Privy Council, which still acts as Trinidad and Tobago's highest court of appeal, has struck down laws that made consensual same-sex intimacy a crime. The judges said the laws did not respect \"the fundamental individual right to respect for private and family life.\" The case was brought by Jason Jones, 62, a dual citizen, who has been fighting for 11 years. He won in Trinidad's High Court in 2018, but the government appealed and that ruling was overturned. This is the first time the Privy Council has decided a case that decriminalizes same-sex intimacy. Campaigners hope it will help similar challenges in other Commonwealth countries. About 34 Commonwealth nations still have colonial-era laws against homosexuality; some include prison, and in some places the death penalty. Trinidad's attorney general had argued that old British laws were locked in by \"savings\" clauses at independence. The judges unanimously sided with Jones. Lord Sales said the laws \"cannot be regarded as reasonably justifiable in a society that has a proper respect for the rights and freedoms of an individual.\"",
+      "why_it_matters": "A court victory does not instantly change everyday life, but it means the state can no longer treat private same-sex relationships as a crime. It may also encourage cases in other countries that still use these old laws.",
+      "camps": "Jones and other campaigners call it a step toward full equality. Opponents had tried to keep the old criminal rules in place. The ruling is about the criminal law, not yet about marriage or every other legal right.",
       "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
-      "published": "2026-11-09",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o",
+      "published": "2026-11-10",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "A migrant boat on the Atlantic route to the Canary Islands (file photo)",
-      "image_credit": "Photo: BBC (file photo)",
+      "image_alt": "Campaigner Jason Jones, who spent 11 years challenging Trinidad and Tobago's anti-gay laws",
+      "image_credit": "Photo: Jason Jones via BBC",
       "terms": [
         {
-          "term": "migrant",
-          "explain": "A person who moves to another country, often to find work or safety.",
+          "term": "Privy Council",
+          "explain": "A London court that still serves as the final court of appeal for some countries that were once British colonies, including Trinidad and Tobago.",
           "aliases": [
-            "migrants"
+            "Judicial Committee of the Privy Council",
+            "JCPC"
           ]
         },
         {
-          "term": "smugglers",
-          "explain": "People paid to move others across borders illegally.",
-          "aliases": []
+          "term": "decriminalise",
+          "explain": "To stop treating something as a crime. Here, consensual same-sex intimacy is no longer a criminal offense.",
+          "aliases": [
+            "decriminalize"
+          ]
         },
         {
-          "term": "Canary Islands",
-          "explain": "Spanish islands off the coast of West Africa — the closest part of Europe.",
-          "aliases": []
+          "term": "savings law clauses",
+          "explain": "Legal language that kept old British colonial laws in force after a country became independent, making them harder to challenge.",
+          "aliases": [
+            "savings clauses"
+          ]
         }
       ]
     },
     {
       "id": "wd-soc-2",
       "section": "world",
-      "category": "social",
-      "headline": "Comedian Russell Brand is sentenced to 10½ years in prison for rape and sexual assault",
-      "dek": "Six women testified; four gave statements in court. He denies the charges.",
-      "caveman": "Russell Brand is a British comedian and actor who was very famous in the 2000s, later became a conspiracy-theory influencer popular with the US right. A London jury found him guilty of raping a woman in 2009 and sexually assaulting three women between 2004 and 2009. On Monday the judge sentenced him to 10 years and 6 months. Six women testified over four weeks; none were named publicly. Four told the court how the attacks changed their lives — one spoke from behind a curtain. Critics say his mistreatment of women was an \"open secret\" in entertainment for years. Brand denies all charges. Separately, his ex-partner Jemima Goldsmith said he physically assaulted her.",
-      "why_it_matters": "The case shows that powerful, famous men can be held to account, even decades later. It also raises questions about who in the industry knew and stayed silent.",
-      "camps": "Women's-rights groups call it a win for survivors who were not believed for years. Brand's supporters claim he is being targeted for his views. Legal experts note the jury cleared him of three of seven counts — the process weighed each charge.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-      "published": "2026-11-09",
+      "category": "society",
+      "headline": "A House report says US federal authorities could have stopped Jeffrey Epstein's crimes after 2005, but failed",
+      "dek": "The Republican-led Oversight Committee blames poor judgment, Epstein's influence, and a 2007 deal that let him avoid a federal prosecution.",
+      "caveman": "The US House Oversight Committee, led by Republicans, released a final report on Tuesday about how investigators and prosecutors handled Jeffrey Epstein and his associate Ghislaine Maxwell. It concludes that crimes Epstein committed after 2005 could have been prevented if federal authorities had not failed. The report is based on 15 months of interviews, government files and financial records. Epstein died in a New York jail in 2019 while awaiting trial on sex-trafficking charges. The committee said some failures were poor judgment by the US Attorney's Office, and others seemed to flow from Epstein's wide influence. Instead of fully investigating allegations in other states, the US Attorney's Office in Southern Florida made a 2007 agreement that allowed Epstein to avoid a federal prosecution. On his death, the report pointed to staffing shortages, poor record-keeping and lax security at the jail, and said testimony could not fully settle every question, including a gap in surveillance video. The Justice Department, the report said, also failed at communicating about the release of documents.",
+      "why_it_matters": "Survivors have said for years that powerful people were protected and that later abuse was allowed to continue. An official finding that the crimes were preventable puts that failure on the record.",
+      "camps": "The committee presents this as a long, bipartisan-relevant failure of the justice system. Others will argue over which officials deserve the most blame, and whether the report goes far enough on Epstein's network.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
+      "published": "2026-11-10",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Court sketch of Russell Brand in the dock at Southwark Crown Court",
-      "image_credit": "Photo: Elizabeth Cook / PA via AP, NPR",
+      "image_alt": "Jeffrey Epstein, whose case a House committee says was mishandled for years",
+      "image_credit": "Photo: Corbis via Getty Images / BBC",
       "terms": [
         {
-          "term": "sentenced",
-          "explain": "When a judge decides the punishment after a guilty verdict.",
-          "aliases": [
-            "sentence"
-          ]
-        },
-        {
-          "term": "victim impact statement",
-          "explain": "Words from victims telling the court how a crime hurt them.",
-          "aliases": [
-            "impact statement"
-          ]
-        },
-        {
-          "term": "open secret",
-          "explain": "Something many people know but don't say publicly.",
+          "term": "House Oversight Committee",
+          "explain": "A powerful committee in the US House of Representatives that investigates how government agencies do their jobs.",
           "aliases": []
         },
         {
-          "term": "jury",
-          "explain": "Ordinary citizens chosen to decide guilt in a trial.",
+          "term": "sex trafficking",
+          "explain": "Recruiting, moving or holding people for sexual exploitation. Epstein was awaiting trial on these charges when he died.",
           "aliases": []
+        },
+        {
+          "term": "US Attorney's Office",
+          "explain": "The federal prosecutor's office in a region. The one in Southern Florida made the 2007 deal with Epstein.",
+          "aliases": [
+            "USAO"
+          ]
         }
       ]
     },
     {
       "id": "wd-soc-3",
       "section": "world",
-      "category": "social",
-      "headline": "In Gaza, a rain-soaked sand bank collapses on tents of displaced families, killing five including two children",
-      "dek": "UN says 26,000+ households had shelters damaged in weekend storms.",
-      "caveman": "Most of Gaza's people have lost their homes in the war and now live in tents. Heavy rain and wind hit over the weekend. On Sunday near Deir al-Balah, a sand bank above a camp collapsed and buried at least three tents. Five people died, including a mother and her children aged eight and six. The father survived because he was outside — one child had just called him to come and eat. Neighbors dug with hammers, shovels and flashlights and had to break a huge boulder to reach people. The UN says more than 26,000 households reported damage to tents or belongings after the storms.",
-      "why_it_matters": "Winter is just starting. Without real homes, warm clothes and safe camp sites, more people — especially children — are in danger.",
-      "camps": "Aid groups say Israel must let in more shelter materials and supplies. Israel says it allows aid and blames Hamas. Many people simply want both sides to put civilians' safety first.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-      "published": "2026-11-09",
+      "category": "society",
+      "headline": "Trump's Board of Peace says Israel's aid response after Gaza floods is still \"insufficient\"",
+      "dek": "Heavy rain flooded tens of thousands of tents. The UN says about 1.4 million people in Gaza, around 65% of the population, now live in tents or makeshift shelters.",
+      "caveman": "The Board of Peace, a US-backed body set up to oversee President Donald Trump's Gaza peace plan, called on Israel to immediately let all needed humanitarian supplies into Gaza after heavy rain flooded tens of thousands of tents. In a rare public criticism of Israel, the board said it recognized steps Israel is considering, but \"the response remains insufficient.\" It said delays in approving shelter, water and sanitation supplies made a foreseeable winter emergency worse, and also delayed work to disarm Hamas and transfer authority. Israel's military agency that coordinates aid said it had let in tens of thousands of tents and trucks of winter supplies, but that reconstruction \"can only begin after Hamas fully disarms.\" On Sunday, three children and a woman were killed when a sand bank collapsed onto tents in the central Strip. The UN says about 65% of Gaza's people, around 1.4 million, now live in tents or makeshift shelters after being displaced by Israel's military campaign. Residents described sewage overflowing into flooded tents and said they had no dry bedding or food.",
+      "why_it_matters": "Winter rain on damaged ground turns already unsafe tents deadly. If aid stays slow, more people can die from exposure and disease even when active fighting is not the day's headline.",
+      "camps": "The Board of Peace says Israel must open the crossings now. Israel says aid is going in and that rebuilding depends on Hamas disarming. People living in the tents say they have already waited too long.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+      "published": "2026-11-10",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Aftermath of the embankment collapse in Deir al-Balah",
-      "image_credit": "Photo: Ahmed Ibrahim / APAImages / Shutterstock via The Guardian",
+      "image_alt": "Flooded tents and stormy weather making life harder for displaced families in Gaza",
+      "image_credit": "Photo: BBC",
       "terms": [
         {
-          "term": "displaced",
-          "explain": "Forced to leave home, often living in camps or tents.",
-          "aliases": [
-            "displaced families"
-          ]
-        },
-        {
-          "term": "landslide",
-          "explain": "When earth, sand or rocks suddenly slide down a slope.",
+          "term": "Board of Peace",
+          "explain": "A US-backed body created to oversee Trump's Gaza peace plan, including aid and a political transition.",
           "aliases": []
         },
         {
-          "term": "humanitarian aid",
-          "explain": "Food, water, shelter and medicine for people in crisis.",
+          "term": "humanitarian supplies",
+          "explain": "Things people need to survive in a crisis, such as tents, food, water, medicine and sanitation equipment.",
           "aliases": [
             "aid"
           ]
+        },
+        {
+          "term": "displaced",
+          "explain": "Forced to leave home because of war or disaster, often into tents or crowded shelters.",
+          "aliases": []
         }
       ]
     },
     {
       "id": "wd-soc-4",
       "section": "world",
-      "category": "social",
-      "headline": "'Settle down or we'll arrest you': Australian report finds Queensland police push rape cases to the back of the line",
-      "dek": "About two-thirds of sexual-assault reports end withdrawn, unproven or unsolved; overworked detectives say serious cases sit for a year.",
-      "caveman": "A new study by the Australian Institute of Criminology looked at why so many sexual-assault complaints in Queensland, Australia, go nowhere — about two-thirds. Detectives said they are overloaded and pushed to focus on \"political\" crimes like youth theft, so rape cases go \"on the backburner,\" sometimes for 12 months. Victims were interviewed in shared offices or a changing room. Some were told to \"settle down\" or face arrest. Getting a forensic rape exam could mean driving up to seven hours. Cases handled by specially trained sex-crime officers were much less likely to drop out.",
-      "why_it_matters": "When reporting rape feels hopeless, fewer survivors come forward and attackers face no consequences. The fixes — trained officers, private rooms, exam access — apply in many countries, including Taiwan.",
-      "camps": "Survivor advocates say the report proves what victims have said for years. Police unions say officers are stretched too thin and need more staff. Researchers say the evidence favors specialist teams.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/australia-news/2026/nov/10/settle-down-do-your-own-swabs-how-alleged-victims-are-treated-in-queensland-revealed-in-major-report",
+      "category": "society",
+      "headline": "The FDA tells makers of Wegovy, Zepbound and other GLP-1 drugs to warn about a rare eye condition that can cause sudden vision loss",
+      "dek": "The agency found a possible higher risk of NAION, but says a direct cause has not been proven. Eye doctors say do not stop the medicine without talking to a physician.",
+      "caveman": "The US Food and Drug Administration is requiring new safety warnings on all GLP-1 drugs — the popular medicines used for diabetes and weight loss, including Ozempic, Wegovy, Mounjaro and Zepbound. The concern is a rare condition called NAION, which happens when blood flow to the front of the optic nerve drops and can cause sudden, sometimes permanent, vision loss, often in one eye. The FDA said cases have been reported with every GLP-1 drug now on the market, but a cause-and-effect link has not been established. In a review of 126 trials involving more than 134,000 patients, there were 6.4 NAION cases per 100,000 patient-years among GLP-1 users, compared with 3.8 among people on other treatments or a placebo. Diabetes itself also raises NAION risk, which makes the numbers harder to read. Novo Nordisk, which makes Ozempic and Wegovy, said it still does not believe a causal link is proven. Eli Lilly, which makes Mounjaro and Zepbound, said it is reviewing the update. The American Academy of Ophthalmology said any added risk appears small and patients should not stop the drugs on their own, but should see an eye doctor quickly if they notice sudden, painless vision loss.",
+      "why_it_matters": "Tens of millions of people use these drugs. A rare side effect can still affect many people at that scale, so a clear warning helps patients notice symptoms early without causing a panic.",
+      "camps": "Regulators want the risk on the label. Drugmakers say the benefit still outweighs a rare, unproven harm. Eye doctors urge caution and quick treatment of symptoms, not a sudden rush to quit.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
       "published": "2026-11-10",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Illustration for report on police handling of sexual assault cases in Queensland",
-      "image_credit": "Photo: Guardian Design / Getty Images",
+      "image_alt": "GLP-1 injection pens of the kind now required to carry a new vision-loss warning",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "victim-survivor",
-          "explain": "A person who experienced a crime like sexual assault — a word that respects their strength.",
+          "term": "GLP-1",
+          "explain": "A class of drugs that copy a gut hormone. They help control blood sugar and appetite. Brand names include Ozempic, Wegovy, Mounjaro and Zepbound.",
           "aliases": [
-            "victim-survivors"
+            "GLP-1 drugs"
           ]
         },
         {
-          "term": "attrition",
-          "explain": "Here: cases that drop out before reaching court.",
-          "aliases": []
-        },
-        {
-          "term": "forensic exam",
-          "explain": "A medical check that collects evidence after an assault.",
+          "term": "NAION",
+          "explain": "Nonarteritic anterior ischemic optic neuropathy: a rare problem in which the optic nerve does not get enough blood, causing sudden vision loss that can be permanent.",
           "aliases": [
-            "rape kit"
+            "nonarteritic anterior ischemic optic neuropathy"
           ]
         },
         {
-          "term": "trauma-informed",
-          "explain": "Treating people in a way that understands how trauma affects them.",
-          "aliases": []
+          "term": "FDA",
+          "explain": "The US Food and Drug Administration, the agency that decides what warnings must appear on medicine labels.",
+          "aliases": [
+            "Food and Drug Administration"
+          ]
         }
       ]
     }
