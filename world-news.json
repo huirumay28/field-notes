@@ -1,53 +1,52 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-12T08:00:00+08:00",
-  "notes": "Thursday 12 Nov 2026 world issue (Taipei ~08:00). Window: Wed 11 Nov. Economy: Goolsbee calls inflation 'borderline disturbing'; US gas under $4; Canada envoy warns on tariffs; October retail sales slowest in a year. Tech: WSJ says Nvidia board preparing to oust Jensen Huang; CoreWeave +24%; AI data centers plan on-site gas power; DOJ sues Lyft over disability refusals. Politics: Scott Colom wins Mississippi Senate seat; Russia-Ukraine prisoner swap; Bessent moves to military base; Indonesia VP Gibran resigns. Literature (US): Elordi to star in The Executioner's Song; Nancy Isenberg on nepo babies; Tom Drury's West of Loveland; Conrad-Pérez on modern New York. Society: Spain general strike on housing; Saudi lashing sentence for Kenyan mother; Gaza storm tents; US measles elimination status at risk.",
+  "fetched_at": "2026-11-13T08:00:00+08:00",
+  "notes": "Friday 13 Nov 2026 world issue (Taipei ~08:00). Window: Thu 12 Nov. Economy: 10-year Treasury yield back above 5%; US home sales 16-year low; UK GDP +0.7% on AI; Family Dollar $63m overcharging settlement. Tech: Jensen Huang resigns as Nvidia CEO; Microsoft 365 outage; Cerebras +17% with Microsoft deal; public-sector unions win AI protections. Politics: Putin hard line with US envoys; Holscher wins Kansas governor; Trump says no Iran deal needed; new socialist mayors. Literature (US): Jane Schoenbrun's debut novel; Ben Lerner's Transcription audiobook; Lit Hub's 10 overlooked debuts; Gopnik on The Sun Also Rises at 100. Society: Afghan women and male-doctor ban; US measles deaths; Brooklyn building collapse; Ebola aid money missing in DR Congo.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Fed's Goolsbee calls US inflation 'borderline disturbing' as bigger rate hikes come into view",
-      "dek": "October prices rose 0.4%, the third hot month in a row. Some Fed officials now openly talk about a half-point hike in December.",
-      "caveman": "Inflation means prices going up. The US government said consumer prices rose 0.4% in October alone, more than experts expected, and the third month in a row of big jumps. Austan Goolsbee, who runs the Chicago branch of the Federal Reserve, told PBS it was 'another distressing report — borderline disturbing.' He said price pressure from tariffs has not faded the way he hoped, and prices for services stay high. The Fed fights inflation by raising interest rates, which makes borrowing more expensive and slows spending. It usually moves by a quarter point. But Fed Governor Christopher Waller said a hot report could push him to back a bigger half-point hike in December. Dallas Fed chief Lorie Logan wants two more quarter-point hikes. Philadelphia Fed chief Anna Paulson said slower, gradual steps are enough for now. The Fed's rate now sits at 3.75%–4%.",
-      "why_it_matters": "Higher rates mean pricier mortgages, car loans and credit cards. They can cool prices but also slow hiring. What the Fed does in December ripples into world markets, including Taiwan stocks.",
-      "camps": "Hawks say act fast before people start expecting high inflation forever. Doves worry big hikes could tip the economy into a slump. Critics of the White House point to tariffs as a key cause; the administration says tariffs protect US workers.",
+      "headline": "US 10-year Treasury yield jumps back above 5% as oil climbs and more Fed hikes are expected",
+      "dek": "Trump's 'we don't need a deal with Iran' pushed oil up. Traders now see a December rate hike as certain.",
+      "caveman": "When the US government borrows money, it sells IOUs called Treasury bonds. The 'yield' is the interest it must pay. On Thursday the 10-year yield rose to about 5.13%, back above 5%. That number matters because mortgages, car loans and credit cards follow it. Two things pushed it up. First, oil: after President Trump said 'We don't need a deal with Iran,' people feared the Middle East war would drag on, and US oil rose over 2% to about $88.74 a barrel while Brent hit about $95.82. Second, inflation: a hot price report earlier this week made traders expect the Federal Reserve to keep raising rates. Markets now price a 100% chance of a December hike, and Goldman Sachs added another hike for March.",
+      "why_it_matters": "Higher yields mean more expensive borrowing for families and companies everywhere, and they often pull money out of riskier markets, including Taiwan stocks.",
+      "camps": "Fed hawks say higher rates are needed to beat inflation. Critics say the hikes are crushing housing and that tariffs and the Iran war, not too much spending, are driving prices up.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "published": "2026-11-11",
+      "source_url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "published": "2026-11-12",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Federal Reserve official at an economics conference (CNBC file photo accompanying the story)",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Traders at work on a stock exchange floor",
+      "image_credit": "Photo: CNBC",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "explain": "The US central bank. It sets the main interest rate to keep prices and jobs steady.",
+          "term": "Treasury yield",
+          "explain": "The interest rate the US government pays when it borrows by selling bonds.",
           "aliases": [
-            "Fed"
+            "yield",
+            "Treasuries"
           ]
         },
         {
-          "term": "CPI",
-          "explain": "Consumer price index: a measure of how much a basket of everyday goods and services costs.",
+          "term": "basis point",
+          "explain": "One-hundredth of a percentage point (0.01%).",
           "aliases": [
-            "consumer price index",
-            "core CPI"
+            "basis points"
+          ]
+        },
+        {
+          "term": "Brent",
+          "explain": "A main global oil price benchmark.",
+          "aliases": [
+            "Brent crude",
+            "WTI"
           ]
         },
         {
           "term": "rate hike",
-          "explain": "When the central bank raises interest rates to slow borrowing and cool prices.",
+          "explain": "When the central bank raises interest rates to cool prices.",
           "aliases": [
-            "hike",
-            "hikes"
-          ]
-        },
-        {
-          "term": "hawk",
-          "explain": "An official who wants tougher action against inflation. A dove prefers a gentler approach.",
-          "aliases": [
-            "hawks",
-            "doves"
+            "hike"
           ]
         }
       ]
@@ -56,36 +55,41 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "US gas drops below $4 a gallon for the first time in months",
-      "dek": "The national average is now $3.94, down about 40 cents in a month. Cheaper crude oil is the main reason, but a flare-up in the Iran war could reverse it.",
-      "caveman": "Gasoline is the fuel most American cars use. According to AAA, the average price fell under $4 a gallon on Tuesday and is now $3.94 — about 40 cents cheaper than a month ago. Part of the drop is normal for autumn: fewer people drive, refineries finish yearly repairs, and the cheaper 'winter blend' of gas goes on sale. But the biggest reason, says analyst Jorge León of Rystad Energy, is that Brent crude oil has fallen to about $90 a barrel. More Middle East oil is moving by pipeline, and traders are cheered by US–Iran diplomacy. León warns that if the war escalates — for example if President Trump uses military action to gain leverage before Democrats take over Congress in January — much of that drop could vanish fast.",
-      "why_it_matters": "Gas prices hit every family budget and feed into inflation. Cheaper fuel helps, but the relief depends on a war far away.",
-      "camps": "Some will credit diplomacy for lower prices. Analysts say seasons and oil markets matter more than politics. Democrats in Congress want to end the war and could use their budget power to push for it.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-      "published": "2026-11-11",
+      "headline": "US home sales fall to a 16-year low as mortgage rates near 7.2%",
+      "dek": "Only 3.75 million existing homes sold in October, down 8.8% from last year. Typical price: $416,700.",
+      "caveman": "Buying a home in the US usually means taking a big loan called a mortgage. In early 2026 the usual 30-year mortgage rate dipped below 6%. Now, with inflation and the Iran war pushing rates up, it is about 7.18%. That makes monthly payments much bigger, so fewer people buy. The National Association of Realtors said sales of already-built homes fell to a yearly pace of 3.75 million in October, the lowest since August 2010. Yet prices did not fall: the middle price rose a little to $416,700, because few owners want to sell and give up their old cheap loans. The Fed raised rates in September for the first time since 2023 and is expected to raise again in December.",
+      "why_it_matters": "Housing is the biggest cost for most families. Frozen home sales also hurt jobs in building, furniture and moving, and show how rate hikes hit ordinary people.",
+      "camps": "Some economists say the pain is the price of beating inflation. Housing advocates say the real fix is building far more homes and that high rates mostly lock young and lower-income buyers out.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "published": "2026-11-12",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "A gas pump nozzle in a car in Austin, Texas",
-      "image_credit": "Photo: Brandon Bell/Getty Images via NPR",
+      "image_alt": "A residential subdivision in Queen Creek, Arizona",
+      "image_credit": "Photo: David Blakeman for The Washington Post via Getty Images",
       "terms": [
         {
-          "term": "Brent crude",
-          "explain": "A main world benchmark price for oil, used to price much of the oil sold globally.",
+          "term": "mortgage",
+          "explain": "A loan used to buy a home, paid back monthly over many years.",
           "aliases": [
-            "Brent"
+            "mortgage rate"
           ]
         },
         {
-          "term": "AAA",
-          "explain": "A big US motoring club that tracks average gas prices.",
+          "term": "existing home sales",
+          "explain": "Sales of homes that were already built, not brand-new ones.",
           "aliases": []
         },
         {
-          "term": "winter blend",
-          "explain": "A cheaper type of gasoline sold in cold months; it helps engines start in freezing weather.",
+          "term": "median price",
+          "explain": "The middle price: half of homes sold for more, half for less.",
           "aliases": [
-            "summer blend"
+            "median"
           ]
+        },
+        {
+          "term": "lock-in effect",
+          "explain": "Owners stay put because selling would mean giving up a cheap old loan.",
+          "aliases": []
         }
       ]
     },
@@ -93,36 +97,41 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "Canada's ambassador: Trump tariffs raise costs and scare off investment in the US",
-      "dek": "Mark Wiseman says uncertainty makes companies slower to build plants. A New York Fed study found nearly 90% of tariff costs land on US importers.",
-      "caveman": "A tariff is a tax on goods coming from another country. Canada's ambassador to the US, Mark Wiseman, told a big business meeting in Washington that President Trump's tariffs make it more expensive and riskier for companies to invest. 'Uncertainty increases your cost of capital,' he said — if firms don't know the rules, they wait before building factories or spending on research. The US and Canada traded about $570 billion in goods in the first nine months of 2026, less than in the same months of 2022–2024. US duties on Canadian goods jumped from $400 million in 2024 to $10 billion in 2025. A New York Fed study found almost 90% of tariff costs are paid by US importers, and about a quarter eventually shows up in shop prices, with more price pressure expected in 2027. Trump says tariffs protect American factories and workers and accuses Canada of unfair trade.",
-      "why_it_matters": "Canada is one of America's biggest trading partners. Tariff fights between them affect prices, jobs and supply chains well beyond North America.",
-      "camps": "The White House says tariffs bring jobs home and pressure unfair partners. Canada and many economists say they act like a tax on American shoppers and companies, and the uncertainty chills investment.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-      "published": "2026-11-11",
+      "headline": "AI helps the UK economy grow 0.7%, its fastest pace in two and a half years",
+      "dek": "IT and computer services led the July–September growth. Chancellor John Healey called it 'standout resilience.'",
+      "caveman": "GDP is the total value of everything a country makes and sells. Britain's statistics office said GDP grew 0.7% from July to September, the best quarter since early 2024. Almost all of it came from services, led by information and communication, which grew 2.1%. Companies selling AI and cloud computing reported the biggest jumps in sales, and back-office work like admin also grew as firms used more AI. Chancellor (finance minister) John Healey said the UK is growing at its fastest rate in almost 10 years, outside the Covid period. September alone grew 0.2%, but August was revised down to zero.",
+      "why_it_matters": "It is one of the first clear signs that AI spending is showing up in a big economy's numbers, not just in tech stock prices.",
+      "camps": "Optimists say AI is a new engine for growth. Skeptics warn the boost may fade, that high oil prices from the Iran war still threaten households, and that AI gains may go to companies more than workers.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+      "published": "2026-11-12",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "CNBC photo accompanying its report on US–Canada tariffs",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "People walking along the Thames with the City of London skyline behind",
+      "image_credit": "Photo: SOPA Images/LightRocket/Getty Images",
       "terms": [
         {
-          "term": "tariff",
-          "explain": "A tax a country puts on goods imported from another country.",
-          "aliases": [
-            "tariffs",
-            "duties"
-          ]
-        },
-        {
-          "term": "cost of capital",
-          "explain": "How expensive it is for a company to get money to invest. Risk makes it higher.",
+          "term": "GDP",
+          "explain": "Gross domestic product: the total value of goods and services an economy produces.",
           "aliases": []
         },
         {
-          "term": "importer",
-          "explain": "A business that buys goods from another country to sell or use at home.",
+          "term": "quarter",
+          "explain": "A three-month period of the year.",
           "aliases": [
-            "importers"
+            "third quarter",
+            "Q3"
+          ]
+        },
+        {
+          "term": "ONS",
+          "explain": "Office for National Statistics, the UK government data agency.",
+          "aliases": []
+        },
+        {
+          "term": "services sector",
+          "explain": "Businesses that sell work, not physical goods: IT, banks, shops, admin.",
+          "aliases": [
+            "services"
           ]
         }
       ]
@@ -131,35 +140,36 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "US shoppers keep spending but show strain: October retail sales grow at slowest pace in nearly a year",
-      "dek": "Retail spending rose just 0.2% from September. Electronics jumped as AI-driven memory chip costs pushed up gadget prices; furniture slipped.",
-      "caveman": "Retail sales means money people spend in shops and online. The CNBC/NRF Retail Monitor, built from about 120 million debit and credit cards, says Americans spent $561.7 billion in October — only 0.2% more than in September, the smallest monthly rise since November 2025. Compared with a year ago, spending was up 3.6%. Halloween and early holiday deals kept the number from being weaker. The National Retail Federation's boss, Matthew Shay, said families are budgeting carefully and waiting for sales. Electronics spending rose 9.3% over a year, partly because companies raised prices on things like MacBooks and Xboxes as AI demand made memory chips more expensive. Furniture spending fell, hurt by a frozen housing market and higher mortgage rates.",
-      "why_it_matters": "Consumer spending drives about two-thirds of the US economy. If shoppers pull back, companies sell less — including Asian firms that make the gadgets.",
-      "camps": "Retailers say deals keep shoppers coming. Some economists see a slow cooling, not a crash. Others warn high prices and rising rates are squeezing lower-income families hardest.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-      "published": "2026-11-11",
+      "headline": "Family Dollar to pay $63m over charging more at the register than on the shelf",
+      "dek": "The FTC and 17 states acted after a Guardian investigation found the chain failed 2,100+ price checks.",
+      "caveman": "Family Dollar is a US discount store chain with about 7,000 shops, often in poorer towns. Government inspectors kept finding that the price on the shelf was lower than what customers paid at checkout, for things like milk, diapers, batteries and toilet paper. A Guardian investigation found Family Dollar failed at least 2,100 price inspections in 20 states from 2022 to late 2025. On Thursday the Federal Trade Commission and 17 states announced a $63m settlement. Their lawsuit says the company knew it was hurting customers and still overcharges. Family Dollar did not admit or deny the claims and says it takes pricing accuracy seriously.",
+      "why_it_matters": "Small overcharges add up for families on tight budgets, who shop at dollar stores the most. It also shows how reporting can lead to enforcement.",
+      "camps": "Consumer groups say $63m is small for a chain this big and want stronger checks. The company says it is improving. Some argue regulators should also look at rival Dollar General, which had similar problems.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/12/family-dollar-overcharging-allegations-settlement",
+      "published": "2026-11-12",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "A shopper in a US store aisle",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "A Family Dollar store in Windsor, North Carolina",
+      "image_credit": "Photo: Cornell Watson/The Guardian",
       "terms": [
         {
-          "term": "retail sales",
-          "explain": "Total money people spend buying goods in stores and online.",
-          "aliases": [
-            "retail spending"
-          ]
+          "term": "settlement",
+          "explain": "An agreement to end a legal case, often by paying money, without a trial.",
+          "aliases": []
         },
         {
-          "term": "NRF",
-          "explain": "National Retail Federation, the main trade group for US retailers.",
-          "aliases": [
-            "National Retail Federation"
-          ]
+          "term": "FTC",
+          "explain": "Federal Trade Commission: the US agency that protects consumers from unfair business.",
+          "aliases": []
         },
         {
-          "term": "seasonally adjusted",
-          "explain": "Numbers changed to remove normal yearly patterns, like holiday shopping, so months can be compared fairly.",
+          "term": "price inspection",
+          "explain": "A government check that shelf prices match checkout prices.",
+          "aliases": []
+        },
+        {
+          "term": "dollar store",
+          "explain": "A cheap store selling basic goods at low prices.",
           "aliases": []
         }
       ]
@@ -168,42 +178,44 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "Nvidia board reportedly prepares to oust CEO Jensen Huang; stock falls 9% after hours",
-      "dek": "The Wall Street Journal says the board may meet to decide his future. The New York Times reported a second affair, with a senior Nvidia executive.",
-      "caveman": "Nvidia makes the chips that power most AI. Its famous boss, Jensen Huang, already admitted last week to an affair with a woman US intelligence officials believe spies for China's Ministry of State Security. Nvidia hired the law firm Wachtell, Lipton, Rosen & Katz to investigate. On Wednesday, The New York Times reported Huang also had a relationship with Kimberly Powell, Nvidia's vice president of health care, who reports to him. Minutes later, The Wall Street Journal reported the board is preparing to remove him and could meet as soon as Wednesday. Nvidia shares fell more than 9% in after-hours trading. Nvidia and Powell did not immediately comment. Huang had written to staff: 'I was unfaithful to my wife... There is no excuse for what I did.' Nvidia stock was already on track for a sixth straight weekly drop amid worries about the AI boom.",
-      "why_it_matters": "Nvidia is the world's most important AI company and a giant customer of Taiwan's TSMC and many Taiwanese suppliers. A leadership crisis there shakes markets everywhere.",
-      "camps": "Governance experts say a CEO dating a subordinate and a suspected spy is a serious breach and the board must act. Supporters say Huang built Nvidia and replacing him is risky. Lawmakers on both sides focus on the national security angle and China chip exports.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "published": "2026-11-11",
+      "headline": "Jensen Huang resigns as Nvidia CEO after affair scandals; CFO Colette Kress steps in",
+      "dek": "Shares fell 13% at the open and closed down 4.3%, wiping about $180bn in a day. Trump says Tim Cook should take over.",
+      "caveman": "Nvidia makes the chips that power most of the world's AI. Its co-founder Jensen Huang, born in Taiwan, ran it for over 30 years. In recent days reports said he had an affair with Alice Huang (no relation), a Nvidia customer whom US authorities link to Chinese intelligence, and later with two company employees. On Thursday he quit as CEO, president and board member, effective immediately. Finance chief Colette Kress is interim CEO while the board searches inside and outside the company. The board's statement praised his 'profound' contributions and did not mention the scandal. A top law firm is investigating. President Trump posted that only Apple's Tim Cook could replace him.",
+      "why_it_matters": "Nvidia is worth about $4 trillion and buys huge amounts from Taiwan firms like TSMC and Foxconn. The scandal also feeds a push in Washington for tighter chip limits on China.",
+      "camps": "Some say resigning protects the company and that Nvidia is bigger than one man. Others warn it loses its key visionary. Critics on the left say the saga shows tech bosses hold too much unchecked power over markets and politics.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+      "published": "2026-11-12",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Nvidia CEO Jensen Huang speaking at a tech event in Paris",
-      "image_credit": "Photo: Reuters via CNBC",
+      "image_alt": "Jensen Huang, who has resigned as chief executive of Nvidia",
+      "image_credit": "Photo: Bloomberg/Getty Images",
       "terms": [
         {
-          "term": "oust",
-          "explain": "To force someone out of their job.",
-          "aliases": []
-        },
-        {
-          "term": "board",
-          "explain": "The group of directors who oversee a company and can hire or fire the CEO.",
+          "term": "CEO",
+          "explain": "Chief executive officer: the top boss running a company.",
           "aliases": [
-            "board of directors"
+            "chief executive"
           ]
         },
         {
-          "term": "after-hours trading",
-          "explain": "Buying and selling stocks after the main market closes at 4pm New York time.",
+          "term": "interim",
+          "explain": "Temporary, until a permanent choice is made.",
           "aliases": [
-            "after hours"
+            "interim CEO"
           ]
         },
         {
-          "term": "Ministry of State Security",
-          "explain": "China's main spy agency.",
+          "term": "board of directors",
+          "explain": "A group that oversees a company for its shareholders and can hire or fire the CEO.",
           "aliases": [
-            "MSS"
+            "board"
+          ]
+        },
+        {
+          "term": "market value",
+          "explain": "What all of a company’s shares are worth together.",
+          "aliases": [
+            "valuation"
           ]
         }
       ]
@@ -212,40 +224,40 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "CoreWeave soars 24% after strong earnings, easing fears about AI cloud debt",
-      "dek": "The AI cloud renter's revenue jumped 168% to $3.7 billion. Its CEO says demand for 2027 capacity is '10x oversubscribed.'",
-      "caveman": "CoreWeave is a 'neocloud' — a company that rents out huge rooms of Nvidia AI chips to firms like OpenAI. Investors had grown nervous because CoreWeave borrowed a lot of money to build data centers, and the price of insuring its debt against default jumped to distress levels. Then on Tuesday it reported third-quarter revenue up 168% to $3.7 billion, beat forecasts, and raised its outlook. On Wednesday the stock jumped 24.7%, its best day since April 2025. CEO Michael Intrator told CNBC demand 'is and remains overwhelming' and that the capacity left for 2027 is 10 times oversubscribed. He said the company will soon sell more debt backed by its data center assets at about 7%–7.5% interest, and that about $9 billion in customer prepayments also helps fund growth. He also canceled his own planned share sales.",
-      "why_it_matters": "CoreWeave is a test of whether the AI building boom can pay its bills. Good news here lifted Asian tech stocks, including in Taiwan.",
-      "camps": "Bulls say this proves AI demand is real. Skeptics note the company still carries heavy debt, depends on a few big customers, and could suffer if AI spending slows.",
+      "headline": "Widespread Microsoft outage knocks out Outlook, Teams and other 365 services",
+      "dek": "About 130,000 people reported Outlook problems at the peak. Microsoft blamed servers going down and straining the rest.",
+      "caveman": "On Thursday afternoon (US Eastern time) many people around the world could not use Microsoft's Outlook email, Teams chat or other Microsoft 365 tools. Outage tracker Downdetector showed about 130,000 reports for Outlook alone. Microsoft first said there was 'elevated load', meaning too much traffic. Later it said some servers unexpectedly went offline, which put too much pressure on the rest, and some servers were failing automatic health checks. Engineers used a different way to check server health and began bringing machines back. Some users also reported Amazon and Google problems, but Amazon said its services were working normally.",
+      "why_it_matters": "Huge numbers of schools, offices and governments run on a few cloud companies. When one stumbles, work stops in many places at once.",
+      "camps": "Microsoft says it is fixing the cause and adding automatic recovery. Critics say relying on a handful of giant providers is risky and businesses should have backup plans.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "published": "2026-11-11",
+      "source_url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-12",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "CoreWeave signage on its stock market debut day",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Microsoft sign outside a company office (Reuters photo used by CNBC)",
+      "image_credit": "Photo: Reuters via CNBC",
       "terms": [
         {
-          "term": "neocloud",
-          "explain": "A newer cloud company that mainly rents AI computing power, unlike giants such as Amazon or Microsoft.",
-          "aliases": [
-            "neoclouds"
-          ]
-        },
-        {
-          "term": "oversubscribed",
-          "explain": "More customers want something than there is supply.",
+          "term": "outage",
+          "explain": "When a service stops working for users.",
           "aliases": []
         },
         {
-          "term": "credit default swap",
-          "explain": "A kind of insurance investors buy against a company failing to repay debt. A higher price means more fear.",
+          "term": "Microsoft 365",
+          "explain": "Microsoft’s online bundle of Outlook, Word, Excel, Teams and more.",
           "aliases": [
-            "CDS"
+            "365"
           ]
         },
         {
-          "term": "guidance",
-          "explain": "A company's own forecast of future sales or profit.",
+          "term": "server",
+          "explain": "A powerful computer that runs services for many users over the internet.",
+          "aliases": [
+            "servers"
+          ]
+        },
+        {
+          "term": "cloud",
+          "explain": "Computing services run in big remote data centers instead of on your own device.",
           "aliases": []
         }
       ]
@@ -254,45 +266,43 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "AI data centers plan their own gas power plants on a huge scale, research finds",
-      "dek": "BloombergNEF counts 181GW of planned on-site gas power, 90% of it in the US — close to four times Britain's peak electricity demand.",
-      "caveman": "AI data centers need enormous amounts of electricity. Waiting years to connect to the public power grid is too slow for some builders, so many plan to put their own gas-fired power stations right on site. Research from BloombergNEF found plans for 181 gigawatts of this gas power across the US, UK and Europe — almost four times Great Britain's total peak demand. About 90% is planned in the US. If built, the US plants alone would emit about 345 million tonnes of greenhouse gases a year, roughly like 72.8 million gasoline cars. The report says AI data center electricity use could almost quadruple by 2035 to about 7% of world demand. Climate campaigners say these 'temporary' plants could lock in pollution for years. The report landed as world leaders met at the Cop31 climate summit in Turkey.",
-      "why_it_matters": "The AI race is colliding with climate goals. Whether data centers run on gas or clean power will shape emissions for decades — and Taiwan faces its own electricity squeeze from chip and AI growth.",
-      "camps": "Tech companies say speed matters and gas is a bridge until grids catch up. Environmental groups say it's a climate step backward and want clean power and faster grid upgrades instead.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-      "published": "2026-11-11",
+      "headline": "AI chipmaker Cerebras jumps 17% after strong results and a new Microsoft deal",
+      "dek": "The Nvidia rival expects revenue to triple in 2027. Its stock had lost about 47% since its May debut.",
+      "caveman": "Cerebras makes giant AI chips that try to compete with Nvidia's graphics processors (GPUs). On Thursday it reported better sales than experts expected, with core revenue up 70%, and said it signed a deal with Microsoft in October that should start bringing money in early 2027. It already has deals with Amazon and Oracle. CEO Andrew Feldman said long waits and high prices for GPUs create an opening for Cerebras. It expects $310m to $330m in revenue next quarter and roughly triple revenue in 2027. Shares rose 17% after hours. The news came the same day Nvidia's CEO resigned.",
+      "why_it_matters": "If AI customers can buy from more chip companies, Nvidia's grip loosens. That could change who orders chips from Taiwan's factories.",
+      "camps": "Fans say Cerebras proves Nvidia can be challenged. Skeptics note the stock had nearly halved since its listing and the company still needs money to keep up with demand.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "published": "2026-11-12",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Gas-fired power infrastructure of the kind planned at data center sites",
-      "image_credit": "Photo: Anton Gvozdikov/Alamy via The Guardian",
+      "image_alt": "A speaker on stage at a tech conference (Getty photo used by CNBC for the Cerebras story)",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "data center",
-          "explain": "A building full of computers (servers) that run websites, apps and AI.",
+          "term": "GPU",
+          "explain": "Graphics processing unit: a chip that does many calculations at once, now key for AI.",
           "aliases": [
-            "datacentre",
-            "data centres",
-            "datacentres"
+            "GPUs"
           ]
         },
         {
-          "term": "gigawatt",
-          "explain": "A unit of power: one billion watts. One GW can power hundreds of thousands of homes.",
+          "term": "earnings report",
+          "explain": "A company’s regular update on how much it sold and earned.",
           "aliases": [
-            "GW"
+            "earnings"
           ]
         },
         {
-          "term": "grid",
-          "explain": "The network of power lines that carries electricity from power plants to users.",
-          "aliases": [
-            "national grid"
-          ]
-        },
-        {
-          "term": "Cop31",
-          "explain": "The 31st yearly UN climate summit, held this year in Turkey.",
+          "term": "guidance",
+          "explain": "What a company says it expects to earn in the future.",
           "aliases": []
+        },
+        {
+          "term": "after hours",
+          "explain": "Stock trading after the main market closes.",
+          "aliases": [
+            "extended trading"
+          ]
         }
       ]
     },
@@ -300,36 +310,42 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "US Justice Department sues Lyft, saying drivers refuse riders with wheelchairs and guide dogs",
-      "dek": "The lawsuit says Lyft knew about widespread disability discrimination and failed to stop it. Lyft firmly rejects the claims.",
-      "caveman": "Lyft is a ride-hailing app, like Uber. The US Justice Department sued Lyft in federal court in California, saying its drivers often refuse to take people who use wheelchairs or need service animals. That would break the Americans with Disabilities Act, a 1990 law that bans discrimination against disabled people. The complaint gives examples: a Nevada woman in a wheelchair says a driver drove away while she waved; a Texas man with vision and hearing loss began leaving his guide dog at home to avoid being turned down. The government says Lyft knew about 'widespread' discrimination but didn't act. Lyft firmly denies it and says its rules require drivers to follow the law. The government filed a similar case against Uber last year, still ongoing.",
-      "why_it_matters": "Disabled people depend on ride apps to get to work, doctors and daily life. The case tests how much responsibility tech platforms have for what their gig drivers do.",
-      "camps": "Disability advocates say apps profit from drivers and must enforce the rules. Lyft says it already requires accommodation and punishes refusals. Some see a wider fight over who is responsible in the gig economy.",
+      "headline": "US public workers are fighting to protect their jobs from AI — and some are winning",
+      "dek": "Oakland city workers voted 94% to authorize a strike and won a deal: retrain or reassign workers replaced by AI, don't fire them.",
+      "caveman": "Public workers are people employed by governments: city clerks, subway inspectors, data staff. In Oakland, California, the union IFPTE Local 21 worried the city would bring in AI that watches workers and judges them unfairly, or replaces them. On 22 October members voted 94.1% to allow a strike. The city then agreed to a three-year tentative deal with AI protections, including retraining or moving workers whose jobs AI takes instead of firing them, so the strike was put on hold. Unions across the US, including New York transit workers, are seeking similar rules. Transport Workers Union president John Samuelsen said members see automation as 'the ultimate threat to their jobs.'",
+      "why_it_matters": "This is a test of whether workers get a say in how AI is used at work. Deals in big cities can become models elsewhere, including in Asia.",
+      "camps": "Unions say AI is often sold as a 'fancy new toy' that costs more and works worse, and that people need protection. Some officials say AI can save taxpayer money and rules should not block useful tools.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit",
-      "published": "2026-11-10",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+      "published": "2026-11-12",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "A Lyft-branded car on a US street",
-      "image_credit": "Photo: Smith Collection/Gado/Getty Images via The Guardian",
+      "image_alt": "IFPTE union members rally in Oakland, California",
+      "image_credit": "Photo: Courtesy of IFPTE Local 21",
       "terms": [
         {
-          "term": "ADA",
-          "explain": "Americans with Disabilities Act: a US law that bans discrimination against disabled people in jobs, transport and public places.",
+          "term": "union",
+          "explain": "A group of workers who join together to bargain with their employer.",
           "aliases": [
-            "Americans With Disabilities Act"
+            "labor union"
           ]
         },
         {
-          "term": "service animal",
-          "explain": "A trained animal, often a dog, that helps a disabled person, such as guiding someone who is blind.",
+          "term": "strike authorization",
+          "explain": "A vote that allows union leaders to call a strike if talks fail.",
           "aliases": [
-            "guide dog",
-            "service animals"
+            "authorize a strike"
           ]
         },
         {
-          "term": "gig economy",
-          "explain": "Work done as short jobs through apps, like ride-hailing or food delivery.",
+          "term": "tentative agreement",
+          "explain": "A deal reached by negotiators that still needs final approval.",
+          "aliases": [
+            "tentative deal"
+          ]
+        },
+        {
+          "term": "automation",
+          "explain": "Using machines or software to do work people used to do.",
           "aliases": []
         }
       ]
@@ -338,38 +354,42 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Democrat Scott Colom wins Mississippi Senate seat in stunning upset",
-      "dek": "He beat Republican Cindy Hyde-Smith after more than a week of counting, becoming the first Black senator elected from Mississippi since Reconstruction.",
-      "caveman": "Mississippi is one of America's most Republican states. It had not elected a Democrat to the US Senate since 1982, or a Black senator since the 1870s. After more than a week of counting, Democrat Scott Colom beat Republican Senator Cindy Hyde-Smith. He took a narrow lead on election night that grew as provisional ballots were counted. Colom, a seventh-generation Mississippian, became the first Black district attorney in his area in 2015. The Guardian says his win capped a national wave of anger at the Trump administration, and that voters in the South were also stirred up by efforts to redraw Black-majority voting districts. The last Black senator from Mississippi, Blanche K Bruce, was born into slavery.",
-      "why_it_matters": "Every Senate seat matters for which party controls laws and appointments. A Democratic win in deep-red Mississippi shows how big the 2026 midterm swing was.",
-      "camps": "Democrats call it proof that their message reaches beyond cities. Republicans point to a weak national mood and local factors. Analysts say Colom's moderate, local profile helped.",
+      "headline": "Putin takes a hard line in talks with US envoys as Ukraine reports new Starlink disruptions",
+      "dek": "Putin demanded all four Ukrainian regions Russia claims and said any foreign troops in Ukraine would be targets. Europe will join the next round.",
+      "caveman": "Russia invaded Ukraine in 2022. US envoys Jared Kushner and Steve Witkoff met President Vladimir Putin at the Kremlin on Thursday to push a peace deal. Putin refused to give ground: he wants full control of four Ukrainian regions Russia says it annexed, and he said foreign peacekeeping troops in Ukraine would be treated as 'continuation of war' and targeted. That cooled hopes raised by Ukraine's President Zelenskyy, who saw a 'window' for a deal before the end of 2026. Witkoff said European representatives will join the next talks. The envoys then flew to Dublin to brief Zelenskyy. Meanwhile, Ukraine's military reported new problems with Elon Musk's Starlink satellite internet, which its troops rely on.",
+      "why_it_matters": "How this war ends shapes how big powers treat smaller neighbors, which matters to Taiwan too.",
+      "camps": "Some argue any ceasefire is better than more deaths. Ukraine and many Europeans say giving Russia land rewards invasion and invites future attacks. Others question relying on a private company's satellites in war.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
-      "published": "2026-11-11",
+      "source_url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "published": "2026-11-12",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Scott Colom in Jackson, Mississippi, on 3 November 2026",
-      "image_credit": "Photo: Eric Shelton/AP via The Guardian",
+      "image_alt": "Vladimir Putin meeting US envoys at the Kremlin",
+      "image_credit": "Photo: Vyacheslav Prokofyev/AFP/Getty Images",
       "terms": [
         {
-          "term": "upset",
-          "explain": "When the person expected to lose wins.",
-          "aliases": []
-        },
-        {
-          "term": "Reconstruction",
-          "explain": "The period after the US Civil War (1865–1877) when formerly enslaved Black men briefly won office in the South.",
-          "aliases": []
-        },
-        {
-          "term": "provisional ballot",
-          "explain": "A vote set aside to be checked later, for example when a voter's registration is unclear.",
+          "term": "envoy",
+          "explain": "A person sent by a government to negotiate for it.",
           "aliases": [
-            "provisional ballots"
+            "envoys"
           ]
         },
         {
-          "term": "incumbent",
-          "explain": "The person who already holds the job.",
+          "term": "annex",
+          "explain": "To take over another country’s land and claim it as your own.",
+          "aliases": [
+            "annexed"
+          ]
+        },
+        {
+          "term": "peacekeepers",
+          "explain": "Foreign troops sent to help keep a ceasefire.",
+          "aliases": [
+            "peacekeeping troops"
+          ]
+        },
+        {
+          "term": "Starlink",
+          "explain": "SpaceX’s satellite internet service, owned by Elon Musk.",
           "aliases": []
         }
       ]
@@ -378,36 +398,43 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Russia and Ukraine agree to biggest prisoner swap of the war, but no peace breakthrough",
-      "dek": "US envoys Jared Kushner and Steve Witkoff led two days of talks in Abu Dhabi. They head to Moscow to see Putin, then to Dublin to meet Zelenskyy.",
-      "caveman": "Russia invaded Ukraine almost five years ago. This week the two sides held their first US-brokered talks since February, in Abu Dhabi. They agreed on what they called the war's largest prisoner exchange — more than 1,000 prisoners from each side are expected. But they made little progress on ending the war. A Ukrainian negotiator said Russia arrived with 'very, very strict directives,' though he saw 'really big progress' on security guarantees for Ukraine after the war and hoped for a deal before the new year. Kushner said he sees 'all the different ingredients to make a deal.' The US envoys will brief Russian President Vladimir Putin in Moscow and then meet Ukrainian President Volodymyr Zelenskyy and European partners in Dublin.",
-      "why_it_matters": "The war shapes energy prices, food supply and security across Europe and beyond. A prisoner swap brings families relief even without peace.",
-      "camps": "Ukraine says it won't give up land cheaply — Zelenskyy said Ukraine is 'not real estate.' Russia wants big concessions. Some in Europe worry a rushed US-led deal could reward the invasion.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-      "published": "2026-11-11",
+      "headline": "Democrat Cindy Holscher wins Kansas governor race, holding a seat Republicans hoped to flip",
+      "dek": "She beat Trump-endorsed Ty Masterson in a red state, running on public schools and against 'sweetheart deals' for billionaires.",
+      "caveman": "Kansas usually votes Republican for president, but it has had a Democratic governor, Laura Kelly, for eight years. She could not run again, so this was seen as the governor's race most likely to flip to Republicans out of 36 this year. The Associated Press called it for Democratic state Sen. Cindy Holscher, 57, over Republican Senate President Ty Masterson, whom Trump endorsed. Holscher opposed school vouchers and wanted more money for public schools, called for a pause on new data centers, and backed legal cannabis to raise state money. She tied Masterson to an old Republican tax cut that caused budget crises. Masterson promised lower property taxes and called her 'the most radical, liberal, socialist Democrat ever.'",
+      "why_it_matters": "It adds to a strong Democratic midterm, and shows populist economic messages can win even in conservative places.",
+      "camps": "Democrats see proof that kitchen-table issues beat culture-war labels. Republicans say Kansas has a long habit of picking Democratic governors to balance a Republican legislature, so it says little nationally.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+      "published": "2026-11-12",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Rustem Umerov, head of Ukraine's foreign intelligence service, speaks after talks in Abu Dhabi",
-      "image_credit": "Photo: Altaf Qadri/AP via The Guardian",
+      "image_alt": "Cindy Holscher speaks to reporters after voting early in Kansas City, Kansas",
+      "image_credit": "Photo: Jim Vondruska/Getty Images",
       "terms": [
         {
-          "term": "prisoner exchange",
-          "explain": "When two sides at war swap captured soldiers or civilians.",
-          "aliases": [
-            "prisoner swap"
-          ]
-        },
-        {
-          "term": "envoy",
-          "explain": "A person sent to represent a government in talks.",
-          "aliases": [
-            "envoys"
-          ]
-        },
-        {
-          "term": "security guarantees",
-          "explain": "Promises from other countries to help protect Ukraine if it is attacked again.",
+          "term": "flip",
+          "explain": "When a seat changes from one party to the other.",
           "aliases": []
+        },
+        {
+          "term": "school vouchers",
+          "explain": "Public money given to families to pay for private schools.",
+          "aliases": [
+            "vouchers"
+          ]
+        },
+        {
+          "term": "endorse",
+          "explain": "To publicly support a candidate.",
+          "aliases": [
+            "endorsed"
+          ]
+        },
+        {
+          "term": "race call",
+          "explain": "When a news group like AP declares a winner based on vote counts.",
+          "aliases": [
+            "called"
+          ]
         }
       ]
     },
@@ -415,34 +442,41 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "US Treasury Secretary Bessent moves to a military base over Iranian threats",
-      "dek": "Officials say Iran's plots against US targets have become more advanced. Three Iranians were indicted over nearly 20 attacks and attempts in Europe and the US.",
-      "caveman": "The US and Iran are in an uneasy war, with on-and-off fighting. Treasury Secretary Scott Bessent leads 'Operation Economic Outcast,' a campaign of sanctions to choke Iran's economy, which has made him a top target, according to The New York Times. A person familiar with the matter told CNBC he moved from his Washington home to a military base for safety, partly because a past newspaper photo let people locate his house. A Treasury spokesperson said he 'will not be deterred.' Separately, the Justice Department said three Iranian nationals were charged with terrorism over nearly 20 attacks and attempts in Europe and the US, including a September attack on RAF Fairford, a British base where US troops are stationed. Bessent is reportedly the latest Trump official to move onto a base.",
-      "why_it_matters": "When a top economic official needs military protection, it shows how dangerous the US–Iran conflict has become — and it affects oil prices and markets worldwide.",
-      "camps": "The administration says sanctions and the blockade are working. Critics say the war is risky and costly; most Americans in a recent Reuters poll want the new Congress to end it.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "published": "2026-11-11",
+      "headline": "Trump says the US doesn't need a deal to end the Iran war and tells Vance to focus on 'Democrat-run cities'",
+      "dek": "Vance had been talking with go-betweens in Iran and Qatar about new talks. The move locks in a tense stalemate.",
+      "caveman": "The US and Israel started striking Iran in February. Iran answered by closing the Strait of Hormuz, a key sea lane for oil, and fuel prices jumped worldwide. The US now blockades Iranian ports and has mostly reopened the strait, but there has been no big fighting for months. Vice President JD Vance had reportedly been talking with intermediaries about restarting peace talks. On Thursday Trump posted, 'We don't need a deal with Iran. Those days have long since passed,' and told Vance to put his attention on what Trump called 'Massive Corruption and Crime' in Democrat-run cities and states.",
+      "why_it_matters": "No deal means the risk of higher oil prices stays, which affects gas, electricity and shipping costs in Taiwan and everywhere.",
+      "camps": "Supporters say the US already has the upper hand and does not need to give Iran anything. Critics say a frozen war keeps oil high and danger alive, and that sending Vance after Democratic cities is political, not about safety.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+      "published": "2026-11-12",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Treasury Secretary Scott Bessent speaking at a podium",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Donald Trump and JD Vance at a Veterans Day ceremony at Arlington National Cemetery",
+      "image_credit": "Photo: Kylie Cooper/Reuters",
       "terms": [
         {
-          "term": "sanctions",
-          "explain": "Penalties, like bans on trade or freezing money, used to pressure a country.",
-          "aliases": []
-        },
-        {
-          "term": "indicted",
-          "explain": "Formally charged with a crime by a grand jury.",
+          "term": "Strait of Hormuz",
+          "explain": "A narrow sea passage near Iran that much of the world’s oil passes through.",
           "aliases": [
-            "indictment"
+            "Hormuz"
           ]
         },
         {
-          "term": "Treasury Secretary",
-          "explain": "The US cabinet member in charge of government money, taxes and financial sanctions.",
+          "term": "blockade",
+          "explain": "Using ships or force to stop goods going in or out of ports.",
           "aliases": []
+        },
+        {
+          "term": "stalemate",
+          "explain": "A situation where neither side wins and nothing moves.",
+          "aliases": []
+        },
+        {
+          "term": "intermediary",
+          "explain": "A go-between who passes messages between two sides.",
+          "aliases": [
+            "intermediaries"
+          ]
         }
       ]
     },
@@ -450,36 +484,42 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Indonesia's vice president Gibran resigns after court rules his school document invalid",
-      "dek": "Gibran, son of ex-president Jokowi, faced an impeachment push. His exit could strain the alliance that put President Prabowo in power.",
-      "caveman": "Gibran Rakabuming Raka became Indonesia's vice president in 2024, at 36, after a controversial court ruling let him run. He is the son of former president Joko Widodo, known as Jokowi. Indonesian law says a vice president must have finished high school or equal. Gibran studied in Singapore and Australia and used an Indonesian 'equivalence' certificate. Indonesia's Supreme Court ruled that document invalid, saying there was no proof he had a foreign diploma that matched high school. More than 100 lawmakers then backed a move that could lead to impeachment. An aide told the BBC Gibran handed his resignation letter to President Prabowo Subianto on Wednesday; it is unclear if it has been accepted. Gibran had asked for a chance to prove his credentials.",
-      "why_it_matters": "Indonesia is the world's third-largest democracy and a big Southeast Asian economy. A political shake-up there matters for the region, including Taiwan's trade and migrant worker ties.",
-      "camps": "Critics say the case shows family dynasties bending rules. Gibran's backers say university study proves he finished high school. Analysts watch whether the Prabowo–Jokowi alliance breaks apart.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-      "published": "2026-11-11",
+      "headline": "A new wave of socialist mayors is coming — from Los Angeles to Washington DC. Can they deliver?",
+      "dek": "DSA members Nithya Raman (LA) and Janeese Lewis George (DC) won, joining NYC's Zohran Mamdani. DSA's seats in Congress will quadruple to eight.",
+      "caveman": "The Democratic Socialists of America (DSA) is a left-wing group inside US politics that pushes for cheaper housing, public services and workers' rights. In last week's elections its members won big. Nithya Raman will lead Los Angeles, the second-biggest US city, and Janeese Lewis George will lead Washington DC. Young members David Morales and Yousef Rabhi won mayor races in Providence and Ann Arbor. They join New York's mayor Zohran Mamdani, whose long-shot win is credited with inspiring the wave. From January, DSA will have eight members in Congress and over 100 endorsed officials nationwide. But mayors run practical things like garbage pickup and snow days, so they must prove their ideas work. Mamdani said: 'If politics cannot deliver on the block where you live, why would you trust it to deliver anywhere?'",
+      "why_it_matters": "City leaders shape rent, transit and policing. These mayors will be a real-world test of left-wing ideas on affordability.",
+      "camps": "Supporters say voters want bold help with living costs. Critics, including moderate Democrats, worry about taxes, business flight and promises that are hard to pay for. Even fans admit the stakes are high: failures would hurt the movement.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/12/democratic-socialists-historic-election-wins",
+      "published": "2026-11-12",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Indonesian Vice President Gibran Rakabuming Raka",
-      "image_credit": "Photo: AFP via Getty Images via BBC",
+      "image_alt": "Yousef Rabhi and Nithya Raman (composite)",
+      "image_credit": "Photo: Getty Images, AP (composite)",
       "terms": [
         {
-          "term": "impeach",
-          "explain": "To formally accuse a top official, which can lead to removing them from office.",
+          "term": "DSA",
+          "explain": "Democratic Socialists of America, a left-wing political organization.",
           "aliases": [
-            "impeachment"
+            "Democratic Socialists of America",
+            "democratic socialist"
           ]
         },
         {
-          "term": "dynasty",
-          "explain": "A family that holds power across generations.",
-          "aliases": [
-            "political dynasty"
-          ]
-        },
-        {
-          "term": "equivalence certificate",
-          "explain": "A document saying a foreign qualification equals a local one.",
+          "term": "mayor-elect",
+          "explain": "A person who has won a mayor election but has not taken office yet.",
           "aliases": []
+        },
+        {
+          "term": "affordability",
+          "explain": "Whether ordinary people can pay for basics like rent and food.",
+          "aliases": []
+        },
+        {
+          "term": "endorse",
+          "explain": "To officially back a candidate.",
+          "aliases": [
+            "endorsed"
+          ]
         }
       ]
     },
@@ -487,43 +527,40 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Jacob Elordi to star in and produce a new take on Norman Mailer's 'The Executioner's Song'",
-      "dek": "Fresh off playing the Creature in Frankenstein, Elordi is taking on Mailer's Pulitzer-winning 1979 book about killer Gary Gilmore.",
-      "caveman": "Norman Mailer was a giant of American writing. His nearly 1,000-page 'The Executioner's Song' tells the true story of Gary Gilmore, who murdered two men in Utah in 1976 and then demanded to be executed, at a time when the death penalty was on hold across the US. He was shot by firing squad in 1977. Mailer wrote it in plain, flat sentences, like a novel built from real interviews, many gathered by photographer Lawrence Schiller. Joan Didion called it 'an absolutely astonishing book.' Now Australian actor Jacob Elordi, Oscar-nominated for playing the Creature in 'Frankenstein,' will star and, for the first time, produce. Scott Stuber of United Artists is among the producers, and Schiller, who directed a 1982 film version with Tommy Lee Jones, will executive-produce.",
-      "why_it_matters": "When a hot young star picks an old classic, sales and readers usually follow. It puts big questions — the death penalty, violence and media frenzy — back in pop culture.",
-      "camps": "Fans of the book are curious whether a new version can match its quiet power. Some critics question whether retelling a killer's story glamorizes him; others say it's essential American history.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/jacob-elordi-will-star-in-an-adaptation-of-the-executioners-song/",
-      "published": "2026-11-11",
+      "headline": "Who's hot: filmmaker Jane Schoenbrun's first novel turns screen-culture horror into a book",
+      "dek": "The 'I Saw the TV Glow' director's Public Access Afterworld follows a trans content moderator chasing a cult leader through TV static.",
+      "caveman": "Jane Schoenbrun is an American filmmaker known for the cult horror movie I Saw the TV Glow, about people pulled into the world behind a screen. Now they have written a first novel, Public Access Afterworld. The hero, Bethany Peters, is a young trans woman whose job is to watch disturbing videos and delete the ones that break the rules at a YouTube-like company. One night she sees a video by a non-binary kid who hurts themself for a mysterious figure called David Sawyer, and she sets off to save them. The book jumps between a youth psych ward, a lonely teen seeing images in TV static, and Los Alamos during the atomic bomb project. The Guardian review calls Schoenbrun 'wonderfully brutal, passionate and astute' about how the internet feeds on its victims. (Content note: self-harm.)",
+      "why_it_matters": "Moving between film and books, Schoenbrun is one of the most talked-about trans voices in American culture right now.",
+      "camps": "Fans praise the book's sharp take on online life. Some readers may find its many strands and dark themes hard going.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/nov/12/public-access-afterworld-by-jane-schoenbrun-review-horror-in-the-tv-static",
+      "published": "2026-11-12",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Cover art for Norman Mailer's The Executioner's Song",
-      "image_credit": "Photo: Literary Hub",
+      "image_alt": "Jane Schoenbrun",
+      "image_credit": "Photo: Monica Schipper/Getty Images for IMDb",
       "terms": [
         {
-          "term": "adaptation",
-          "explain": "A film or TV version made from a book.",
+          "term": "content moderator",
+          "explain": "A worker who reviews posts and videos and removes ones that break the rules.",
           "aliases": []
         },
         {
-          "term": "Pulitzer Prize",
-          "explain": "A top US award for writing and journalism.",
+          "term": "non-binary",
+          "explain": "A person who does not identify only as a man or a woman.",
+          "aliases": []
+        },
+        {
+          "term": "cult film",
+          "explain": "A movie with a small but very devoted fan base.",
           "aliases": [
-            "Pulitzer"
+            "cult-hit"
           ]
         },
         {
-          "term": "death penalty",
-          "explain": "When the state kills a person as punishment for a crime.",
+          "term": "debut novel",
+          "explain": "An author’s first published novel.",
           "aliases": [
-            "capital punishment",
-            "execution"
-          ]
-        },
-        {
-          "term": "executive producer",
-          "explain": "A senior producer, often giving rights, money or advice rather than daily work.",
-          "aliases": [
-            "executive-produce"
+            "first novel"
           ]
         }
       ]
@@ -532,38 +569,36 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "HOT: Nancy Isenberg's new book takes aim at America's 'nepo babies'",
-      "dek": "An excerpt from 'Aristocracy, American Style' argues Americans quietly accept inherited privilege — in Hollywood, news, publishing and politics.",
-      "caveman": "A 'nepo baby' is someone who got ahead partly because a parent was already famous or powerful. Historian Nancy Isenberg, known for her bestseller 'White Trash: The 400-Year Untold History of Class in America,' has a new book, 'Aristocracy, American Style' (Viking). In an excerpt on Literary Hub, she argues that Americans like to think their country has no aristocracy, yet they happily accept nepotism. She lists Hollywood families from the Barrymores to the Fondas and Douglases, TV news figures whose parents were famous anchors or politicians, and families that pass down businesses and newspapers. Her point: talent may be real, but these people never had to compete with the crowd from the bottom, and that keeps power inside the same circles.",
-      "why_it_matters": "It turns a viral internet joke into a serious question about class and fairness — a hot topic as Americans argue about inequality and who gets opportunities.",
-      "camps": "Some readers will cheer the takedown of inherited privilege. Others argue that family connections exist everywhere and many heirs still work hard and earn their place.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/a-history-of-the-american-nepo-baby/",
-      "published": "2026-11-11",
+      "headline": "Ben Lerner's 'Transcription' arrives as an audiobook: a writer loses his phone and has to remember",
+      "dek": "The narrator drops his iPhone in a sink before interviewing his 90-year-old mentor, so he fakes recording and memorizes instead.",
+      "caveman": "Ben Lerner is a leading American novelist and poet. His short novel Transcription starts on a train to Providence, Rhode Island. The unnamed narrator is going to interview his old mentor Thomas, a famous German writer and film-maker who is 90. At the hotel he drops his iPhone in a sink and kills it. Now he cannot record the talk or video-call his young daughter at bedtime. He pretends to record on the dead phone and tries to keep Thomas's words in his memory. The book thinks about memory, storytelling and how phones shape our lives. The Guardian says actor Seth Numrich reads the audiobook well, handling Lerner's layered writing.",
+      "why_it_matters": "Lerner is a big name in literary fiction, and this book captures something everyone feels: panic and freedom without a phone.",
+      "camps": "Admirers love his clever, thoughtful style. Others find his self-aware narrators too inward-looking for their taste.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/nov/12/transcription-by-ben-lerner-audiobook-review-a-mediation-on-memory-for-the-smartphone-era",
+      "published": "2026-11-12",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Illustration accompanying the Literary Hub excerpt on political nepo babies",
-      "image_credit": "Photo: Literary Hub",
+      "image_alt": "Ben Lerner",
+      "image_credit": "Photo: Beowulf Sheehan",
       "terms": [
         {
-          "term": "nepo baby",
-          "explain": "Short for nepotism baby: a child of famous or powerful parents who benefits from that connection.",
-          "aliases": [
-            "nepo babies"
-          ]
-        },
-        {
-          "term": "nepotism",
-          "explain": "Favoring your relatives when giving jobs or chances.",
+          "term": "novella",
+          "explain": "A story longer than a short story but shorter than a novel.",
           "aliases": []
         },
         {
-          "term": "aristocracy",
-          "explain": "A class of people who hold power and status mainly through birth and family.",
+          "term": "audiobook",
+          "explain": "A book read aloud and recorded for listening.",
           "aliases": []
         },
         {
-          "term": "excerpt",
-          "explain": "A short section taken from a longer book.",
+          "term": "narrator",
+          "explain": "The voice telling the story.",
+          "aliases": []
+        },
+        {
+          "term": "fourth wall",
+          "explain": "The invisible line between a story and its audience; breaking it means speaking to the reader directly.",
           "aliases": []
         }
       ]
@@ -572,36 +607,39 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Tom Drury on 'flown-over country' as his new Iowa novel 'West of Loveland' arrives",
-      "dek": "The cult-favorite novelist says writers should see the Midwest from the ground, not from the airplane window.",
-      "caveman": "Coastal Americans sometimes call the middle of the country 'flyover country' — places they only see from a plane. Novelist Tom Drury, who grew up in an Iowa town of about 200 people surrounded by corn and soybean farms, wants to flip that. In a talk now published by Literary Hub, he suggests 'flownover country,' centered on the people below. The talk came from a 2022 conference in Austria about how 'flyover' became a symbol of cultural ranking and political division. His short story for that project, about a teenage boy and his aunt who find a gun by the road, became the first chapter of his new novel, 'West of Loveland' (Grove Press). Drury, who lives in Iowa City, is admired for 'The End of Vandalism' and the National Book Award-longlisted 'Pacific.'",
-      "why_it_matters": "Who gets to tell stories about rural America matters, especially after elections that split city and country. Drury is a writer's writer whose new books are an event for fans.",
-      "camps": "Readers who love quiet, funny small-town fiction will be excited. Some argue 'flyover' talk is overblown; others say coastal culture still ignores rural lives.",
+      "headline": "Lit Hub picks 10 great debut novels you might have missed in 2026",
+      "dek": "First books by Emeline Atwood, Bindu Bansinath, Mary H.K. Choi, T Kira Madden, Larissa Pham and others get a boost.",
+      "caveman": "A debut novel is a writer's first. Lit Hub says it has become harder than ever for new fiction writers without a track record to get attention, so it listed favorites (not 'the best'). They include Emeline Atwood's A Real Animal, about a young woman's ordinary days until something terrible happens; Bindu Bansinath's Men Like Ours, where women in an Indian-American New Jersey suburb gossip in a WhatsApp group until it becomes a murder mystery; Mary H.K. Choi's Pool House, called the novel of the summer, about a messy mother-daughter bond; plus T Kira Madden's Whidbey, Larissa Pham's Discipline, Bobuq Sayed's No God But Us, Avigayl Sharp's Offseason and Nafissa Thompson-Spires's The Four Wives and Five Deaths of Richard Milford.",
+      "why_it_matters": "Lists like this help new authors, many of them women and writers of color, get noticed beyond one or two hyped books a year.",
+      "camps": "Readers welcome the spotlight. Some note that one person's list reflects personal taste, and the publishing industry still pours money into a few big titles.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/tom-drury-on-writing-from-flyover-country/",
-      "published": "2026-11-11",
-      "image": "images/wd-lit-3.jpg",
-      "image_alt": "An Iowa cornfield",
-      "image_credit": "Photo: Literary Hub",
+      "source_url": "https://lithub.com/10-great-debut-novels-you-might-have-missed-in-2026/",
+      "published": "2026-11-12",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "flyover country",
-          "explain": "A sometimes mocking name for the middle of the US, which coastal travelers fly over.",
-          "aliases": [
-            "flownover country"
-          ]
-        },
-        {
-          "term": "longlist",
-          "explain": "The first, longer list of books chosen for a prize, before the shortlist and winner.",
-          "aliases": [
-            "long-listed"
-          ]
-        },
-        {
-          "term": "Midwest",
-          "explain": "The north-central part of the US, including Iowa, known for farming.",
+          "term": "debut",
+          "explain": "A first work, like a writer’s first novel.",
           "aliases": []
+        },
+        {
+          "term": "track record",
+          "explain": "A history of past success.",
+          "aliases": []
+        },
+        {
+          "term": "literary fiction",
+          "explain": "Fiction focused on character, ideas and style more than plot formulas.",
+          "aliases": []
+        },
+        {
+          "term": "Lit Hub",
+          "explain": "Literary Hub, a US website about books and writing.",
+          "aliases": [
+            "Literary Hub"
+          ]
         }
       ]
     },
@@ -609,39 +647,41 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "David Conrad-Pérez picks 10 books on the people who really built modern New York",
-      "dek": "The author of a new Triangle Shirtwaist Fire history says the city's workers, tenants and organizers deserve as much attention as its millionaires.",
-      "caveman": "New York loves naming buildings after rich builders and bankers. Historian David Conrad-Pérez, author of 'Fire in the Heart of the City: The Triangle Shirtwaist Fire and the Origins of Modern Charity' (NYU Press), argues the people who dug the tunnels, kept the lights on and set the tables — like his own ancestors who were domestic workers — matter just as much. For Literary Hub he recommends 10 books about the birth of modern New York. He warns that archives are not neutral: rich families leave big piles of letters, while workers' lives survive only in scraps, so historians must not confuse a thick paper trail with the whole story. The 1911 Triangle fire killed 146 garment workers, mostly young immigrant women, and led to new safety laws.",
-      "why_it_matters": "It's a reading list for anyone curious about labor, immigration and who gets remembered — themes that still shape New York politics today.",
-      "camps": "Labor historians will welcome the focus on workers. Others say the city's famous builders and philanthropists still deserve credit for what they made possible.",
+      "headline": "Still hot at 100: Adam Gopnik on why Hemingway's 'The Sun Also Rises' lives on",
+      "dek": "The 1926 Lost Generation novel has dated prejudices, but its plain, 'go somewhere, do a thing' style still shapes American fiction.",
+      "caveman": "Ernest Hemingway's The Sun Also Rises came out in 1926. It follows American and British expats drinking in Paris and going to bullfights in Spain after World War I. Writer Adam Gopnik admits new readers will hit ugly parts: anti-Jewish jabs at the character Robert Cohn, slights about gay men, and a heroine judged for her desires. A Reddit reader even called it 'a boring travel vlog… people going to a place and doing a thing.' Gopnik says that is almost exactly right, and that is the genius: Hemingway stripped writing of heavy symbols and sermons and told the details of going places and doing things. That clear style became a model for much American fiction after it.",
+      "why_it_matters": "Classics turning 100 make us ask what to keep and what to criticize. This is a good guide to reading old books with open eyes.",
+      "camps": "Fans call it the purest American prose style. Critics say its bigotry and macho world should not be brushed aside, and that other writers of the time deserve as much attention.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/10-books-on-the-birth-of-modern-new-york/",
-      "published": "2026-11-11",
+      "source_url": "https://lithub.com/an-ode-to-the-lost-generation-adam-gopnik-on-the-sun-also-rises-at-100/",
+      "published": "2026-11-12",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "A view of New York City",
-      "image_credit": "Photo: Literary Hub",
+      "image_alt": "Repeated illustration in the style of The Sun Also Rises' classic cover art (Lit Hub lead image)",
+      "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "Triangle Shirtwaist Fire",
-          "explain": "A 1911 factory fire in New York that killed 146 garment workers and led to major worker safety laws.",
+          "term": "Lost Generation",
+          "explain": "The young people who came of age during World War I, many of them writers living in Paris.",
+          "aliases": []
+        },
+        {
+          "term": "expat",
+          "explain": "Someone living outside their home country.",
           "aliases": [
-            "Triangle fire"
+            "expats"
           ]
         },
         {
-          "term": "archive",
-          "explain": "A collection of old records, letters and papers kept for history.",
+          "term": "anti-Semitism",
+          "explain": "Hatred of or prejudice against Jewish people.",
           "aliases": [
-            "archives"
+            "anti-Semitic"
           ]
         },
         {
-          "term": "philanthropy",
-          "explain": "Giving money to help causes or the public.",
-          "aliases": [
-            "philanthropist",
-            "philanthropists"
-          ]
+          "term": "prose",
+          "explain": "Ordinary written language, not poetry.",
+          "aliases": []
         }
       ]
     },
@@ -649,42 +689,38 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "society",
-      "headline": "Millions join Spain's first general strike in 14 years over sky-high housing costs",
-      "dek": "Tenants' groups called the 24-hour stoppage, later backed by unions. Barcelona saw roadblocks, burning tyres and clashes ahead of an election.",
-      "caveman": "A general strike is when workers across many jobs stop work on the same day. On Wednesday, Spain had its first in 14 years. Unusually, it was called by tenants' associations — groups of renters — angry that rents and home prices have soared. Unions joined. The tenants' confederation said about 4 million people took part by midday. Unions reported 90% participation in car factories and ports and 82% in waste collection, strongest in Catalonia and Andalucía. Many schools and universities closed or ran at minimum. In Barcelona, pickets set up roadblocks, some with burning tyres, public transport nearly stopped and some protesters clashed with police. 'We, the workers... are the ones with the power to halt production,' said Sandra Mora of the Madrid Tenants' Union. The strike comes just before an election in which the far right could gain power.",
-      "why_it_matters": "Housing costs are a crisis in many cities, from Madrid to Taipei. Spain shows renters organizing like workers to demand change.",
-      "camps": "Strikers want rent controls and more public housing. Businesses and some politicians say strikes hurt the economy and that more building, not limits, is the fix. The far right blames immigration, which critics call scapegoating.",
+      "headline": "Afghan women told to 'go home' as a de facto ban on male doctors treating them spreads",
+      "dek": "No public law was announced, but the Taliban's vice ministry has ordered male dentists not to treat women, and raids enforce it.",
+      "caveman": "In Afghanistan, the Taliban already bar most women from school and many jobs, so there are few female doctors. Now women say male doctors are refusing them. Farida, 37, in Herat, paid in advance for dental work, but at her third visit the clinic told her to go home: an order from the Ministry for the Propagation of Virtue and the Prevention of Vice said male dentists could no longer treat women. Three months later her treatment is still unfinished and she can barely eat. The Guardian and Zan Times found the rule appears to have spread across the country without a public announcement, with security forces raiding clinics and warning male doctors. Male doctors have also been told not to examine women without a male guardian present.",
+      "why_it_matters": "If women can't see male doctors and can't train to become doctors, many simply cannot get health care. It is a clear case of gender rules putting lives at risk.",
+      "camps": "The Taliban present their rules as religious and cultural. Women's rights groups, the UN and doctors call it gender apartheid and say it is causing preventable suffering and death.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-      "published": "2026-11-11",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/12/taliban-ban-male-doctors-treating-women-afghanistan",
+      "published": "2026-11-12",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Protesters take to the streets in Valencia during the general strike",
-      "image_credit": "Photo: Ana Escobar/EPA via The Guardian",
+      "image_alt": "Doctors at a hospital in Afghanistan",
+      "image_credit": "Photo: Siddiqullah Alizai/AP",
       "terms": [
         {
-          "term": "general strike",
-          "explain": "When workers across many industries stop work together to protest.",
+          "term": "de facto",
+          "explain": "True in practice, even if not written into law.",
           "aliases": []
         },
         {
-          "term": "tenants' union",
-          "explain": "A group of renters who organize to protect their rights against landlords.",
+          "term": "Taliban",
+          "explain": "The hardline Islamist group that has ruled Afghanistan since 2021.",
+          "aliases": []
+        },
+        {
+          "term": "mahram",
+          "explain": "In Islamic tradition, a close male relative who can accompany a woman.",
           "aliases": [
-            "tenants' associations",
-            "tenants union"
+            "male guardian"
           ]
         },
         {
-          "term": "picket",
-          "explain": "Strikers standing outside workplaces to stop people going in.",
-          "aliases": [
-            "pickets",
-            "picket lines"
-          ]
-        },
-        {
-          "term": "far right",
-          "explain": "Political groups with very strong nationalist and anti-immigration views.",
+          "term": "gender apartheid",
+          "explain": "A system that separates and oppresses people based on gender.",
           "aliases": []
         }
       ]
@@ -693,40 +729,39 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "society",
-      "headline": "Kenyan domestic worker in Saudi Arabia reportedly sentenced to 100 lashes for giving birth outside marriage",
-      "dek": "Rights groups call it an act of violence and say women migrant workers are targeted. A UN expert's planned visit to Saudi Arabia was postponed.",
-      "caveman": "In Saudi Arabia, sex outside marriage is a crime under its sharia legal system. Esther Wanja Muthoni, a Kenyan woman who went there to work as a housekeeper and nanny, reportedly became pregnant during a short relationship with an Egyptian man who later left the country. Because she gave birth in a hospital, and hospitals must report unmarried mothers, the case reached the authorities. Last month she was reportedly sentenced to 100 lashes. 'I don't deserve this,' she told The New York Times. Rights groups say women are punished far more than men, and many migrant women give birth at home to avoid being reported. ALQST, a Saudi rights group, called the ruling an act of violence. The UN special rapporteur on violence against women, Reem Alsalem, says she will raise such cases after her planned visit was postponed.",
-      "why_it_matters": "Millions of women from Africa and Asia work in Gulf homes, often with few protections. This case shows how laws on morality can fall hardest on the poorest women.",
-      "camps": "Human rights groups demand the sentence be dropped and migrant workers protected. Saudi authorities say they apply their own laws. Kenya faces pressure to protect citizens it sends abroad.",
+      "headline": "US reports six measles deaths in 2026 as it faces its worst outbreak in 35 years",
+      "dek": "More than 5,400 cases nationwide. A senator is investigating whether health secretary RFK Jr misled Congress.",
+      "caveman": "Measles is a very contagious virus that can kill, especially young kids. A vaccine prevents it, and the US declared measles eliminated in 2000. Now, with fewer kids vaccinated, it is back. The CDC listed six measles-related deaths this year, twice last year's number, and more than 5,400 cases, the most since 1991. Pennsylvania was hit hardest. A child died in New York on election day and an infant died in Wisconsin days later. The CDC changed how it counts deaths after reports that health secretary Robert F Kennedy Jr, a longtime vaccine skeptic, asked it not to count two Pennsylvania deaths; he had claimed without evidence they might not be measles. A senator has opened an investigation into whether Kennedy lied to Congress.",
+      "why_it_matters": "Outbreaks anywhere can spread through travel. It also shows how trust in vaccines and in health agencies affects real lives.",
+      "camps": "Public health experts say vaccines are safe and the government is weakening protection. Kennedy and his supporters say they want more 'choice' and questions about vaccines; critics say that message is costing children's lives.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
-      "published": "2026-11-11",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
+      "published": "2026-11-12",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "The Riyadh skyline in Saudi Arabia",
-      "image_credit": "Photo: Hasan Zaidi/Alamy via The Guardian",
+      "image_alt": "Medical providers assess a patient with measles symptoms in South Carolina",
+      "image_credit": "Photo: Juan Diego Reyes for The Washington Post via Getty Images",
       "terms": [
         {
-          "term": "sharia",
-          "explain": "Islamic law based on religious texts; countries interpret and apply it differently.",
+          "term": "measles",
+          "explain": "A highly contagious virus causing fever and rash; can be deadly.",
           "aliases": []
         },
         {
-          "term": "lashes",
-          "explain": "Hits with a whip or cane, used as a punishment.",
+          "term": "CDC",
+          "explain": "Centers for Disease Control and Prevention, the US public health agency.",
           "aliases": []
         },
         {
-          "term": "special rapporteur",
-          "explain": "An independent expert named by the UN to report on a human rights issue.",
-          "aliases": []
-        },
-        {
-          "term": "migrant worker",
-          "explain": "Someone who moves to another country for a job.",
+          "term": "eliminated",
+          "explain": "No longer spreading inside the country year-round.",
           "aliases": [
-            "migrant workers",
-            "domestic worker"
+            "elimination"
           ]
+        },
+        {
+          "term": "outbreak",
+          "explain": "A sudden rise in cases of a disease in one area.",
+          "aliases": []
         }
       ]
     },
@@ -734,36 +769,39 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "society",
-      "headline": "Storms flood Gaza tents as 150,000 new shelters wait outside for Israeli approval",
-      "dek": "At least four children and a woman died in weekend storms. Aid groups fear hypothermia and disease as winter sets in.",
-      "caveman": "Most people in Gaza lost their homes in the war and now live in tents. Weekend storms with heavy rain and wind tore and flooded many of them. At least four Palestinian children and a woman were killed. Sewage spilled into tents. 'My kids are all sick,' said Raed Jamal, a displaced father who used pots all night to catch rain leaking through his roof. Aid agencies say 150,000 new shelters are sitting outside Gaza waiting for Israel to approve their entry. The UN says 940,000 people live in makeshift tents in areas at risk of flooding. Medical Aid for Palestinians fears more breathing illnesses and more children dying of cold, as happened last winter.",
-      "why_it_matters": "Winter can be as deadly as bombs for families with no real shelter. Getting tents and heating in is a matter of life and death.",
-      "camps": "Aid groups say Israel is slowing vital supplies. Israel generally says it inspects goods for security and blames Hamas and distribution problems. Many governments urge faster access.",
+      "headline": "Brooklyn building collapse kills eight, including two children; 18 hurt",
+      "dek": "The three-storey home next to a construction site in Flatbush fell. Mayor Mamdani says he is 'heartbroken'; rescuers keep searching in the rain.",
+      "caveman": "On Wednesday at about 4pm, a three-storey residential building on the edge of a construction site on Flatbush Avenue in Brooklyn, New York, suddenly fell down. Six people were found dead in the rubble and two more died later, eight in total. Two were children, and two were construction workers from the nearby site. At least 18 people were hurt, including four firefighters. About 250 firefighters and rescuers kept digging through 'extremely dangerous conditions,' said Mayor Zohran Mamdani, who urged people to stay away. Fire commissioner Lillian Bonsignore said they were still in rescue mode and would assume more people could be trapped until they search under the heavy debris.",
+      "why_it_matters": "It raises hard questions about construction safety next to homes, and about who checks old buildings in a crowded city.",
+      "camps": "Officials are focused on rescue first. Tenant and worker groups want answers on whether the construction work weakened the building and whether warnings were ignored.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
-      "published": "2026-11-11",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+      "published": "2026-11-12",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Flooding among tents at Nuseirat in Gaza",
-      "image_credit": "Photo: Hassan al-Jedi/APAImages/Shutterstock via The Guardian",
+      "image_alt": "Firefighters rescue a person after the Brooklyn building collapse",
+      "image_credit": "Photo: Charly Triballeau/AFP/Getty Images",
       "terms": [
         {
-          "term": "displaced",
-          "explain": "Forced to leave home, usually by war or disaster.",
+          "term": "rubble",
+          "explain": "Broken pieces of a fallen building.",
           "aliases": [
-            "displaced people"
+            "debris"
           ]
         },
         {
-          "term": "hypothermia",
-          "explain": "When the body gets dangerously cold. It can kill, especially small children.",
+          "term": "first responders",
+          "explain": "Firefighters, police and medics who arrive first at emergencies.",
           "aliases": []
         },
         {
-          "term": "humanitarian aid",
-          "explain": "Food, shelter and medicine given to people in a crisis.",
-          "aliases": [
-            "aid"
-          ]
+          "term": "Flatbush",
+          "explain": "A neighborhood in Brooklyn, New York City.",
+          "aliases": []
+        },
+        {
+          "term": "rescue vs recovery",
+          "explain": "Rescue means looking for living people; recovery means retrieving bodies.",
+          "aliases": []
         }
       ]
     },
@@ -771,41 +809,39 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "society",
-      "headline": "US could lose its \"measles eliminated\" status amid worst outbreak since 1991",
-      "dek": "More than 5,400 cases and multiple child deaths this year. Experts blame falling vaccination rates and Health Secretary RFK Jr's vaccine policies.",
-      "caveman": "Measles is one of the most contagious diseases on Earth. A country is called 'measles eliminated' when the virus no longer spreads inside it all year. The US won that status in 2000. Now a panel of eight experts for the Pan American Health Organization, part of the WHO, is reviewing whether the US has lost it, with the PAHO director making the final call. The US has more than 5,400 cases this year, its worst since 1991, according to a Johns Hopkins tracker. Six people died in Pennsylvania, a child died in New York on election day, and an infant died in Wisconsin. Nearly every state has an outbreak. Vaccine expert Dr Paul Offit, a critic of Health Secretary Robert F. Kennedy Jr, called it 'a tremendous step backwards' and said measles is now endemic.",
-      "why_it_matters": "Measles can kill children and cause brain damage. It is easily prevented by vaccines, so losing control shows how trust in vaccines affects public health.",
-      "camps": "Doctors and public health experts blame lower vaccination and RFK Jr's vaccine skepticism. Kennedy and his supporters frame their policies as medical freedom and choice. Most Americans still vaccinate their children.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/11/measles-status-rfk-jr-anti-vaccine-agenda",
-      "published": "2026-11-11",
+      "headline": "Ebola in DR Congo: millions in aid money go missing while health workers go unpaid, MSF warns",
+      "dek": "More than 5,400 have died since May, the second-deadliest Ebola outbreak ever. Some ambulances ran out of fuel.",
+      "caveman": "Ebola is a deadly virus spread through contact with body fluids. An outbreak declared in May in the Democratic Republic of Congo has infected 11,000 people and killed more than 5,400. The medical charity Médecins Sans Frontières (MSF, Doctors Without Borders) says the outbreak is 'out of control,' yet front-line workers are going unpaid, lack training and are short of basic supplies; some ambulances have run out of fuel. Hundreds of millions of dollars meant for the response are not reaching the people who need it. Last month, Africa CDC said $700m out of $962m sent to groups running the response was unaccounted for. MSF wants the government and UN agencies to track money better and send it where needs are greatest.",
+      "why_it_matters": "When aid money disappears, disease spreads further and donors lose trust, which makes the next emergency harder for everyone.",
+      "camps": "Aid groups demand accountability. The Congolese government has been asked for comment. Some experts also point to aid cuts by rich countries that left the system weaker in the first place.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+      "published": "2026-11-12",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "A young child receives a vaccine shot",
-      "image_credit": "Photo: Jan Sonnenmair/Getty Images via The Guardian",
+      "image_alt": "Ebola response workers in DR Congo",
+      "image_credit": "Photo: AFP via Getty Images (BBC)",
       "terms": [
         {
-          "term": "measles",
-          "explain": "A very contagious virus causing fever and rash; it can be deadly for children. A vaccine (MMR) prevents it.",
+          "term": "Ebola",
+          "explain": "A severe, often deadly virus spread by contact with an infected person’s body fluids.",
           "aliases": []
         },
         {
-          "term": "elimination status",
-          "explain": "Official label that a disease no longer spreads continuously inside a country.",
+          "term": "MSF",
+          "explain": "Médecins Sans Frontières, or Doctors Without Borders, an international medical charity.",
           "aliases": [
-            "elimination"
+            "Doctors Without Borders"
           ]
         },
         {
-          "term": "endemic",
-          "explain": "When a disease is always present and spreading in a place.",
+          "term": "unaccounted for",
+          "explain": "Missing, with no record of where it went.",
           "aliases": []
         },
         {
-          "term": "PAHO",
-          "explain": "Pan American Health Organization, the WHO's office for the Americas.",
-          "aliases": [
-            "Pan American Health Organization"
-          ]
+          "term": "Africa CDC",
+          "explain": "The African Union’s public health agency.",
+          "aliases": []
         }
       ]
     }
