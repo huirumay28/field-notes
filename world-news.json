@@ -1,41 +1,39 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-18T08:00:00+08:00",
-  "notes": "Wednesday 18 Nov 2026 world issue (Taipei ~08:00). Window: Tue 17 Nov (US/Europe). Economy: Japan exports +20.5%; Deutsche Bank leak; UK jobless 4.6% and Milburn report; Anthropic IPO above range. Tech: Nvidia doubles revenue, will not reinstate Huang; week of outages; California bans Waymo from freeways; Congress push on China chips. Politics: Crimean Bridge partly collapses; Trump in Manila before Xi-Putin summit; Iran strikes Bahrain again; new Knesset speaker. Literature (US): LeVar Burton memoir; Caro Claire Burke TIME cover; Chad Harbach, The Brightness; Shteyngart and DeLillo new releases. Society: US loses measles elimination; Costa Rican journalist killed; ICE pepper-sprays pregnant citizen; West Bank settler shooting.",
+  "fetched_at": "2026-11-19T08:00:00+08:00",
+  "notes": "Thursday 19 Nov 2026 world issue (Taipei ~08:00). Window: Wed 18 Nov (US/Europe). Economy: Anthropic record $81.3bn IPO; UK inflation 3.6%; Fed Waller wants half-point hike; record-low US pending home sales. Tech: Nadella on Outlook outage; AI mistakes Doritos for gun lawsuit; Nvidia Kress all-hands; GTA VI. Politics: Trump, Xi, Putin in Shenzhen; Jeffries nominated Speaker; Peltola wins Alaska; Israeli tanks cross Gaza yellow line. Literature (US): Supreme Court history books; Karl Kani memoir; Power Broker marathon; Jennifer Croft postcards memoir. Society: ICJ Rohingya genocide verdict; South Korea suneung AI cheating; overdose deaths fall; ICE flight contractor secrecy.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Japan's exports jump 20.5%, powered by chip-making machines",
-      "dek": "October shipments beat forecasts; gear for making semiconductors rose almost 50%.",
-      "caveman": "Japan sold 20.5% more goods abroad in October than a year earlier, a bit better than the 20% economists expected and well up from September. The big driver: machines that factories use to make computer chips, whose exports jumped 49.7% by value. Sales to the US rose 23.9% and to China 13.3%. But Japan is also paying much more for oil: petroleum imports rose 60.5% in value because of the Iran war, as Japan shifts to buying American oil. Even with strong exports, Japan's economy shrank slightly (0.1% annualized) in the third quarter.",
-      "why_it_matters": "Japan and Taiwan sit in the same AI supply chain. Strong orders for Japanese chip tools usually mean chip factories, including in Taiwan, are still building.",
-      "camps": "Optimists see proof the AI building boom is still alive despite the Nvidia turmoil. Cautious voices note a country can export a lot and still stall at home, especially when war pushes up energy bills.",
+      "headline": "Anthropic raises a record $81.3 billion in the biggest stock debut ever",
+      "dek": "The maker of Claude priced shares at $83, above its planned range; trading starts Thursday on Nasdaq as 'ANT'.",
+      "caveman": "Anthropic, the company that makes the AI chatbot Claude, is selling pieces of itself to the public for the first time. This is called an IPO. It set the price at $83 a share, higher than the $70 to $78 it first planned, and sold about 980 million shares. That raises $81.3 billion, more than SpaceX's record IPO in June. The price would value the whole company at more than $1.4 trillion. Shares start trading on Thursday (US time) on the Nasdaq stock market.",
+      "why_it_matters": "This is a big test of whether investors still believe in AI after a rough few weeks, including Nvidia's CEO shake-up and a string of tech outages. Taiwan chipmakers depend on AI spending staying strong.",
+      "camps": "Fans see proof that AI is a real business; skeptics warn prices are bubbly and that a few AI firms now hold a lot of market risk. How the stock trades in its first days will be watched closely.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+      "source_url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
       "published": "2026-11-18",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Workers at a Japanese semiconductor equipment factory (file photo)",
+      "image_alt": "People walk past Anthropic and Morgan Stanley signs in New York",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "exports",
-          "explain": "Goods a country sells to other countries.",
+          "term": "IPO",
+          "explain": "Initial public offering: the first time a private company sells shares to the public.",
+          "aliases": []
+        },
+        {
+          "term": "valuation",
+          "explain": "What the whole company is worth, based on its share price.",
           "aliases": [
-            "export"
+            "market cap"
           ]
         },
         {
-          "term": "semiconductor equipment",
-          "explain": "The big, expensive machines used to make computer chips.",
-          "aliases": [
-            "chipmaking tools"
-          ]
-        },
-        {
-          "term": "annualized",
-          "explain": "A short-period change scaled up to show what it would be over a full year.",
+          "term": "Nasdaq",
+          "explain": "A big US stock market where many tech companies are listed.",
           "aliases": []
         }
       ]
@@ -44,38 +42,36 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Leak of 15 million files says Deutsche Bank ignored warnings about risky clients",
-      "dek": "Reports claim the German bank put profit ahead of its own compliance officers, including on Russian oligarchs.",
-      "caveman": "A huge leak of about 15 million internal Deutsche Bank files was studied by news outlets including Der Spiegel, the Financial Times, the New York Times and Le Monde. Their reports say the bank repeatedly brushed aside its own 'compliance' staff (the people whose job is to stop rule-breaking), kept growing its Russian business until 2021, and dealt with controversial clients such as Donald Trump and Jeffrey Epstein. This is a bank that was already caught helping launder billions for Russian criminals between 2010 and 2015. Deutsche Bank says the issues are old, some up to two decades, and were handled with regulators at the time. Its shares fell on the news.",
-      "why_it_matters": "Big banks move the world's money. When one looks the other way, dirty money from crime or sanctioned countries can slip into the normal economy.",
-      "camps": "Journalists and anti-corruption groups say the files show a culture problem, not a few bad apples. The bank says it has cleaned up and that these are past events already reviewed. Readers should note these are reports based on leaked documents; no new court ruling is involved yet.",
+      "headline": "UK inflation rises to 3.6% as petrol and diesel prices hit records",
+      "dek": "Fuel costs jumped 33.2% in a year because of the Iran war; energy bills are forecast to rise 26% in January.",
+      "caveman": "Inflation means prices going up. In Britain, prices in October were 3.6% higher than a year earlier, up from 3.5% in September and the highest in a year. The biggest reason is fuel: petrol and diesel cost 33.2% more than a year ago, the biggest jump since 2022, because the war involving Iran has pushed up oil prices. Factory costs are rising too. Separately, household energy bills are forecast to rise 26% from January.",
+      "why_it_matters": "When prices rise fast, central banks raise interest rates, which makes loans and mortgages more expensive. Oil shocks like this hit many countries, including Taiwan.",
+      "camps": "Some economists want the Bank of England to raise rates to fight inflation; others worry that would hurt families already squeezed by high bills and slow growth.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
-      "published": "2026-11-17",
+      "source_url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+      "published": "2026-11-18",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Deutsche Bank sign in Frankfurt",
-      "image_credit": "Photo: Kai Pfaffenbach/Reuters via The Guardian",
+      "image_alt": "A petrol station price board in the UK",
+      "image_credit": "Photo: Murdo MacLeod/The Guardian",
       "terms": [
         {
-          "term": "compliance",
-          "explain": "The team inside a company that checks it follows laws and rules.",
+          "term": "inflation",
+          "explain": "How fast prices are going up over a year.",
           "aliases": [
-            "compliance officers"
+            "CPI"
           ]
         },
         {
-          "term": "money laundering",
-          "explain": "Making dirty money look clean by moving it through legit accounts.",
+          "term": "Bank of England",
+          "explain": "The UK's central bank, which sets interest rates.",
           "aliases": [
-            "launder"
+            "central bank"
           ]
         },
         {
-          "term": "oligarch",
-          "explain": "A super-rich businessperson with close ties to political power, often used for Russia.",
-          "aliases": [
-            "oligarchs"
-          ]
+          "term": "interest rate",
+          "explain": "The price of borrowing money.",
+          "aliases": []
         }
       ]
     },
@@ -83,37 +79,38 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "UK jobless rate dips to 4.6%, but job openings hit lowest level since 2014",
-      "dek": "Youth unemployment is near 13%, as a new government-ordered report on young people out of work lands.",
-      "caveman": "Britain's unemployment rate fell to 4.6% in September, from 4.7% in August. That sounds good, but the number of job openings fell to 690,000, the lowest since 2014, as bosses wait because of world uncertainty and AI. Pay growth slowed to 3.5%. Young people have it worst: unemployment for 18-to-24-year-olds is about 13%, nearly triple the adult average. The same day, former minister Alan Milburn released his report on 'Neets' (young people not in education, employment or training). He suggests cutting disability and sickness payments for under-25s and spending the money on back-to-work programs.",
-      "why_it_matters": "Taiwan's young people also worry about AI eating entry-level jobs. The UK is a test case for what governments try when first jobs dry up.",
-      "camps": "Business groups call the vacancy slump alarming and want tax help for hiring young people. Unions and disability advocates worry that cutting benefits for under-25s punishes sick and vulnerable youth instead of fixing the job market.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-      "published": "2026-11-17",
+      "headline": "A top Fed official says the US may need a half-point rate hike to 'shock people'",
+      "dek": "Governor Christopher Waller says inflation is heading the wrong way and wants big action at the Dec. 8-9 meeting.",
+      "caveman": "The Federal Reserve (the Fed) is America's central bank. It raises interest rates to cool down prices. Fed Governor Christopher Waller told CNBC he is 'very, very concerned' that inflation is getting worse and spreading. He said a half-point (0.5 percentage point) rate rise is probably needed at the Fed's December 8-9 meeting, and the Fed should undo the three quarter-point cuts it made last year, maybe more. Markets already expect at least a quarter-point hike in December.",
+      "why_it_matters": "Higher US rates make the dollar stronger, which pulls money out of places like Taiwan. That is part of why the New Taiwan dollar is weak right now.",
+      "camps": "Inflation hawks say acting hard now prevents worse pain later; critics say big hikes could push the economy into recession and cost jobs. Waller is one voice; the full committee decides.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "published": "2026-11-18",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Office towers in London (file photo)",
-      "image_credit": "Photo: Andy Hall/The Observer via The Guardian",
+      "image_alt": "Federal Reserve Governor Christopher Waller speaking",
+      "image_credit": "Photo: Reuters via CNBC",
       "terms": [
         {
-          "term": "unemployment rate",
-          "explain": "Share of people who want a job and are looking but do not have one.",
+          "term": "Federal Reserve",
+          "explain": "The US central bank.",
           "aliases": [
-            "jobless rate"
+            "Fed",
+            "FOMC"
           ]
         },
         {
-          "term": "vacancies",
-          "explain": "Open jobs that companies are trying to fill.",
+          "term": "rate hike",
+          "explain": "Raising interest rates.",
           "aliases": [
-            "job openings"
+            "half-point"
           ]
         },
         {
-          "term": "Neet",
-          "explain": "Young person Not in Education, Employment or Training.",
+          "term": "hawk",
+          "explain": "An official who prefers higher rates to fight inflation.",
           "aliases": [
-            "Neets"
+            "hawkish"
           ]
         }
       ]
@@ -122,36 +119,29 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Anthropic's IPO likely to price above its $70-$78 range",
-      "dek": "The Claude maker plans to list on Nasdaq as 'ANT' on Nov. 19, despite a jittery AI market.",
-      "caveman": "An IPO is when a private company first sells shares to the public. Sources told CNBC that Anthropic, the company behind the Claude AI models, will likely set its share price above the planned $70 to $78 range because so many investors want in. It plans to start trading on Nasdaq on Nov. 19 under the ticker 'ANT'. Its prospectus says revenue hit $33.24 billion in the first nine months of 2026, up about 1,200%, largely thanks to the coding tool Claude Code. It also reported a $104 billion net loss for the period, mostly from accounting changes on its convertible notes.",
-      "why_it_matters": "This is one of the biggest tests yet of whether investors still trust AI after the Nvidia scandal and recent sell-offs, which also hit Taiwan's stock market.",
-      "camps": "Fans point to explosive revenue growth. Skeptics point to huge losses, a market souring on AI, and growing public dislike of the technology in the US.",
+      "headline": "US home sales hit a record low as mortgage rates stay above 7%",
+      "dek": "Signed contracts to buy homes in October fell to the lowest level in 25 years of data.",
+      "caveman": "When people agree to buy a house, they sign a contract first; the sale closes later. In October, these signed contracts ('pending home sales') fell 4.7% from September and 16.7% from a year earlier, the lowest in the index's 25-year history, says the National Association of Realtors. The main reason: mortgage rates (the interest on home loans) are high, around 7.3% to 7.5% for a 30-year loan. Experts expect a slow winter for home sales.",
+      "why_it_matters": "Housing is a big part of the economy. When few homes sell, builders, movers, furniture stores and banks all feel it.",
+      "camps": "Buyers say homes are unaffordable; some sellers refuse to cut prices because they locked in cheap old loans. Lower rates would help, but the Fed is leaning toward raising them.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-      "published": "2026-11-17",
+      "source_url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+      "published": "2026-11-18",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "An Anthropic executive speaking at a tech event (file photo)",
+      "image_alt": "Aerial view of a US suburban neighborhood",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "IPO",
-          "explain": "Initial public offering: the first time a company sells shares on the stock market.",
+          "term": "mortgage",
+          "explain": "A loan to buy a home.",
           "aliases": [
-            "initial public offering"
+            "mortgage rate"
           ]
         },
         {
-          "term": "prospectus",
-          "explain": "The official document a company publishes before an IPO, with its finances and risks.",
+          "term": "pending home sales",
+          "explain": "Homes with signed contracts that have not closed yet.",
           "aliases": []
-        },
-        {
-          "term": "ticker",
-          "explain": "The short code a stock trades under, like ANT.",
-          "aliases": [
-            "ticker symbol"
-          ]
         }
       ]
     },
@@ -159,33 +149,31 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "Nvidia doubles revenue to $115.8bn, but says Jensen Huang is not coming back",
-      "dek": "Board chair Harvey Jones shut the door on Huang's return on the company's first earnings call since his exit.",
-      "caveman": "Nvidia makes the chips that power most AI. On Tuesday it reported quarterly revenue of $115.84 billion, up 103% from a year ago and above Wall Street's guess of about $109 billion. Interim CEO Colette Kress, the former finance chief, presented the results. But the bigger headline: board chair Harvey Jones said Nvidia 'does not intend to reinstate Jensen as CEO.' Huang was pushed out over reported affairs, including one with a suspected Chinese spy. Earlier the same day Huang said he would be 'honored' to return if asked, and he is due to testify to a House committee on Dec. 1. Nvidia stock rose about 5% after hours.",
-      "why_it_matters": "Nvidia is Taiwan's biggest AI customer: TSMC, Foxconn and many others build its chips and servers. Its sales, and its leadership chaos, move Taiwan's stock market.",
-      "camps": "Some investors and tech leaders want Huang back, saying no one knows the company better. The board argues trust and national-security concerns make that impossible. Sales numbers suggest demand for AI chips is still very strong, for now.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-      "published": "2026-11-17",
+      "headline": "Microsoft's Nadella admits a 'perfect storm' bug caused last week's Outlook outage",
+      "dek": "He says Microsoft should have tested better; the outage kicked off a week of failures across US tech, banks and flights.",
+      "caveman": "Last Thursday, Microsoft's Outlook email went down for huge numbers of companies. CEO Satya Nadella told CNBC it was a 'perfect storm': a hidden bug that only showed up under one particular pattern of traffic. He said Microsoft should have caught it in testing and built 'bulkheads' (walls between parts of the system) so one failure would not go global. That outage was the first of a rough week of breakdowns hitting airlines, banks, Apple and even the NSA.",
+      "why_it_matters": "Daily life now runs on a few giant tech companies. When one breaks, millions of people cannot work.",
+      "camps": "US officials say the outages are not linked and not a coordinated attack; senators want stronger protections. Critics say companies chase speed and AI features over reliability.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
+      "published": "2026-11-18",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Jensen Huang speaking in Taipei ahead of Computex, June 2024",
-      "image_credit": "Photo: Ann Wang/Reuters via The Guardian",
+      "image_alt": "Microsoft CEO Satya Nadella on stage in front of the Microsoft logo",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "earnings report",
-          "explain": "A company's official results for a three-month period: sales, profit and outlook.",
-          "aliases": [
-            "earnings"
-          ]
-        },
-        {
-          "term": "interim CEO",
-          "explain": "A temporary boss while the company looks for a permanent one.",
+          "term": "outage",
+          "explain": "When a service stops working.",
           "aliases": []
         },
         {
-          "term": "after-hours trading",
-          "explain": "Buying and selling stocks after the main market closes.",
+          "term": "bug",
+          "explain": "A mistake in computer code.",
+          "aliases": []
+        },
+        {
+          "term": "NSA",
+          "explain": "National Security Agency, a US spy agency for electronic communications.",
           "aliases": []
         }
       ]
@@ -194,38 +182,36 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "Banks, flights, the NSA and Apple all crash in one week: US spy chief says it's not a cyberattack",
-      "dek": "Four major outages on four business days set off memes and conspiracy theories.",
-      "caveman": "In just a few days: Microsoft Outlook broke on Thursday, the FAA grounded flights on Friday, JPMorgan Chase and United Airlines had problems Monday, and on Tuesday the NSA's internal communications went down while Apple services like Apple Pay and iCloud stumbled. Director of National Intelligence Jay Clayton told CNBC: 'This is not cyberattack, and this is not a coordinated effort by a nation state.' Apple blamed an internal update and the NSA blamed scheduled maintenance. Security experts say companies are rushing to patch and upgrade old systems, partly with AI help, and stretched IT teams are making mistakes.",
-      "why_it_matters": "Everyday life now runs on a few giant tech systems. When one fails, payments, flights and messages stop for millions, including people in Taiwan who use the same services.",
-      "camps": "Officials and experts say it's an unlucky string of human and software errors. Some online think it's too many 'coincidences.' There is no public evidence of an attack, but the run of failures has raised questions about how fragile key systems are.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-      "published": "2026-11-17",
+      "headline": "Students sue after an AI camera mistook a Doritos bag for a gun",
+      "dek": "Four Maryland teens say armed police detained them; the lawsuit says over 99% of the system's alerts were false.",
+      "caveman": "Some US schools use AI cameras that look for guns in security video. Last fall at a Baltimore County high school, the Omnilert system flagged a student holding a bag of Doritos chips as having a gun. Armed police came and detained four students. Now the students are suing the company, the police, the school board and the principal. The lawsuit cites a state inspector general finding that more than 99% of the system's alerts in the county's schools were false alarms.",
+      "why_it_matters": "AI is being used to make safety decisions about real people. A wrong alert can put kids in real danger.",
+      "camps": "The company has said it is 'truly sorry' for the fear the families felt and markets its tool as reliable; schools say they want to prevent shootings. Civil rights lawyers say the tech and the adults both failed.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "published": "2026-11-18",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "People walk past an Apple store",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Police video screengrab showing students being detained outside a school",
+      "image_credit": "Photo: Baltimore County Police Department via The Guardian",
       "terms": [
         {
-          "term": "outage",
-          "explain": "When a service or system stops working.",
+          "term": "false positive",
+          "explain": "An alarm that goes off when nothing is wrong.",
           "aliases": [
-            "outages"
+            "false alarm"
           ]
         },
         {
-          "term": "NSA",
-          "explain": "National Security Agency: the US spy agency for electronic communications.",
+          "term": "lawsuit",
+          "explain": "A case filed in court asking for a judge to decide who is responsible.",
           "aliases": [
-            "National Security Agency"
+            "sue"
           ]
         },
         {
-          "term": "patch",
-          "explain": "A software fix for a bug or security hole.",
-          "aliases": [
-            "patching"
-          ]
+          "term": "inspector general",
+          "explain": "An official watchdog that checks how a government agency works.",
+          "aliases": []
         }
       ]
     },
@@ -233,37 +219,36 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "California bans Waymo robotaxis from freeways after they drove into construction zones",
-      "dek": "The state calls the driverless cars an 'imminent hazard' after repeated incidents on Highway 101.",
-      "caveman": "Waymo, owned by Google's parent company Alphabet, runs the biggest fleet of driverless taxis in the US. California's Department of Motor Vehicles has now banned Waymo from operating or testing its driverless cars on all state freeways. Officials say three Waymo cars drove into an active construction closure south of San Francisco on Nov. 5, and another tried to get around highway patrol cars the next day; a video went viral. A similar incident happened in May. Waymo started driving on freeways around San Francisco, Los Angeles and Phoenix last year.",
-      "why_it_matters": "Self-driving cars are coming to more cities. This shows that regulators can, and will, pull them back when safety is in doubt, especially for workers on the road.",
-      "camps": "Safety officials and construction workers welcome the move. Waymo says the freeway incidents are being addressed and argues its cars are safer than human drivers overall. Robotaxi supporters fear heavy rules could slow a useful technology.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
-      "published": "2026-11-17",
+      "headline": "Nvidia's interim CEO tells staff 'let's move forward' at first meeting since Huang left",
+      "dek": "Colette Kress held an all-hands with the new board chair and top engineers; some workers want Jensen Huang back.",
+      "caveman": "Nvidia makes the chips that power most AI. Its founder Jensen Huang resigned last week amid a scandal, and the board says it will not bring him back. On Wednesday, interim CEO Colette Kress held her first meeting with all employees. A person who was there told CNBC she said 'let's move forward' and talked about pay raises and yearly reviews. New board chair Harvey Jones and senior engineers joined her. CNBC also reports some employees are pushing for Huang's return.",
+      "why_it_matters": "Nvidia is tightly linked to Taiwan: TSMC makes its chips and Huang was born in Tainan. Its leadership crisis moves the Taiwan stock market.",
+      "camps": "Supporters of Kress point to strong sales; others say Nvidia's culture was built around Huang. Huang has agreed to testify before Congress.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "published": "2026-11-18",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "A Waymo vehicle on the freeway in Hawthorne, California",
-      "image_credit": "Photo: Mike Blake/Reuters via The Guardian",
+      "image_alt": "Nvidia executives on stage",
+      "image_credit": "Photo: via CNBC",
       "terms": [
         {
-          "term": "robotaxi",
-          "explain": "A taxi that drives itself with no human driver.",
+          "term": "interim CEO",
+          "explain": "A temporary boss until a permanent one is picked.",
           "aliases": [
-            "driverless car",
-            "autonomous vehicle"
+            "acting CEO"
           ]
         },
         {
-          "term": "DMV",
-          "explain": "Department of Motor Vehicles: the state office for driver licenses and vehicle rules.",
-          "aliases": [
-            "Department of Motor Vehicles"
-          ]
-        },
-        {
-          "term": "imminent hazard",
-          "explain": "A danger that could hurt people very soon.",
+          "term": "all-hands meeting",
+          "explain": "A meeting for every employee in the company.",
           "aliases": []
+        },
+        {
+          "term": "board",
+          "explain": "The group that oversees a company and can hire or fire the CEO.",
+          "aliases": [
+            "board of directors"
+          ]
         }
       ]
     },
@@ -271,35 +256,31 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "Huang scandal gives Congress new energy to block AI chip sales to China",
-      "dek": "Both parties push to add tougher export rules to the must-pass defense bill in December.",
-      "caveman": "Revelations about Jensen Huang's relationship with a suspected Chinese spy have revived efforts in Congress to cut off China from advanced AI chips. Lawmakers want to add several measures to the National Defense Authorization Act (NDAA), the yearly defense bill, due in December. Ideas include letting Congress review chip sales to rivals, having the Commerce Department track where advanced AI chips go, and blocking key chipmaking tools from going to China-linked firms. Senate Democratic leader Chuck Schumer said Trump's administration has been 'completely disinterested in enforcing export controls.'",
-      "why_it_matters": "Taiwan makes most advanced AI chips. New US rules decide who Taiwanese factories can sell to and how much paperwork every shipment needs.",
-      "camps": "Supporters, from both parties, say keeping AI chips from China protects US security and its tech lead. Critics, including many chip companies, say strict limits cost US firms sales and push China to build its own chips faster. The Trump administration has generally favored deals over tight controls.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-      "published": "2026-11-17",
+      "headline": "Grand Theft Auto VI arrives, and critics call it a masterpiece",
+      "dek": "Rockstar's long-awaited game, set in a Miami-like Vice City, launches this week after years of hype.",
+      "caveman": "Grand Theft Auto VI is probably the most anticipated video game sequel ever. It is set in Vice City, a made-up version of Miami, and follows two main characters, Lucia Caminos and Jason Duval. NPR's reviewer calls it a 'grounded love story, a gonzo crime thriller and a gaming triumph', praising its satire of American life and its huge, detailed world. The BBC reports critics broadly calling it a masterpiece. The PlayStation network had problems hours before launch.",
+      "why_it_matters": "GTA games are among the best-selling entertainment products of all time, bigger than most movies. Its launch shapes the whole games industry.",
+      "camps": "Fans love its freedom and satire; critics of the series have long objected to its violence and how it treats women and crime. Reviews this time are mostly glowing.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+      "published": "2026-11-18",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "Former Nvidia CEO Jensen Huang (file photo)",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "GTA VI characters Lucia Caminos and Jason Duval against Vice City",
+      "image_credit": "Image: Rockstar Games via NPR",
       "terms": [
         {
-          "term": "NDAA",
-          "explain": "National Defense Authorization Act: the yearly US law that sets defense spending and policy.",
-          "aliases": [
-            "National Defense Authorization Act"
-          ]
+          "term": "sequel",
+          "explain": "A new part that continues an earlier story.",
+          "aliases": []
         },
         {
-          "term": "export controls",
-          "explain": "Government rules that require permission to sell sensitive goods abroad.",
-          "aliases": [
-            "export control"
-          ]
+          "term": "satire",
+          "explain": "Humor that makes fun of real life to criticize it.",
+          "aliases": []
         },
         {
-          "term": "bipartisan",
-          "explain": "Supported by both major parties.",
+          "term": "Rockstar Games",
+          "explain": "The company that makes Grand Theft Auto.",
           "aliases": []
         }
       ]
@@ -308,34 +289,32 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Ukraine knocks out part of Putin's Crimean Bridge",
-      "dek": "A big arched section fell into the water after a missile-and-drone attack Zelensky called 'unprecedented.'",
-      "caveman": "The Crimean Bridge connects Russia to Crimea, the part of Ukraine Russia took in 2014. It carries roads and railways that bring Russian soldiers and supplies to the war. Putin himself opened it in 2018 by driving a truck across. Ukraine has hit it before, but this time cruise missiles and drones appear to have destroyed a large arched section of the road part. President Zelensky called it an 'unprecedented operation' weeks in the making. The Kremlin says it will rebuild the bridge 'better than before.' Meanwhile Russia keeps striking Kyiv, including bridges over the Dnipro River.",
-      "why_it_matters": "The bridge is both a supply line and a symbol. Damaging it makes it harder for Russia to keep troops in southern Ukraine supplied.",
-      "camps": "Many Ukrainians celebrated; some fear Russia will answer with even harder strikes on civilian power and infrastructure. Russia calls such attacks terrorism; Ukraine says the bridge is a legitimate military target on its own land.",
+      "headline": "Trump, Xi and Putin shake hands in Shenzhen before first-ever three-way talks",
+      "dek": "Xi met Trump at the plane; the three leaders meet Thursday at APEC for no more than an hour.",
+      "caveman": "Leaders from around the Asia-Pacific are meeting in Shenzhen, China, for APEC. Chinese leader Xi Jinping greeted US President Donald Trump off his plane with a handshake and a hug. Later Trump shook hands with Russian President Vladimir Putin, their first meeting in over a year. On Thursday the three will hold their first-ever meeting together, which the Kremlin says will last no more than an hour. Topics could include the wars in Ukraine and Iran, nuclear weapons, trade and AI.",
+      "why_it_matters": "When the US, China and Russia talk, the results can affect Taiwan, Ukraine and global trade. Taiwan worries about any deal made over its head.",
+      "camps": "Some see the talks as a chance to cool wars; Ukraine fears a deal that rewards Russia, and analysts say just getting the meeting is a win for Putin. A Guardian editorial says 'it may be a first, but it's not progress'.",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "published": "2026-11-17",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
+      "published": "2026-11-18",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "The damaged Crimean Bridge after the overnight attack",
-      "image_credit": "Image: BBC News",
+      "image_alt": "Trump shakes hands with Putin as Xi Jinping looks on",
+      "image_credit": "Photo: Getty Images via BBC News",
       "terms": [
         {
-          "term": "Crimea",
-          "explain": "A peninsula in southern Ukraine that Russia annexed in 2014.",
+          "term": "APEC",
+          "explain": "Asia-Pacific Economic Cooperation, a yearly summit of Pacific Rim leaders.",
+          "aliases": []
+        },
+        {
+          "term": "trilateral",
+          "explain": "Involving three sides.",
           "aliases": []
         },
         {
           "term": "Kremlin",
-          "explain": "The seat of Russia's government; shorthand for Putin's administration.",
+          "explain": "The Russian government, named after its headquarters in Moscow.",
           "aliases": []
-        },
-        {
-          "term": "cruise missile",
-          "explain": "A guided missile that flies low and far, like a small unmanned plane.",
-          "aliases": [
-            "cruise missiles"
-          ]
         }
       ]
     },
@@ -343,33 +322,35 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Trump lands in Manila on the way to a summit with Xi and Putin in China",
-      "dek": "He met Quad partners, signed a trade deal with Thailand, and heads next to Shenzhen for nuclear talks.",
-      "caveman": "President Trump arrived in the Philippines for a meeting of Southeast Asian leaders (Asean). He first met his 'Quad' partners: India's Narendra Modi, Japan's Sanae Takaichi and Australia's Anthony Albanese. He signed a trade deal with Thailand, which will drop tariffs on US goods. The US wants the region to join its 'Pax Silica' tech and AI network instead of China's. Next he flies to Shenzhen, China, for a summit of Asia-Pacific leaders and nuclear talks with Xi Jinping and Vladimir Putin. Asked whether Taiwan would come up with Xi, Trump said Xi would raise it.",
-      "why_it_matters": "Any US-China deal can touch Taiwan: chips, arms sales and how Washington talks about the island. Taiwan will be watching every word from Shenzhen.",
-      "camps": "Supporters say talking to rivals face to face lowers the risk of war. Critics worry Trump could trade away allies' interests, including Taiwan's, for a headline deal. Southeast Asian countries are still angry about tariffs and the Iran war's economic hit.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
-      "published": "2026-11-17",
+      "headline": "Democrats pick Hakeem Jeffries to be the first Black Speaker of the House",
+      "dek": "The vote comes after Democrats won back the House; the full House votes January 3.",
+      "caveman": "The Speaker runs the US House of Representatives and is second in line to become president after the vice president. Democrats won back the House in the midterm elections, and on Wednesday they nominated their leader, Hakeem Jeffries of New York, for the job. The full House votes on January 3. If he wins, as expected, he will be the first Black Speaker. Jeffries said Democrats will focus on lowering the cost of groceries, gas, housing and health care.",
+      "why_it_matters": "The Speaker controls which bills get votes. With Democrats in charge, Trump will face more investigations and pushback in his last two years.",
+      "camps": "Moderates like his focus on costs; some progressives worry he is too cautious and want bolder fights. House Democrats have already told Trump allies to preserve records for coming investigations.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+      "published": "2026-11-18",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "President Trump arrives in Manila",
-      "image_credit": "Photo: Getty Images via BBC News",
+      "image_alt": "Hakeem Jeffries speaks at a news conference in the US Capitol",
+      "image_credit": "Photo: via NPR",
       "terms": [
         {
-          "term": "Asean",
-          "explain": "Association of Southeast Asian Nations, a group of 11 regional countries.",
+          "term": "Speaker of the House",
+          "explain": "The leader of the US House of Representatives.",
           "aliases": [
-            "ASEAN"
+            "Speaker"
           ]
         },
         {
-          "term": "Quad",
-          "explain": "A partnership of the US, Japan, India and Australia focused on the Indo-Pacific.",
-          "aliases": []
+          "term": "midterm elections",
+          "explain": "US elections held halfway through a president's four-year term.",
+          "aliases": [
+            "midterms"
+          ]
         },
         {
-          "term": "Pax Silica",
-          "explain": "A US-led network of countries cooperating on chips, tech and AI supply chains.",
+          "term": "progressives",
+          "explain": "The more left-wing members of the Democratic Party.",
           "aliases": []
         }
       ]
@@ -378,36 +359,34 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Iran strikes Bahrain a third time; US hits back near the Strait of Hormuz",
-      "dek": "The tit-for-tat breaks a two-month lull in the Iran war, now in its eighth month.",
-      "caveman": "Bahrain, a small Gulf island country, hosts the US Navy's 5th Fleet. On Tuesday Iran fired drones at a US radar site there, its third attack on American targets in Bahrain in five days. Bahrain says it shot them down, and the US says nothing was damaged and no one was hurt. Hours later a US fighter jet struck an Iranian Revolutionary Guard missile site on Qeshm Island in the Strait of Hormuz. The US has blockaded Iran's ports for months, and the war that began Feb. 28 has disrupted the world's oil shipping. Trump has sent a third aircraft carrier to the region.",
-      "why_it_matters": "About a fifth of the world's oil passes the Strait of Hormuz. More fighting there means higher fuel and electricity prices, including in Taiwan.",
-      "camps": "The US says it is only answering Iranian 'aggression.' Iran says it is responding to the blockade that is choking its economy. Gulf neighbors condemned the attacks on Bahrain. Analysts warn stalled peace talks raise the risk of a much bigger escalation.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-      "published": "2026-11-17",
+      "headline": "Mary Peltola wins Alaska's Senate race, the first Alaska Native ever elected to the Senate",
+      "dek": "After two weeks of counting, the Democrat beat Republican Dan Sullivan, giving her party a 56th seat.",
+      "caveman": "Alaska is huge and remote, so counting ballots took two weeks. Democrat Mary Peltola has now beaten Republican Senator Dan Sullivan. The BBC says it is the ninth seat Democrats took from Republicans in the midterms, giving them 56 Senate seats and control of Congress for Trump's last two years. Peltola is the first Alaska Native elected to the US Senate and the first Democrat to win a Senate race there since 2008. She talked about families choosing between heating their homes and buying food.",
+      "why_it_matters": "Control of the Senate decides which judges and officials get approved. A Democrat winning in a state Trump won by 13 points shows how big the swing was.",
+      "camps": "Democrats call it a rejection of Trump's agenda; the race was messy, with court battles and claims of spoiler candidates. Sullivan had not commented yet.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+      "published": "2026-11-18",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "A woman holds an Iranian flag beneath a missile billboard in downtown Tehran",
-      "image_credit": "Photo: via NPR",
+      "image_alt": "Mary Peltola speaking in front of a US flag",
+      "image_credit": "Photo: Bloomberg via Getty Images via BBC News",
       "terms": [
         {
-          "term": "Strait of Hormuz",
-          "explain": "A narrow sea passage off Iran that much of the world's oil passes through.",
-          "aliases": [
-            "Hormuz"
-          ]
-        },
-        {
-          "term": "blockade",
-          "explain": "Using ships or forces to stop goods from going in or out of a country.",
+          "term": "Senate",
+          "explain": "The upper house of the US Congress, with 100 members.",
           "aliases": []
         },
         {
-          "term": "Revolutionary Guard",
-          "explain": "Iran's powerful elite military force, separate from the regular army.",
+          "term": "Alaska Native",
+          "explain": "The Indigenous peoples of Alaska.",
           "aliases": [
-            "IRGC"
+            "Indigenous"
           ]
+        },
+        {
+          "term": "incumbent",
+          "explain": "The person who already holds the job.",
+          "aliases": []
         }
       ]
     },
@@ -415,31 +394,33 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Israel's parliament picks a speaker backed by Netanyahu's opponents",
-      "dek": "Matan Kahana won 66 of 120 votes, a key step toward a government without Netanyahu.",
-      "caveman": "The Knesset is Israel's parliament, with 120 seats. After the Oct. 27 election, Benjamin Netanyahu and his allies lost their majority. On Tuesday, after a stormy seven-hour debate, lawmakers elected Matan Kahana as speaker with 66 votes, backed by Jewish-led opposition parties and Arab-led parties. Netanyahu's candidate got 52. Kahana is an ally of Gadi Eisenkot, the former army chief now trying to form a new government. Eisenkot's bloc has promised to undo some of Netanyahu's most contested policies.",
-      "why_it_matters": "Whoever leads Israel shapes the wars in Gaza and with Iran, and peace efforts in the Middle East.",
-      "camps": "Supporters call it a democratic turning point that reflects voters' wish for change. Netanyahu's camp says a coalition relying on Arab parties is fragile. Eisenkot still has to actually form a government, which could take weeks.",
+      "headline": "Israeli tanks cross Gaza's 'yellow line' for the first time since the ceasefire",
+      "dek": "The army says it targeted Hamas sites; displaced families fled their tents in central Gaza.",
+      "caveman": "Since a fragile ceasefire last October, Israeli troops have stayed behind a boundary in Gaza called the 'yellow line', with Hamas controlling the other side. On Wednesday, Israeli tanks crossed it for the first time, rolling along Gaza's main north-south road. An army spokesperson said troops were targeting 'Hamas infrastructure'. Dozens of displaced Palestinians fled their tent shelters. A day earlier, the US-backed Board of Peace overseeing the truce said both Israel and Hamas were failing to keep their promises.",
+      "why_it_matters": "Any break in the ceasefire risks more deaths among civilians who have already lost homes and family.",
+      "camps": "Israel says it is acting against Hamas threats; Palestinians and aid groups say civilians pay the price. The move comes as Israeli politicians try to form a new government without Netanyahu.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-      "published": "2026-11-17",
+      "source_url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "published": "2026-11-18",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Matan Kahana, newly elected Knesset speaker",
-      "image_credit": "Photo: Ohad Zwigenberg/AP via The Guardian",
+      "image_alt": "Displaced Palestinians in Nuseirat carry belongings as they leave tent shelters",
+      "image_credit": "Photo: Eyad Baba/AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "Knesset",
-          "explain": "Israel's parliament.",
+          "term": "ceasefire",
+          "explain": "An agreement to stop fighting.",
+          "aliases": [
+            "truce"
+          ]
+        },
+        {
+          "term": "Hamas",
+          "explain": "The Palestinian armed group that has ruled Gaza.",
           "aliases": []
         },
         {
-          "term": "speaker",
-          "explain": "The person who runs debates and votes in a parliament.",
-          "aliases": []
-        },
-        {
-          "term": "coalition",
-          "explain": "Several parties teaming up to reach a majority and form a government.",
+          "term": "displaced",
+          "explain": "Forced to leave home.",
           "aliases": []
         }
       ]
@@ -448,31 +429,31 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "LeVar Burton's memoir: from almost-priest to Roots and Reading Rainbow",
-      "dek": "In 'Take My Word for It,' the Star Trek actor says he once dreamed of the priesthood, not TV.",
-      "caveman": "LeVar Burton grew up in Sacramento wanting to be a Catholic priest. Instead, as a college student, he landed the role of Kunta Kinte in the 1977 TV series Roots, about slavery in America. From 1983 to 2006 he hosted Reading Rainbow, a PBS kids' show built to get children excited about books over the summer. Many adults still tell him, sometimes in tears, what it meant to them. He also played Geordi La Forge on Star Trek: The Next Generation. His new memoir, Take My Word for It, looks back on all of it and on his late co-star Patrick Stewart.",
-      "why_it_matters": "Hot: a beloved reading champion writing his own story is exactly the kind of feel-good memoir that sells in the holiday season.",
-      "camps": "Fans love his warmth and his push for kids' reading. Some critics of celebrity memoirs find them light; NPR's interview suggests this one goes deeper into race and service.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/17/nx-s1-6043200/levar-burton-reading-rainbow-star-trek-roots-memoir",
-      "published": "2026-11-17",
-      "image": "images/wd-lit-1.jpg",
-      "image_alt": "LeVar Burton reads to students at a Chicago Public Library branch",
-      "image_credit": "Photo: via NPR",
+      "headline": "Hot topic: books that show the Supreme Court was not always the 'final word'",
+      "dek": "Historian Rachel A. Shelden picks five essential books on the Court's political past, tied to her new book.",
+      "caveman": "Today many Americans think the Supreme Court has the last word on what the Constitution means. In a Lit Hub list, historian Rachel A. Shelden, author of The Political Supreme Court: A Forgotten History, argues it was not always so. For the Court's first 100 years, ordinary people, Congress and political parties argued about the Constitution themselves. Her picks: Larry Kramer's The People Themselves, Jonathan Gienapp's Against Constitutional Originalism, Eric Foner's The Second Founding, Laura Kalman's FDR's Gambit, and Supremacy by Nikolas Bowie and Daphna Renan.",
+      "why_it_matters": "With fights over the Court's power in the news, history books on it are having a moment. Knowing the past helps people see the Court as political, not magic.",
+      "camps": "These picks lean toward critics of 'judicial supremacy'; conservative scholars defend the Court's role and originalism. A reading list, not a ruling.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
+      "published": "2026-11-18",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A book where a person tells their own life story.",
+          "term": "Supreme Court",
+          "explain": "The highest court in the US.",
           "aliases": []
         },
         {
-          "term": "Reading Rainbow",
-          "explain": "A US kids' TV show (1983-2006) that encouraged reading.",
+          "term": "judicial supremacy",
+          "explain": "The idea that courts get the final say on the Constitution.",
           "aliases": []
         },
         {
-          "term": "Roots",
-          "explain": "A famous 1977 TV miniseries about an enslaved man and his descendants.",
+          "term": "originalism",
+          "explain": "Reading the Constitution as people understood it when written.",
           "aliases": []
         }
       ]
@@ -481,27 +462,29 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "A novelist is on TIME's cover again: Caro Claire Burke",
-      "dek": "TIME's 100 must-read books of 2026 puts the 'Yesteryear' author front and center.",
-      "caveman": "TIME magazine released its list of 100 'must-read' books of 2026, and put novelist Caro Claire Burke, author of Yesteryear, on the cover. That is rare: Lit Hub notes the last novelist on TIME's cover was Taylor Jenkins Reid in 2025, and before that Akwaeke Emezi in 2021. Jonathan Franzen made headlines in 2010 as the first living novelist on the cover in a decade, and Colson Whitehead followed in 2019.",
-      "why_it_matters": "Who's hot: a magazine cover is a huge spotlight. It signals Burke is one of the year's breakout fiction writers.",
-      "camps": "Fans say it's great to see fiction get mainstream attention again. Skeptics note magazine lists are partly marketing and leave out many deserving books.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/a-novelist-is-back-on-the-cover-of-time/",
-      "published": "2026-11-17",
+      "headline": "Hot: hip-hop fashion pioneer Karl Kani tells his own story in a new memoir",
+      "dek": "The Brooklyn designer, son of a Haitian tailor, built a brand for 1990s rap culture.",
+      "caveman": "Karl Kani (born Carl Williams) started making clothes in Brooklyn in the late 1980s, inspired by his father, a Haitian tailor. Back then rappers wore big brands like Ralph Lauren and Tommy Hilfiger, but in their own oversized style. Kani believed hip-hop needed a brand 'from the culture', and he built one that dressed stars of the 1990s. He talked to NPR's Morning Edition about his new book, A Life by Design.",
+      "why_it_matters": "It is a story about Black entrepreneurship and how street culture changed mainstream fashion.",
+      "camps": "Memoirs tell one person's side; fans of '90s style will love it, while fashion historians may want more on the business deals behind the brand.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "published": "2026-11-18",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "TIME magazine cover featuring Caro Claire Burke",
-      "image_credit": "Image: TIME cover via Literary Hub",
+      "image_alt": "Designer Karl Kani walks the runway at Miami Fashion Week in 2024",
+      "image_credit": "Photo: Getty Images via NPR",
       "terms": [
         {
-          "term": "cover story",
-          "explain": "The main article a magazine features on its front cover.",
+          "term": "memoir",
+          "explain": "A true book about the author's own life.",
           "aliases": []
         },
         {
-          "term": "must-read list",
-          "explain": "A curated list of books editors recommend.",
-          "aliases": []
+          "term": "hip-hop",
+          "explain": "A culture and music style that began in New York in the 1970s.",
+          "aliases": [
+            "rap"
+          ]
         }
       ]
     },
@@ -509,31 +492,26 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Chad Harbach returns 15 years after 'The Art of Fielding' with 'The Brightness'",
-      "dek": "The Guardian calls the long-awaited sequel ambitious, but it will always be measured against the debut.",
-      "caveman": "In 2011 Chad Harbach's first novel, The Art of Fielding, was praised as a possible 'Great American Novel.' It is set at a small Midwestern college and full of baseball, ambition and failure; it sold for more than $650,000 after a bidding war. Harbach reportedly worked on it for over a decade. Now, 15 years later, comes the follow-up, The Brightness, returning to campus life. The Guardian review calls it an ambitious sequel, while noting any book this long-awaited will be read against the original.",
-      "why_it_matters": "Who's back: a much-hyped author's second act is one of the season's big literary events.",
-      "camps": "Admirers welcome his return to big American themes. Some reviewers wonder if any sequel can match the buzz of the first book.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/17/the-brightness-by-chad-harbach-review-an-ambitious-sequel-to-the-art-of-fielding",
-      "published": "2026-11-17",
+      "headline": "Hot: 400 strangers read all of Robert Caro's 'The Power Broker' aloud in 66 hours",
+      "dek": "Lit Hub's James Folta drew a 3:10 AM slot at the reading marathon and loved it.",
+      "caveman": "Robert Caro's The Power Broker is a giant 1974 biography of Robert Moses, the man who reshaped New York City with highways and parks, often hurting poor neighborhoods. Last weekend, more than 400 volunteers took turns reading the whole book aloud in 10-minute chunks for 66 hours straight. Lit Hub writer James Folta, a big Caro fan, got the 3:10 AM Sunday slot and writes about the odd joy of reading it with strangers in the middle of the night.",
+      "why_it_matters": "A 50-year-old nonfiction book drawing 400 volunteer readers shows how alive Caro's work still is.",
+      "camps": "Fans see it as essential to understanding cities; some readers find its 1,000+ pages a slog. Either way, it is a cult favorite right now.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/the-joy-of-reading-the-power-broker-with-strangers-at-3-am/",
+      "published": "2026-11-18",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Campus life, illustrating the setting of The Brightness",
-      "image_credit": "Photo: JasonDoiy/Getty Images via The Guardian",
+      "image_alt": "A reader at a podium at The Power Broker reading marathon",
+      "image_credit": "Photo: via Literary Hub",
       "terms": [
         {
-          "term": "Great American Novel",
-          "explain": "The idea of a book that captures the spirit of America.",
+          "term": "biography",
+          "explain": "A true book about someone else's life.",
           "aliases": []
         },
         {
-          "term": "sequel",
-          "explain": "A book that continues an earlier story.",
-          "aliases": []
-        },
-        {
-          "term": "debut",
-          "explain": "A writer's first published book.",
+          "term": "Robert Moses",
+          "explain": "A powerful 20th-century New York planner who built roads, bridges and parks.",
           "aliases": []
         }
       ]
@@ -542,34 +520,27 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Big Tuesday for books: Shteyngart essays and a hidden DeLillo hockey novel",
-      "dek": "Gary Shteyngart's first essay collection lands alongside a reissue of Don DeLillo's secret novel.",
-      "caveman": "Tuesday is new-book day in the US. Lit Hub's list highlights Gary Shteyngart's first essay collection, The Sensualist, praised as 'hilarious and heartfelt'; Book V of Danish writer Solvej Balle's time-loop series On the Calculation of Volume; and a reissue of Amazons, a hockey romp Don DeLillo wrote under the fake name Cleo Birdwell. One blurb jokes that DeLillo foreshadowed 'hockey erotica.'",
-      "why_it_matters": "Who's hot: Shteyngart is a well-loved US comic writer, and a 'secret' DeLillo book is catnip for literary fans.",
-      "camps": "Book lists like this are recommendations, not reviews; tastes vary. Some purists find DeLillo's pseudonymous romp a curiosity rather than essential reading.",
+      "headline": "New: translator Jennifer Croft's 'Notes on Postcards: A Memoir'",
+      "dek": "The award-winning translator mixes her life story with the history of the postcard.",
+      "caveman": "Jennifer Croft is an American writer and translator, known for translating Nobel winner Olga Tokarczuk. Her new memoir, Notes on Postcards, began in 2017 when she started reading about postcard history. Lit Hub published an excerpt: postcards were short and open for anyone to read, yet they became a way to feel close to someone far away. She traces their start to a postal conference in Germany in 1865.",
+      "why_it_matters": "In a world of instant texts, a book about slow, small messages feels fresh, and Croft is a respected literary voice.",
+      "camps": "Readers who like essay-style memoirs will enjoy it; those wanting a plot-driven story may find it quiet.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/gary-shteyngart-solvej-balle-don-delillo-and-more-20-new-books-out-today/",
-      "published": "2026-11-17",
+      "source_url": "https://lithub.com/jennifer-croft-on-the-efficient-intimacy-of-postcards/",
+      "published": "2026-11-18",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "Book cover featured in Lit Hub's new releases list",
-      "image_credit": "Image: publisher cover via Literary Hub",
+      "image_alt": "A pile of vintage postcards",
+      "image_credit": "Image: via Literary Hub",
       "terms": [
         {
-          "term": "essay collection",
-          "explain": "A book of short nonfiction pieces.",
+          "term": "translator",
+          "explain": "Someone who turns writing from one language into another.",
           "aliases": []
         },
         {
-          "term": "reissue",
-          "explain": "A new printing of an older book.",
+          "term": "excerpt",
+          "explain": "A short piece taken from a longer book.",
           "aliases": []
-        },
-        {
-          "term": "pseudonym",
-          "explain": "A fake name an author writes under.",
-          "aliases": [
-            "pen name"
-          ]
         }
       ]
     },
@@ -577,31 +548,31 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "society",
-      "headline": "US loses its 'measles-free' status after 26 years",
-      "dek": "5,400 cases and 10 deaths this year; Mexico and Bolivia also lost the status.",
-      "caveman": "Measles is a very contagious virus that causes a red rash and can kill or cause lasting harm, mostly in children. A vaccine (MMR) made it rare. The Pan American Health Organization, part of the UN system, says the same measles strain has spread non-stop in the US for more than 12 months, so the US is no longer counted as having 'eliminated' measles. The US has had about 5,400 cases and 10 deaths this year, the most since the 1990s. PAHO blamed 'gaps in vaccination.' The CDC says it wants to win the status back by expanding vaccine access.",
-      "why_it_matters": "Diseases cross borders on planes. Taiwan's CDC has raised its travel warning for the US and urges pregnant women and babies to avoid going.",
-      "camps": "Public health experts say falling vaccine rates and distrust are to blame. Some vaccine skeptics argue for personal choice. Doctors stress the vaccine is safe and the main way to stop outbreaks.",
+      "headline": "UN court to rule Thursday on whether Myanmar committed genocide against the Rohingya",
+      "dek": "No country has ever been found guilty of genocide by an international court.",
+      "caveman": "In 2017, Myanmar's army drove hundreds of thousands of Rohingya, a mostly Muslim minority, out of their homes into Bangladesh. Survivors described killing, torture and mass rape, and villages were burned. The small African country The Gambia took Myanmar to the International Court of Justice (ICJ), the UN's top court, saying this was genocide. On Thursday the judges read their verdict. Myanmar denies genocide and says it was responding to attacks by Rohingya militants.",
+      "why_it_matters": "A guilty verdict would be a first and would strengthen the 1948 Genocide Convention, written after the Holocaust. It shapes how the world protects minorities.",
+      "camps": "Rights groups and survivors hope for justice; Myanmar's military government rejects the case. Even with a ruling, the court has no police to enforce it.",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-      "published": "2026-11-17",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+      "published": "2026-11-18",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "A health worker prepares a measles vaccine",
-      "image_credit": "Photo: via BBC News",
+      "image_alt": "Rohingya refugees who fled Myanmar in 2017",
+      "image_credit": "Photo: Getty Images via BBC News",
       "terms": [
         {
-          "term": "measles",
-          "explain": "A highly contagious virus that causes fever and a rash.",
+          "term": "genocide",
+          "explain": "Acts meant to destroy a national, ethnic, racial or religious group.",
           "aliases": []
         },
         {
-          "term": "elimination status",
-          "explain": "Official label that a disease no longer spreads continuously in a country.",
+          "term": "Rohingya",
+          "explain": "A mostly Muslim minority group from Myanmar's Rakhine State.",
           "aliases": []
         },
         {
-          "term": "MMR",
-          "explain": "The vaccine for measles, mumps and rubella.",
+          "term": "ICJ",
+          "explain": "International Court of Justice, the UN court that settles disputes between countries.",
           "aliases": []
         }
       ]
@@ -610,33 +581,28 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "society",
-      "headline": "Costa Rican journalist who exposed drug-gang ties is shot dead",
-      "dek": "Camilo Rodríguez had reported death threats; it may be the country's first journalist murder in over 20 years.",
-      "caveman": "Costa Rica has long been one of Central America's calmest countries. On Monday gunmen on a motorbike ambushed reporter Camilo Rodríguez, 50, in his car north of the capital, San José. He had spent decades in radio and print and recently posted videos naming judges, businesspeople and politicians he accused of corruption and links to drug traffickers. He had said he was getting death threats. The head of the journalists' association said 'all evidence so far points to the silencing of a dissenting voice.' International gangs are growing in Costa Rica and pushing up its murder rate.",
-      "why_it_matters": "When reporters are killed, people lose the truth about crime and corruption. A free press is part of what keeps any democracy honest, including Taiwan's.",
-      "camps": "Press groups call it an attack on free speech. Police have not yet named a motive or suspects. Some note his online accusations were not always verified, but that never justifies violence.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo",
-      "published": "2026-11-17",
+      "headline": "South Korea's giant university exam is shaken by an AI cheating scandal",
+      "dek": "Half a million students sit the 8-hour suneung on Thursday after a top scorer admitted using a hidden camera and AI.",
+      "caveman": "In South Korea, one exam called the suneung largely decides which university you get into and shapes your future. On Thursday more than half a million people, mostly high school students, take it at 1,312 centers. The country even reschedules flights during the English listening test. But trust has been shaken: the top scorer in a recent professional exam admitted cheating with a hidden camera and AI. The government has added emergency alerts and rewards of up to $75,000 for reporting cheats.",
+      "why_it_matters": "As AI tools get smaller and smarter, every country with big exams (including Taiwan) faces the same problem.",
+      "camps": "Officials say tougher checks will protect fairness; teachers' unions have criticized the response, and some say the real issue is a system that puts huge pressure on one test.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "published": "2026-11-18",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Police cordon off the scene of the shooting",
-      "image_credit": "Photo: via BBC News",
+      "image_alt": "Students during South Korea's suneung university entrance exam",
+      "image_credit": "Photo: Kim Hong-Ji/Reuters via The Guardian",
       "terms": [
         {
-          "term": "drug trafficking",
-          "explain": "Moving and selling illegal drugs, often by organized gangs.",
+          "term": "suneung",
+          "explain": "South Korea's national university entrance exam.",
           "aliases": [
-            "drug traffickers"
+            "CSAT"
           ]
         },
         {
-          "term": "press freedom",
-          "explain": "The right of journalists to report without fear or censorship.",
-          "aliases": []
-        },
-        {
-          "term": "ambush",
-          "explain": "A surprise attack from a hidden position.",
+          "term": "cheating",
+          "explain": "Breaking the rules to get a better score.",
           "aliases": []
         }
       ]
@@ -645,33 +611,33 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "society",
-      "headline": "ICE agents pepper-spray a pregnant US citizen filming an arrest in California",
-      "dek": "Lizbeth Vargas Andrade, 23 and 12 weeks pregnant, was thrown to the ground outside a jail in Modesto.",
-      "caveman": "ICE is the US immigration enforcement agency. On Sunday, outside the Stanislaus county jail in Modesto, California, agents moved to arrest a man who appeared to have just been released. A group of locals who watch for ICE activity protested and filmed. Video shot by her husband shows Lizbeth Vargas Andrade, a 23-year-old US citizen who is 12 weeks pregnant, being pepper-sprayed, thrown down and arrested while lying on her stomach, according to her family's lawyer.",
-      "why_it_matters": "It shows how tense immigration raids have become in the US, and how even citizens who watch or record can get hurt. Recording police is legal in the US.",
-      "camps": "Her supporters call it excessive force against a peaceful observer. Immigration officials often say protesters interfere with arrests and put agents at risk. The Guardian report did not include a detailed ICE response.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-      "published": "2026-11-17",
+      "headline": "US overdose deaths fall to a decade low, but the White House takes misleading credit",
+      "dek": "CDC data show deaths plunged; researchers say the drop began under Biden in 2023, before Trump returned.",
+      "caveman": "Fewer Americans are dying from drug overdoses, mostly from fentanyl. New CDC data show deaths are at their lowest in about 10 years, saving nearly 50,000 lives a year. The White House said the gains came mainly in the last 18 months thanks to Trump's border security and fight against 'narco-terrorists'. But drug policy researchers told NPR that the decline started in spring 2023 under President Biden, and most of it happened before Trump took office again.",
+      "why_it_matters": "Knowing what really worked helps keep the deaths falling; false credit can lead to the wrong policies.",
+      "camps": "The White House credits border enforcement; researchers say the decline began earlier and likely has several causes. Both parties want credit for good news.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+      "published": "2026-11-18",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Still from video of ICE agents confronting protesters in Modesto",
-      "image_credit": "Image: video still via The Guardian",
+      "image_alt": "Families look on as President Trump speaks at a fentanyl bill signing in 2025",
+      "image_credit": "Photo: via NPR",
       "terms": [
         {
-          "term": "ICE",
-          "explain": "US Immigration and Customs Enforcement, which arrests and deports immigrants.",
-          "aliases": [
-            "Immigration and Customs Enforcement"
-          ]
-        },
-        {
-          "term": "pepper spray",
-          "explain": "A spray that burns the eyes and skin, used to control people.",
+          "term": "overdose",
+          "explain": "Taking a deadly or dangerous amount of a drug.",
           "aliases": []
         },
         {
-          "term": "excessive force",
-          "explain": "Police using more force than needed.",
+          "term": "fentanyl",
+          "explain": "A very strong man-made opioid behind most US overdose deaths.",
+          "aliases": [
+            "opioid"
+          ]
+        },
+        {
+          "term": "CDC",
+          "explain": "Centers for Disease Control and Prevention, the US public health agency.",
           "aliases": []
         }
       ]
@@ -680,33 +646,31 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "society",
-      "headline": "Palestinian woman, 72, shot dead in West Bank village where settlers moved in",
-      "dek": "Palestinians blame settlers; the Israeli army describes a car-ramming and stone-throwing attack.",
-      "caveman": "The West Bank is Palestinian land Israel has occupied since 1967. Israeli 'settlers' are civilians who build or move into homes there, which most of the world considers illegal. In al-Duyuk al-Tahta near Jericho, settlers moved into eight houses on Nov. 4 after buying them in what they called a secretive operation. On Monday night a Palestinian woman in her 70s, Fadda al-Fahidat, was shot dead and others were hurt. Local Palestinians say settlers harassed them and opened fire. The Israeli army says a Palestinian car rammed an Israeli vehicle, rocks were thrown, and Israelis fired back; it did not mention her death. The same day the UK announced its first sanctions on firms working in the settlements.",
-      "why_it_matters": "Violence in the West Bank can spill into wider war and shapes how the world sees Israel's next government.",
-      "camps": "Accounts conflict sharply, and no independent investigation has reported yet. Palestinians and rights groups say settler violence is rising with little punishment. Israel's army says its people acted in self-defense.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
-      "published": "2026-11-17",
+      "headline": "ICE gives its deportation-flight contractor up to $305m without bidding, and hides planes from trackers",
+      "dek": "Records show ICE also added an FAA program that keeps CSI Aviation planes off public flight-tracking sites.",
+      "caveman": "ICE is the US agency that arrests and deports immigrants. It hires a private company, CSI Aviation, to run charter flights that carry people out of the country. Federal records show ICE agreed to pay CSI up to $305.7 million without letting other companies bid, on top of a new order worth up to $1.28 billion. ICE also changed the contract to use an FAA program that keeps the planes off some public flight-tracking websites.",
+      "why_it_matters": "Activists track these flights to know where people are sent, including to third countries. Hiding them makes it harder to watch for abuses.",
+      "camps": "The government says it needs flights to carry out immigration law; rights advocates say the secrecy and no-bid money reduce accountability. CSI says ICE decides who boards.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
+      "published": "2026-11-18",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Mourners at the funeral of Fadda al-Fahidat in al-Duyuk al-Tahta",
-      "image_credit": "Photo: via BBC News",
+      "image_alt": "ICE agents prepare to board detainees onto a charter flight",
+      "image_credit": "Photo: David Ryder/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "West Bank",
-          "explain": "Palestinian territory west of the Jordan River, occupied by Israel since 1967.",
+          "term": "ICE",
+          "explain": "Immigration and Customs Enforcement, the US agency that deports immigrants.",
           "aliases": []
         },
         {
-          "term": "settlers",
-          "explain": "Israeli civilians living in communities built on occupied land.",
-          "aliases": [
-            "settlements"
-          ]
+          "term": "no-bid contract",
+          "explain": "A government deal given to one company without a competition.",
+          "aliases": []
         },
         {
-          "term": "sanctions",
-          "explain": "Penalties like bans or frozen money to pressure a country, company or person.",
+          "term": "deportation",
+          "explain": "Forcing someone to leave a country.",
           "aliases": []
         }
       ]
