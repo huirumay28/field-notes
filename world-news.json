@@ -1,34 +1,36 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-19T08:00:00+08:00",
-  "notes": "Thursday 19 Nov 2026 world issue (Taipei ~08:00). Window: Wed 18 Nov (US/Europe). Economy: Anthropic record $81.3bn IPO; UK inflation 3.6%; Fed Waller wants half-point hike; record-low US pending home sales. Tech: Nadella on Outlook outage; AI mistakes Doritos for gun lawsuit; Nvidia Kress all-hands; GTA VI. Politics: Trump, Xi, Putin in Shenzhen; Jeffries nominated Speaker; Peltola wins Alaska; Israeli tanks cross Gaza yellow line. Literature (US): Supreme Court history books; Karl Kani memoir; Power Broker marathon; Jennifer Croft postcards memoir. Society: ICJ Rohingya genocide verdict; South Korea suneung AI cheating; overdose deaths fall; ICE flight contractor secrecy.",
+  "fetched_at": "2026-11-20T08:00:00+08:00",
+  "notes": "Friday 20 Nov 2026 world issue (Taipei ~08:00). Window: Thu 19 Nov (US/Europe). Economy: Anthropic debut opens +34%, closes $97; Japan core inflation 2.2%; IMF says AI demand will push rates up; Walmart raises outlook. Tech: California subpoenas Nvidia; AMD short-seller report; Amazon app fights NYC Delivery Protection Act; anti-Anthropic protests. Politics: Trump-Putin-Xi peace declaration; Europe ready for Russia talks; Democrats' biggest midterm win in 50 years; Venezuela-US military deal. Literature (US): Assadi wins NBA fiction; ElGendy's Huna wins nonfiction despite visa denial; Michelle Tea on polyamory; critics on Biden memoir. Society: ICJ rules Rohingya genocide; Senegal migrant boat; Florida record 20th execution; World Toilet Day.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Anthropic raises a record $81.3 billion in the biggest stock debut ever",
-      "dek": "The maker of Claude priced shares at $83, above its planned range; trading starts Thursday on Nasdaq as 'ANT'.",
-      "caveman": "Anthropic, the company that makes the AI chatbot Claude, is selling pieces of itself to the public for the first time. This is called an IPO. It set the price at $83 a share, higher than the $70 to $78 it first planned, and sold about 980 million shares. That raises $81.3 billion, more than SpaceX's record IPO in June. The price would value the whole company at more than $1.4 trillion. Shares start trading on Thursday (US time) on the Nasdaq stock market.",
-      "why_it_matters": "This is a big test of whether investors still believe in AI after a rough few weeks, including Nvidia's CEO shake-up and a string of tech outages. Taiwan chipmakers depend on AI spending staying strong.",
-      "camps": "Fans see proof that AI is a real business; skeptics warn prices are bubbly and that a few AI firms now hold a lot of market risk. How the stock trades in its first days will be watched closely.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "published": "2026-11-18",
+      "headline": "Anthropic's first day on the stock market: up 34% at the open, then a wobble",
+      "dek": "Shares sold at $83 jumped to $111.53, briefly valuing the Claude maker near $2 trillion, then closed at $97.",
+      "caveman": "Anthropic, the company behind the AI chatbot Claude, started trading on the Nasdaq stock market on Thursday. Its shares had been sold to big investors at $83 each. When trading opened, the price shot up to $111.53, which made the whole company worth almost $2 trillion. Then it slid back, closing at $97, giving a value of roughly $1.76 trillion. That still makes it one of the most valuable public companies in the world, only five years after it was founded. The wider Nasdaq index actually fell nearly 2% that day.",
+      "why_it_matters": "This was a giant test of whether investors still believe AI will pay off. Taiwan's chip industry depends on AI spending staying strong, so the mood around Anthropic matters for Taiwan's stock market too.",
+      "camps": "Fans say the strong debut shows real demand for AI. Skeptics point to the fade from the morning high and the falling Nasdaq as signs of a bubble, and ask whether AI companies can earn enough to justify these prices.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "published": "2026-11-19",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "People walk past Anthropic and Morgan Stanley signs in New York",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Anthropic staff applaud at the Nasdaq on the company's first trading day",
+      "image_credit": "Photo: Reuters via BBC",
       "terms": [
         {
           "term": "IPO",
           "explain": "Initial public offering: the first time a private company sells shares to the public.",
-          "aliases": []
+          "aliases": [
+            "stock market debut"
+          ]
         },
         {
           "term": "valuation",
           "explain": "What the whole company is worth, based on its share price.",
           "aliases": [
-            "market cap"
+            "market value"
           ]
         },
         {
@@ -42,36 +44,36 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "UK inflation rises to 3.6% as petrol and diesel prices hit records",
-      "dek": "Fuel costs jumped 33.2% in a year because of the Iran war; energy bills are forecast to rise 26% in January.",
-      "caveman": "Inflation means prices going up. In Britain, prices in October were 3.6% higher than a year earlier, up from 3.5% in September and the highest in a year. The biggest reason is fuel: petrol and diesel cost 33.2% more than a year ago, the biggest jump since 2022, because the war involving Iran has pushed up oil prices. Factory costs are rising too. Separately, household energy bills are forecast to rise 26% from January.",
-      "why_it_matters": "When prices rise fast, central banks raise interest rates, which makes loans and mortgages more expensive. Oil shocks like this hit many countries, including Taiwan.",
-      "camps": "Some economists want the Bank of England to raise rates to fight inflation; others worry that would hurt families already squeezed by high bills and slow growth.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-      "published": "2026-11-18",
+      "headline": "Japan's prices climb faster as energy help for households ends",
+      "dek": "Core inflation hit 2.2% in October, the year's high; a rate hike in December now looks likely.",
+      "caveman": "Inflation means prices going up. In Japan, prices (not counting fresh food) were 2.2% higher in October than a year earlier, the highest this year. The main reason: the government stopped giving households help with energy bills in September, just as the Iran war pushed up oil and gas prices. Gas prices jumped 5.8%. Japan plans to bring the energy help back in December. Many traders now expect the Bank of Japan to raise interest rates in December, even though the economy shrank last quarter.",
+      "why_it_matters": "Japan is a huge trading partner for Taiwan. When Japan raises rates, money moves around the world and the yen and Taiwan dollar can swing.",
+      "camps": "Some economists say Japan finally needs higher rates after decades of near-zero ones. Others warn that raising rates while the economy is shrinking could hurt families and businesses.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "published": "2026-11-20",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "A petrol station price board in the UK",
-      "image_credit": "Photo: Murdo MacLeod/The Guardian",
+      "image_alt": "Shoppers in a Japanese supermarket",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "inflation",
-          "explain": "How fast prices are going up over a year.",
+          "term": "core inflation",
+          "explain": "Price growth that leaves out jumpy items like fresh food, to show the underlying trend.",
           "aliases": [
-            "CPI"
+            "core CPI"
           ]
         },
         {
-          "term": "Bank of England",
-          "explain": "The UK's central bank, which sets interest rates.",
-          "aliases": [
-            "central bank"
-          ]
-        },
-        {
-          "term": "interest rate",
-          "explain": "The price of borrowing money.",
+          "term": "subsidy",
+          "explain": "Government money that lowers a price for people, like help paying energy bills.",
           "aliases": []
+        },
+        {
+          "term": "Bank of Japan",
+          "explain": "Japan's central bank, which sets interest rates.",
+          "aliases": [
+            "BOJ"
+          ]
         }
       ]
     },
@@ -79,39 +81,34 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "A top Fed official says the US may need a half-point rate hike to 'shock people'",
-      "dek": "Governor Christopher Waller says inflation is heading the wrong way and wants big action at the Dec. 8-9 meeting.",
-      "caveman": "The Federal Reserve (the Fed) is America's central bank. It raises interest rates to cool down prices. Fed Governor Christopher Waller told CNBC he is 'very, very concerned' that inflation is getting worse and spreading. He said a half-point (0.5 percentage point) rate rise is probably needed at the Fed's December 8-9 meeting, and the Fed should undo the three quarter-point cuts it made last year, maybe more. Markets already expect at least a quarter-point hike in December.",
-      "why_it_matters": "Higher US rates make the dollar stronger, which pulls money out of places like Taiwan. That is part of why the New Taiwan dollar is weak right now.",
-      "camps": "Inflation hawks say acting hard now prevents worse pain later; critics say big hikes could push the economy into recession and cost jobs. Waller is one voice; the full committee decides.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "published": "2026-11-18",
+      "headline": "IMF boss: the AI boom will push interest rates up around the world",
+      "dek": "Kristalina Georgieva says demand for AI hardware plus the Middle East energy shock could push global inflation to 4.7% this year.",
+      "caveman": "The IMF is a global organization that watches the world economy and lends to countries in trouble. Its head, Kristalina Georgieva, spoke at the APEC summit in Shenzhen, China. She said so many companies are buying AI chips and computers that it is pushing prices up around the world. Add the war in the Middle East, which pushed oil above $100 a barrel, and she expects world inflation of 4.7% this year. Her advice: many central banks will need to raise interest rates. Europe, the US and the UK already raised rates this year.",
+      "why_it_matters": "Higher interest rates make home loans and business loans more expensive everywhere, including Taiwan, which builds much of the world's AI hardware.",
+      "camps": "Some see AI as a growth engine that is lifting economies. Others worry the spending is so big that it is overheating prices, so ordinary people pay through higher rates while tech firms reap the gains.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "published": "2026-11-19",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Federal Reserve Governor Christopher Waller speaking",
-      "image_credit": "Photo: Reuters via CNBC",
+      "image_alt": "IMF managing director Kristalina Georgieva speaking at the APEC summit",
+      "image_credit": "Photo: The Guardian",
       "terms": [
         {
-          "term": "Federal Reserve",
-          "explain": "The US central bank.",
+          "term": "IMF",
+          "explain": "International Monetary Fund: a global body that monitors economies and lends money to countries.",
+          "aliases": []
+        },
+        {
+          "term": "interest rate",
+          "explain": "The price of borrowing money.",
           "aliases": [
-            "Fed",
-            "FOMC"
+            "rates"
           ]
         },
         {
-          "term": "rate hike",
-          "explain": "Raising interest rates.",
-          "aliases": [
-            "half-point"
-          ]
-        },
-        {
-          "term": "hawk",
-          "explain": "An official who prefers higher rates to fight inflation.",
-          "aliases": [
-            "hawkish"
-          ]
+          "term": "APEC",
+          "explain": "Asia-Pacific Economic Cooperation, a yearly meeting of Pacific Rim economies. Taiwan is a member.",
+          "aliases": []
         }
       ]
     },
@@ -119,28 +116,34 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "US home sales hit a record low as mortgage rates stay above 7%",
-      "dek": "Signed contracts to buy homes in October fell to the lowest level in 25 years of data.",
-      "caveman": "When people agree to buy a house, they sign a contract first; the sale closes later. In October, these signed contracts ('pending home sales') fell 4.7% from September and 16.7% from a year earlier, the lowest in the index's 25-year history, says the National Association of Realtors. The main reason: mortgage rates (the interest on home loans) are high, around 7.3% to 7.5% for a 30-year loan. Experts expect a slow winter for home sales.",
-      "why_it_matters": "Housing is a big part of the economy. When few homes sell, builders, movers, furniture stores and banks all feel it.",
-      "camps": "Buyers say homes are unaffordable; some sellers refuse to cut prices because they locked in cheap old loans. Lower rates would help, but the Fed is leaning toward raising them.",
+      "headline": "Walmart raises its forecast and says it will try to hold prices down despite soaring fuel costs",
+      "dek": "Online sales jumped 17%; it cut prices on nearly 8,000 items as shoppers worry about food and gas.",
+      "caveman": "Walmart is America's biggest store chain. On Thursday it said sales were a bit better than expected, and it raised its forecast for the year. Online orders grew 17% around the world, helped by fast pickup and delivery. Walmart said it lowered prices on almost 8,000 products because people are worried about the cost of food and gas. The CEO, John Furner, said diesel fuel for trucks costs more than expected, but refunds on tariffs (import taxes) helped cover it.",
+      "why_it_matters": "Walmart is a window into how ordinary American families are doing. Many are shopping carefully, hunting for low prices.",
+      "camps": "Walmart says it is fighting for shoppers. Critics note big chains can squeeze suppliers and workers to keep prices low, and that smaller shops cannot compete.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-      "published": "2026-11-18",
+      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "published": "2026-11-19",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Aerial view of a US suburban neighborhood",
+      "image_alt": "Inside a Walmart store",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "mortgage",
-          "explain": "A loan to buy a home.",
+          "term": "forecast",
+          "explain": "A company's guess about how much it will sell or earn.",
           "aliases": [
-            "mortgage rate"
+            "outlook",
+            "guidance"
           ]
         },
         {
-          "term": "pending home sales",
-          "explain": "Homes with signed contracts that have not closed yet.",
+          "term": "tariff",
+          "explain": "A tax on goods brought in from another country.",
+          "aliases": []
+        },
+        {
+          "term": "e-commerce",
+          "explain": "Buying and selling online.",
           "aliases": []
         }
       ]
@@ -149,31 +152,33 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "Microsoft's Nadella admits a 'perfect storm' bug caused last week's Outlook outage",
-      "dek": "He says Microsoft should have tested better; the outage kicked off a week of failures across US tech, banks and flights.",
-      "caveman": "Last Thursday, Microsoft's Outlook email went down for huge numbers of companies. CEO Satya Nadella told CNBC it was a 'perfect storm': a hidden bug that only showed up under one particular pattern of traffic. He said Microsoft should have caught it in testing and built 'bulkheads' (walls between parts of the system) so one failure would not go global. That outage was the first of a rough week of breakdowns hitting airlines, banks, Apple and even the NSA.",
-      "why_it_matters": "Daily life now runs on a few giant tech companies. When one breaks, millions of people cannot work.",
-      "camps": "US officials say the outages are not linked and not a coordinated attack; senators want stronger protections. Critics say companies chase speed and AI features over reliability.",
+      "headline": "California's top lawyer subpoenas Nvidia over chips that may have reached China",
+      "dek": "The probe follows ex-CEO Jensen Huang's exit; Nvidia shares are down 22% in nine trading days.",
+      "caveman": "A subpoena is a legal order to hand over documents. California Attorney General Rob Bonta sent one to Nvidia, the world's most important AI chipmaker, to find out whether its advanced chips ended up in China against US rules, and whether the company misled investors. Last week Jensen Huang, Nvidia's Taiwan-born co-founder, resigned as CEO after admitting affairs, including one with a woman suspected of spying for China. She worked at a Singapore company being investigated for moving restricted chips to China. Nvidia did not comment right away.",
+      "why_it_matters": "Nvidia buys huge numbers of chips from TSMC. Trouble at Nvidia ripples straight into Taiwan's economy and stock market.",
+      "camps": "Bonta says companies cannot mislead investors. Nvidia's defenders say the company follows export rules and that one person's personal scandal should not sink the firm. The facts are still under investigation.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
-      "published": "2026-11-18",
+      "source_url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "published": "2026-11-19",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Microsoft CEO Satya Nadella on stage in front of the Microsoft logo",
+      "image_alt": "California Attorney General Rob Bonta speaking at a podium",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "outage",
-          "explain": "When a service stops working.",
+          "term": "subpoena",
+          "explain": "A legal order forcing someone to give evidence or documents.",
           "aliases": []
         },
         {
-          "term": "bug",
-          "explain": "A mistake in computer code.",
-          "aliases": []
+          "term": "attorney general",
+          "explain": "A state's top lawyer and law enforcement official.",
+          "aliases": [
+            "AG"
+          ]
         },
         {
-          "term": "NSA",
-          "explain": "National Security Agency, a US spy agency for electronic communications.",
+          "term": "export controls",
+          "explain": "Government rules that limit selling certain goods, like advanced chips, to certain countries.",
           "aliases": []
         }
       ]
@@ -182,35 +187,35 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "Students sue after an AI camera mistook a Doritos bag for a gun",
-      "dek": "Four Maryland teens say armed police detained them; the lawsuit says over 99% of the system's alerts were false.",
-      "caveman": "Some US schools use AI cameras that look for guns in security video. Last fall at a Baltimore County high school, the Omnilert system flagged a student holding a bag of Doritos chips as having a gun. Armed police came and detained four students. Now the students are suing the company, the police, the school board and the principal. The lawsuit cites a state inspector general finding that more than 99% of the system's alerts in the county's schools were false alarms.",
-      "why_it_matters": "AI is being used to make safety decisions about real people. A wrong alert can put kids in real danger.",
-      "camps": "The company has said it is 'truly sorry' for the fear the families felt and markets its tool as reliable; schools say they want to prevent shootings. Civil rights lawyers say the tech and the adults both failed.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-      "published": "2026-11-18",
+      "headline": "AMD stock drops 8% after a short seller says it has 'its own China problem'",
+      "dek": "Hunterbrook claims AMD bills over 20% of revenue to China and Hong Kong; AMD says the claims misrepresent its business.",
+      "caveman": "A short seller is an investor who makes money when a stock falls, so they sometimes publish reports pointing out problems. Hunterbrook Media, which said it is betting against AMD, claimed that a blacklisted Chinese server maker kept getting AMD software updates, that over 20% of AMD's sales are billed to China and Hong Kong, and that AMD relies on a Chinese partner to finish many chips. AMD shares closed down 7.72% at $489.19. AMD said it follows US export laws and that the claims are wrong.",
+      "why_it_matters": "AMD, like Nvidia, uses TSMC in Taiwan to make its chips. The US-China chip fight keeps landing on Taiwan's doorstep.",
+      "camps": "Short sellers can expose real problems, but they also profit if the stock falls, so their claims need checking. AMD flatly denies wrongdoing.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "published": "2026-11-19",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Police video screengrab showing students being detained outside a school",
-      "image_credit": "Photo: Baltimore County Police Department via The Guardian",
+      "image_alt": "AMD CEO Lisa Su",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "false positive",
-          "explain": "An alarm that goes off when nothing is wrong.",
+          "term": "short seller",
+          "explain": "An investor who bets a stock price will fall.",
           "aliases": [
-            "false alarm"
+            "short position"
           ]
         },
         {
-          "term": "lawsuit",
-          "explain": "A case filed in court asking for a judge to decide who is responsible.",
+          "term": "blacklist",
+          "explain": "A government list of companies that US firms are not allowed to sell to without permission.",
           "aliases": [
-            "sue"
+            "entity list"
           ]
         },
         {
-          "term": "inspector general",
-          "explain": "An official watchdog that checks how a government agency works.",
+          "term": "firmware",
+          "explain": "Basic software built into hardware that makes it run.",
           "aliases": []
         }
       ]
@@ -219,36 +224,36 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "Nvidia's interim CEO tells staff 'let's move forward' at first meeting since Huang left",
-      "dek": "Colette Kress held an all-hands with the new board chair and top engineers; some workers want Jensen Huang back.",
-      "caveman": "Nvidia makes the chips that power most AI. Its founder Jensen Huang resigned last week amid a scandal, and the board says it will not bring him back. On Wednesday, interim CEO Colette Kress held her first meeting with all employees. A person who was there told CNBC she said 'let's move forward' and talked about pay raises and yearly reviews. New board chair Harvey Jones and senior engineers joined her. CNBC also reports some employees are pushing for Huang's return.",
-      "why_it_matters": "Nvidia is tightly linked to Taiwan: TSMC makes its chips and Huang was born in Tainan. Its leadership crisis moves the Taiwan stock market.",
-      "camps": "Supporters of Kress point to strong sales; others say Nvidia's culture was built around Huang. Huang has agreed to testify before Congress.",
+      "headline": "Amazon uses its own app to fight New York's delivery-worker bill",
+      "dek": "Pop-ups warn the city 'could add up to $5 per order' if the Delivery Protection Act, backed by Mayor Mamdani, passes.",
+      "caveman": "Amazon does not employ most of the drivers who bring your packages. Instead it uses thousands of small companies called Delivery Service Partners. A New York City bill, Intro 518 or the Delivery Protection Act, would make Amazon hire those drivers directly. Mayor Zohran Mamdani supports it, saying the contractor system leaves workers unprotected. Now Amazon is showing New York shoppers pop-ups and banners in its app saying the bill could add up to $5 per order and might force it to move operations out of the city. The bill is waiting for review by Council Speaker Julie Menin.",
+      "why_it_matters": "This is a big test of whether a city can change how gig and contract work is done. It is rare for Amazon to use its shopping app as a political billboard.",
+      "camps": "Supporters say direct hiring means safer jobs and clear responsibility when things go wrong. Amazon says it would hurt small delivery businesses and raise costs for customers. Neither side's cost numbers have been independently checked.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "published": "2026-11-18",
+      "source_url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "published": "2026-11-19",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "Nvidia executives on stage",
-      "image_credit": "Photo: via CNBC",
+      "image_alt": "An Amazon worker moving carts of packages in a warehouse",
+      "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "interim CEO",
-          "explain": "A temporary boss until a permanent one is picked.",
+          "term": "Delivery Service Partner",
+          "explain": "A small company that delivers Amazon packages under contract, instead of Amazon hiring drivers itself.",
           "aliases": [
-            "acting CEO"
+            "DSP"
           ]
         },
         {
-          "term": "all-hands meeting",
-          "explain": "A meeting for every employee in the company.",
+          "term": "subcontracting",
+          "explain": "When a company hires another company to do part of its work.",
+          "aliases": [
+            "contractor model"
+          ]
+        },
+        {
+          "term": "last mile",
+          "explain": "The final step of delivery, from a local warehouse to your door.",
           "aliases": []
-        },
-        {
-          "term": "board",
-          "explain": "The group that oversees a company and can hire or fire the CEO.",
-          "aliases": [
-            "board of directors"
-          ]
         }
       ]
     },
@@ -256,31 +261,26 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "Grand Theft Auto VI arrives, and critics call it a masterpiece",
-      "dek": "Rockstar's long-awaited game, set in a Miami-like Vice City, launches this week after years of hype.",
-      "caveman": "Grand Theft Auto VI is probably the most anticipated video game sequel ever. It is set in Vice City, a made-up version of Miami, and follows two main characters, Lucia Caminos and Jason Duval. NPR's reviewer calls it a 'grounded love story, a gonzo crime thriller and a gaming triumph', praising its satire of American life and its huge, detailed world. The BBC reports critics broadly calling it a masterpiece. The PlayStation network had problems hours before launch.",
-      "why_it_matters": "GTA games are among the best-selling entertainment products of all time, bigger than most movies. Its launch shapes the whole games industry.",
-      "camps": "Fans love its freedom and satire; critics of the series have long objected to its violence and how it treats women and crime. Reviews this time are mostly glowing.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-      "published": "2026-11-18",
+      "headline": "Protesters rally against Anthropic in New York and San Francisco as it hits the stock market",
+      "dek": "About 30 people gathered outside Nasdaq in Times Square, some arrested, with signs like 'STOP TECH OLIGARCHS'.",
+      "caveman": "While Anthropic celebrated its record stock market debut, anti-AI groups protested outside the Nasdaq building in New York's Times Square and outside Anthropic's offices in San Francisco. Several people were arrested in New York. Protesters held flags saying 'STOP TECH OLIGARCHS' and 'FREEZE AI'. New York state senator Aber Kawas said investing in AI comes at the cost of investing in people. One protester, a policy researcher for a community group, said the US needs stricter AI rules first.",
+      "why_it_matters": "As AI companies get richer, a public backlash is growing over jobs, power use and who controls the technology.",
+      "camps": "Protesters want limits and slower development. Supporters of AI say it can bring big benefits and that rules should not stop progress. The debate over how to regulate AI is far from settled.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+      "published": "2026-11-19",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "GTA VI characters Lucia Caminos and Jason Duval against Vice City",
-      "image_credit": "Image: Rockstar Games via NPR",
+      "image_alt": "Anti-AI demonstrators outside Anthropic headquarters in San Francisco",
+      "image_credit": "Photo: The Guardian",
       "terms": [
         {
-          "term": "sequel",
-          "explain": "A new part that continues an earlier story.",
+          "term": "oligarch",
+          "explain": "A very rich person with outsized power over politics or society.",
           "aliases": []
         },
         {
-          "term": "satire",
-          "explain": "Humor that makes fun of real life to criticize it.",
-          "aliases": []
-        },
-        {
-          "term": "Rockstar Games",
-          "explain": "The company that makes Grand Theft Auto.",
+          "term": "regulation",
+          "explain": "Government rules that control how something is done.",
           "aliases": []
         }
       ]
@@ -289,31 +289,33 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Trump, Xi and Putin shake hands in Shenzhen before first-ever three-way talks",
-      "dek": "Xi met Trump at the plane; the three leaders meet Thursday at APEC for no more than an hour.",
-      "caveman": "Leaders from around the Asia-Pacific are meeting in Shenzhen, China, for APEC. Chinese leader Xi Jinping greeted US President Donald Trump off his plane with a handshake and a hug. Later Trump shook hands with Russian President Vladimir Putin, their first meeting in over a year. On Thursday the three will hold their first-ever meeting together, which the Kremlin says will last no more than an hour. Topics could include the wars in Ukraine and Iran, nuclear weapons, trade and AI.",
-      "why_it_matters": "When the US, China and Russia talk, the results can affect Taiwan, Ukraine and global trade. Taiwan worries about any deal made over its head.",
-      "camps": "Some see the talks as a chance to cool wars; Ukraine fears a deal that rewards Russia, and analysts say just getting the meeting is a win for Putin. A Guardian editorial says 'it may be a first, but it's not progress'.",
+      "headline": "Trump, Putin and Xi sign a 'peace declaration' after their first three-way meeting",
+      "dek": "In Shenzhen, the three said 'nuclear war cannot be won and must never be fought' and pledged to reform the UN.",
+      "caveman": "The leaders of the US, Russia and China met together for the first time, for 90 minutes, in Shenzhen, China, during the APEC summit. Afterward they put out a 'joint declaration of peace'. It said nuclear war can never be won, promised to pump and supply more oil, and said they want to reform the United Nations. They also criticized the International Criminal Court for overstepping. Putin said they discussed ending the Ukraine war. China says it is neutral on Ukraine, though Kyiv and its allies accuse it of helping Russia.",
+      "why_it_matters": "When the three biggest military powers talk, it can lower the risk of war, but deals among big powers can also be made over the heads of smaller countries like Ukraine or Taiwan.",
+      "camps": "Supporters call it historic diplomacy that could calm the world. Critics say the statement is vague, gives Putin a stage despite his war, and that attacking the ICC weakens accountability for war crimes.",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
-      "published": "2026-11-18",
+      "source_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "published": "2026-11-19",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Trump shakes hands with Putin as Xi Jinping looks on",
-      "image_credit": "Photo: Getty Images via BBC News",
+      "image_alt": "Trump, Xi and Putin at their meeting in Shenzhen",
+      "image_credit": "Photo: BBC",
       "terms": [
         {
-          "term": "APEC",
-          "explain": "Asia-Pacific Economic Cooperation, a yearly summit of Pacific Rim leaders.",
+          "term": "declaration",
+          "explain": "A public statement of shared positions; usually not legally binding.",
           "aliases": []
+        },
+        {
+          "term": "ICC",
+          "explain": "International Criminal Court: a court that tries people for war crimes and genocide.",
+          "aliases": [
+            "International Criminal Court"
+          ]
         },
         {
           "term": "trilateral",
-          "explain": "Involving three sides.",
-          "aliases": []
-        },
-        {
-          "term": "Kremlin",
-          "explain": "The Russian government, named after its headquarters in Moscow.",
+          "explain": "Involving three countries.",
           "aliases": []
         }
       ]
@@ -322,36 +324,34 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Democrats pick Hakeem Jeffries to be the first Black Speaker of the House",
-      "dek": "The vote comes after Democrats won back the House; the full House votes January 3.",
-      "caveman": "The Speaker runs the US House of Representatives and is second in line to become president after the vice president. Democrats won back the House in the midterm elections, and on Wednesday they nominated their leader, Hakeem Jeffries of New York, for the job. The full House votes on January 3. If he wins, as expected, he will be the first Black Speaker. Jeffries said Democrats will focus on lowering the cost of groceries, gas, housing and health care.",
-      "why_it_matters": "The Speaker controls which bills get votes. With Democrats in charge, Trump will face more investigations and pushback in his last two years.",
-      "camps": "Moderates like his focus on costs; some progressives worry he is too cautious and want bolder fights. House Democrats have already told Trump allies to preserve records for coming investigations.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-      "published": "2026-11-18",
+      "headline": "Europe says it is ready to talk with Russia about ending the Ukraine war",
+      "dek": "At a Berlin summit, UK PM Andy Burnham and Germany's Merz backed Kyiv; Trump's envoy Kushner said the US wants Europe 'by his side'.",
+      "caveman": "Ukraine's allies, a group called the Coalition of the Willing, met in Berlin. European leaders said they are ready to negotiate with Russia and have a united position. UK Prime Minister Andy Burnham and German Chancellor Friedrich Merz said Moscow's huge demands are not realistic. Jared Kushner, Trump's son-in-law and envoy, said the US wants a deal with Europe at its side. Putin has so far refused to let Europe into the US-led talks. Trump joined by phone from Air Force One after his Shenzhen summit.",
+      "why_it_matters": "How the Ukraine war ends will shape whether big countries can take land by force, a question Taiwan watches closely.",
+      "camps": "Ukraine and Europe want a deal that protects Ukraine's independence. Russia wants to keep the land it took. Some in the US want a quick deal; critics fear Ukraine could be pressured into a bad one.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+      "published": "2026-11-19",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Hakeem Jeffries speaks at a news conference in the US Capitol",
-      "image_credit": "Photo: via NPR",
+      "image_alt": "Buildings damaged in the latest Russian attack on Kyiv",
+      "image_credit": "Photo: Reuters via BBC",
       "terms": [
         {
-          "term": "Speaker of the House",
-          "explain": "The leader of the US House of Representatives.",
-          "aliases": [
-            "Speaker"
-          ]
-        },
-        {
-          "term": "midterm elections",
-          "explain": "US elections held halfway through a president's four-year term.",
-          "aliases": [
-            "midterms"
-          ]
-        },
-        {
-          "term": "progressives",
-          "explain": "The more left-wing members of the Democratic Party.",
+          "term": "Coalition of the Willing",
+          "explain": "A group of countries, led by Europeans, pledging support for Ukraine.",
           "aliases": []
+        },
+        {
+          "term": "envoy",
+          "explain": "A person sent to represent a leader in talks.",
+          "aliases": []
+        },
+        {
+          "term": "negotiation",
+          "explain": "Talks to reach a deal.",
+          "aliases": [
+            "talks"
+          ]
         }
       ]
     },
@@ -359,33 +359,35 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Mary Peltola wins Alaska's Senate race, the first Alaska Native ever elected to the Senate",
-      "dek": "After two weeks of counting, the Democrat beat Republican Dan Sullivan, giving her party a 56th seat.",
-      "caveman": "Alaska is huge and remote, so counting ballots took two weeks. Democrat Mary Peltola has now beaten Republican Senator Dan Sullivan. The BBC says it is the ninth seat Democrats took from Republicans in the midterms, giving them 56 Senate seats and control of Congress for Trump's last two years. Peltola is the first Alaska Native elected to the US Senate and the first Democrat to win a Senate race there since 2008. She talked about families choosing between heating their homes and buying food.",
-      "why_it_matters": "Control of the Senate decides which judges and officials get approved. A Democrat winning in a state Trump won by 13 points shows how big the swing was.",
-      "camps": "Democrats call it a rejection of Trump's agenda; the race was messy, with court battles and claims of spoiler candidates. Sullivan had not commented yet.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
-      "published": "2026-11-18",
+      "headline": "Democrats' midterm win is the biggest for either party in 50 years",
+      "dek": "They won the House popular vote 56% to 42% and have flipped 46 seats, with three more possible.",
+      "caveman": "The midterms are US elections held halfway through a president's term. Now that most counting is done, Democrats won about 56% of votes for the House of Representatives versus 42% for Republicans, a 14-point gap. That is the biggest win since 1974, right after the Watergate scandal. Democrats have flipped 46 Republican seats and lead in 3 more. If they win those, they will hold 260 seats, the most since the early 1990s.",
+      "why_it_matters": "A Democratic House can block or investigate President Trump's plans for the next two years, which could change US policy on trade, tariffs and foreign affairs.",
+      "camps": "Democrats see a mandate. Republicans say midterms often punish the president's party and that 2028 is a different fight. Some analysts warn Democrats are still divided on what they stand for.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+      "published": "2026-11-19",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Mary Peltola speaking in front of a US flag",
-      "image_credit": "Photo: Bloomberg via Getty Images via BBC News",
+      "image_alt": "Chart of House popular-vote margins since 1970",
+      "image_credit": "Graphic: NPR",
       "terms": [
         {
-          "term": "Senate",
-          "explain": "The upper house of the US Congress, with 100 members.",
-          "aliases": []
-        },
-        {
-          "term": "Alaska Native",
-          "explain": "The Indigenous peoples of Alaska.",
+          "term": "midterms",
+          "explain": "US elections halfway through a president's four-year term.",
           "aliases": [
-            "Indigenous"
+            "midterm elections"
           ]
         },
         {
-          "term": "incumbent",
-          "explain": "The person who already holds the job.",
+          "term": "House of Representatives",
+          "explain": "The larger chamber of the US Congress; it writes laws and controls spending.",
+          "aliases": [
+            "House"
+          ]
+        },
+        {
+          "term": "flip",
+          "explain": "When a seat changes from one party to the other.",
           "aliases": []
         }
       ]
@@ -394,33 +396,31 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Israeli tanks cross Gaza's 'yellow line' for the first time since the ceasefire",
-      "dek": "The army says it targeted Hamas sites; displaced families fled their tents in central Gaza.",
-      "caveman": "Since a fragile ceasefire last October, Israeli troops have stayed behind a boundary in Gaza called the 'yellow line', with Hamas controlling the other side. On Wednesday, Israeli tanks crossed it for the first time, rolling along Gaza's main north-south road. An army spokesperson said troops were targeting 'Hamas infrastructure'. Dozens of displaced Palestinians fled their tent shelters. A day earlier, the US-backed Board of Peace overseeing the truce said both Israel and Hamas were failing to keep their promises.",
-      "why_it_matters": "Any break in the ceasefire risks more deaths among civilians who have already lost homes and family.",
-      "camps": "Israel says it is acting against Hamas threats; Palestinians and aid groups say civilians pay the price. The move comes as Israeli politicians try to form a new government without Netanyahu.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-      "published": "2026-11-18",
+      "headline": "Venezuela signs a military deal with the US, less than a year after Maduro was seized",
+      "dek": "Defense Secretary Hegseth calls Venezuela a 'compliant security partner'; details are scarce.",
+      "caveman": "Less than a year ago, US forces captured Venezuela's then-leader Nicolás Maduro in a raid on the capital, Caracas. Now the temporary government led by Delcy Rodríguez, who was Maduro's vice-president, has signed a military cooperation agreement with US Defense Secretary Pete Hegseth. Few details have been released. Hegseth said Venezuela went from the region's 'most aggressive threat' to a 'compliant security partner'. Rodríguez said it would help fight 'common threats'. Military ties had been cut in 2005 by Hugo Chávez.",
+      "why_it_matters": "It shows how fast US power is reshaping Latin America, and raises questions about sovereignty and who really runs Venezuela.",
+      "camps": "Supporters say the deal brings stability and fights drug trafficking. Critics say a deal signed under US pressure, with no election, is not a free choice, and 'compliant' sounds like control, not partnership.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+      "published": "2026-11-19",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Displaced Palestinians in Nuseirat carry belongings as they leave tent shelters",
-      "image_credit": "Photo: Eyad Baba/AFP/Getty Images via The Guardian",
+      "image_alt": "Pete Hegseth meets Venezuela's interim president at the presidential palace",
+      "image_credit": "Photo: BBC",
       "terms": [
         {
-          "term": "ceasefire",
-          "explain": "An agreement to stop fighting.",
-          "aliases": [
-            "truce"
-          ]
-        },
-        {
-          "term": "Hamas",
-          "explain": "The Palestinian armed group that has ruled Gaza.",
+          "term": "interim",
+          "explain": "Temporary, until a permanent arrangement is made.",
           "aliases": []
         },
         {
-          "term": "displaced",
-          "explain": "Forced to leave home.",
+          "term": "sovereignty",
+          "explain": "A country's right to run its own affairs.",
+          "aliases": []
+        },
+        {
+          "term": "cooperation agreement",
+          "explain": "A deal to work together, here on military matters.",
           "aliases": []
         }
       ]
@@ -429,31 +429,31 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Hot topic: books that show the Supreme Court was not always the 'final word'",
-      "dek": "Historian Rachel A. Shelden picks five essential books on the Court's political past, tied to her new book.",
-      "caveman": "Today many Americans think the Supreme Court has the last word on what the Constitution means. In a Lit Hub list, historian Rachel A. Shelden, author of The Political Supreme Court: A Forgotten History, argues it was not always so. For the Court's first 100 years, ordinary people, Congress and political parties argued about the Constitution themselves. Her picks: Larry Kramer's The People Themselves, Jonathan Gienapp's Against Constitutional Originalism, Eric Foner's The Second Founding, Laura Kalman's FDR's Gambit, and Supremacy by Nikolas Bowie and Daphna Renan.",
-      "why_it_matters": "With fights over the Court's power in the news, history books on it are having a moment. Knowing the past helps people see the Court as political, not magic.",
-      "camps": "These picks lean toward critics of 'judicial supremacy'; conservative scholars defend the Court's role and originalism. A reading list, not a ruling.",
-      "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
-      "published": "2026-11-18",
-      "image": "",
-      "image_alt": "",
-      "image_credit": "",
+      "headline": "Hot: Hannah Lillith Assadi wins the National Book Award for fiction with 'Paradiso 17'",
+      "dek": "Her novel follows a Palestinian man who fled in 1948; she dedicated it to her late father.",
+      "caveman": "The National Book Awards are among America's top book prizes. The fiction prize went to Hannah Lillith Assadi, a Palestinian-Jewish author, for 'Paradiso 17'. It tells the story of a Palestinian man who escaped the Nakba of 1948, when more than 700,000 Palestinians fled or were forced out of their homes, and how displacement haunts him. It was inspired by her father. In a tearful speech she said the book began at his deathbed. She beat well-known writers like Edwidge Danticat and Valeria Luiselli.",
+      "why_it_matters": "Prizes like this decide which books get read, taught and translated. This year's winners focus heavily on exile and political violence.",
+      "camps": "Many praised the book's 'elegant lyricism'. In her speech she spoke of watching 'genocide ravage' her father's people; supporters found it moving, while the Gaza war remains a deeply divisive topic in the US.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "published": "2026-11-19",
+      "image": "images/wd-lit-1.jpg",
+      "image_alt": "Hannah Lillith Assadi at the National Book Awards ceremony",
+      "image_credit": "Photo: The Guardian",
       "terms": [
         {
-          "term": "Supreme Court",
-          "explain": "The highest court in the US.",
+          "term": "National Book Awards",
+          "explain": "Yearly US literary prizes for fiction, nonfiction, poetry, translation and young people's books.",
           "aliases": []
         },
         {
-          "term": "judicial supremacy",
-          "explain": "The idea that courts get the final say on the Constitution.",
+          "term": "Nakba",
+          "explain": "Arabic for \"catastrophe\": the mass flight and expulsion of Palestinians in 1948.",
           "aliases": []
         },
         {
-          "term": "originalism",
-          "explain": "Reading the Constitution as people understood it when written.",
+          "term": "displacement",
+          "explain": "Being forced to leave your home.",
           "aliases": []
         }
       ]
@@ -462,29 +462,32 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: hip-hop fashion pioneer Karl Kani tells his own story in a new memoir",
-      "dek": "The Brooklyn designer, son of a Haitian tailor, built a brand for 1990s rap culture.",
-      "caveman": "Karl Kani (born Carl Williams) started making clothes in Brooklyn in the late 1980s, inspired by his father, a Haitian tailor. Back then rappers wore big brands like Ralph Lauren and Tommy Hilfiger, but in their own oversized style. Kani believed hip-hop needed a brand 'from the culture', and he built one that dressed stars of the 1990s. He talked to NPR's Morning Edition about his new book, A Life by Design.",
-      "why_it_matters": "It is a story about Black entrepreneurship and how street culture changed mainstream fashion.",
-      "camps": "Memoirs tell one person's side; fans of '90s style will love it, while fashion historians may want more on the business deals behind the brand.",
+      "headline": "Hot: 'Huna' wins the nonfiction prize, but its author was denied a US visa",
+      "dek": "Abdelrahman ElGendy's memoir is about six years as a political prisoner in Egypt; his editor accepted for him.",
+      "caveman": "The nonfiction award went to Abdelrahman ElGendy for 'Huna', a memoir about the six years he spent locked up in Egypt for political reasons. He could not attend the ceremony in New York because the US denied him a visa. His essay about that in The New Yorker led to questions about whether he was even eligible. The National Book Foundation said it widened its rules in 2024 and was 'proud to celebrate Huna'. His editor read his statement: he once dreamed of writing a memoir in his cell, but that circle stays 'broken by an oppressive regime'.",
+      "why_it_matters": "It shows how US visa decisions now reach into culture, keeping writers away from honors they win.",
+      "camps": "Supporters call it a powerful win for free expression. Some, including The New York Times, raised eligibility questions; the foundation stands by the award.",
       "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-      "published": "2026-11-18",
+      "source_url": "https://www.npr.org/2026/11/19/nx-s1-6037553/huna-writer-wins-national-book-award-for-non-fiction-after-not-being-allowed-into-the-u-s",
+      "published": "2026-11-19",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Designer Karl Kani walks the runway at Miami Fashion Week in 2024",
-      "image_credit": "Photo: Getty Images via NPR",
+      "image_alt": "Abdelrahman ElGendy, winner of the nonfiction National Book Award for Huna",
+      "image_credit": "Photo: NPR",
       "terms": [
         {
           "term": "memoir",
-          "explain": "A true book about the author's own life.",
+          "explain": "A true story someone writes about their own life.",
           "aliases": []
         },
         {
-          "term": "hip-hop",
-          "explain": "A culture and music style that began in New York in the 1970s.",
-          "aliases": [
-            "rap"
-          ]
+          "term": "political prisoner",
+          "explain": "Someone jailed for their political views or activism.",
+          "aliases": []
+        },
+        {
+          "term": "visa",
+          "explain": "Permission to enter a country.",
+          "aliases": []
         }
       ]
     },
@@ -492,26 +495,31 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: 400 strangers read all of Robert Caro's 'The Power Broker' aloud in 66 hours",
-      "dek": "Lit Hub's James Folta drew a 3:10 AM slot at the reading marathon and loved it.",
-      "caveman": "Robert Caro's The Power Broker is a giant 1974 biography of Robert Moses, the man who reshaped New York City with highways and parks, often hurting poor neighborhoods. Last weekend, more than 400 volunteers took turns reading the whole book aloud in 10-minute chunks for 66 hours straight. Lit Hub writer James Folta, a big Caro fan, got the 3:10 AM Sunday slot and writes about the odd joy of reading it with strangers in the middle of the night.",
-      "why_it_matters": "A 50-year-old nonfiction book drawing 400 volunteer readers shows how alive Caro's work still is.",
-      "camps": "Fans see it as essential to understanding cities; some readers find its 1,000+ pages a slog. Either way, it is a cult favorite right now.",
+      "headline": "Michelle Tea writes about polyamory and her 'illegal' first marriage",
+      "dek": "In a Lit Hub essay, the queer punk author recalls a $19.99 wedding by a witch and asks what love with more people can look like.",
+      "caveman": "Michelle Tea is a well-known American queer writer who started in San Francisco's punk scene. In an essay on Lit Hub, she remembers her first 'marriage' in her twenties: she eloped with her trans boyfriend after a Bingo night at her shared punk house, and a friend who was a witch married them for $19.99, some of which bought a supermarket sheet cake. It was not legal, since same-sex and trans marriage rights were limited then. From there she explores polyamory: loving more than one partner openly.",
+      "why_it_matters": "Writers like Tea help record queer history and push readers to question what a 'normal' family or relationship has to be.",
+      "camps": "Fans love her funny, honest voice about queer life. Some readers will find open relationships uncomfortable; the essay is a personal story, not advice.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/the-joy-of-reading-the-power-broker-with-strangers-at-3-am/",
-      "published": "2026-11-18",
+      "source_url": "https://lithub.com/the-more-the-merrier-michelle-tea-on-the-possibilities-of-polyamory/",
+      "published": "2026-11-19",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "A reader at a podium at The Power Broker reading marathon",
-      "image_credit": "Photo: via Literary Hub",
+      "image_alt": "Illustration of two pairs of wedding rings",
+      "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "biography",
-          "explain": "A true book about someone else's life.",
+          "term": "polyamory",
+          "explain": "Having more than one loving relationship at the same time, with everyone's knowledge and consent.",
           "aliases": []
         },
         {
-          "term": "Robert Moses",
-          "explain": "A powerful 20th-century New York planner who built roads, bridges and parks.",
+          "term": "queer",
+          "explain": "An umbrella word for people who are not straight or not cisgender.",
+          "aliases": []
+        },
+        {
+          "term": "elope",
+          "explain": "To get married quickly and quietly, without a big wedding.",
           "aliases": []
         }
       ]
@@ -520,26 +528,26 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "New: translator Jennifer Croft's 'Notes on Postcards: A Memoir'",
-      "dek": "The award-winning translator mixes her life story with the history of the postcard.",
-      "caveman": "Jennifer Croft is an American writer and translator, known for translating Nobel winner Olga Tokarczuk. Her new memoir, Notes on Postcards, began in 2017 when she started reading about postcard history. Lit Hub published an excerpt: postcards were short and open for anyone to read, yet they became a way to feel close to someone far away. She traces their start to a postal conference in Germany in 1865.",
-      "why_it_matters": "In a world of instant texts, a book about slow, small messages feels fresh, and Croft is a respected literary voice.",
-      "camps": "Readers who like essay-style memoirs will enjoy it; those wanting a plot-driven story may find it quiet.",
+      "headline": "Not hot: critics are cool on Joe Biden's memoir 'Promise Me, America'",
+      "dek": "Lit Hub's weekly review roundup also covers Michael Douglas, Bob Woodward and Anand Giridharadas.",
+      "caveman": "Every week Lit Hub collects the most talked-about book reviews. This week the headline review, by Amy Davidson Sorkin, is tough on former president Joe Biden's memoir. She says the book avoids the big question of whether he was fit to serve, and treats his bad 2024 debate as just one of those things that happens to presidents. Her verdict: the news is that there is no real news. Other reviews look at actor Michael Douglas's memoir 'One Helluva Ride', journalist Bob Woodward's memoir 'Secrets', a life of Medea, and Anand Giridharadas's 'Man in the Mirror'.",
+      "why_it_matters": "Political memoirs sell a lot, but reviews shape whether they become part of history or quickly fade.",
+      "camps": "Biden's supporters see the book as his side of the story. Critics say it dodges hard questions. Readers can judge for themselves.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/jennifer-croft-on-the-efficient-intimacy-of-postcards/",
-      "published": "2026-11-18",
+      "source_url": "https://lithub.com/5-book-reviews-you-need-to-read-this-week-23/",
+      "published": "2026-11-19",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "A pile of vintage postcards",
-      "image_credit": "Image: via Literary Hub",
+      "image_alt": "Portrait of actor Michael Douglas",
+      "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "translator",
-          "explain": "Someone who turns writing from one language into another.",
+          "term": "memoir",
+          "explain": "A true story someone writes about their own life.",
           "aliases": []
         },
         {
-          "term": "excerpt",
-          "explain": "A short piece taken from a longer book.",
+          "term": "review roundup",
+          "explain": "A collection of book reviews from different outlets in one place.",
           "aliases": []
         }
       ]
@@ -548,17 +556,17 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "society",
-      "headline": "UN court to rule Thursday on whether Myanmar committed genocide against the Rohingya",
-      "dek": "No country has ever been found guilty of genocide by an international court.",
-      "caveman": "In 2017, Myanmar's army drove hundreds of thousands of Rohingya, a mostly Muslim minority, out of their homes into Bangladesh. Survivors described killing, torture and mass rape, and villages were burned. The small African country The Gambia took Myanmar to the International Court of Justice (ICJ), the UN's top court, saying this was genocide. On Thursday the judges read their verdict. Myanmar denies genocide and says it was responding to attacks by Rohingya militants.",
-      "why_it_matters": "A guilty verdict would be a first and would strengthen the 1948 Genocide Convention, written after the Holocaust. It shapes how the world protects minorities.",
-      "camps": "Rights groups and survivors hope for justice; Myanmar's military government rejects the case. Even with a ruling, the court has no police to enforce it.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
-      "published": "2026-11-18",
+      "headline": "Tears and cheers as the UN's top court rules Myanmar committed genocide against the Rohingya",
+      "dek": "More than 10,000 Rohingya were killed and 700,000 fled to Bangladesh in 2017; survivors watched from refugee camps.",
+      "caveman": "The Rohingya are a mostly Muslim minority group in Myanmar. In 2017, Myanmar's army carried out mass killings and rape; more than 10,000 died and 700,000 fled to Bangladesh. The African country Gambia took Myanmar to the International Court of Justice (ICJ), the UN's top court. On Thursday the court ruled Myanmar committed genocide, meaning it tried to destroy the group. People cried in the court in The Hague, and refugee camps in Bangladesh erupted in applause. 'The victory belongs to the Rohingya,' said Gambia's justice minister.",
+      "why_it_matters": "It is a rare legal finding of genocide, and a message that states can be held to account even years later.",
+      "camps": "The court cannot arrest anyone or force Myanmar to pay, so many Rohingya still wait for safety and the chance to go home.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+      "published": "2026-11-19",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Rohingya refugees who fled Myanmar in 2017",
-      "image_credit": "Photo: Getty Images via BBC News",
+      "image_alt": "Rohingya refugees in Cox's Bazar, Bangladesh, react to the live court broadcast",
+      "image_credit": "Photo: The Guardian",
       "terms": [
         {
           "term": "genocide",
@@ -566,13 +574,15 @@
           "aliases": []
         },
         {
-          "term": "Rohingya",
-          "explain": "A mostly Muslim minority group from Myanmar's Rakhine State.",
-          "aliases": []
+          "term": "ICJ",
+          "explain": "International Court of Justice: the UN court that settles disputes between countries.",
+          "aliases": [
+            "International Court of Justice"
+          ]
         },
         {
-          "term": "ICJ",
-          "explain": "International Court of Justice, the UN court that settles disputes between countries.",
+          "term": "refugee",
+          "explain": "A person forced to flee their country because of danger.",
           "aliases": []
         }
       ]
@@ -581,28 +591,26 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "society",
-      "headline": "South Korea's giant university exam is shaken by an AI cheating scandal",
-      "dek": "Half a million students sit the 8-hour suneung on Thursday after a top scorer admitted using a hidden camera and AI.",
-      "caveman": "In South Korea, one exam called the suneung largely decides which university you get into and shapes your future. On Thursday more than half a million people, mostly high school students, take it at 1,312 centers. The country even reschedules flights during the English listening test. But trust has been shaken: the top scorer in a recent professional exam admitted cheating with a hidden camera and AI. The government has added emergency alerts and rewards of up to $75,000 for reporting cheats.",
-      "why_it_matters": "As AI tools get smaller and smarter, every country with big exams (including Taiwan) faces the same problem.",
-      "camps": "Officials say tougher checks will protect fairness; teachers' unions have criticized the response, and some say the real issue is a system that puts huge pressure on one test.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-      "published": "2026-11-18",
+      "headline": "Dozens missing after a migrant boat sinks off Senegal",
+      "dek": "The boat carried an estimated 50 to 100 people; it comes less than two weeks after another wreck killed at least 39.",
+      "caveman": "Many young people from West Africa try to reach Spain's Canary Islands in long wooden boats called pirogues, hoping for work in Europe. The trip across the Atlantic is very dangerous. A boat said to carry between 50 and 100 people sank near the village of Yenne, south of Senegal's capital Dakar. Four bodies were reportedly found and dozens are still missing. A village leader said people's cries could be heard from the beach. Less than two weeks ago, another wreck killed at least 39 people.",
+      "why_it_matters": "These disasters show how desperate poverty and lack of jobs push people into deadly journeys.",
+      "camps": "Some European leaders want tougher border controls to stop the boats. Rights groups say that only pushes people to riskier routes, and call for safe legal paths and more jobs at home.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+      "published": "2026-11-19",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Students during South Korea's suneung university entrance exam",
-      "image_credit": "Photo: Kim Hong-Ji/Reuters via The Guardian",
+      "image_alt": "The damaged boat washed ashore on a beach in Senegal",
+      "image_credit": "Photo: BBC",
       "terms": [
         {
-          "term": "suneung",
-          "explain": "South Korea's national university entrance exam.",
-          "aliases": [
-            "CSAT"
-          ]
+          "term": "migrant",
+          "explain": "A person who moves to another place, often for work or safety.",
+          "aliases": []
         },
         {
-          "term": "cheating",
-          "explain": "Breaking the rules to get a better score.",
+          "term": "pirogue",
+          "explain": "A long, narrow wooden boat used for fishing and, now, migration in West Africa.",
           "aliases": []
         }
       ]
@@ -611,33 +619,28 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "society",
-      "headline": "US overdose deaths fall to a decade low, but the White House takes misleading credit",
-      "dek": "CDC data show deaths plunged; researchers say the drop began under Biden in 2023, before Trump returned.",
-      "caveman": "Fewer Americans are dying from drug overdoses, mostly from fentanyl. New CDC data show deaths are at their lowest in about 10 years, saving nearly 50,000 lives a year. The White House said the gains came mainly in the last 18 months thanks to Trump's border security and fight against 'narco-terrorists'. But drug policy researchers told NPR that the decline started in spring 2023 under President Biden, and most of it happened before Trump took office again.",
-      "why_it_matters": "Knowing what really worked helps keep the deaths falling; false credit can lead to the wrong policies.",
-      "camps": "The White House credits border enforcement; researchers say the decline began earlier and likely has several causes. Both parties want credit for good news.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-      "published": "2026-11-18",
+      "headline": "Florida carries out a record 20th execution this year",
+      "dek": "Thomas Overton, 71, was scheduled to die the same evening Texas planned to execute a 70-year-old.",
+      "caveman": "An execution is when a state puts a person to death as punishment for a crime. Florida scheduled its 20th execution of the year, a state record, for Thursday: Thomas Overton, 71, convicted of killing a pregnant woman and her husband in 1991. Texas planned to execute Reinaldo Dennes, 70, the same evening. Florida has carried out more than half of all 37 US executions this year under Governor Ron DeSantis. Two elderly men executed on one day shows how old death-row prisoners have become.",
+      "why_it_matters": "The US is one of few rich democracies that still uses the death penalty. Taiwan also still has it, and debates it too.",
+      "camps": "Supporters say it brings justice for victims' families. Opponents say it is cruel, can kill innocent people, and is used far more in some states than others.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "published": "2026-11-19",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Families look on as President Trump speaks at a fentanyl bill signing in 2025",
-      "image_credit": "Photo: via NPR",
+      "image_alt": "Vans carry witnesses into Florida State Prison in Raiford",
+      "image_credit": "Photo: The Guardian",
       "terms": [
         {
-          "term": "overdose",
-          "explain": "Taking a deadly or dangerous amount of a drug.",
-          "aliases": []
-        },
-        {
-          "term": "fentanyl",
-          "explain": "A very strong man-made opioid behind most US overdose deaths.",
+          "term": "death penalty",
+          "explain": "When a court sentences someone to be killed for a crime.",
           "aliases": [
-            "opioid"
+            "capital punishment"
           ]
         },
         {
-          "term": "CDC",
-          "explain": "Centers for Disease Control and Prevention, the US public health agency.",
+          "term": "death row",
+          "explain": "The part of a prison holding people sentenced to death.",
           "aliases": []
         }
       ]
@@ -646,31 +649,31 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "society",
-      "headline": "ICE gives its deportation-flight contractor up to $305m without bidding, and hides planes from trackers",
-      "dek": "Records show ICE also added an FAA program that keeps CSI Aviation planes off public flight-tracking sites.",
-      "caveman": "ICE is the US agency that arrests and deports immigrants. It hires a private company, CSI Aviation, to run charter flights that carry people out of the country. Federal records show ICE agreed to pay CSI up to $305.7 million without letting other companies bid, on top of a new order worth up to $1.28 billion. ICE also changed the contract to use an FAA program that keeps the planes off some public flight-tracking websites.",
-      "why_it_matters": "Activists track these flights to know where people are sent, including to third countries. Hiding them makes it harder to watch for abuses.",
-      "camps": "The government says it needs flights to carry out immigration law; rights advocates say the secrecy and no-bid money reduce accountability. CSI says ICE decides who boards.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
-      "published": "2026-11-18",
+      "headline": "World Toilet Day: a silly-sounding day with a serious goal",
+      "dek": "Billions still lack a safe toilet; dirty sanitation spreads diseases like cholera and polio.",
+      "caveman": "November 19 is World Toilet Day, made an official UN day in 2013. It was started 25 years ago by Jack Sim, a businessman from Singapore. The point is not just clean toilets but access: billions of people have no safe, private toilet. Waste spreads diseases like cholera and polio, so good sewage systems save lives. It is also a gender issue: girls and women need safe, clean places to manage their periods. The WHO says progress is real, with about 2 billion people gaining safe sanitation.",
+      "why_it_matters": "Toilets sound like a joke, but they are about health, dignity and safety, especially for women and girls.",
+      "camps": "Most people agree on the goal. The debate is about money and who pays: governments, aid groups or private companies.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+      "published": "2026-11-19",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "ICE agents prepare to board detainees onto a charter flight",
-      "image_credit": "Photo: David Ryder/Getty Images via The Guardian",
+      "image_alt": "Jack Sim, founder of World Toilet Day",
+      "image_credit": "Photo: NPR",
       "terms": [
         {
-          "term": "ICE",
-          "explain": "Immigration and Customs Enforcement, the US agency that deports immigrants.",
+          "term": "sanitation",
+          "explain": "Systems that safely deal with human waste, like toilets and sewers.",
           "aliases": []
         },
         {
-          "term": "no-bid contract",
-          "explain": "A government deal given to one company without a competition.",
+          "term": "WHO",
+          "explain": "World Health Organization, the UN health agency.",
           "aliases": []
         },
         {
-          "term": "deportation",
-          "explain": "Forcing someone to leave a country.",
+          "term": "menstrual hygiene",
+          "explain": "Keeping clean and healthy during periods.",
           "aliases": []
         }
       ]
