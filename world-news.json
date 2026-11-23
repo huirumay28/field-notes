@@ -1,23 +1,23 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-20T08:00:00+08:00",
-  "notes": "Friday 20 Nov 2026 world issue (Taipei ~08:00). Window: Thu 19 Nov (US/Europe). Economy: Anthropic debut opens +34%, closes $97; Japan core inflation 2.2%; IMF says AI demand will push rates up; Walmart raises outlook. Tech: California subpoenas Nvidia; AMD short-seller report; Amazon app fights NYC Delivery Protection Act; anti-Anthropic protests. Politics: Trump-Putin-Xi peace declaration; Europe ready for Russia talks; Democrats' biggest midterm win in 50 years; Venezuela-US military deal. Literature (US): Assadi wins NBA fiction; ElGendy's Huna wins nonfiction despite visa denial; Michelle Tea on polyamory; critics on Biden memoir. Society: ICJ rules Rohingya genocide; Senegal migrant boat; Florida record 20th execution; World Toilet Day.",
+  "fetched_at": "2026-11-23T08:00:00+08:00",
+  "notes": "Monday 23 Nov 2026 world issue (Taipei ~08:00). Window: Fri 20 – Sun 22 Nov (US/Europe). Economy: Wall Street worst week since 2020 as Anthropic IPO lands; UK offshore wealth tops £1tn; polar vortex threatens Europe gas; court bans BYD Defender clone in EU. Tech: Trump threatens ban on overseas AI data centres; Claude-assisted Riemann hypothesis proof verified; DNI warns of more outages; Google workers back AI-free school search. Politics: Democrats win biggest House majority since 1992; COP31 collapses; Russian warship sunk in Benghazi; Trump order on contractors and Congress. Literature (US): Jonathan Yardley dies; NBA writers on writer's block; best-reviewed books; Steven Thrasher on ICE at an LA ER. Society: Lebanese families return to wrecked homes; Virginia measles death; Korean minister quits over AI exam cheating; Indonesia factory fire.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "Anthropic's first day on the stock market: up 34% at the open, then a wobble",
-      "dek": "Shares sold at $83 jumped to $111.53, briefly valuing the Claude maker near $2 trillion, then closed at $97.",
-      "caveman": "Anthropic, the company behind the AI chatbot Claude, started trading on the Nasdaq stock market on Thursday. Its shares had been sold to big investors at $83 each. When trading opened, the price shot up to $111.53, which made the whole company worth almost $2 trillion. Then it slid back, closing at $97, giving a value of roughly $1.76 trillion. That still makes it one of the most valuable public companies in the world, only five years after it was founded. The wider Nasdaq index actually fell nearly 2% that day.",
-      "why_it_matters": "This was a giant test of whether investors still believe AI will pay off. Taiwan's chip industry depends on AI spending staying strong, so the mood around Anthropic matters for Taiwan's stock market too.",
-      "camps": "Fans say the strong debut shows real demand for AI. Skeptics point to the fade from the morning high and the falling Nasdaq as signs of a bubble, and ask whether AI companies can earn enough to justify these prices.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-      "published": "2026-11-19",
+      "headline": "Wall Street's worst week since 2020: Nvidia sinks 23%, even as Anthropic's record IPO lands",
+      "dek": "The Nasdaq fell 10% in five days. Anthropic raised a record $93.5 billion but ended the week worth about $1.6 trillion.",
+      "caveman": "Last week was a split-screen on Wall Street. On one side, Anthropic, the company behind the Claude chatbot, held the biggest stock market launch ever: it raised a record $93.5 billion, plus $26 billion more from big tech companies. Its shares rose 17% on day one. On the other side, the wider market had a terrible week. The Nasdaq, home of many tech stocks, dropped 10%, its worst week since the start of Covid in 2020. Nvidia, the top AI chip maker, fell 23%, its sharpest weekly drop in 18 years, as it deals with the scandal around its former CEO. Investors are worried about rising interest rates, growing public anger at AI, and whether all the money poured into AI will pay off. By Friday, Anthropic was valued at about $1.6 trillion.",
+      "why_it_matters": "When US tech stocks crash, Taiwan's stock market usually follows, because Taiwan makes most of the world's AI chips. This is a big reason Taiwan's market had its worst week ever.",
+      "camps": "Optimists say the Anthropic IPO proves there is still huge demand for AI, and the sell-off is a healthy cooling. Pessimists see signs of a bubble: very high prices, falling chip stocks, and doubts that AI companies can earn enough to justify their value.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "published": "2026-11-21",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "Anthropic staff applaud at the Nasdaq on the company's first trading day",
-      "image_credit": "Photo: Reuters via BBC",
+      "image_alt": "Anthropic CEO Dario Amodei at the Nasdaq MarketSite before the company's trading debut",
+      "image_credit": "Photo: AFP via Getty Images / CNBC",
       "terms": [
         {
           "term": "IPO",
@@ -27,16 +27,16 @@
           ]
         },
         {
+          "term": "Nasdaq",
+          "explain": "A big US stock market where many tech companies are listed; also the name of its main index.",
+          "aliases": []
+        },
+        {
           "term": "valuation",
           "explain": "What the whole company is worth, based on its share price.",
           "aliases": [
-            "market value"
+            "market cap"
           ]
-        },
-        {
-          "term": "Nasdaq",
-          "explain": "A big US stock market where many tech companies are listed.",
-          "aliases": []
         }
       ]
     },
@@ -44,36 +44,34 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Japan's prices climb faster as energy help for households ends",
-      "dek": "Core inflation hit 2.2% in October, the year's high; a rate hike in December now looks likely.",
-      "caveman": "Inflation means prices going up. In Japan, prices (not counting fresh food) were 2.2% higher in October than a year earlier, the highest this year. The main reason: the government stopped giving households help with energy bills in September, just as the Iran war pushed up oil and gas prices. Gas prices jumped 5.8%. Japan plans to bring the energy help back in December. Many traders now expect the Bank of Japan to raise interest rates in December, even though the economy shrank last quarter.",
-      "why_it_matters": "Japan is a huge trading partner for Taiwan. When Japan raises rates, money moves around the world and the yen and Taiwan dollar can swing.",
-      "camps": "Some economists say Japan finally needs higher rates after decades of near-zero ones. Others warn that raising rates while the economy is shrinking could hurt families and businesses.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "published": "2026-11-20",
+      "headline": "UK savers now hold more than £1 trillion in tax havens",
+      "dek": "Money in offshore accounts grew 10% in two years; the tax office struggles to track some of it.",
+      "caveman": "A tax haven is a place with very low taxes and lots of secrecy, like the British Virgin Islands, Jersey, Switzerland or Panama. New data from Britain's tax office (HMRC), obtained by the TaxWatch think tank, shows that people who pay tax in the UK now keep more than £1 trillion in accounts in these places, the first time it has passed that mark. The amount grew 10% between 2022 and 2024. Keeping money offshore is not illegal if you declare it. But some of it is hard to trace. The tax office recovers about £125 million a year in unpaid tax from offshore accounts, but it once estimated £200 million to £700 million goes unpaid each year. About one in five accounts reported to the UK by other countries had no taxpayer ID number, which makes matching them to real people hard.",
+      "why_it_matters": "When rich people hide money, governments collect less tax and ordinary workers carry more of the load. Many countries, including Taiwan, face the same problem.",
+      "camps": "Campaigners say governments should force banks to collect proper ID and close loopholes. Others point out most offshore money is declared legally, and that people use these accounts for business or because they live abroad.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "published": "2026-11-22",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Shoppers in a Japanese supermarket",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Road Town, capital of the British Virgin Islands, a major offshore financial centre",
+      "image_credit": "Photo: Todd VanSickle/AP via The Guardian",
       "terms": [
         {
-          "term": "core inflation",
-          "explain": "Price growth that leaves out jumpy items like fresh food, to show the underlying trend.",
+          "term": "tax haven",
+          "explain": "A country or territory with very low taxes and secret banking, where people park money.",
           "aliases": [
-            "core CPI"
+            "offshore centre"
           ]
         },
         {
-          "term": "subsidy",
-          "explain": "Government money that lowers a price for people, like help paying energy bills.",
+          "term": "HMRC",
+          "explain": "HM Revenue and Customs, the UK government department that collects taxes.",
           "aliases": []
         },
         {
-          "term": "Bank of Japan",
-          "explain": "Japan's central bank, which sets interest rates.",
-          "aliases": [
-            "BOJ"
-          ]
+          "term": "offshore account",
+          "explain": "A bank account in a different country from where you live or pay tax.",
+          "aliases": []
         }
       ]
     },
@@ -81,34 +79,34 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "IMF boss: the AI boom will push interest rates up around the world",
-      "dek": "Kristalina Georgieva says demand for AI hardware plus the Middle East energy shock could push global inflation to 4.7% this year.",
-      "caveman": "The IMF is a global organization that watches the world economy and lends to countries in trouble. Its head, Kristalina Georgieva, spoke at the APEC summit in Shenzhen, China. She said so many companies are buying AI chips and computers that it is pushing prices up around the world. Add the war in the Middle East, which pushed oil above $100 a barrel, and she expects world inflation of 4.7% this year. Her advice: many central banks will need to raise interest rates. Europe, the US and the UK already raised rates this year.",
-      "why_it_matters": "Higher interest rates make home loans and business loans more expensive everywhere, including Taiwan, which builds much of the world's AI hardware.",
-      "camps": "Some see AI as a growth engine that is lifting economies. Others worry the spending is so big that it is overheating prices, so ordinary people pay through higher rates while tech firms reap the gains.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "published": "2026-11-19",
+      "headline": "A record-early polar vortex breakdown could mean a cold winter and pricey gas for Europe",
+      "dek": "Europe started winter with its lowest gas storage in more than a decade, and Middle East supplies are disrupted.",
+      "caveman": "High above the North Pole, strong winds usually spin in a circle and keep the very cold air trapped there. This is called the polar vortex. Weather experts say it is breaking down earlier than ever recorded this year. When that happens, freezing air can spill south into Europe and North America. At the same time, there is an unusually strong El Niño, a warming of the Pacific Ocean that shakes up weather around the world. Together, they raise the risk of a long cold spell. That worries energy traders: Europe began this winter with the lowest gas stored in more than ten years. If people need lots of heating, Europe will have to buy more liquefied gas shipped from abroad, just as supplies from the Middle East are disrupted. That could push prices up.",
+      "why_it_matters": "Gas is a global market. If Europe scrambles for gas, prices can rise for Asian buyers too, including Taiwan, which imports almost all its energy.",
+      "camps": "Some scientists say an early breakdown does not guarantee a harsh winter; weather is hard to predict months ahead. Traders say even the risk is enough to make prices jumpy.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+      "published": "2026-11-21",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "IMF managing director Kristalina Georgieva speaking at the APEC summit",
-      "image_credit": "Photo: The Guardian",
+      "image_alt": "NOAA satellite image of a low-pressure system from the polar vortex over the northern US (2014)",
+      "image_credit": "Image: NOAA via Getty Images / CNBC",
       "terms": [
         {
-          "term": "IMF",
-          "explain": "International Monetary Fund: a global body that monitors economies and lends money to countries.",
+          "term": "polar vortex",
+          "explain": "A big ring of strong winds high above the North Pole that keeps freezing air in the Arctic.",
           "aliases": []
         },
         {
-          "term": "interest rate",
-          "explain": "The price of borrowing money.",
+          "term": "El Niño",
+          "explain": "A natural warming of the Pacific Ocean that changes weather around the world.",
+          "aliases": []
+        },
+        {
+          "term": "LNG",
+          "explain": "Liquefied natural gas: gas cooled into a liquid so it can be shipped on boats.",
           "aliases": [
-            "rates"
+            "liquefied natural gas"
           ]
-        },
-        {
-          "term": "APEC",
-          "explain": "Asia-Pacific Economic Cooperation, a yearly meeting of Pacific Rim economies. Taiwan is a member.",
-          "aliases": []
         }
       ]
     },
@@ -116,34 +114,33 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "Walmart raises its forecast and says it will try to hold prices down despite soaring fuel costs",
-      "dek": "Online sales jumped 17%; it cut prices on nearly 8,000 items as shoppers worry about food and gas.",
-      "caveman": "Walmart is America's biggest store chain. On Thursday it said sales were a bit better than expected, and it raised its forecast for the year. Online orders grew 17% around the world, helped by fast pickup and delivery. Walmart said it lowered prices on almost 8,000 products because people are worried about the cost of food and gas. The CEO, John Furner, said diesel fuel for trucks costs more than expected, but refunds on tariffs (import taxes) helped cover it.",
-      "why_it_matters": "Walmart is a window into how ordinary American families are doing. Many are shopping carefully, hunting for low prices.",
-      "camps": "Walmart says it is fighting for shoppers. Critics note big chains can squeeze suppliers and workers to keep prices low, and that smaller shops cannot compete.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "published": "2026-11-19",
+      "headline": "Court bans China's BYD from selling its 'Defender clone' SUV in the EU",
+      "dek": "A Dutch judge said BYD's Ti7 copies the look of Jaguar Land Rover's Defender.",
+      "caveman": "BYD is a giant Chinese car company. One of its SUVs, the Ti7, looks a lot like the famous British Land Rover Defender, so much that car magazines nicknamed it the 'Chinese Defender clone'. Jaguar Land Rover (JLR) took BYD to court. A judge in The Hague, in the Netherlands, ruled that the Ti7 breaks JLR's protected European design rights, so BYD cannot sell it in the EU. The ban starts one week after Friday's ruling. BYD said it had no concrete plans to sell the car in the EU anyway. But the court said it had no power over the UK, where the Ti7 is on sale for £47,995, more than £20,000 cheaper than a Defender, with deliveries due from January.",
+      "why_it_matters": "Chinese carmakers are growing fast in Europe. Cases like this test how far 'inspired by' can go before it becomes copying.",
+      "camps": "JLR and many European makers say design is valuable work that must be protected. BYD's fans say cars in the same category naturally look similar, and that cheaper choices are good for buyers.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+      "published": "2026-11-22",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Inside a Walmart store",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "The BYD Fangchengbao 7, known as the Ti7 in some markets, at the Beijing Auto Show",
+      "image_credit": "Photo: Adek Berry/AFP/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "forecast",
-          "explain": "A company's guess about how much it will sell or earn.",
+          "term": "intellectual property",
+          "explain": "Legal ownership of ideas and designs, like patents, trademarks and design rights.",
           "aliases": [
-            "outlook",
-            "guidance"
+            "IP"
           ]
         },
         {
-          "term": "tariff",
-          "explain": "A tax on goods brought in from another country.",
+          "term": "design right",
+          "explain": "A legal protection for how a product looks.",
           "aliases": []
         },
         {
-          "term": "e-commerce",
-          "explain": "Buying and selling online.",
+          "term": "SUV",
+          "explain": "Sport utility vehicle: a big, tall car often built for rough roads.",
           "aliases": []
         }
       ]
@@ -152,34 +149,38 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "California's top lawyer subpoenas Nvidia over chips that may have reached China",
-      "dek": "The probe follows ex-CEO Jensen Huang's exit; Nvidia shares are down 22% in nine trading days.",
-      "caveman": "A subpoena is a legal order to hand over documents. California Attorney General Rob Bonta sent one to Nvidia, the world's most important AI chipmaker, to find out whether its advanced chips ended up in China against US rules, and whether the company misled investors. Last week Jensen Huang, Nvidia's Taiwan-born co-founder, resigned as CEO after admitting affairs, including one with a woman suspected of spying for China. She worked at a Singapore company being investigated for moving restricted chips to China. Nvidia did not comment right away.",
-      "why_it_matters": "Nvidia buys huge numbers of chips from TSMC. Trouble at Nvidia ripples straight into Taiwan's economy and stock market.",
-      "camps": "Bonta says companies cannot mislead investors. Nvidia's defenders say the company follows export rules and that one person's personal scandal should not sink the firm. The facts are still under investigation.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "published": "2026-11-19",
+      "headline": "Trump threatens to ban US tech firms from building AI data centres abroad",
+      "dek": "He promised a 'tremendous tax' on companies that do it, saying 'China will take all of them'. Details are thin.",
+      "caveman": "A data centre is a huge warehouse full of computers that run AI apps like ChatGPT and Claude. US companies such as Meta and Google have deals to build some in other countries. President Trump said he will not allow American companies to build data centres outside the US, and that those who do would face a 'tremendous tax'. His reason: 'China will take all of them.' He admitted his own team was hearing the idea for the first time. It is unclear how such a rule would work. Data centres were a big issue in this month's US midterm elections: many people near them complain about noise and huge electricity use, and many winning Democrats promised tougher rules. Earlier in the week, the US also said firms will need a licence to buy advanced chips, so officials can check they are not helping Chinese companies.",
+      "why_it_matters": "Taiwan makes most of the chips that go into these data centres. Where they are built, and who may buy chips, affects Taiwan's biggest industry.",
+      "camps": "Supporters say keeping AI infrastructure at home protects US security and jobs. Critics say it would hurt US companies abroad, upset allies, and is hard to enforce. Local communities in the US are split on whether they want data centres at all.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "published": "2026-11-20",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "California Attorney General Rob Bonta speaking at a podium",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "President Trump speaking to reporters",
+      "image_credit": "Photo: via BBC News",
       "terms": [
         {
-          "term": "subpoena",
-          "explain": "A legal order forcing someone to give evidence or documents.",
-          "aliases": []
-        },
-        {
-          "term": "attorney general",
-          "explain": "A state's top lawyer and law enforcement official.",
+          "term": "data centre",
+          "explain": "A big building full of computers that store data and run online and AI services.",
           "aliases": [
-            "AG"
+            "data center"
           ]
         },
         {
-          "term": "export controls",
-          "explain": "Government rules that limit selling certain goods, like advanced chips, to certain countries.",
-          "aliases": []
+          "term": "export licence",
+          "explain": "Government permission needed to sell certain goods to other countries.",
+          "aliases": [
+            "licence"
+          ]
+        },
+        {
+          "term": "midterm elections",
+          "explain": "US elections held halfway through a president's four-year term.",
+          "aliases": [
+            "midterms"
+          ]
         }
       ]
     },
@@ -187,35 +188,33 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "AMD stock drops 8% after a short seller says it has 'its own China problem'",
-      "dek": "Hunterbrook claims AMD bills over 20% of revenue to China and Hong Kong; AMD says the claims misrepresent its business.",
-      "caveman": "A short seller is an investor who makes money when a stock falls, so they sometimes publish reports pointing out problems. Hunterbrook Media, which said it is betting against AMD, claimed that a blacklisted Chinese server maker kept getting AMD software updates, that over 20% of AMD's sales are billed to China and Hong Kong, and that AMD relies on a Chinese partner to finish many chips. AMD shares closed down 7.72% at $489.19. AMD said it follows US export laws and that the claims are wrong.",
-      "why_it_matters": "AMD, like Nvidia, uses TSMC in Taiwan to make its chips. The US-China chip fight keeps landing on Taiwan's doorstep.",
-      "camps": "Short sellers can expose real problems, but they also profit if the stock falls, so their claims need checking. AMD flatly denies wrongdoing.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "published": "2026-11-19",
+      "headline": "Experts verify claim that Anthropic's Claude helped prove the Riemann hypothesis, a 167-year-old maths puzzle",
+      "dek": "Two groups checked the proof; it is one of seven 'Millennium Prize' problems worth $1m each.",
+      "caveman": "The Riemann hypothesis is one of the most famous unsolved problems in maths. It is about prime numbers, numbers like 2, 3, 5 and 7 that can only be divided by 1 and themselves, and how they are spread along the number line. It was proposed in 1859, and a $1 million prize has been offered since 2000 for solving it. Levent Alpöge, a mathematician who works at Anthropic, posted a note on Friday saying the AI system Claude helped him build a proof over about six weeks. He shared it in Lean, a computer language that lets a machine check every step. On Saturday, two groups, the Lean Focused Research Organization and the Mathlib Initiative, said they had independently verified it. Alpöge admitted the timing, one day after Anthropic's stock market debut, was 'horrible'.",
+      "why_it_matters": "If confirmed by the wider maths world, this would be one of the biggest moments ever for AI: a machine helping crack a problem humans failed at for over a century.",
+      "camps": "Many celebrate a new way of doing science. But some mathematicians are uneasy about rich private companies driving discovery, and about trusting AI. An Italian mathematician who released his own incomplete proof the same day said he avoided AI because he does not fully trust it.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "published": "2026-11-22",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "AMD CEO Lisa Su",
-      "image_credit": "Photo: Getty Images via CNBC",
+      "image_alt": "Anthropic employees at the Nasdaq during the company's market debut",
+      "image_credit": "Photo: Brendan McDermid/Reuters via The Guardian",
       "terms": [
         {
-          "term": "short seller",
-          "explain": "An investor who bets a stock price will fall.",
+          "term": "Riemann hypothesis",
+          "explain": "A famous 1859 maths idea about how prime numbers are spread out; unproven until now.",
+          "aliases": []
+        },
+        {
+          "term": "prime number",
+          "explain": "A whole number bigger than 1 that can only be divided by 1 and itself.",
           "aliases": [
-            "short position"
+            "prime"
           ]
         },
         {
-          "term": "blacklist",
-          "explain": "A government list of companies that US firms are not allowed to sell to without permission.",
-          "aliases": [
-            "entity list"
-          ]
-        },
-        {
-          "term": "firmware",
-          "explain": "Basic software built into hardware that makes it run.",
+          "term": "Lean",
+          "explain": "A computer language for writing maths proofs so a computer can check every step.",
           "aliases": []
         }
       ]
@@ -224,35 +223,33 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "Amazon uses its own app to fight New York's delivery-worker bill",
-      "dek": "Pop-ups warn the city 'could add up to $5 per order' if the Delivery Protection Act, backed by Mayor Mamdani, passes.",
-      "caveman": "Amazon does not employ most of the drivers who bring your packages. Instead it uses thousands of small companies called Delivery Service Partners. A New York City bill, Intro 518 or the Delivery Protection Act, would make Amazon hire those drivers directly. Mayor Zohran Mamdani supports it, saying the contractor system leaves workers unprotected. Now Amazon is showing New York shoppers pop-ups and banners in its app saying the bill could add up to $5 per order and might force it to move operations out of the city. The bill is waiting for review by Council Speaker Julie Menin.",
-      "why_it_matters": "This is a big test of whether a city can change how gig and contract work is done. It is rare for Amazon to use its shopping app as a political billboard.",
-      "camps": "Supporters say direct hiring means safer jobs and clear responsibility when things go wrong. Amazon says it would hurt small delivery businesses and raise costs for customers. Neither side's cost numbers have been independently checked.",
+      "headline": "US intelligence chief warns of more 'bumps in the road' after tech outages",
+      "dek": "Recent breakdowns hit flights, Microsoft Outlook and bank payments; officials say there is no sign of a cyberattack.",
+      "caveman": "In the past couple of weeks, several big tech systems in the US broke down: a nationwide stop on flights for hours, an outage of Microsoft's Outlook email, and slower bank payments. Many people feared hackers or AI attacks. Officials say no. The flight stop was caused by a router upgrade that flooded systems with data, and Microsoft said its problem came from a network upgrade. Director of National Intelligence Jay Clayton told CNN that Americans should expect more 'bumps in the road' as companies and the government upgrade systems for the AI age, and should expect big spending on cybersecurity. His warning comes before Thanksgiving week, one of the busiest travel times of the year.",
+      "why_it_matters": "Modern life runs on a few giant systems. When one breaks, millions of people are stuck, no matter where they live.",
+      "camps": "Officials say outages during upgrades are normal and not sinister. Critics ask whether the government is downplaying the problems, noting that the White House recently removed its cybersecurity chief after the outages, which raises questions about who is in charge.",
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-      "published": "2026-11-19",
+      "source_url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "published": "2026-11-22",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "An Amazon worker moving carts of packages in a warehouse",
+      "image_alt": "Director of National Intelligence Jay Clayton testifying in Congress on 18 November",
       "image_credit": "Photo: Getty Images via CNBC",
       "terms": [
         {
-          "term": "Delivery Service Partner",
-          "explain": "A small company that delivers Amazon packages under contract, instead of Amazon hiring drivers itself.",
+          "term": "outage",
+          "explain": "When a service or system stops working for a while.",
           "aliases": [
-            "DSP"
+            "downtime"
           ]
         },
         {
-          "term": "subcontracting",
-          "explain": "When a company hires another company to do part of its work.",
-          "aliases": [
-            "contractor model"
-          ]
+          "term": "router",
+          "explain": "A device that directs internet traffic between networks.",
+          "aliases": []
         },
         {
-          "term": "last mile",
-          "explain": "The final step of delivery, from a local warehouse to your door.",
+          "term": "cybersecurity",
+          "explain": "Protecting computers and networks from attacks and failures.",
           "aliases": []
         }
       ]
@@ -261,26 +258,33 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "Protesters rally against Anthropic in New York and San Francisco as it hits the stock market",
-      "dek": "About 30 people gathered outside Nasdaq in Times Square, some arrested, with signs like 'STOP TECH OLIGARCHS'.",
-      "caveman": "While Anthropic celebrated its record stock market debut, anti-AI groups protested outside the Nasdaq building in New York's Times Square and outside Anthropic's offices in San Francisco. Several people were arrested in New York. Protesters held flags saying 'STOP TECH OLIGARCHS' and 'FREEZE AI'. New York state senator Aber Kawas said investing in AI comes at the cost of investing in people. One protester, a policy researcher for a community group, said the US needs stricter AI rules first.",
-      "why_it_matters": "As AI companies get richer, a public backlash is growing over jobs, power use and who controls the technology.",
-      "camps": "Protesters want limits and slower development. Supporters of AI say it can bring big benefits and that rules should not stop progress. The debate over how to regulate AI is far from settled.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-      "published": "2026-11-19",
-      "image": "images/wd-tech-4.jpg",
-      "image_alt": "Anti-AI demonstrators outside Anthropic headquarters in San Francisco",
-      "image_credit": "Photo: The Guardian",
+      "headline": "Hundreds of Google workers back parents who want AI-free search for schools",
+      "dek": "More than 550 employees signed a petition after Google said it won't separate AI from its education tools.",
+      "caveman": "When you search on Google now, an AI summary often appears at the top. Many parents and teachers want schools to be able to use Google Search without the AI part, so kids learn to find and judge information themselves. Google has said it will not unbundle AI from its tools for education. Last week, parents and educators protested outside Google offices in six cities. Now more than 550 Google employees have signed a petition asking the company to give schools an AI-free option, and the workers' union warns schools might drop Google products altogether. NPR reports that Google earlier won two court cases by arguing that AI Overviews and Search are one single tool, which may make splitting them legally awkward. Google did not comment. Some school districts are looking at workarounds such as browser extensions.",
+      "why_it_matters": "Students everywhere, including in Taiwan, use Google. How much AI sits between kids and real sources is a big question for education.",
+      "camps": "Parents and many teachers say children need to learn research skills before relying on AI. Google and AI supporters argue AI is part of modern life and students should learn to use it well. The legal angle shows companies' court arguments can lock in their choices.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+      "published": "2026-11-21",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "oligarch",
-          "explain": "A very rich person with outsized power over politics or society.",
+          "term": "AI Overview",
+          "explain": "The AI-written summary Google shows at the top of some search results.",
+          "aliases": [
+            "AI Overviews"
+          ]
+        },
+        {
+          "term": "petition",
+          "explain": "A written request signed by many people asking for change.",
           "aliases": []
         },
         {
-          "term": "regulation",
-          "explain": "Government rules that control how something is done.",
+          "term": "unbundle",
+          "explain": "To separate parts of a product so people can choose them one by one.",
           "aliases": []
         }
       ]
@@ -289,33 +293,33 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Trump, Putin and Xi sign a 'peace declaration' after their first three-way meeting",
-      "dek": "In Shenzhen, the three said 'nuclear war cannot be won and must never be fought' and pledged to reform the UN.",
-      "caveman": "The leaders of the US, Russia and China met together for the first time, for 90 minutes, in Shenzhen, China, during the APEC summit. Afterward they put out a 'joint declaration of peace'. It said nuclear war can never be won, promised to pump and supply more oil, and said they want to reform the United Nations. They also criticized the International Criminal Court for overstepping. Putin said they discussed ending the Ukraine war. China says it is neutral on Ukraine, though Kyiv and its allies accuse it of helping Russia.",
-      "why_it_matters": "When the three biggest military powers talk, it can lower the risk of war, but deals among big powers can also be made over the heads of smaller countries like Ukraine or Taiwan.",
-      "camps": "Supporters call it historic diplomacy that could calm the world. Critics say the statement is vague, gives Putin a stage despite his war, and that attacking the ICC weakens accountability for war crimes.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-      "published": "2026-11-19",
+      "headline": "Democrats win their biggest House majority since 1992",
+      "dek": "With at least 258 of 435 seats, Democrats will control both chambers of Congress from January, facing a Republican president.",
+      "caveman": "The US Congress has two parts: the House of Representatives (435 seats) and the Senate. On Sunday, Democrat Chuck Hubbard beat long-time Republican Virginia Foxx in North Carolina after a recount, giving Democrats at least 258 House seats. That is their largest majority since 1992. Democrats gained 44 seats, more than the 40 they won in 2018. Four races are still not decided. Because Democrats also won the Senate, the country will have a divided government: Congress controlled by Democrats, the White House by Republican President Trump. Democrats are planning a 100-day agenda on the cost of living, and many investigations of the Trump administration. House Democratic leader Hakeem Jeffries says he is willing to work with Republicans on some issues.",
+      "why_it_matters": "Who controls Congress decides US laws, budgets and investigations, including policies on trade, chips and support for Taiwan.",
+      "camps": "Democrats call it a clear message from voters about prices and Trump's leadership. Republicans say midterms usually punish the president's party and that divided government will force compromise. Some voters worry it will mean two years of gridlock.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "published": "2026-11-22",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Trump, Xi and Putin at their meeting in Shenzhen",
-      "image_credit": "Photo: BBC",
+      "image_alt": "House Democratic leader Hakeem Jeffries at a news conference at the Capitol",
+      "image_credit": "Photo: Anna Moneymaker/Getty Images via The Guardian",
       "terms": [
         {
-          "term": "declaration",
-          "explain": "A public statement of shared positions; usually not legally binding.",
-          "aliases": []
-        },
-        {
-          "term": "ICC",
-          "explain": "International Criminal Court: a court that tries people for war crimes and genocide.",
+          "term": "House of Representatives",
+          "explain": "The bigger chamber of the US Congress, with 435 members elected every two years.",
           "aliases": [
-            "International Criminal Court"
+            "the House"
           ]
         },
         {
-          "term": "trilateral",
-          "explain": "Involving three countries.",
+          "term": "majority",
+          "explain": "Having more than half the seats, which lets a party control what gets voted on.",
+          "aliases": []
+        },
+        {
+          "term": "divided government",
+          "explain": "When one party controls Congress and the other holds the presidency.",
           "aliases": []
         }
       ]
@@ -324,33 +328,35 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Europe says it is ready to talk with Russia about ending the Ukraine war",
-      "dek": "At a Berlin summit, UK PM Andy Burnham and Germany's Merz backed Kyiv; Trump's envoy Kushner said the US wants Europe 'by his side'.",
-      "caveman": "Ukraine's allies, a group called the Coalition of the Willing, met in Berlin. European leaders said they are ready to negotiate with Russia and have a united position. UK Prime Minister Andy Burnham and German Chancellor Friedrich Merz said Moscow's huge demands are not realistic. Jared Kushner, Trump's son-in-law and envoy, said the US wants a deal with Europe at its side. Putin has so far refused to let Europe into the US-led talks. Trump joined by phone from Air Force One after his Shenzhen summit.",
-      "why_it_matters": "How the Ukraine war ends will shape whether big countries can take land by force, a question Taiwan watches closely.",
-      "camps": "Ukraine and Europe want a deal that protects Ukraine's independence. Russia wants to keep the land it took. Some in the US want a quick deal; critics fear Ukraine could be pressured into a bad one.",
+      "headline": "COP31 climate talks collapse without a major deal",
+      "dek": "The final text did not even mention fossil fuels; the EU and Pacific island nations refused it. The last such collapse was in 2009.",
+      "caveman": "Every year, almost every country meets at a UN conference called a COP to agree how to fight climate change. This year's meeting, COP31 in Turkey, ran into Sunday, the longest ever, and still failed to produce a major new deal. The last draft did not mention 'fossil fuels' (coal, oil and gas), the main cause of global warming, even once. Earlier drafts did, but oil-producing countries objected. The EU, Pacific island countries, Panama and the Marshall Islands said the deal was far too weak. Saudi Arabia said Arab nations caused only a small part of past emissions, and Russia warned that moving off fossil fuels too fast would cause 'fuel poverty'. Poorer countries were also angry that rich countries made no clear promise of money to help them cope with heatwaves and droughts. UN chief Antonio Guterres said he was 'deeply disappointed'.",
+      "why_it_matters": "Climate change brings stronger typhoons, heat and sea-level rise, which threaten islands like Taiwan. When countries cannot agree, cutting emissions gets harder.",
+      "camps": "Climate-vulnerable countries and the EU say leaving out fossil fuels is unacceptable. Oil producers say they are being unfairly blamed and need time. Poorer countries say the real issue is money and fairness.",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-      "published": "2026-11-19",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "published": "2026-11-22",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Buildings damaged in the latest Russian attack on Kyiv",
-      "image_credit": "Photo: Reuters via BBC",
+      "image_alt": "Delegates at the COP31 climate talks",
+      "image_credit": "Photo: via BBC News",
       "terms": [
         {
-          "term": "Coalition of the Willing",
-          "explain": "A group of countries, led by Europeans, pledging support for Ukraine.",
-          "aliases": []
-        },
-        {
-          "term": "envoy",
-          "explain": "A person sent to represent a leader in talks.",
-          "aliases": []
-        },
-        {
-          "term": "negotiation",
-          "explain": "Talks to reach a deal.",
+          "term": "COP",
+          "explain": "Conference of the Parties: the yearly UN climate summit.",
           "aliases": [
-            "talks"
+            "COP31"
+          ]
+        },
+        {
+          "term": "fossil fuels",
+          "explain": "Coal, oil and gas: fuels that release carbon dioxide when burned.",
+          "aliases": []
+        },
+        {
+          "term": "emissions",
+          "explain": "Gases like carbon dioxide released into the air that heat up the planet.",
+          "aliases": [
+            "greenhouse gases"
           ]
         }
       ]
@@ -359,35 +365,33 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "Democrats' midterm win is the biggest for either party in 50 years",
-      "dek": "They won the House popular vote 56% to 42% and have flipped 46 seats, with three more possible.",
-      "caveman": "The midterms are US elections held halfway through a president's term. Now that most counting is done, Democrats won about 56% of votes for the House of Representatives versus 42% for Republicans, a 14-point gap. That is the biggest win since 1974, right after the Watergate scandal. Democrats have flipped 46 Republican seats and lead in 3 more. If they win those, they will hold 260 seats, the most since the early 1990s.",
-      "why_it_matters": "A Democratic House can block or investigate President Trump's plans for the next two years, which could change US policy on trade, tariffs and foreign affairs.",
-      "camps": "Democrats see a mandate. Republicans say midterms often punish the president's party and that 2028 is a different fight. Some analysts warn Democrats are still divided on what they stand for.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-      "published": "2026-11-19",
+      "headline": "Russian warship sinks in Libya after suspected Ukrainian sea-drone attack",
+      "dek": "The strike in Benghazi happened more than 1,000 miles from Ukraine, showing the war spreading far from the front.",
+      "caveman": "Early on Sunday, a Russian navy warship called the Merkury, docked in the port of Benghazi in Libya to refuel and load supplies, was hit and sank. Libyan officials said several Ukrainian sea drones (small unmanned boats packed with explosives) were launched at it; four were shot down and two hit the ship, causing a huge explosion. Satellite pictures showed the ship had sunk. Benghazi is on the Mediterranean, more than 1,000 miles from southern Ukraine. Hours later, a Russia-linked cargo ship said to be carrying military supplies was also hit by a sea drone off the same coast. Ukraine started the war with almost no navy but has used sea drones to push Russia's fleet away from much of the Black Sea.",
+      "why_it_matters": "It shows how cheap drones are changing war at sea, a lesson closely studied by Taiwan, which is also an island that depends on sea lanes.",
+      "camps": "Ukraine and its supporters see it as a smart way to hit Russia's war machine far from home. Others worry the war is spilling into new regions such as North Africa, raising the risk for countries that host Russian ships.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "published": "2026-11-22",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "Chart of House popular-vote margins since 1970",
-      "image_credit": "Graphic: NPR",
+      "image_alt": "Satellite image of the capsized Russian corvette Merkury in Benghazi",
+      "image_credit": "Image: Vantor/AP via The Guardian",
       "terms": [
         {
-          "term": "midterms",
-          "explain": "US elections halfway through a president's four-year term.",
+          "term": "sea drone",
+          "explain": "A small unmanned boat, often carrying explosives, steered from far away.",
           "aliases": [
-            "midterm elections"
+            "naval drone"
           ]
         },
         {
-          "term": "House of Representatives",
-          "explain": "The larger chamber of the US Congress; it writes laws and controls spending.",
-          "aliases": [
-            "House"
-          ]
+          "term": "corvette",
+          "explain": "A small, fast warship.",
+          "aliases": []
         },
         {
-          "term": "flip",
-          "explain": "When a seat changes from one party to the other.",
+          "term": "Benghazi",
+          "explain": "A port city in eastern Libya, on the Mediterranean Sea.",
           "aliases": []
         }
       ]
@@ -396,31 +400,33 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Venezuela signs a military deal with the US, less than a year after Maduro was seized",
-      "dek": "Defense Secretary Hegseth calls Venezuela a 'compliant security partner'; details are scarce.",
-      "caveman": "Less than a year ago, US forces captured Venezuela's then-leader Nicolás Maduro in a raid on the capital, Caracas. Now the temporary government led by Delcy Rodríguez, who was Maduro's vice-president, has signed a military cooperation agreement with US Defense Secretary Pete Hegseth. Few details have been released. Hegseth said Venezuela went from the region's 'most aggressive threat' to a 'compliant security partner'. Rodríguez said it would help fight 'common threats'. Military ties had been cut in 2005 by Hugo Chávez.",
-      "why_it_matters": "It shows how fast US power is reshaping Latin America, and raises questions about sovereignty and who really runs Venezuela.",
-      "camps": "Supporters say the deal brings stability and fights drug trafficking. Critics say a deal signed under US pressure, with no election, is not a free choice, and 'compliant' sounds like control, not partnership.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
-      "published": "2026-11-19",
+      "headline": "Trump orders federal contractors to check with the White House before answering Congress",
+      "dek": "Companies that refuse could lose their government contracts, as Democrats prepare investigations from January.",
+      "caveman": "Many private companies get paid by the US government to build things or provide services. They are called federal contractors. A new executive order signed late Friday by President Trump tells these companies to consult the White House about any questions they get from Congress, to coordinate their answers, and to hold back communications the White House sees as 'privileged' (private). If they do not, their contracts could be cancelled. Democrats, who take control of Congress in January, have said government contracts, especially money flowing to companies linked to Trump's family, will be a top target of their investigations. The White House has already told federal agencies they need approval before appearing before Congress.",
+      "why_it_matters": "In a democracy, Congress is supposed to check the president's power. This order is about who gets to see information, a basic civics question about checks and balances.",
+      "camps": "The White House says it is protecting confidential executive-branch information. Critics, including many legal experts and Democrats, say it is an attempt to block oversight and scare companies into silence. Courts may end up deciding where the line is.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+      "published": "2026-11-21",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Pete Hegseth meets Venezuela's interim president at the presidential palace",
-      "image_credit": "Photo: BBC",
+      "image_alt": "Donald Trump at the White House on 5 November",
+      "image_credit": "Photo: Elizabeth Frantz/Reuters via The Guardian",
       "terms": [
         {
-          "term": "interim",
-          "explain": "Temporary, until a permanent arrangement is made.",
+          "term": "executive order",
+          "explain": "A written instruction from the US president that tells government agencies what to do.",
           "aliases": []
         },
         {
-          "term": "sovereignty",
-          "explain": "A country's right to run its own affairs.",
-          "aliases": []
+          "term": "oversight",
+          "explain": "Congress checking and investigating what the government is doing.",
+          "aliases": [
+            "congressional oversight"
+          ]
         },
         {
-          "term": "cooperation agreement",
-          "explain": "A deal to work together, here on military matters.",
+          "term": "federal contractor",
+          "explain": "A private company paid by the US government to do work.",
           "aliases": []
         }
       ]
@@ -429,31 +435,35 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: Hannah Lillith Assadi wins the National Book Award for fiction with 'Paradiso 17'",
-      "dek": "Her novel follows a Palestinian man who fled in 1948; she dedicated it to her late father.",
-      "caveman": "The National Book Awards are among America's top book prizes. The fiction prize went to Hannah Lillith Assadi, a Palestinian-Jewish author, for 'Paradiso 17'. It tells the story of a Palestinian man who escaped the Nakba of 1948, when more than 700,000 Palestinians fled or were forced out of their homes, and how displacement haunts him. It was inspired by her father. In a tearful speech she said the book began at his deathbed. She beat well-known writers like Edwidge Danticat and Valeria Luiselli.",
-      "why_it_matters": "Prizes like this decide which books get read, taught and translated. This year's winners focus heavily on exile and political violence.",
-      "camps": "Many praised the book's 'elegant lyricism'. In her speech she spoke of watching 'genocide ravage' her father's people; supporters found it moving, while the Gaza war remains a deeply divisive topic in the US.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
-      "published": "2026-11-19",
-      "image": "images/wd-lit-1.jpg",
-      "image_alt": "Hannah Lillith Assadi at the National Book Awards ceremony",
-      "image_credit": "Photo: The Guardian",
+      "headline": "Remembered: Jonathan Yardley, the critic who 'pulled zero punches'",
+      "dek": "The Pulitzer-winning Washington Post book critic reviewed about 3,000 books. He died at 87.",
+      "caveman": "Jonathan Yardley was one of America's best-known book critics. He wrote reviews for The Washington Post for 33 years, about 3,000 of them, after winning a Pulitzer Prize for criticism in 1981. He died on Friday in Washington at 87, his son confirmed. Yardley was famous for being blunt. He said attacking a bad book was more fun to write than praising a good one, because 'wonderful' and 'extraordinary' get boring. But his praise could make careers: he helped champion John Kennedy Toole, Anne Tyler, Michael Chabon and Edward P. Jones. From 2003 he wrote 'Second Reading', a column bringing back forgotten books. He believed a critic who only wrote nice reviews had no credibility.",
+      "why_it_matters": "Book critics act like guides in a huge library. Yardley's death is a reminder of the era when one newspaper critic could make or break a book.",
+      "camps": "Fans remember him as honest and fearless, saving readers time and money. Some authors he attacked felt he could be harsh or unfair. Both sides agree he took books seriously.",
+      "source_name": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/",
+      "published": "2026-11-20",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "National Book Awards",
-          "explain": "Yearly US literary prizes for fiction, nonfiction, poetry, translation and young people's books.",
-          "aliases": []
+          "term": "critic",
+          "explain": "A person whose job is to judge and review books, films, art or music.",
+          "aliases": [
+            "book critic"
+          ]
         },
         {
-          "term": "Nakba",
-          "explain": "Arabic for \"catastrophe\": the mass flight and expulsion of Palestinians in 1948.",
-          "aliases": []
+          "term": "Pulitzer Prize",
+          "explain": "Top US award for journalism, books and music.",
+          "aliases": [
+            "Pulitzer"
+          ]
         },
         {
-          "term": "displacement",
-          "explain": "Being forced to leave your home.",
+          "term": "obituary",
+          "explain": "A news article about someone who has recently died and their life.",
           "aliases": []
         }
       ]
@@ -462,31 +472,33 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "Hot: 'Huna' wins the nonfiction prize, but its author was denied a US visa",
-      "dek": "Abdelrahman ElGendy's memoir is about six years as a political prisoner in Egypt; his editor accepted for him.",
-      "caveman": "The nonfiction award went to Abdelrahman ElGendy for 'Huna', a memoir about the six years he spent locked up in Egypt for political reasons. He could not attend the ceremony in New York because the US denied him a visa. His essay about that in The New Yorker led to questions about whether he was even eligible. The National Book Foundation said it widened its rules in 2024 and was 'proud to celebrate Huna'. His editor read his statement: he once dreamed of writing a memoir in his cell, but that circle stays 'broken by an oppressive regime'.",
-      "why_it_matters": "It shows how US visa decisions now reach into culture, keeping writers away from honors they win.",
-      "camps": "Supporters call it a powerful win for free expression. Some, including The New York Times, raised eligibility questions; the foundation stands by the award.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/19/nx-s1-6037553/huna-writer-wins-national-book-award-for-non-fiction-after-not-being-allowed-into-the-u-s",
-      "published": "2026-11-19",
-      "image": "images/wd-lit-2.jpg",
-      "image_alt": "Abdelrahman ElGendy, winner of the nonfiction National Book Award for Huna",
-      "image_credit": "Photo: NPR",
+      "headline": "Hot: how National Book Award writers beat writer's block",
+      "dek": "Edwidge Danticat ignores it, Sara Nović writes by hand, and Fady Joudah calls it a kind of meditation.",
+      "caveman": "The National Book Awards are among America's top book prizes, and the winners were just announced. Literary Hub asked finalists and winners how they deal with writer's block, when words just won't come. Edwidge Danticat (Dèy) says she simply refuses to accept it: if a piece isn't coming, it isn't ready yet, so she reads or writes shorter things. Morgan Thomas (Mad Eden) says not wanting to write is often a sign to rest, take walks or spend time with family, but around 75% through a book she has to push on anyway. Sara Nović (Mother Tongue) goes back to pen and notebook, because a blank page forces new words. Poet Fady Joudah (Exhibit G, about Gaza) says he doesn't call it a 'block' at all, but a silence that rewards him later.",
+      "why_it_matters": "Anyone who writes, from students to office workers, gets stuck. Great writers' small habits can help everyone.",
+      "camps": "Some writers say discipline is everything: sit down and write. Others say rest and living life are part of the work. The answers show there is no single right way.",
+      "source_name": "Literary Hub",
+      "source_url": "https://lithub.com/how-ten-national-book-award-finalists-tackle-writers-block/",
+      "published": "2026-11-20",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A true story someone writes about their own life.",
+          "term": "writer's block",
+          "explain": "When a writer feels stuck and cannot produce new writing.",
           "aliases": []
         },
         {
-          "term": "political prisoner",
-          "explain": "Someone jailed for their political views or activism.",
-          "aliases": []
+          "term": "National Book Awards",
+          "explain": "Major yearly US book prizes for fiction, nonfiction, poetry, translation and young people's literature.",
+          "aliases": [
+            "NBA"
+          ]
         },
         {
-          "term": "visa",
-          "explain": "Permission to enter a country.",
+          "term": "finalist",
+          "explain": "One of the last few people still in the running for a prize.",
           "aliases": []
         }
       ]
@@ -495,31 +507,31 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Michelle Tea writes about polyamory and her 'illegal' first marriage",
-      "dek": "In a Lit Hub essay, the queer punk author recalls a $19.99 wedding by a witch and asks what love with more people can look like.",
-      "caveman": "Michelle Tea is a well-known American queer writer who started in San Francisco's punk scene. In an essay on Lit Hub, she remembers her first 'marriage' in her twenties: she eloped with her trans boyfriend after a Bingo night at her shared punk house, and a friend who was a witch married them for $19.99, some of which bought a supermarket sheet cake. It was not legal, since same-sex and trans marriage rights were limited then. From there she explores polyamory: loving more than one partner openly.",
-      "why_it_matters": "Writers like Tea help record queer history and push readers to question what a 'normal' family or relationship has to be.",
-      "camps": "Fans love her funny, honest voice about queer life. Some readers will find open relationships uncomfortable; the essay is a personal story, not advice.",
+      "headline": "Hot: critics' favourite books this week, from Nick Harkaway's Le Carré sequel to Shteyngart on pleasure",
+      "dek": "Lit Hub's Book Marks tally of reviews puts The Taper Man and Hermione Lee's Anita Brookner biography on top.",
+      "caveman": "Book Marks, a site from Literary Hub, collects reviews from many newspapers and magazines and counts how many are raves, positive, mixed or pans. This week's top fiction is The Taper Man by Nick Harkaway, a new novel set in the spy world of his late father John le Carré; one reviewer says 'George Smiley is in good hands.' Also high: Uprising by Tahmima Anam, Nanny Nanny by K Chiucarello, The Runner by Scarlett Thomas, and Amazons by 'Cleo Birdwell', a playful old novel tied to Don DeLillo. In nonfiction, Hermione Lee's biography Anita Brookner: Art and Life got 12 raves; also listed are Gerald Martin's life of Mario Vargas Llosa and Gary Shteyngart's The Sensualist: Adventures in Pure Pleasure.",
+      "why_it_matters": "These lists show which books US critics are excited about right now, a quick shortcut for what to read next.",
+      "camps": "Review roundups help readers, but critics often favour big publishers and famous names. Smaller books can get missed, so many readers mix lists like this with word of mouth and indie bookstores.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/the-more-the-merrier-michelle-tea-on-the-possibilities-of-polyamory/",
-      "published": "2026-11-19",
+      "source_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-20-2026/",
+      "published": "2026-11-20",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Illustration of two pairs of wedding rings",
+      "image_alt": "Cover art for Gary Shteyngart's The Sensualist",
       "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "polyamory",
-          "explain": "Having more than one loving relationship at the same time, with everyone's knowledge and consent.",
+          "term": "rave",
+          "explain": "A very enthusiastic review.",
           "aliases": []
         },
         {
-          "term": "queer",
-          "explain": "An umbrella word for people who are not straight or not cisgender.",
+          "term": "pan",
+          "explain": "A very negative review.",
           "aliases": []
         },
         {
-          "term": "elope",
-          "explain": "To get married quickly and quietly, without a big wedding.",
+          "term": "biography",
+          "explain": "A book about someone's life written by another person.",
           "aliases": []
         }
       ]
@@ -528,27 +540,34 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Not hot: critics are cool on Joe Biden's memoir 'Promise Me, America'",
-      "dek": "Lit Hub's weekly review roundup also covers Michael Douglas, Bob Woodward and Anand Giridharadas.",
-      "caveman": "Every week Lit Hub collects the most talked-about book reviews. This week the headline review, by Amy Davidson Sorkin, is tough on former president Joe Biden's memoir. She says the book avoids the big question of whether he was fit to serve, and treats his bad 2024 debate as just one of those things that happens to presidents. Her verdict: the news is that there is no real news. Other reviews look at actor Michael Douglas's memoir 'One Helluva Ride', journalist Bob Woodward's memoir 'Secrets', a life of Medea, and Anand Giridharadas's 'Man in the Mirror'.",
-      "why_it_matters": "Political memoirs sell a lot, but reviews shape whether they become part of history or quickly fade.",
-      "camps": "Biden's supporters see the book as his side of the story. Critics say it dodges hard questions. Readers can judge for themselves.",
+      "headline": "Hot topic: writer Steven Thrasher on ICE agents blocking an LA emergency room",
+      "dek": "In a Lit Hub essay, the author of The Viral Underclass asks what happens to health when people fear hospitals.",
+      "caveman": "US writers are using essays to respond to immigration raids. In Literary Hub, author and journalist Steven W. Thrasher writes about 7 November, when ICE (US immigration agents) brought a detained man to a hospital emergency room in Boyle Heights, a mostly Latino neighbourhood of Los Angeles. The hospital says agents formed a line across its ambulance entrance, so it sent ambulances to other hospitals for about two hours. The hospital says it does not take part in immigration enforcement. Activists gathered, and at least two protesters, both US citizens, were detained, according to a local rights network. Thrasher argues the real damage is fear: people may skip medical care because they are afraid. He notes ICE, the hospital and activists dispute many details.",
+      "why_it_matters": "Literature is not only novels. Essays like this shape how readers understand news, and show writers taking sides on public issues.",
+      "camps": "Supporters of strict immigration enforcement say agents must be able to do their jobs, including at hospitals. Health workers and immigrant-rights groups say hospitals must stay safe places for everyone, or public health suffers.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/5-book-reviews-you-need-to-read-this-week-23/",
-      "published": "2026-11-19",
-      "image": "images/wd-lit-4.jpg",
-      "image_alt": "Portrait of actor Michael Douglas",
-      "image_credit": "Image: Literary Hub",
+      "source_url": "https://lithub.com/narratives-that-kill-on-ice-emergency-rooms-and-medical-racism/",
+      "published": "2026-11-20",
+      "image": "",
+      "image_alt": "",
+      "image_credit": "",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A true story someone writes about their own life.",
+          "term": "ICE",
+          "explain": "US Immigration and Customs Enforcement, the agency that arrests and deports immigrants.",
           "aliases": []
         },
         {
-          "term": "review roundup",
-          "explain": "A collection of book reviews from different outlets in one place.",
+          "term": "essay",
+          "explain": "A short piece of nonfiction writing that argues a point or reflects on a topic.",
           "aliases": []
+        },
+        {
+          "term": "emergency room",
+          "explain": "The hospital department for urgent, sudden illness or injury.",
+          "aliases": [
+            "ER"
+          ]
         }
       ]
     },
@@ -556,33 +575,33 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "society",
-      "headline": "Tears and cheers as the UN's top court rules Myanmar committed genocide against the Rohingya",
-      "dek": "More than 10,000 Rohingya were killed and 700,000 fled to Bangladesh in 2017; survivors watched from refugee camps.",
-      "caveman": "The Rohingya are a mostly Muslim minority group in Myanmar. In 2017, Myanmar's army carried out mass killings and rape; more than 10,000 died and 700,000 fled to Bangladesh. The African country Gambia took Myanmar to the International Court of Justice (ICJ), the UN's top court. On Thursday the court ruled Myanmar committed genocide, meaning it tried to destroy the group. People cried in the court in The Hague, and refugee camps in Bangladesh erupted in applause. 'The victory belongs to the Rohingya,' said Gambia's justice minister.",
-      "why_it_matters": "It is a rare legal finding of genocide, and a message that states can be held to account even years later.",
-      "camps": "The court cannot arrest anyone or force Myanmar to pay, so many Rohingya still wait for safety and the chance to go home.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-      "published": "2026-11-19",
+      "headline": "Lebanese families return to burned and wrecked homes as Israeli troops pull back",
+      "dek": "In one southern village, a couple found their house occupied, then set on fire; their son, a volunteer medic, was killed in March.",
+      "caveman": "Southern Lebanon sits next to Israel. Israel has fought there against Hezbollah, an armed group backed by Iran. Under a US-brokered plan, Israeli troops are leaving some villages and the Lebanese army is taking over. NPR visited Zawtar al-Gharbiyah, the first village in this test. Atef Kadouh and Soumaya Yaghi had lived in their house for 40 years. When they came back, they found Israeli soldiers had used it, and it was set on fire as they left: bullet holes in the fridge, smashed furniture, a burned grandchild's bedroom. Their youngest son Adel, a sports teacher who became a volunteer ambulance driver, was killed with four other medics in an Israeli drone strike in March while burying an elderly man. Lebanon's Health Ministry says Israel has killed more than 135 first responders in two years. Israel's military says, without giving proof, that militants pose as medics.",
+      "why_it_matters": "War does not end when the shooting stops. Families must rebuild homes and lives, and rules that protect medics matter everywhere.",
+      "camps": "Israel says it acts against real threats to its northern towns and has destroyed homes in a 'security zone'. Lebanese families and rights groups say homes and medics are being targeted unfairly and want accountability.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "published": "2026-11-22",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "Rohingya refugees in Cox's Bazar, Bangladesh, react to the live court broadcast",
-      "image_credit": "Photo: The Guardian",
+      "image_alt": "A destroyed home in Zawtar al-Gharbiyah, southern Lebanon",
+      "image_credit": "Photo: NPR",
       "terms": [
         {
-          "term": "genocide",
-          "explain": "Acts meant to destroy a national, ethnic, racial or religious group.",
+          "term": "Hezbollah",
+          "explain": "An armed group and political party in Lebanon, backed by Iran.",
           "aliases": []
         },
         {
-          "term": "ICJ",
-          "explain": "International Court of Justice: the UN court that settles disputes between countries.",
+          "term": "first responders",
+          "explain": "Medics, firefighters and others who rush to help in emergencies.",
           "aliases": [
-            "International Court of Justice"
+            "paramedics"
           ]
         },
         {
-          "term": "refugee",
-          "explain": "A person forced to flee their country because of danger.",
+          "term": "ceasefire",
+          "explain": "An agreement to stop fighting.",
           "aliases": []
         }
       ]
@@ -591,26 +610,31 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "society",
-      "headline": "Dozens missing after a migrant boat sinks off Senegal",
-      "dek": "The boat carried an estimated 50 to 100 people; it comes less than two weeks after another wreck killed at least 39.",
-      "caveman": "Many young people from West Africa try to reach Spain's Canary Islands in long wooden boats called pirogues, hoping for work in Europe. The trip across the Atlantic is very dangerous. A boat said to carry between 50 and 100 people sank near the village of Yenne, south of Senegal's capital Dakar. Four bodies were reportedly found and dozens are still missing. A village leader said people's cries could be heard from the beach. Less than two weeks ago, another wreck killed at least 39 people.",
-      "why_it_matters": "These disasters show how desperate poverty and lack of jobs push people into deadly journeys.",
-      "camps": "Some European leaders want tougher border controls to stop the boats. Rights groups say that only pushes people to riskier routes, and call for safe legal paths and more jobs at home.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-      "published": "2026-11-19",
+      "headline": "A young child dies of measles in Virginia as the US outbreak worsens",
+      "dek": "The US recently lost its 'measles eliminated' status after 26 years; Pennsylvania has reported eight deaths.",
+      "caveman": "Measles is a very contagious disease that a vaccine can prevent. Virginia reported its first measles-linked death of 2026 on Friday: a child aged four or younger. The state did not say if the child was vaccinated. Virginia has had 220 cases this year, and 179 of them were in unvaccinated people. Pennsylvania, the hardest-hit state, has reported eight measles deaths and 1,631 cases; Wisconsin has reported two deaths and New York one. The US recently lost its 'measles elimination' status, which it had held for 26 years. State and federal death counts don't match, because the CDC under Health Secretary Robert F. Kennedy Jr. started using a different data source. Health experts say trusted local messengers are key to reaching communities, such as the Amish, where outbreaks spread.",
+      "why_it_matters": "Measles can kill children and spreads across borders through travel. Taiwan keeps high vaccine rates to stay protected.",
+      "camps": "Doctors and public health experts say vaccines are safe and the best protection. Some parents distrust vaccines or government health officials, and critics say mixed messages from the top of US health policy have made things worse.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+      "published": "2026-11-21",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "The damaged boat washed ashore on a beach in Senegal",
-      "image_credit": "Photo: BBC",
+      "image_alt": "A measles clinic in Andrews, Texas, in 2025",
+      "image_credit": "Photo: Annie Rice/AP via The Guardian",
       "terms": [
         {
-          "term": "migrant",
-          "explain": "A person who moves to another place, often for work or safety.",
+          "term": "measles",
+          "explain": "A very contagious virus that causes fever and rash and can be deadly for kids.",
           "aliases": []
         },
         {
-          "term": "pirogue",
-          "explain": "A long, narrow wooden boat used for fishing and, now, migration in West Africa.",
+          "term": "elimination status",
+          "explain": "When a country has no ongoing spread of a disease for at least a year.",
+          "aliases": []
+        },
+        {
+          "term": "CDC",
+          "explain": "The US Centers for Disease Control and Prevention, the national public health agency.",
           "aliases": []
         }
       ]
@@ -619,28 +643,33 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "society",
-      "headline": "Florida carries out a record 20th execution this year",
-      "dek": "Thomas Overton, 71, was scheduled to die the same evening Texas planned to execute a 70-year-old.",
-      "caveman": "An execution is when a state puts a person to death as punishment for a crime. Florida scheduled its 20th execution of the year, a state record, for Thursday: Thomas Overton, 71, convicted of killing a pregnant woman and her husband in 1991. Texas planned to execute Reinaldo Dennes, 70, the same evening. Florida has carried out more than half of all 37 US executions this year under Governor Ron DeSantis. Two elderly men executed on one day shows how old death-row prisoners have become.",
-      "why_it_matters": "The US is one of few rich democracies that still uses the death penalty. Taiwan also still has it, and debates it too.",
-      "camps": "Supporters say it brings justice for victims' families. Opponents say it is cruel, can kill innocent people, and is used far more in some states than others.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-      "published": "2026-11-19",
+      "headline": "South Korea's education minister quits over AI exam-cheating panic",
+      "dek": "Phones across the country blared emergency alerts during the national college exam; 111 students were caught with devices.",
+      "caveman": "In South Korea, one exam called the Suneung decides which university many students get into, and it shapes careers. About 500,000 students took it on Thursday. A week before, the top scorer of a national tax accountant exam admitted he cheated: he used a tiny camera to photograph questions, sent them to an AI, and read answers on his phone. Officials panicked and rushed out new rules. During the Suneung, they sent three national emergency alerts that made phones across the country blare, even on silent and even tourists' phones, to expose hidden devices. Students had to cover shirt buttons that might hide cameras. Officials found 111 students with unauthorised smart devices. Education Minister Choi Kyo-jin resigned, saying he took responsibility for the confusion, and President Lee Jae Myung accepted.",
+      "why_it_matters": "AI makes cheating easier everywhere. Taiwan's schools and exams face the same question of how to keep tests fair without treating everyone like a suspect.",
+      "camps": "Some praised strict action to protect fairness in a high-stakes exam. Others said last-minute measures like nationwide alarms were chaotic and overkill. Many, including the president, say the deeper problem is an exam system that puts so much pressure on one day.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+      "published": "2026-11-22",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Vans carry witnesses into Florida State Prison in Raiford",
-      "image_credit": "Photo: The Guardian",
+      "image_alt": "South Korean high school students check their answers a day after the college entrance exam",
+      "image_credit": "Photo: EPA/Shutterstock via BBC News",
       "terms": [
         {
-          "term": "death penalty",
-          "explain": "When a court sentences someone to be killed for a crime.",
+          "term": "Suneung",
+          "explain": "South Korea's national college entrance exam, taken once a year.",
           "aliases": [
-            "capital punishment"
+            "CSAT"
           ]
         },
         {
-          "term": "death row",
-          "explain": "The part of a prison holding people sentenced to death.",
+          "term": "emergency alert",
+          "explain": "A loud government message sent to every phone in an area.",
+          "aliases": []
+        },
+        {
+          "term": "resign",
+          "explain": "To quit a job, often to take responsibility for a problem.",
           "aliases": []
         }
       ]
@@ -649,32 +678,34 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "society",
-      "headline": "World Toilet Day: a silly-sounding day with a serious goal",
-      "dek": "Billions still lack a safe toilet; dirty sanitation spreads diseases like cholera and polio.",
-      "caveman": "November 19 is World Toilet Day, made an official UN day in 2013. It was started 25 years ago by Jack Sim, a businessman from Singapore. The point is not just clean toilets but access: billions of people have no safe, private toilet. Waste spreads diseases like cholera and polio, so good sewage systems save lives. It is also a gender issue: girls and women need safe, clean places to manage their periods. The WHO says progress is real, with about 2 billion people gaining safe sanitation.",
-      "why_it_matters": "Toilets sound like a joke, but they are about health, dignity and safety, especially for women and girls.",
-      "camps": "Most people agree on the goal. The debate is about money and who pays: governments, aid groups or private companies.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-      "published": "2026-11-19",
+      "headline": "Fire at Indonesian sweets factory kills at least three; dozens of workers missing",
+      "dek": "About 60 people were believed inside; rescuers recovered 24 body bags as the search went on.",
+      "caveman": "On Saturday evening a fire broke out at a confectionery (sweets) factory in Serang, Banten province, about 50 km west of Jakarta, Indonesia's capital. When firefighters arrived, a large area was already burning. Officials confirmed at least three deaths and said about 36 people were missing, many believed trapped inside. About 60 people were thought to be in the building. Rescuers found 15 survivors, and four people were treated for injuries. By Sunday evening, they had recovered 24 body bags, so the death toll is expected to rise. Relatives waited outside for news. The cause is not yet known. The factory belongs to PT Fonusa Agung Mulia, which describes itself as part of UNIFAM, one of Indonesia's largest food companies.",
+      "why_it_matters": "Factory fires often show weak safety rules for workers. Many products sold around Asia, including in Taiwan, come from factories like this.",
+      "camps": "Officials say they are focused on rescue and finding the cause. Workers' groups usually ask whether exits, alarms and fire systems were working, and who will be held responsible.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+      "published": "2026-11-22",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "Jack Sim, founder of World Toilet Day",
-      "image_credit": "Photo: NPR",
+      "image_alt": "Aftermath of the fire at the confectionery factory in Serang, Indonesia",
+      "image_credit": "Photo: via BBC News",
       "terms": [
         {
-          "term": "sanitation",
-          "explain": "Systems that safely deal with human waste, like toilets and sewers.",
+          "term": "confectionery",
+          "explain": "Sweets and candy.",
           "aliases": []
         },
         {
-          "term": "WHO",
-          "explain": "World Health Organization, the UN health agency.",
+          "term": "death toll",
+          "explain": "The number of people killed in a disaster.",
           "aliases": []
         },
         {
-          "term": "menstrual hygiene",
-          "explain": "Keeping clean and healthy during periods.",
-          "aliases": []
+          "term": "search and rescue",
+          "explain": "Teams that look for and save people after disasters.",
+          "aliases": [
+            "SAR"
+          ]
         }
       ]
     }
