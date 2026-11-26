@@ -1,47 +1,49 @@
 {
   "paper_name": "Field Notes",
-  "fetched_at": "2026-11-25T08:00:00+08:00",
-  "notes": "Wednesday 25 Nov 2026 world issue (Taipei ~08:00). Window: Mon 23 – Tue 24 Nov (US/Europe). Economy: Huang rally fades, Nvidia -6%, Anthropic below IPO price; US consumer confidence jumps after midterms; EU caps Chinese hybrid imports; France recession warnings. Tech: Schumer accuses Huang of export-control violations; Huawei guilty of trade-secret theft, cleared of racketeering; NY top court clears platforms over Buffalo shooting; Signal blocks AI agents. Politics: Trump may have made up to $15m on Nvidia; Sarkozy and Carla Bruni to face trial; South Korea island air-raid alert over Russian planes; Spain's snap election over housing. Literature (US): Bob Woodward's memoir Secrets; Hemingway and censorship in Four-Letter Nation; Kylie Cheung's Playing the Victim; Carol Davis on architecture and storytelling. Society: Gaza meningitis epidemic alert; Cuba life expectancy falls; US food banks above pandemic demand; Syria land mine casualties soar.",
+  "fetched_at": "2026-11-26T08:00:00+08:00",
+  "notes": "Thursday 26 Nov 2026 world issue (Taipei ~08:00). Window: Tue 24 – Wed 25 Nov (US/Europe). Economy: US proposes section 301 tariffs on 14 partners; US PCE inflation hits 3.8%; Poundland collapses into administration; UK energy price cap up 26%. Tech: Trump floats Huang pardon, Vance says none needed; FCC approves SpaceX 1m AI satellites; New York bans AI chatbot toys; Meta staff criticise AI moderation push. Politics: Israeli judges suggest dropping Netanyahu bribery charges; China probes Shanghai chief Chen Jining; Ábrego García leaves US for Spain; leaked data show ~490,000 Russian war dead. Literature (US): Keefe's London Falling wins Waterstones book of the year; Book Marks November best-reviewed; Gloria Steinem's last book; DeLillo's Amazons reissue vs Barthelme. Society: Malawi hospital medicine shortage; Ireland femicide nearly doubles; Americans scale back Thanksgiving; Amazon tin-mining rush for datacentres.",
   "stories": [
     {
       "id": "wd-fin-1",
       "section": "world",
       "category": "economy",
-      "headline": "The Huang rally fades: tech stocks fall again, and Anthropic drops below its IPO price",
-      "dek": "One day after Nvidia's 31% jump, its stock lost almost 6%. Investors are still nervous about AI.",
-      "caveman": "On Monday, Nvidia brought back its founder Jensen Huang as CEO, and its stock shot up more than 30%, adding over $900bn in value. On Tuesday, the party ended. Nvidia's stock fell almost 6%. The Nasdaq, a stock index full of tech companies, fell 1.48%, and the wider S&P 500 fell 0.5%. The Dow was just barely up. The AI company Anthropic, which sold shares to the public for the first time last week, fell about 6.5% to $81.90. That is below its $83 IPO price, which means people who bought at the start are now losing money. AI stocks had already dropped a lot in November because of worries about profits and the huge amounts of money being spent on AI. In Asia, though, Tuesday was a big day up: Taiwan's top-50 stock index jumped 9.5% and South Korea's rose 6.5%, catching up with Monday's US rally.",
-      "why_it_matters": "Many retirement funds hold these big tech companies. When a few AI stocks swing this hard, everyone's savings swing with them.",
-      "camps": "Optimists say Huang's return removes one of the biggest unknowns for AI, so prices should settle. Skeptics say one man coming back does not fix the deeper worries: lots of debt, huge spending, and no proof yet that AI will earn enough to pay for it all.",
+      "headline": "Trump proposes new tariffs on 14 trading partners, with China hit hardest",
+      "dek": "An extra 20% on Chinese goods would push the total to about 40%. Taiwan, Japan, South Korea and the EU are also on the list.",
+      "caveman": "A tariff is a tax on things brought in from another country. In February, the US Supreme Court said Trump's big 'Liberation Day' tariffs broke the law, because he used the wrong emergency law to create them. So the government is trying a different law: section 301 of the Trade Act of 1974. That law lets the president put tariffs on countries after a formal investigation finds they trade unfairly. On Wednesday, the US trade office said it wants new tariffs on 14 places: China, the European Union, Japan, South Korea, Taiwan, India, Vietnam, Thailand, Indonesia, Malaysia, Singapore, Switzerland, Cambodia and Bangladesh. China would pay an extra 20%, about 40% in total. The office says these countries use government help to make too many factory goods. Public hearings are set for 25 January, so the earliest the tariffs could start is early next year. This is the second big round of section 301 tariffs after a July round on more than 80 countries over forced labor.",
+      "why_it_matters": "Tariffs are usually paid by importers and often passed on to shoppers as higher prices. They also hit factories and jobs in exporting countries like Taiwan.",
+      "camps": "Supporters say other countries pour government money into their factories, which hurts American workers, and the US must push back. Critics say tariffs act like a tax on Americans, raise prices when inflation is already high, and strain relations with allies.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+      "published": "2026-11-25",
       "image": "images/wd-fin-1.jpg",
-      "image_alt": "A trader on the floor of the New York Stock Exchange",
-      "image_credit": "Photograph: Angela Weiss/AFP/Getty Images",
+      "image_alt": "Donald Trump speaks at a Department of Justice event in Washington DC",
+      "image_credit": "Photograph: Andrew Harnik/Getty Images",
       "terms": [
         {
-          "term": "Nasdaq",
-          "explain": "A US stock index packed with tech companies, often used to track how tech stocks are doing.",
-          "aliases": []
-        },
-        {
-          "term": "S&P 500",
-          "explain": "A stock index of 500 large US companies; a common measure of the whole US market.",
+          "term": "tariff",
+          "explain": "A tax a country charges on goods imported from other countries.",
           "aliases": [
-            "S&P"
+            "tariffs"
           ]
         },
         {
-          "term": "IPO",
-          "explain": "Initial public offering: the first time a company sells shares to the public.",
+          "term": "section 301",
+          "explain": "Part of a 1974 US trade law that lets the government punish foreign trade practices it finds unfair, after an investigation.",
           "aliases": [
-            "IPO price"
+            "301"
           ]
         },
         {
-          "term": "rally",
-          "explain": "A quick, strong rise in stock prices.",
+          "term": "Supreme Court",
+          "explain": "The highest court in the US. Its decisions are final.",
           "aliases": []
+        },
+        {
+          "term": "import",
+          "explain": "A product bought from another country and brought in.",
+          "aliases": [
+            "imports"
+          ]
         }
       ]
     },
@@ -49,40 +51,44 @@
       "id": "wd-fin-2",
       "section": "world",
       "category": "economy",
-      "headline": "Americans feel much better about the economy after the midterm elections",
-      "dek": "A big consumer survey jumped 11.4 points in November. Democrats and independents grew more hopeful; Republicans dipped slightly.",
-      "caveman": "The Conference Board, a research group, asks Americans every month how they feel about the economy. Its main number jumped to 103.3 in November, up 11.4 points from October. Experts had expected only about 92. People said they still hate high prices, but they also see more jobs around and expect inflation to cool a little. The share of people who said jobs are \"plentiful\" rose to 30.8%, while the share who said jobs are \"hard to get\" fell to 18.4%. People now expect prices to rise 5.7% over the next year, which is still high but lower than before. The mood split by party: Democrats and independents became much more optimistic after Democrats won the midterm elections, while Republicans became slightly less optimistic, though they are still the most upbeat group. Inflation has been above the Federal Reserve's 2% goal for about five and a half years, and the Fed is expected to raise interest rates by a quarter point in two weeks.",
-      "why_it_matters": "When people feel good, they spend more, and spending drives most of the US economy. The holiday shopping season starts this week.",
-      "camps": "Some see real reasons for hope: more jobs and slightly cooler inflation expectations. Others point out that feelings often follow politics, not the actual economy, and that prices, rents and health costs are still squeezing many families.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "published": "2026-11-24",
+      "headline": "US inflation rises to 3.8%, its highest since May, ahead of a likely rate hike",
+      "dek": "Prices rose 0.3% in one month, led by energy. Stocks swung wildly before ending the day mostly flat.",
+      "caveman": "Inflation means prices going up over time. The US central bank, the Federal Reserve (the Fed), wants inflation at 2%. It has not been that low since February 2021. On Wednesday, the government's favorite measure of prices, called PCE, showed prices were 3.8% higher in October than a year earlier. That is the highest since May. From September to October alone, prices rose 0.3%, pushed up by high energy costs. This was the last big price report before the Fed meets next month. Many experts think the Fed will raise interest rates for the second time this year. Higher rates make borrowing more expensive, for things like home loans and student debt, which can slow spending and cool prices. The news shook stock markets: the Nasdaq fell more than 4% in the morning, but recovered to close down only 0.6%. The Dow even ended slightly up.",
+      "why_it_matters": "When prices rise faster than wages, families can buy less. And higher interest rates make mortgages, car loans and credit cards cost more.",
+      "camps": "Some economists say the Fed must raise rates to stop inflation from becoming normal. Others worry that raising rates now could hurt jobs and push the economy toward a slowdown, especially while energy prices, not strong demand, are a big part of the problem.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+      "published": "2026-11-25",
       "image": "images/wd-fin-2.jpg",
-      "image_alt": "Shoppers look into freezer cases at a grocery store",
-      "image_credit": "Photo: Getty Images",
+      "image_alt": "A gas station in Alexandria, Virginia",
+      "image_credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
       "terms": [
         {
-          "term": "consumer confidence",
-          "explain": "A survey measure of how good people feel about the economy and their own money.",
-          "aliases": []
-        },
-        {
           "term": "inflation",
-          "explain": "When prices rise over time, so the same money buys less.",
+          "explain": "When prices for goods and services rise over time, so money buys less.",
           "aliases": []
         },
         {
-          "term": "Federal Reserve",
-          "explain": "The US central bank. It raises or lowers interest rates to control inflation and support jobs.",
+          "term": "PCE",
+          "explain": "Personal Consumption Expenditures price index, the Fed's preferred way to measure inflation.",
           "aliases": [
-            "the Fed"
+            "PCE index"
           ]
         },
         {
-          "term": "midterm elections",
-          "explain": "US national elections held halfway through a president's four-year term.",
+          "term": "Federal Reserve",
+          "explain": "The central bank of the US. It sets key interest rates.",
           "aliases": [
-            "midterms"
+            "the Fed",
+            "Fed"
+          ]
+        },
+        {
+          "term": "interest rate",
+          "explain": "The cost of borrowing money, shown as a percentage per year.",
+          "aliases": [
+            "rate hike",
+            "interest rates"
           ]
         }
       ]
@@ -91,44 +97,41 @@
       "id": "wd-fin-3",
       "section": "world",
       "category": "economy",
-      "headline": "EU will cap tariff-free imports of Chinese hybrid cars from 1 December",
-      "dek": "The limit lasts 200 days while the EU investigates. Japan, South Korea, Turkey and the UK get quotas too.",
-      "caveman": "Hybrid cars use both a gas engine and an electric battery. More and more of them are coming into Europe from China. The European Commission, the EU's government, says that from 1 December it will cap how many hybrids can come in without extra taxes. For China, the limit is 350,000 cars in the first year, or about 191,000 over the 200 days the rule lasts. That is about half of the Chinese hybrids expected to arrive in the next 12 months. Other countries get limits too: 310,000 for Japan, 230,000 for Turkey, 105,000 for South Korea and 190,000 for the UK. The rule is temporary under World Trade Organization rules, while the EU investigates whether these imports hurt European carmakers. The EU says imports of Chinese electric cars jumped from 21,000 in 2020 to 438,000 in 2024. Europe also wants to shrink its huge trade gap with China.",
-      "why_it_matters": "Car factories employ millions of people in Europe. Limits like this can protect those jobs, but they can also make cars more expensive for buyers.",
-      "camps": "Supporters say cheap Chinese cars, helped by state money, could wipe out Europe's car industry, so a pause is fair. Critics say quotas raise prices, slow the switch to cleaner cars, and could start a trade fight with China.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-      "published": "2026-11-24",
+      "headline": "Poundland collapses into administration, putting 11,000 UK jobs at risk",
+      "dek": "The budget chain's US owner stopped its funding. Shops stay open for now, but the business will probably be broken up.",
+      "caveman": "Poundland is a big British discount store with about 600 shops. On Wednesday it went into 'administration', which is what happens in the UK when a company can't pay its bills: outside experts take control and try to sell the business, in whole or in pieces. About 11,000 jobs are at risk. Stores and warehouses will keep running for now. Poundland's boss told staff that its US owner, an investment firm called Gordon Brothers, cut off all borrowing and access to its bank accounts on 27 October, and enough money was never released after that. Talks with possible buyers failed. Critics accuse Gordon Brothers of planning to make money by selling the chain off in pieces. The firm denies this and says it lent Poundland £85m. A committee of MPs says it will call Gordon Brothers back to Parliament to explain.",
+      "why_it_matters": "Discount shops matter most to families with little money. When a big chain fails, thousands of workers, often on low wages, can lose their jobs right before Christmas.",
+      "camps": "Gordon Brothers says it tried to save the company and put real money in. Critics, including Labour MP Liam Byrne, say it is an example of a 'greed is good' owner that can profit even when a company fails, and want rules to protect workers in these cases.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+      "published": "2026-11-25",
       "image": "images/wd-fin-3.jpg",
-      "image_alt": "Rows of new cars parked at a port",
-      "image_credit": "Photograph: Gareth Fuller/PA",
+      "image_alt": "Shoppers outside a Poundland store",
+      "image_credit": "Image: BBC News",
       "terms": [
         {
-          "term": "quota",
-          "explain": "A fixed limit on how much of something can be brought in.",
+          "term": "administration",
+          "explain": "A UK legal process for a company that can't pay its debts; outside experts take over and try to rescue or sell it.",
           "aliases": [
-            "cap"
+            "administrator",
+            "into administration"
           ]
         },
         {
-          "term": "tariff",
-          "explain": "A tax on goods brought in from another country.",
-          "aliases": [
-            "tariff-free"
-          ]
+          "term": "discount store",
+          "explain": "A shop that sells things at very low prices.",
+          "aliases": []
         },
         {
-          "term": "hybrid",
-          "explain": "A car that uses both a fuel engine and an electric motor.",
-          "aliases": [
-            "plug-in hybrid"
-          ]
+          "term": "investment firm",
+          "explain": "A company that uses money to buy and run other businesses, hoping to make a profit.",
+          "aliases": []
         },
         {
-          "term": "trade deficit",
-          "explain": "When a country buys more from another country than it sells to it.",
+          "term": "MP",
+          "explain": "Member of Parliament, an elected lawmaker in the UK.",
           "aliases": [
-            "trade gap"
+            "MPs"
           ]
         }
       ]
@@ -137,39 +140,43 @@
       "id": "wd-fin-4",
       "section": "world",
       "category": "economy",
-      "headline": "France flashes recession warnings as businesses wait for the 2027 election",
-      "dek": "Business activity fell to a six-month low in November, and companies are the gloomiest since 2012.",
-      "caveman": "A monthly survey of business managers, called the PMI, showed that French business activity fell to a six-month low in November. Factories did worse than service companies. Companies are the most pessimistic about the coming year since late 2012, except for the start of the pandemic, and they have cut jobs for seven months in a row. Many businesses are delaying decisions until after the presidential election in April 2027. Polls suggest the front-runner is far-right candidate Marine Le Pen. France also faces high government borrowing costs, a ratings downgrade and a weak stock market, and hundreds of thousands of people protested in October and November over schools, living costs and housing. An S&P Global economist says the chance of a \"technical recession\" (two quarters in a row of shrinking) has gone up, after the economy shrank 0.1% in the third quarter. Some things could help, like lower energy costs and progress on the budget.",
-      "why_it_matters": "France is the eurozone's second-biggest economy. If it slows down, all of Europe feels it, including exporters in Asia.",
-      "camps": "Some economists blame political uncertainty and say growth could return once the election is over. Others say France's problems run deeper: high debt, weak demand and public services under strain. Voters disagree about whether the answer is more spending or less.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published": "2026-11-24",
+      "headline": "Energy bills in Britain will jump 26% in January, topping £2,000 a year",
+      "dek": "Gas prices have surged because of the Middle East crisis. About 22 million households will feel it.",
+      "caveman": "In Great Britain, a government regulator called Ofgem sets a 'price cap': a limit on how much energy companies can charge for each unit of gas and electricity. On Wednesday, Ofgem said the cap will rise 26% from January. That means a typical home on the cap will pay about £2,166 a year, up from £1,723. It is the first time above £2,000 since the winter after Russia invaded Ukraine. This is the third rise in a row: 13% in July, 4% in October, and now 26%. The main cause is that wholesale gas prices, the price energy companies pay, have shot up during the crisis in the Middle East. About a third of homes are on fixed deals, so they won't see this rise right away. The government has promised a one-off payment to help struggling families this winter.",
+      "why_it_matters": "Heating and electricity are not optional in winter. When bills jump this much, poorer families may have to choose between staying warm and buying food.",
+      "camps": "The government says it is helping with one-time payments and pushing cleaner, home-grown energy so Britain depends less on gas from abroad. Critics on the left want bigger, longer-lasting help or taxes on energy company profits; others say the real fix is cheaper energy supply, not more government spending.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+      "published": "2026-11-25",
       "image": "images/wd-fin-4.jpg",
-      "image_alt": "Protesters carrying a French flag march past a large stone arch",
-      "image_credit": "Photo: Getty Images",
+      "image_alt": "Electricity pylons and power lines above a house roof",
+      "image_credit": "Photograph: Bloomberg/Getty Images",
       "terms": [
         {
-          "term": "recession",
-          "explain": "A period when the economy shrinks and jobs are lost.",
+          "term": "price cap",
+          "explain": "A limit set by the regulator on how much suppliers can charge per unit of energy. It is not a limit on your total bill.",
           "aliases": [
-            "technical recession"
+            "energy price cap"
           ]
         },
         {
-          "term": "PMI",
-          "explain": "Purchasing Managers' Index: a survey of business managers; below 50 means activity is shrinking.",
+          "term": "Ofgem",
+          "explain": "The government body that regulates gas and electricity companies in Great Britain.",
           "aliases": []
         },
         {
-          "term": "eurozone",
-          "explain": "The group of EU countries that use the euro.",
-          "aliases": []
+          "term": "wholesale price",
+          "explain": "The price energy companies pay to buy gas or power in bulk, before selling it to homes.",
+          "aliases": [
+            "wholesale"
+          ]
         },
         {
-          "term": "borrowing costs",
-          "explain": "The interest a government or company pays when it borrows money.",
-          "aliases": []
+          "term": "fixed tariff",
+          "explain": "An energy deal where your unit price stays the same for a set time.",
+          "aliases": [
+            "fixed deal"
+          ]
         }
       ]
     },
@@ -177,37 +184,43 @@
       "id": "wd-tech-1",
       "section": "world",
       "category": "technology",
-      "headline": "Schumer accuses Jensen Huang of breaking US export laws by shipping advanced chips to China",
-      "dek": "\"Like selling rocket engines to the Soviets,\" he said. Huang will face questions in the Senate on 3 December.",
-      "caveman": "The US has rules, called export controls, that stop companies from selling the most advanced AI chips to China. On Tuesday, Senate Democratic leader Chuck Schumer accused Nvidia's reinstated CEO Jensen Huang of shipping \"extremely advanced chips to China\" and breaking those laws. He compared it to selling rocket engines to the Soviet Union during the space race, and called it a failure of enforcement by the Trump administration. Nvidia's board brought Huang back on Monday after President Trump said he stepped in and told the company Huang was not a national security risk. Questions remain about Huang's relationship with Alice Huang (no relation), a tech executive accused of acting for China and moving advanced chips to Beijing through her company, Megaspeed. Senator Chris Van Hollen, who is challenging Schumer to lead Senate Democrats, called the return \"exhibit A\" of corruption. Huang is due to appear before the Senate banking committee on 3 December.",
-      "why_it_matters": "AI chips are now treated like military technology. Whether the rules are enforced affects the US-China power balance, and Taiwan, where most of these chips are made.",
-      "camps": "Democrats and some security experts say the White House is putting business and personal ties ahead of national security. Trump and Huang's supporters say he did nothing wrong and that Nvidia is too important to the US economy to lose its leader. Nvidia has not been charged with any crime.",
+      "headline": "Trump says a pardon for Jensen Huang is 'an option'; Vance says none is needed",
+      "dek": "The vice-president says top officials assured him the Nvidia boss is not under investigation. Huang still faces questions from Congress.",
+      "caveman": "Jensen Huang started Nvidia, the company that makes most of the world's AI chips. He quit as CEO earlier this month after reports of an affair with a woman who is alleged to be a Chinese spy. Then, with strong pressure from President Trump and Vice-President JD Vance, Nvidia's board brought him back this week. On Tuesday, Trump told the New York Post that pardoning Huang was 'always an option', though he didn't think it would be needed. A pardon is when a president forgives a crime, so the person can't be punished for it. On Wednesday, Vance said a pardon wasn't needed at all, because the attorney general and other top officials told him Huang was 'under no investigation' and the claims were based on anonymous reports, not evidence. Huang has not been formally accused of a crime. He is expected to testify to committees in Congress soon about chip sales to China, the affair, and the government's role in his return.",
+      "why_it_matters": "Nvidia's chips power much of the AI boom, and many retirement funds own its stock. Whether its CEO is a security risk is a national security question, not just a business one.",
+      "camps": "Trump and Vance say Huang is a uniquely talented leader and the accusations lack proof. Lawmakers from both parties say the president should not be steering a private company's leadership, and that talk of a pardon before any charges looks like protecting a powerful ally.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "published": "2026-11-25",
       "image": "images/wd-tech-1.jpg",
-      "image_alt": "Nvidia CEO Jensen Huang",
-      "image_credit": "Image: The Guardian",
+      "image_alt": "Donald Trump and Nvidia CEO Jensen Huang shake hands in Washington DC",
+      "image_credit": "Photograph: Leah Millis/Reuters",
       "terms": [
         {
-          "term": "export controls",
-          "explain": "Government rules that block certain products or technology from being sold to some countries.",
+          "term": "pardon",
+          "explain": "When a president officially forgives a federal crime, so the person can't be punished for it.",
+          "aliases": [
+            "pardoning"
+          ]
+        },
+        {
+          "term": "CEO",
+          "explain": "Chief executive officer: the top boss who runs a company day to day.",
           "aliases": []
         },
         {
-          "term": "Senate banking committee",
-          "explain": "A group of US senators that oversees banks, trade and some export rules.",
-          "aliases": []
+          "term": "board",
+          "explain": "A group of people who oversee a company and can hire or fire its CEO.",
+          "aliases": [
+            "board of directors"
+          ]
         },
         {
-          "term": "Megaspeed",
-          "explain": "An Asian AI data-center company that the US says may have helped move Nvidia chips to China.",
-          "aliases": []
-        },
-        {
-          "term": "reinstated",
-          "explain": "Put back into a job after being removed.",
-          "aliases": []
+          "term": "testify",
+          "explain": "To answer questions under oath, for example in front of Congress.",
+          "aliases": [
+            "testimony"
+          ]
         }
       ]
     },
@@ -215,40 +228,41 @@
       "id": "wd-tech-2",
       "section": "world",
       "category": "technology",
-      "headline": "Huawei found guilty of stealing trade secrets in a US trial, but cleared of the biggest charge",
-      "dek": "A Brooklyn jury convicted the Chinese tech giant on 10 of 12 counts, including bank fraud. It was acquitted of racketeering.",
-      "caveman": "Huawei is a huge Chinese company that makes phones and telecom equipment. US prosecutors charged it in 2019, after its top executive Meng Wanzhou was arrested in Canada in 2018. After a two-month trial in a Brooklyn federal court, a jury found Huawei guilty of 10 out of 12 charges, including conspiring to steal trade secrets from rival companies, bank fraud, and conspiring to break US sanctions. Prosecutors said Huawei spent 20 years lying, cheating and stealing to win, including lying to banks about its business in Iran. But the jury said not guilty to the biggest charge, racketeering, which would have meant Huawei acted like a criminal organization. Huawei said that acquittal proves the claims \"lack factual basis\". Its lawyer said the company grew through hard work and innovation and will push for the lowest possible sentence. Sentencing is planned for September 2027, and Huawei is expected to appeal.",
-      "why_it_matters": "This case is part of the bigger tech fight between the US and China over who leads in telecoms, chips and AI.",
-      "camps": "US officials see the verdict as proof that Huawei broke the law and is a security risk. Huawei and many in China see the case as politics, a way for the US to hold back a strong Chinese competitor. The split verdict gives both sides something to point to.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-      "published": "2026-11-24",
+      "headline": "US regulator lets SpaceX put up to 1 million AI computer satellites in orbit",
+      "dek": "The plan, called Starmind, would run AI data centers in space on solar power. Astronomers and rivals warn of space junk.",
+      "caveman": "AI needs huge buildings full of computers called data centers. They use enormous amounts of electricity. Elon Musk's SpaceX wants to put that computing in space instead, on satellites powered by the sun. On Wednesday, the Federal Communications Commission (FCC), which controls who can use radio signals and satellites in the US, approved SpaceX's plan for up to 1 million such satellites, called the Starmind constellation. FCC chairman Brendan Carr said it would 'extend America's lead' in AI. Amazon, which is building its own satellite internet, had asked the FCC to say no, calling the plan a 'lofty ambition rather than a real plan'. The American Astronomical Society also objected. One astrophysicist warned it could ruin the night sky and set off a chain of crashes between pieces of space junk. The FCC said environmental and astronomy worries were outside its authority. Google and Blue Origin are also chasing space-based computing.",
+      "why_it_matters": "If it works, AI could grow without as many power-hungry data centers on Earth. If it goes wrong, crowded orbits could make space dangerous for everyone's satellites.",
+      "camps": "Supporters say space computing is clean, solar-powered and keeps the US ahead of China. Critics say 1 million satellites is an untested idea, that one company is getting control of a shared resource, and that the regulator ignored real risks to astronomy and safety.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25",
       "image": "images/wd-tech-2.jpg",
-      "image_alt": "Court sketch of Huawei defence lawyer Brian Heberlig giving closing arguments",
-      "image_credit": "Image: Reuters/Jane Rosenberg",
+      "image_alt": "An illustration of a satellite orbiting above Earth",
+      "image_credit": "Image: CNBC",
       "terms": [
         {
-          "term": "trade secrets",
-          "explain": "Private business information, like designs or methods, that gives a company an edge.",
+          "term": "FCC",
+          "explain": "Federal Communications Commission: the US agency that regulates radio, TV, phone networks and satellites.",
           "aliases": []
         },
         {
-          "term": "racketeering",
-          "explain": "Running a business like a criminal organization; a serious US federal charge.",
+          "term": "data center",
+          "explain": "A building full of computers that store data and run online services and AI.",
           "aliases": [
-            "RICO"
+            "data centers",
+            "datacenter"
           ]
         },
         {
-          "term": "sanctions",
-          "explain": "Penalties one country puts on another, such as bans on trade.",
+          "term": "constellation",
+          "explain": "Here, a large group of satellites that work together.",
           "aliases": []
         },
         {
-          "term": "acquitted",
-          "explain": "Found not guilty.",
+          "term": "space junk",
+          "explain": "Broken satellites and debris left in orbit that can crash into working satellites.",
           "aliases": [
-            "acquittal"
+            "debris"
           ]
         }
       ]
@@ -257,40 +271,40 @@
       "id": "wd-tech-3",
       "section": "world",
       "category": "technology",
-      "headline": "New York's top court: Facebook, YouTube and Reddit are not liable for the Buffalo racist shooting",
-      "dek": "In a 4-3 vote, judges dismissed lawsuits saying the platforms helped radicalize the gunman who killed 10 Black people.",
-      "caveman": "In May 2022, a white gunman, Payton Gendron, killed 10 Black people and wounded three others at a Tops supermarket in Buffalo, New York. He had absorbed racist conspiracy theories online. He is now serving a life sentence. Survivors and victims' families sued social media companies, saying their platforms were designed to push extreme content and keep users hooked, and that this helped turn him into a killer. On Monday, New York's highest court, the Court of Appeals, ruled 4-3 to throw out the lawsuits against Meta (Facebook and Instagram), Alphabet (Google and YouTube) and Reddit. The majority said the families did not show the shooting was a \"natural and foreseeable consequence\" of how the platforms were built. Three judges disagreed and said the case should go forward. Claims against other apps and Amazon, which owns Twitch, where he livestreamed the attack, were also dismissed. One family's lawyer said they are looking at their legal options.",
-      "why_it_matters": "Courts are deciding how much tech companies are responsible for what their designs do to people. The answer shapes what apps are allowed to do to keep us scrolling.",
-      "camps": "Families and online-safety groups say platforms profit from addictive, extreme content and should pay when it leads to harm. The companies and many free-speech advocates say the blame belongs to the killer, and that making platforms liable could lead them to remove far more speech.",
+      "headline": "New York bans AI chatbot toys for five years",
+      "dek": "Governor Kathy Hochul signed the law after tests found talking toys discussing violence and sex with children.",
+      "caveman": "Some new toys, like talking teddy bears and robots, connect to the internet and use AI chatbots to have conversations with kids. On Wednesday, New York governor Kathy Hochul signed a law that bans making or selling these toys in the state for five years. She said parents 'should not have to worry that dangerous chatbots disguised as toys' could show kids inappropriate things, play with their feelings, or collect private information. A study by NBC News found one toy cat, sold for children as young as three, talked about firing squads and massacres. A consumer watchdog report called Trouble in Toyland found AI toys that discussed sexual topics and told kids where to find matches at home. New York's attorney general Letitia James said her office would enforce the law. Hochul has also paused new AI data center building in the state for one year.",
+      "why_it_matters": "Little children trust their toys. A toy that can say anything, and record what a child says, raises safety and privacy worries that older toy rules never imagined.",
+      "camps": "Supporters say children are not test subjects for unfinished AI and a pause gives time to write proper safety rules. Toy and tech companies may argue a full ban is too broad, blocks useful learning toys, and that safety standards would be better than banning a whole product type.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "published": "2026-11-25",
       "image": "images/wd-tech-3.jpg",
-      "image_alt": "People gather at a memorial outside the Tops market in Buffalo in May 2022",
-      "image_credit": "Photograph: Spencer Platt/Getty Images",
+      "image_alt": "New York governor Kathy Hochul speaks at a roundtable",
+      "image_credit": "Photograph: Michael M Santiago/Getty Images",
       "terms": [
         {
-          "term": "liable",
-          "explain": "Legally responsible, so you can be made to pay for harm.",
+          "term": "chatbot",
+          "explain": "A computer program that talks with people in text or voice, like ChatGPT.",
           "aliases": [
-            "liability"
+            "AI chatbot"
           ]
         },
         {
-          "term": "Court of Appeals",
-          "explain": "New York State's highest court (in most states this is called the supreme court).",
+          "term": "governor",
+          "explain": "The elected leader of a US state.",
           "aliases": []
         },
         {
-          "term": "radicalize",
-          "explain": "To push someone toward extreme beliefs, sometimes violent ones.",
+          "term": "attorney general",
+          "explain": "A state's top lawyer, who enforces its laws.",
           "aliases": []
         },
         {
-          "term": "dissent",
-          "explain": "A judge's written disagreement with the majority ruling.",
+          "term": "watchdog",
+          "explain": "A group that checks on companies or governments to protect the public.",
           "aliases": [
-            "dissenters"
+            "consumer watchdog"
           ]
         }
       ]
@@ -299,40 +313,41 @@
       "id": "wd-tech-4",
       "section": "world",
       "category": "technology",
-      "headline": "Signal starts blocking AI assistants from reading your private chats on screen",
-      "dek": "Built-in AI helpers like Gemini and Siri can \"see\" your screen. Signal says that is a privacy problem.",
-      "caveman": "Signal is a messaging app known for privacy. New AI assistants built into phones, like Google's Gemini and Apple's Siri with \"onscreen awareness,\" can read whatever is on your screen, which could include your private Signal messages. Signal says that data could then be stored outside its control. So it will block screenshots in its iPhone app, and on Android it will turn on screen protection when it detects an AI assistant trying to read the screen. Signal Foundation president Meredith Whittaker said app makers lack good tools to stop AI agents and called on Apple, Google and Microsoft to provide them. She admitted the fix does not cover everything, such as content already stored on the phone. Signal also warned that agents like Meta's Muse could get access through permissions users give during setup. United Airlines, JPMorgan Chase and Charles Schwab have also moved to limit outside AI agents. One survey found 88.4% of 750 organizations had at least one AI-agent-related security breach in the past year.",
-      "why_it_matters": "AI agents are being sold as helpers that do tasks for you. To do that, they need to see your stuff, and that clashes with privacy.",
-      "camps": "Privacy advocates cheer Signal for drawing a line. AI companies argue that agents only work if they can see context, and that users choose to turn them on. Some users may find the blocks annoying when they want help.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-      "published": "2026-11-24",
+      "headline": "Meta staff warn its switch to AI moderators is 'really a mess'",
+      "dek": "Insiders say human safety teams were cut by half or more, and the AI makes mistakes, especially outside English.",
+      "caveman": "Every day, people post huge amounts of content on Facebook and Instagram. 'Moderation' means checking posts and removing things that break the rules, like violence or hate. Meta, which owns these apps, has used some AI for this since 2017. In March, it said it was 'transforming' its approach with more advanced AI. Now several Meta employees have told the Guardian that this came with mass layoffs, leaving 'skeleton teams' of human moderators, some cut by half or two-thirds. One said that when they went to talk to a moderation team, the whole team was gone. Employees say the AI struggles with nuance, meaning the small details that change what a post means, especially in languages other than English. It often removes posts that should stay up, which could have big political effects. Meta has long looked for cheap moderation: former outsourced moderators in Kenya sued over trauma after being paid as little as $1.50 an hour.",
+      "why_it_matters": "What gets removed or left up on Facebook and Instagram shapes what billions of people see, including news and elections.",
+      "camps": "Meta says AI lets it enforce rules faster and more consistently at huge scale. Critics, including some of its own staff, say cutting humans saves money at the cost of accuracy and fairness, and hurts users in poorer countries and non-English languages most.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+      "published": "2026-11-25",
       "image": "images/wd-tech-4.jpg",
-      "image_alt": "The Signal app shown on a smartphone screen",
-      "image_credit": "Photo: Getty Images",
+      "image_alt": "A man looks at screens in a dark room lit with blue light",
+      "image_credit": "Photograph: Carlos Barría/Reuters",
       "terms": [
         {
-          "term": "AI agent",
-          "explain": "An AI program that can take actions for you, like reading screens, clicking or shopping.",
+          "term": "content moderation",
+          "explain": "Checking what users post online and removing things that break the rules.",
           "aliases": [
-            "AI assistant"
+            "moderators",
+            "moderation"
           ]
         },
         {
-          "term": "screenshot",
-          "explain": "A picture of what is on your screen.",
+          "term": "layoffs",
+          "explain": "When a company fires many workers at once to cut costs.",
           "aliases": []
         },
         {
-          "term": "permissions",
-          "explain": "Settings that decide what an app is allowed to see or do on your device.",
+          "term": "nuance",
+          "explain": "Small differences in meaning, tone or context.",
           "aliases": []
         },
         {
-          "term": "security breach",
-          "explain": "When someone gets into data or systems they should not reach.",
+          "term": "outsourced",
+          "explain": "Work given to another company, often in a cheaper country, instead of done by your own staff.",
           "aliases": [
-            "breach"
+            "outsourcing"
           ]
         }
       ]
@@ -341,41 +356,41 @@
       "id": "wd-pol-1",
       "section": "world",
       "category": "politics",
-      "headline": "Trump may have made up to $15m on Nvidia stock after pushing the board to bring Huang back",
-      "dek": "\"I made the deal,\" Trump told CNBC. His disclosures suggest he may have owned up to 370,000 Nvidia shares.",
-      "caveman": "Jensen Huang co-founded Nvidia in 1993. Its board pushed him out this month after reports that he had three affairs, including one with a suspected Chinese spy and two with employees. Then President Trump stepped in. \"I spoke to them, let me put it that way,\" he told CNBC on Monday. \"And I convinced them ... I made the deal.\" The board brought Huang back, and Nvidia's stock jumped 31.5% that day, adding about $950bn in value. Trump's financial disclosures to the Office of Government Ethics suggest he may have owned as many as 370,000 Nvidia shares as of 30 September, which would mean a gain of up to $15m, as first reported by the Financial Times. A BBC review of his disclosures found he bought Nvidia shares worth between $23m and $86m over two years. The forms give ranges, not exact numbers, so the true amount is not known.",
-      "why_it_matters": "A president has huge power over companies. When he personally helps a company he also owns shares in, people ask whether he is serving the country or his own wallet.",
-      "camps": "Critics, mostly Democrats and ethics experts, say this is a clear conflict of interest and want stricter rules on presidents owning stocks. Trump's supporters say he was protecting a key American company and its workers, and that the stock gain is a side effect, not the reason.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "published": "2026-11-24",
+      "headline": "Israeli judges suggest dropping the most serious charges against Netanyahu",
+      "dek": "They say the bribery case has little chance of conviction. Netanyahu wants the whole trial ended 'immediately'.",
+      "caveman": "Benjamin Netanyahu has been Israel's prime minister for most of the last 17 years. Since 2019 he has been on trial in three corruption cases. He denies all of them and calls them a political 'witch-hunt'. On Wednesday, the judges told the attorney general, Israel's top legal officer, that there was little chance of convicting him of bribery in the biggest case, Case 4000. That case accuses him of giving favors to a telecoms boss in return for good news coverage. The judges also doubted whether a second case was a crime at all, and suggested a plea deal in a third case, about gifts like cigars and champagne from a billionaire. The attorney general said she would consider it. This helps Netanyahu politically: after an unclear election last month, his rival Gadi Eisenkot is trying to build a government, and Netanyahu is fighting to stay in power.",
+      "why_it_matters": "Netanyahu's legal fights have shaped Israel's politics, including his plans to change the courts and his reliance on far-right partners, which affects war and peace in the region.",
+      "camps": "Netanyahu and his supporters say the cases were weak from the start and the trial was a political attack. His opponents say his fear of prison has warped his decisions as leader, and that ending the trial would send a message that powerful people escape accountability.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+      "published": "2026-11-25",
       "image": "images/wd-pol-1.jpg",
-      "image_alt": "Jensen Huang with Donald Trump at a summit in Washington DC last month",
-      "image_credit": "Photograph: Evan Vucci/Reuters",
+      "image_alt": "Benjamin Netanyahu speaking and pointing",
+      "image_credit": "Photo: EPA",
       "terms": [
         {
-          "term": "conflict of interest",
-          "explain": "When a person in power could personally gain from a decision they make in their job.",
-          "aliases": []
-        },
-        {
-          "term": "financial disclosure",
-          "explain": "A form officials must file listing what they own, often in ranges.",
+          "term": "bribery",
+          "explain": "Giving or taking money or favors to get someone to misuse their power.",
           "aliases": [
-            "disclosures"
+            "bribe"
           ]
         },
         {
-          "term": "Office of Government Ethics",
-          "explain": "The US agency that collects officials' financial forms and gives ethics advice.",
+          "term": "attorney general",
+          "explain": "In Israel, the government's top legal adviser, who decides on prosecutions.",
           "aliases": []
         },
         {
-          "term": "board",
-          "explain": "The group of people who oversee a company and can hire or fire the CEO.",
+          "term": "plea deal",
+          "explain": "An agreement where the accused admits to a smaller charge in return for a lighter outcome.",
           "aliases": [
-            "board of directors"
+            "plea bargain"
           ]
+        },
+        {
+          "term": "coalition",
+          "explain": "When several parties join together to form a government because none has a majority alone.",
+          "aliases": []
         }
       ]
     },
@@ -383,40 +398,40 @@
       "id": "wd-pol-2",
       "section": "world",
       "category": "politics",
-      "headline": "Former French president Sarkozy and his wife Carla Bruni will face trial over a recanted witness",
-      "dek": "Prosecutors say a scheme called \"Save Sarko\" pushed a key witness to take back his claims about Libyan money.",
-      "caveman": "Nicolas Sarkozy was president of France from 2007 to 2012. He was convicted of conspiring to fund his 2007 campaign with money from Libya's late dictator Muammar Gaddafi, and became the first former French president to go to jail, though he spent only 20 days behind bars. A ruling on his appeal is expected next Monday. Now he and his wife, Carla Bruni-Sarkozy, a former supermodel and singer, will face a separate trial next year. A businessman, Ziad Takieddine, had said he had proof that Libya gave Sarkozy's campaign about 50 million euros. In 2020 he took back his claims. Investigators decided the retraction was not sincere and looked into an alleged operation nicknamed \"Save Sarko.\" The couple will be tried for criminal conspiracy to commit fraud and benefiting from witness tampering. Both deny wrongdoing. Takieddine died last year.",
-      "why_it_matters": "It shows that even a former head of state can be put on trial, a key sign that the law applies to everyone.",
-      "camps": "Supporters of the cases say they prove French courts are independent and treat powerful people like anyone else. Sarkozy and his allies say he is being hounded by judges and that the cases are unfair.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
-      "published": "2026-11-24",
+      "headline": "China investigates Shanghai party boss Chen Jining in Xi's widening purge",
+      "dek": "He is the fourth member of the 24-person politburo to be probed since 2025. Such announcements usually mean a political downfall.",
+      "caveman": "China is run by the Communist party, and its most powerful group is the politburo, about two dozen top leaders. Chen Jining is one of them and leads the party in Shanghai, China's biggest financial city. On Tuesday, the state news agency Xinhua said the party's anti-corruption watchdog is investigating him for 'severe violations of discipline and laws', which is a common way of saying corruption. In China, when an official this senior is publicly named, it usually means the end of their career. Chen, 62, is an environmental scientist with a doctorate from Imperial College London. He ran Tsinghua University, then became environment minister, mayor of Beijing, and Shanghai party chief. President Xi Jinping's anti-corruption campaign has already removed three other politburo members and many top military commanders.",
+      "why_it_matters": "Who rises and falls in China's top leadership shapes the country's economy, its military, and its policies toward Taiwan and the world.",
+      "camps": "China's government says the campaign cleans up corruption and makes the party stronger. Outside analysts often say it also removes possible rivals and makes Xi's power even more complete, leaving fewer people who can disagree with him.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+      "published": "2026-11-25",
       "image": "images/wd-pol-2.jpg",
-      "image_alt": "Nicolas Sarkozy and Carla Bruni-Sarkozy walk together",
-      "image_credit": "Image: EPA",
+      "image_alt": "Chen Jining, Shanghai's Communist party chief",
+      "image_credit": "Photograph: Carl Court/Reuters",
       "terms": [
         {
-          "term": "witness tampering",
-          "explain": "Illegally pressuring or bribing a witness to change their story.",
+          "term": "politburo",
+          "explain": "The small group of top Communist party leaders who run China.",
           "aliases": []
         },
         {
-          "term": "retraction",
-          "explain": "Taking back something you said before.",
+          "term": "purge",
+          "explain": "Removing many officials from power, often in the name of fighting corruption.",
+          "aliases": []
+        },
+        {
+          "term": "Xinhua",
+          "explain": "China's official state-run news agency.",
+          "aliases": []
+        },
+        {
+          "term": "party secretary",
+          "explain": "The top Communist party official in a city or province; more powerful than the mayor.",
           "aliases": [
-            "recanted",
-            "retract"
+            "party chief",
+            "party boss"
           ]
-        },
-        {
-          "term": "appeal",
-          "explain": "Asking a higher court to change a ruling.",
-          "aliases": []
-        },
-        {
-          "term": "conspiracy",
-          "explain": "When people plan together to do something illegal.",
-          "aliases": []
         }
       ]
     },
@@ -424,41 +439,40 @@
       "id": "wd-pol-3",
       "section": "world",
       "category": "politics",
-      "headline": "South Korea tells island residents to take shelter as Russian warplanes approach",
-      "dek": "An air-raid alert went out on Ulleungdo for three minutes. Seoul summoned Russia's defence attaché to protest.",
-      "caveman": "Ulleungdo is a small volcanic island of about 8,700 people, 120km off South Korea's east coast. Early Tuesday morning, several Russian military planes entered South Korea's air defence identification zone and flew toward the island. The military said they came \"to the point just before violating\" its airspace, so it warned residents ahead of time. At 7:52am, phones on the island got an emergency alert. The English part said: \"EVACUATION, AIR RAID.\" TV broadcasts told people to get ready to go to underground shelters. Sirens sounded, and South Korean fighter jets were sent up before the Russian planes left. The alert was lifted at 7:55am. Some residents were scared; one man said an elderly neighbor called to ask if war had started. Others said they did not hear the sirens at all. South Korea's defence ministry summoned Russia's defence attaché to lodge a strong protest.",
-      "why_it_matters": "Russia and China have been flying military planes closer to their neighbors. These flights test defenses and raise the risk of an accident turning into something worse, in a region close to Taiwan.",
-      "camps": "Seoul calls the flight a dangerous provocation. Some residents and critics questioned the alert itself, saying an \"air raid\" message for a few minutes scared older people without telling them what to do.",
+      "headline": "Kilmar Ábrego García, symbol of Trump's deportation fight, leaves the US for Spain",
+      "dek": "He was wrongly deported to a Salvadoran mega-prison in 2025. Now he says he is leaving 'with my freedom'.",
+      "caveman": "Kilmar Ábrego García, 31, is from El Salvador. He lived in Maryland, is married to an American woman, and in 2019 a judge ruled he could not be sent back to El Salvador because a gang had threatened his family. He was allowed to live and work in the US under supervision. But in 2025 the Trump administration deported him anyway, to Cecot, a notorious prison in El Salvador, along with more than 200 others. An official later called it an 'administrative error'. After a public outcry and court fights, he was returned to the US. On Wednesday he landed in Madrid, Spain, leaving the US by his own choice. Immigration agents removed his ankle monitor at the airport. 'This time I'm leaving with my freedom, not like before when they took me out inhumanely,' he said. 'My family and I will decide our future.'",
+      "why_it_matters": "His case became a test of whether the government must follow court orders and give people due process, even in a mass deportation drive.",
+      "camps": "The Trump administration has called him a dangerous gang member and says deportations make the country safer; he denies gang ties and was never convicted of such a crime. Immigrant rights groups and many judges say his case shows how mass deportation can trample basic legal rights.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+      "published": "2026-11-25",
       "image": "images/wd-pol-3.jpg",
-      "image_alt": "TV news broadcast showing a warning message for the island of Ulleungdo",
-      "image_credit": "Photograph: Jung Yeon-Je/AFP/Getty Images",
+      "image_alt": "Kilmar Ábrego García gives a thumbs-up from a car at Madrid airport",
+      "image_credit": "Photograph: Óscar del Pozo/AFP/Getty Images",
       "terms": [
         {
-          "term": "air defence identification zone",
-          "explain": "A wide area around a country where it asks foreign planes to identify themselves; it is bigger than its actual airspace.",
+          "term": "deport",
+          "explain": "To force someone to leave a country and send them to another.",
           "aliases": [
-            "ADIZ"
+            "deportation",
+            "deported"
           ]
         },
         {
-          "term": "airspace",
-          "explain": "The sky directly above a country's land and sea, which it controls.",
+          "term": "due process",
+          "explain": "The right to fair legal steps, like a hearing, before the government punishes you.",
           "aliases": []
         },
         {
-          "term": "defence attaché",
-          "explain": "A military officer who works at an embassy.",
+          "term": "ICE",
+          "explain": "Immigration and Customs Enforcement, the US agency that arrests and deports immigrants.",
           "aliases": []
         },
         {
-          "term": "scrambled",
-          "explain": "When fighter jets are quickly sent up to meet unknown planes.",
-          "aliases": [
-            "scramble"
-          ]
+          "term": "Cecot",
+          "explain": "A huge high-security prison in El Salvador built for gang suspects.",
+          "aliases": []
         }
       ]
     },
@@ -466,38 +480,38 @@
       "id": "wd-pol-4",
       "section": "world",
       "category": "politics",
-      "headline": "Spain votes Sunday after a housing crisis; the left's Ada Colau calls for a 'rental revolution'",
-      "dek": "The eviction of an 87-year-old woman sparked nationwide protests and a snap election. Polls favor the right.",
-      "caveman": "In September, an 87-year-old woman named Maricarmen Abascal was evicted from her Madrid apartment. People were furious, and protests spread across Spain. Prime Minister Pedro Sánchez's Socialist government proposed new housing laws, but right-wing parties and Catalan nationalists voted them down, so he called a snap election for this Sunday. Ada Colau, the former mayor of Barcelona and candidate of a new left-wing alliance called the Broad Front, told the Guardian: \"We want to reform the entire rental sector.\" She said her support for a Socialist-led government would depend on taking properties from \"vulture funds,\" investors who buy up homes to profit from them. Polls say the conservative People's Party (PP) will win the most seats but not a majority, which could make the far-right Vox party the kingmaker. That would bring the far right into government for the first time since Spain became a democracy after the Franco dictatorship.",
-      "why_it_matters": "Housing costs are a crisis in many countries, from Spain to Taiwan. Spain shows how anger about rent can reshape a whole election.",
-      "camps": "The left says the market has failed renters and wants strong controls and public housing. The right says rent controls scare off builders and landlords, which makes the shortage worse, and that the answer is building more homes. Many voters simply want lower rent, whoever delivers it.",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
-      "published": "2026-11-24",
+      "headline": "Leaked Russian records show nearly 500,000 soldiers dead in the Ukraine war",
+      "dek": "BBC Russian analysed 11 million hacked death records. Russia's government says only its defence ministry can report losses.",
+      "caveman": "Russia does not tell its people how many soldiers have died in its war in Ukraine, which began in February 2022. Hackers from Belarus and Ukraine broke into Rosstat, Russia's official statistics agency, and leaked more than 11 million death records from 2021 to September 2026. The BBC's Russian service, with the independent outlet Mediazona, studied them. They counted deaths linked to combat, like explosions and shrapnel, and removed women and men outside fighting age so civilians wouldn't be counted. Their result: at least 490,334 Russian soldiers dead. The data also show terrible local costs: about 20,000 Russians died fighting for 10 Ukrainian villages that had 12,000 people before the war. In one village of 74 people, 1,122 Russians died. Russia's statistics agency admitted a cyber-attack but denied protected data leaked. The Kremlin said no other numbers should be trusted.",
+      "why_it_matters": "Real death numbers help people inside Russia and outside understand the true human cost of the war, which governments often hide.",
+      "camps": "The Kremlin says only its own defence ministry can give official figures, and dismisses leaked data. Independent journalists say official silence is the problem, and careful checking of leaked records is one of the few ways to learn the truth. Ukraine's own losses are also disputed.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+      "published": "2026-11-25",
       "image": "images/wd-pol-4.jpg",
-      "image_alt": "Ada Colau, leader of Spain's left-wing Broad Front coalition",
-      "image_credit": "Photograph: Joan Mateu Parra/AP",
+      "image_alt": "Russian flags and crosses at a military cemetery",
+      "image_credit": "Photo: AFP via Getty Images",
       "terms": [
         {
-          "term": "snap election",
-          "explain": "An election called earlier than planned.",
+          "term": "Rosstat",
+          "explain": "Russia's official government statistics agency.",
           "aliases": []
         },
         {
-          "term": "eviction",
-          "explain": "Forcing a tenant to leave their home.",
+          "term": "Kremlin",
+          "explain": "The seat of Russia's government in Moscow; often means Putin's government.",
+          "aliases": []
+        },
+        {
+          "term": "leak",
+          "explain": "When secret information is released to the public without permission.",
           "aliases": [
-            "evicted"
+            "leaked"
           ]
         },
         {
-          "term": "kingmaker",
-          "explain": "A smaller party whose support decides who gets to govern.",
-          "aliases": []
-        },
-        {
-          "term": "vulture funds",
-          "explain": "A critical name for investment funds that buy cheap property or debt to make big profits.",
+          "term": "shrapnel",
+          "explain": "Sharp metal pieces thrown out by an exploding bomb or shell.",
           "aliases": []
         }
       ]
@@ -506,41 +520,41 @@
       "id": "wd-lit-1",
       "section": "world",
       "category": "literature",
-      "headline": "Bob Woodward, the Watergate reporter, turns his famous questions on himself in a new memoir",
-      "dek": "\"Secrets: A Reporter's Memoir\" came out Tuesday. At 83, he names some anonymous sources and admits stories he got wrong.",
-      "caveman": "Bob Woodward is the reporter who, with Carl Bernstein, uncovered the Watergate scandal that forced President Richard Nixon to resign in 1974. Since then he has written many inside-look books about presidents. His new book, Secrets: A Reporter's Memoir, came out on Tuesday. In it, he writes about his own life: a broken family (his mother left his father for his father's best friend), lucky chances that shaped his career, and stories he did not get right. He says his book on Bill Clinton's White House missed the bigger story of peace and prosperity: \"that's my fault.\" Before the Iraq War, he buried an official's admission that there was no proof of weapons of mass destruction in the 16th paragraph. \"That should have been the lead,\" he says. He also reveals some anonymous sources, either because they have died or gave permission. And he criticizes Washington Post owner Jeff Bezos for staying silent on Trump's attacks on the press, though he says Bezos has not meddled in the news.",
-      "why_it_matters": "Woodward is a living legend of American journalism. His regrets are a lesson in how even great reporters can miss the real story.",
-      "camps": "Admirers praise his honesty about his own mistakes. Some journalists question his choice to reveal sources after they die, because reporters usually promise to protect sources forever. Hot right now: the book is one of the season's big releases, backed by a major NPR interview.",
-      "source_name": "NPR",
-      "source_url": "https://www.npr.org/2026/11/24/nx-s1-5759049/bob-woodward-secrets-memoir",
-      "published": "2026-11-24",
+      "headline": "Hot: Patrick Radden Keefe's London Falling wins Waterstones book of the year",
+      "dek": "The American New Yorker writer's true story of a teenager's mysterious death became a word-of-mouth hit.",
+      "caveman": "Patrick Radden Keefe is an American journalist at the New Yorker, known for nonfiction that reads like a thriller, such as Empire of Pain, about the family behind OxyContin. His new book, London Falling, has been named book of the year by Waterstones, Britain's biggest bookshop chain. It is about Zac Brettler, a 19-year-old who fell to his death from the balcony of a luxury London flat after pretending to be the son of a rich Russian oligarch. The book follows his parents as they discover the dark world of money and fantasy their son had been pulled into. Waterstones' head of books said its word-of-mouth success was one of the defining features of the literary year. Keefe says the book is really about family, and 'how little we sometimes know the very people we love most'. Also honored: Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, named fiction book of the year.",
+      "why_it_matters": "Keefe is one of the biggest names in American narrative nonfiction, and prizes like this push a book to millions more readers.",
+      "camps": "Fans praise Keefe's deep research and gripping storytelling. Some critics of true-crime-style nonfiction ask whether turning a real family's tragedy into a bestseller can feel uncomfortable, even when the writing is careful.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
+      "published": "2026-11-26",
       "image": "images/wd-lit-1.jpg",
-      "image_alt": "Bob Woodward smiles at his home in Washington",
-      "image_credit": "Photo: J. Scott Applewhite/AP",
+      "image_alt": "Author Patrick Radden Keefe sitting in a room by a window",
+      "image_credit": "Photograph: Maria Spann/The Guardian",
       "terms": [
         {
-          "term": "memoir",
-          "explain": "A book in which a person tells the story of their own life.",
-          "aliases": []
-        },
-        {
-          "term": "Watergate",
-          "explain": "A 1970s scandal over a break-in and cover-up by President Nixon's team; it led to his resignation.",
-          "aliases": []
-        },
-        {
-          "term": "anonymous source",
-          "explain": "A person who gives a reporter information on the promise their name will not be printed.",
+          "term": "nonfiction",
+          "explain": "Writing about real events and people, not made-up stories.",
           "aliases": [
-            "confidential source"
+            "narrative nonfiction"
           ]
         },
         {
-          "term": "the lead",
-          "explain": "The opening of a news story, where the most important fact should go.",
+          "term": "oligarch",
+          "explain": "A very rich businessperson with political power, often used for Russian tycoons.",
+          "aliases": []
+        },
+        {
+          "term": "word of mouth",
+          "explain": "When people hear about something from friends rather than ads.",
           "aliases": [
-            "lede"
+            "word-of-mouth"
           ]
+        },
+        {
+          "term": "Waterstones",
+          "explain": "The largest chain of bookshops in the UK.",
+          "aliases": []
         }
       ]
     },
@@ -548,43 +562,41 @@
       "id": "wd-lit-2",
       "section": "world",
       "category": "literature",
-      "headline": "How Hemingway fought his publisher, and Boston police, over swear words in 'A Farewell to Arms'",
-      "dek": "A new history of American profanity, 'Four-Letter Nation,' shows how a 1929 magazine cut his dirty words and Boston banned it anyway.",
-      "caveman": "Literary Hub ran an excerpt from Four-Letter Nation: The Long, Dirty History of American Profanity by historian Steven H. Jaffe (Simon & Schuster). It tells how, in 1929, Scribner's Magazine began printing Ernest Hemingway's war novel A Farewell to Arms in parts, but cut out his swear words. Hemingway was angry; he wanted \"full use of the language.\" His editor, Maxwell Perkins, got a few words put back for the book version, and Hemingway turned others into phrases like \"Go something yourself.\" Even so, Boston's police chief banned the June issue of the magazine from sale for being \"salacious.\" Boston was famous for banning books it called indecent. Jaffe also notes that Hemingway's first novel, The Sun Also Rises, was almost rejected, yet it went on to sell about a million copies by his death in 1961, and young people started talking like his characters.",
-      "why_it_matters": "Fights over \"bad words\" in books are fights over who decides what adults may read. Book bans are a hot topic in the US again today.",
-      "camps": "Free-speech advocates see Hemingway as a hero who pushed literature toward real speech. Others then, and some parents and officials now, argue that communities have a right to set limits on what is sold or taught, especially to young readers.",
+      "headline": "Hot: November's best-reviewed books, from Tom Drury's West of Loveland to James Gleick's The Telephone",
+      "dek": "Lit Hub's Book Marks counted the critics. Americans Drury, Gleick and Nick Paumgarten are among the month's favorites.",
+      "caveman": "Book Marks is Lit Hub's site that collects reviews from many newspapers and magazines, so you can see which new books critics like most. Its November lists are out. Top fiction: Stations by Irish writer Louise Kennedy, Long Wave by Daisy Johnson, and West of Loveland by American novelist Tom Drury, praised as a 'deeply humane' story about fate and the hidden threads between ordinary lives. Top nonfiction: Hermione Lee's biography of the novelist Anita Brookner, The Intangibles by New Yorker writer Nick Paumgarten, about friendship, fatherhood and hockey, and The Telephone: A New History by James Gleick. One critic said Gleick's book 'should be required reading for digital natives', people who grew up with smartphones. A biography of Peruvian writer Mario Vargas Llosa and a book about J.R.R. Tolkien also made the list.",
+      "why_it_matters": "Review roundups help readers find the books critics agree on, instead of only the ones with the biggest marketing budgets.",
+      "camps": "Supporters say collecting many reviews gives a fairer picture than one critic. Skeptics note that review lists still favor books from big publishers that get reviewed in the first place, so smaller and debut writers can be left out.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/when-a-farewell-to-arms-was-censored-for-foul-language/",
-      "published": "2026-11-24",
+      "source_url": "https://lithub.com/novembers-best-reviewed-fiction-2026/",
+      "published": "2026-11-25",
       "image": "images/wd-lit-2.jpg",
-      "image_alt": "Illustrated cover art for A Farewell to Arms",
+      "image_alt": "Book cover art showing a lighthouse sending out beams of light",
       "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "profanity",
-          "explain": "Swear words or rude language.",
+          "term": "critic",
+          "explain": "A person whose job is to judge and review books, films or art.",
           "aliases": [
-            "four-letter words"
+            "critics"
           ]
         },
         {
-          "term": "censorship",
-          "explain": "When someone with power blocks or cuts words, books or ideas.",
-          "aliases": [
-            "censored"
-          ]
-        },
-        {
-          "term": "excerpt",
-          "explain": "A short piece taken from a longer book.",
+          "term": "biography",
+          "explain": "A book about a real person's life, written by someone else.",
           "aliases": []
         },
         {
-          "term": "serialize",
-          "explain": "To publish a book in parts, one issue at a time, in a magazine or newspaper.",
+          "term": "digital native",
+          "explain": "Someone who grew up using the internet and smartphones.",
           "aliases": [
-            "serializing"
+            "digital natives"
           ]
+        },
+        {
+          "term": "Book Marks",
+          "explain": "Lit Hub's website that gathers book reviews from many publications.",
+          "aliases": []
         }
       ]
     },
@@ -592,36 +604,40 @@
       "id": "wd-lit-3",
       "section": "world",
       "category": "literature",
-      "headline": "Kylie Cheung's new book says abusers and powerful states win by 'playing the victim'",
-      "dek": "'Playing the Victim' starts with the Johnny Depp-Amber Heard trial and ends with Israel's war in Gaza.",
-      "caveman": "In 2022, journalist Kylie Cheung was reporting on sexual assault and domestic violence for Jezebel when the defamation trial between Johnny Depp and Amber Heard was streamed live. She saw Depp's team use a tactic psychologists call DARVO: Deny, Attack, Reverse Victim and Offender. In her new book, Playing the Victim: How Empires and Abusers Fake Victimhood to Hold Power, and How We Fight Back (North Atlantic Books), she argues the same playbook is used by powerful institutions: anti-abortion lawmakers, the US immigration system and, as her central example, the Israeli state, which she says is committing genocide in Gaza. In a Lit Hub interview with Samaa Khullar, Cheung said she first thought the trial was \"frivolous\" celebrity news, until she saw a huge wave of misogyny against Heard, whom she calls an obvious survivor. She says many people do not understand how abusers work, and that this makes the tactic powerful.",
-      "why_it_matters": "The book links personal abuse to big politics, a link many feminist writers are making. It also shows how words like \"victim\" can be used as weapons.",
-      "camps": "Supporters say Cheung gives readers a clear tool to see manipulation, from homes to governments. Critics will push back hard: Depp won most of his US defamation case, and Israel and its supporters strongly reject the genocide label, saying it is defending itself after the 7 October 2023 attack. The book is clearly an argument, not a neutral report.",
+      "headline": "Hot: Gloria Steinem's last book, An Unexpected Life, reads as a hopeful farewell",
+      "dek": "The feminist icon, who died this year at 92, still had a full calendar of plans. Her memoir is part life story, part how-to guide.",
+      "caveman": "Gloria Steinem was one of the most famous leaders of the American women's movement. She helped start Ms. Magazine in 1971, in a meeting in her own living room in New York. Her memoir, An Unexpected Life, came out on 22 September. She died this year at 92, with fall interviews, events and an essay still unfinished, so the book became her last word. A new Lit Hub essay by writer Noëlle de Leeuw looks back on the book. Steinem writes about a hard childhood in Toledo, Ohio, caring for her mentally ill mother, and about her years in India, which shaped her belief that sexism and racism must be fought together. The book even has bullet-point tips for organizing, like 'Insist on multiracial women who represent the movement.' She wanted her brownstone home to stay a gathering place for women, and her foundation says it will. Her message: remember how far women have come, and keep going.",
+      "why_it_matters": "Steinem shaped laws, media and everyday life for American women. Her last book is a direct message to the next generation of activists.",
+      "camps": "Admirers see her as a hero who opened doors for millions of women. Critics of the movement she led say it often centered white, middle-class women; Steinem's book itself admits this and urges a more diverse movement.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/kylie-cheung-on-the-fake-victimhood-of-abusers-from-johnny-depp-to-israel/",
-      "published": "2026-11-24",
+      "source_url": "https://lithub.com/gratitude-for-gloria-steinem/",
+      "published": "2026-11-25",
       "image": "images/wd-lit-3.jpg",
-      "image_alt": "Author Kylie Cheung next to the cover of her book Playing the Victim",
-      "image_credit": "Image: Literary Hub / North Atlantic Books",
+      "image_alt": "Gloria Steinem in front of a wall of Ms. Magazine covers",
+      "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "DARVO",
-          "explain": "Deny, Attack, Reverse Victim and Offender: a pattern abusers use to make themselves look like the victim.",
+          "term": "memoir",
+          "explain": "A book in which a person tells stories from their own life.",
           "aliases": []
         },
         {
-          "term": "defamation",
-          "explain": "Saying false things that hurt someone's reputation; you can be sued for it.",
-          "aliases": []
+          "term": "feminism",
+          "explain": "The belief that women should have equal rights and opportunities to men.",
+          "aliases": [
+            "feminist"
+          ]
         },
         {
-          "term": "misogyny",
-          "explain": "Hatred of, or prejudice against, women.",
-          "aliases": []
+          "term": "Ms. Magazine",
+          "explain": "An American feminist magazine co-founded by Gloria Steinem in 1971.",
+          "aliases": [
+            "Ms."
+          ]
         },
         {
-          "term": "genocide",
-          "explain": "Acts meant to destroy a national, ethnic, racial or religious group, in whole or in part.",
+          "term": "second-wave feminism",
+          "explain": "The women's movement of the 1960s-80s, focused on work, family, and bodily rights.",
           "aliases": []
         }
       ]
@@ -630,39 +646,44 @@
       "id": "wd-lit-4",
       "section": "world",
       "category": "literature",
-      "headline": "Debut novelist Carol Davis picks seven books about how buildings tell stories",
-      "dek": "The archivist behind the novel 'Restoration' says a novel is built like a house: frames, passages and windows.",
-      "caveman": "Carol Davis is a writer and archivist whose first novel, Restoration, is out from Rise Books. In a Lit Hub list, she recalls driving through Marin County, California, in 1976 and seeing Frank Lloyd Wright's Marin County Civic Center rise from the hills \"as if a spacecraft had landed.\" That moment started her love of architecture. She says a novel is like a building: it has a frame (beginning, middle and end), passages that lead you from one place to another, and openings that light up or hide a path. Her picks include Gaston Bachelard's The Poetics of Space, Stewart Brand's How Buildings Learn, The Place of Houses by Charles Moore, Gerald Allen and Donlyn Lyndon, and On Architecture by the critic Ada Louise Huxtable. From Huxtable, she takes a lesson: a beautiful building that does not serve the people inside has failed, and a story must serve the reader too.",
-      "why_it_matters": "Lists like this help readers find older classics through a new writer's eyes, and show how ideas from one art feed another.",
-      "camps": "Not a debate story. Fans of \"quiet\" literary fiction will like the idea that rooms hold memory; others may find architecture-as-metaphor a familiar trick. For new authors, a Lit Hub list is a common way to get noticed.",
+      "headline": "Hot and not: Don DeLillo's hockey novel gets a second life, while Barthelme's reissues are ignored",
+      "dek": "Lit Hub's weekly review picks show a disowned DeLillo book riding a hockey-romance wave, and a classic short story writer going quiet.",
+      "caveman": "Every week Lit Hub picks the best book reviews. This week's list says a lot about who is hot and who is not. Hot: Don DeLillo's Amazons, a 1980 novel about a woman playing in the men's hockey league, which DeLillo had long refused to claim. A New Yorker review says it is being republished amid the buzz for hockey romance like Heated Rivalry. Not so hot: Donald Barthelme, a famous experimental short story writer who published 129 stories in the New Yorker. His collections Sixty Stories and Forty Stories were reissued in May, but critic Lauren Oyler, writing in Harper's, says basically no one covered them. Also praised: Daniel Duane's Yosemite Falls, a memoir mixed with history about men obsessed with Yosemite, and about the park's history of violence against Native people. A New York Times review called it 'complicated, disturbing and unforgettable'.",
+      "why_it_matters": "Which old books get brought back, and which get ignored, often depends on trends and marketing, not just quality.",
+      "camps": "Some readers are happy any trend gets people reading serious authors. Others worry that publishers chase viral moods, like hockey romance, while important but less trendy writers fade from view.",
       "source_name": "Literary Hub",
-      "source_url": "https://lithub.com/seven-books-that-show-what-architecture-tells-us-about-storytelling/",
-      "published": "2026-11-24",
+      "source_url": "https://lithub.com/5-book-reviews-you-need-to-read-this-week-24/",
+      "published": "2026-11-25",
       "image": "images/wd-lit-4.jpg",
-      "image_alt": "An old architectural floor plan of a large house",
+      "image_alt": "Cover art showing a bright green apple on a pink background",
       "image_credit": "Image: Literary Hub",
       "terms": [
         {
-          "term": "debut novel",
-          "explain": "An author's first published novel.",
+          "term": "reissue",
+          "explain": "When a publisher prints an old book again, often with a new cover.",
           "aliases": [
-            "debut"
+            "reissued",
+            "republished"
           ]
         },
         {
-          "term": "archivist",
-          "explain": "A person who collects, organizes and protects historical records.",
+          "term": "experimental fiction",
+          "explain": "Stories that break normal rules of plot and form to try new things.",
+          "aliases": [
+            "postmodern"
+          ]
+        },
+        {
+          "term": "short story collection",
+          "explain": "A book made up of many short stories.",
           "aliases": []
         },
         {
-          "term": "metaphor",
-          "explain": "Describing one thing as if it were another, to show how they are alike.",
-          "aliases": []
-        },
-        {
-          "term": "Frank Lloyd Wright",
-          "explain": "A famous American architect (1867-1959) known for buildings that blend into nature.",
-          "aliases": []
+          "term": "disown",
+          "explain": "To refuse to accept something as yours.",
+          "aliases": [
+            "disowned"
+          ]
         }
       ]
     },
@@ -670,39 +691,42 @@
       "id": "wd-soc-1",
       "section": "world",
       "category": "society",
-      "headline": "Gaza declares a meningitis epidemic alert as cases jump to eight times normal",
-      "dek": "272 cases in October alone. Health groups blame destroyed water systems, crowded shelters and sewage.",
-      "caveman": "Meningitis is a dangerous swelling of the protective layers around the brain and spinal cord. It is often caused by germs and can kill, especially children. Gaza's health ministry issued an epidemic alert after 272 cases were reported in October, more than eight times the normal 30 to 50 a month. Fifteen Palestinians have died of it this year. The UN's humanitarian office had earlier counted 413 suspected cases between 27 September and 31 October, about 68% of them in Gaza City. Health groups say the main causes are destroyed infrastructure, packed tents and schools used as shelters, and drinking water mixed with sewage, made worse by winter floods and limits on aid. Before the war, 80% of Gaza's water came from an underground source that is now polluted by seawater and wastewater. Pipelines from Israel were cut at the start of the war and have only partly reopened. The ministry blames Israel for blocking spare parts, cleaning supplies and fuel.",
-      "why_it_matters": "Disease often kills more people after a war than the fighting itself. Clean water and sanitation are the first defense.",
-      "camps": "Aid groups and Gaza's health ministry say Israeli limits on aid and fuel are driving the outbreak. Israel has said in the past that it allows aid in and blames Hamas for diverting supplies. The health ministry in Gaza is run by the Hamas-led authorities, though UN figures show a similar rise.",
+      "headline": "Malawi's hospitals run out of medicine: 'The only free thing is a bed'",
+      "dek": "Patients are told to buy painkillers and drips from private sellers. It is the country's worst medical supply breakdown in over a decade.",
+      "caveman": "Malawi is a poor country in southern Africa. Its public hospitals are supposed to be free. But in Salima district, near Lake Malawi, the main hospital has had no intravenous fluids (drips) for over a week, and has been short of gloves, painkillers, catheter bags and bandages for up to three months. Maureen Msukwa, 25 and pregnant, was handed a scrap of paper telling her to buy paracetamol from a seller across the road. 'The only free thing here is a bed,' she said. The hospital serves more than 500,000 people, mostly poor farmers and fishers, for whom buying supplies is a crushing cost. A big reason is a shortage of foreign currency: Malawi doesn't have enough dollars to import medicines. A wall at one clinic still shows the logo of USAID, the US aid agency that funded clinics in Malawi until the Trump administration shut it down.",
+      "why_it_matters": "When basic medicine runs out, people die from things that are easy to treat, and the poorest families suffer first.",
+      "camps": "Aid groups and many health experts say cuts to foreign aid, like the closing of USAID, are making crises like this worse. Others argue poor countries need to fix their own budgets and economies rather than rely on donors; most agree patients are paying the price meanwhile.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/25/malawi-healthcare-hospitals-drug-shortage-medicines",
+      "published": "2026-11-25",
       "image": "images/wd-soc-1.jpg",
-      "image_alt": "A woman holds her child at al-Aqsa hospital in Deir al-Balah, Gaza",
-      "image_credit": "Photograph: Eyad Baba/AFP/Getty Images",
+      "image_alt": "A health centre wall in Salima with a breastfeeding mural and a USAID logo",
+      "image_credit": "Photograph: Guardian",
       "terms": [
         {
-          "term": "meningitis",
-          "explain": "An infection that causes swelling around the brain and spinal cord; it can be deadly.",
-          "aliases": []
-        },
-        {
-          "term": "epidemic",
-          "explain": "When a disease spreads to many more people than usual in one area.",
-          "aliases": []
-        },
-        {
-          "term": "sanitation",
-          "explain": "Systems for clean water, toilets and getting rid of sewage.",
-          "aliases": []
-        },
-        {
-          "term": "OCHA",
-          "explain": "The UN office that coordinates humanitarian aid in crises.",
+          "term": "intravenous fluids",
+          "explain": "Liquids given through a tube into a vein, often called a drip.",
           "aliases": [
-            "Ocha"
+            "IV",
+            "drip"
           ]
+        },
+        {
+          "term": "foreign currency",
+          "explain": "Money from other countries, like US dollars, needed to buy imports.",
+          "aliases": [
+            "foreign exchange"
+          ]
+        },
+        {
+          "term": "USAID",
+          "explain": "The US Agency for International Development, which gave aid abroad until it was shut down in 2025.",
+          "aliases": []
+        },
+        {
+          "term": "district hospital",
+          "explain": "The main public hospital serving one area of a country.",
+          "aliases": []
         }
       ]
     },
@@ -710,41 +734,39 @@
       "id": "wd-soc-2",
       "section": "world",
       "category": "society",
-      "headline": "Cuba's life expectancy falls for the first time since records began in 1950",
-      "dek": "The WHO chief says life expectancy dropped from 78.8 years to 74.4, and baby deaths more than doubled.",
-      "caveman": "Cuba is an island nation with a communist government and a long-time US trade embargo. On a visit to Havana, World Health Organization chief Tedros Adhanom Ghebreyesus said average life expectancy fell from 78.8 years in 2020 to 74.4 years in 2025, the first drop since records began in 1950. The infant mortality rate more than doubled, from about 4 to 9.9 deaths per 1,000 live births. Maternal deaths also rose. Since January, when Washington threatened sanctions on any country that sends fuel to Cuba, the survival rate for childhood cancer fell from 85% to 65%. The 2025 numbers came before that fuel blockade started. Tedros called the health system \"critical\" and announced $2m for child vaccines and medical equipment. He linked the crisis to sanctions but also to Cuba's \"internal problems,\" and called its new market reforms \"positive.\"",
-      "why_it_matters": "Life expectancy is one of the clearest signs of how a country is doing. A drop of more than four years is very large and very fast.",
-      "camps": "Cuba's government and many on the left blame US sanctions and the fuel blockade. US officials and critics of Havana blame decades of one-party rule and a broken economy. The WHO's view is that both matter.",
+      "headline": "Women killed by men in Ireland nearly doubled this year",
+      "dek": "Thirteen women have died violently in 2026, up from seven last year. Most were killed by a man they knew.",
+      "caveman": "Women's Aid is an Irish charity that helps women facing violence at home. Since 1996 it has counted every woman killed by a man in Ireland: 291 in total. On Wednesday, 25 November, the International Day for the Elimination of Violence against Women, it released new numbers. After falling for about 20 years, these killings began rising again in 2021. So far this year, 13 women have died, almost double the seven of last year. Most victims were killed by a man they knew, and more than half by a current or former partner. The charity's chief executive, Sarah Benson, said that should alarm everyone. She noted that Ireland is rich and has good laws, 'yet women are still being killed by the men closest to them'. Ireland's overall murder rate is still low compared with Europe and the world.",
+      "why_it_matters": "This matches a pattern worldwide: the most dangerous place for a woman is often her own home. Counting these deaths helps push for better protection.",
+      "camps": "Women's rights groups want more funding for shelters, better police training and stronger action on early warning signs like stalking and coercive control. Some point out that small numbers can jump year to year, so long-term trends matter more, but agree any rise is alarming.",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-      "published": "2026-11-24",
+      "source_url": "https://www.theguardian.com/society/2026/nov/25/number-of-women-killed-by-men-in-ireland-almost-doubles-in-a-year",
+      "published": "2026-11-25",
       "image": "images/wd-soc-2.jpg",
-      "image_alt": "Elderly people gather in a shared courtyard in Havana",
-      "image_credit": "Photograph: Adalberto Roque/AFP/Getty Images",
+      "image_alt": "A Dublin mural for Women's Aid reading 'Stop killing women'",
+      "image_credit": "Photograph: Niall Carson/PA",
       "terms": [
         {
-          "term": "life expectancy",
-          "explain": "How long, on average, a person born now is expected to live.",
+          "term": "femicide",
+          "explain": "The killing of a woman or girl because of her gender, often by a partner.",
           "aliases": []
         },
         {
-          "term": "infant mortality",
-          "explain": "How many babies die before their first birthday, per 1,000 born.",
+          "term": "Women's Aid",
+          "explain": "An Irish charity that supports women and children facing domestic abuse.",
           "aliases": []
         },
         {
-          "term": "embargo",
-          "explain": "A government ban on trade with another country.",
+          "term": "domestic violence",
+          "explain": "Abuse by a partner or family member, at home.",
           "aliases": [
-            "blockade"
+            "domestic abuse"
           ]
         },
         {
-          "term": "WHO",
-          "explain": "World Health Organization, the UN's health agency.",
-          "aliases": [
-            "World Health Organization"
-          ]
+          "term": "coercive control",
+          "explain": "A pattern of controlling behavior, like threats or cutting someone off from friends, used to dominate a partner.",
+          "aliases": []
         }
       ]
     },
@@ -752,40 +774,38 @@
       "id": "wd-soc-3",
       "section": "world",
       "category": "society",
-      "headline": "Some US food banks now see more hungry people than at the height of the pandemic, many of them with jobs",
-      "dek": "Wages are not keeping up with prices, and pandemic-era aid has ended or been cut.",
-      "caveman": "Food banks are charities that give free food to people who need it. Greg Silverman runs one in New York, the West Side Campaign Against Hunger. During Covid, he once saw a bus driver stop his bus and run over to ask for food. Now, he says, demand is even higher than during the pandemic, and many people asking for food also have jobs. His group expects to give out as much as 6 million pounds of food this year. Across the US, the Agriculture Department found 13.7% of households, about 18.3 million, did not always have enough food in 2024, higher than every year from 2016 to 2021. Pandemic help like bigger SNAP food benefits, the larger child tax credit and free school meals has ended, and the federal government has also restricted food aid. City Harvest says 1 in 5 New Yorkers now face food insecurity, up from 1 in 8 before the pandemic. \"Your work and your wages are just not keeping up,\" its president said.",
-      "why_it_matters": "Thanksgiving is this week. Hunger in the richest country on Earth shows how living costs can trap working people.",
-      "camps": "Food-bank leaders and many Democrats want SNAP and child benefits restored or expanded. Those who backed the cuts say government aid became too costly and that a stronger job market is the better fix. Charities say they cannot fill the gap alone.",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-      "published": "2026-11-24",
+      "headline": "High prices push many Americans to scale back Thanksgiving",
+      "dek": "A 10-person dinner costs about 6% more than last year. Readers told the Guardian about fewer pies, smaller gatherings and no travel.",
+      "caveman": "Thanksgiving is a big US holiday when families gather for a large meal, usually turkey. This year, higher costs for food, drinks, gas and flights are changing plans. The Guardian asked readers across the country. Some said nothing changed, but many are cutting back. A man in his 60s in Florida said food is 'horribly expensive', so he and his girlfriend are making one pie instead of three, and just one side dish. Cindy Van Vreede, 66, in Wisconsin, said her senior center, where she gets free meals several times a week, will bring a free Thanksgiving dinner to her home, so she will save on gas and not drive two hours each way. The American Farm Bureau Federation estimates a 10-person Thanksgiving dinner costs about 6% more than last year.",
+      "why_it_matters": "Holidays show what everyday prices feel like. When people skip family gatherings to save money, it means budgets are really tight.",
+      "camps": "Some blame tariffs and energy prices for pushing up food costs. Others point to weather, bird flu and supply problems. Many people across politics agree that groceries feel too expensive, even if they disagree on who is to blame.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
+      "published": "2026-11-25",
       "image": "images/wd-soc-3.jpg",
-      "image_alt": "Volunteers hand out boxes at a food bank distribution",
-      "image_credit": "Photo: Getty Images",
+      "image_alt": "A volunteer packs frozen turkeys into a box at a food distribution",
+      "image_credit": "Photograph: The Dallas Morning News/Hearst Newspapers/Getty Images",
       "terms": [
         {
-          "term": "food bank",
-          "explain": "A charity that collects food and gives it free to people in need.",
-          "aliases": [
-            "food pantry"
-          ]
-        },
-        {
-          "term": "food insecurity",
-          "explain": "Not having reliable access to enough food because of money or other limits.",
+          "term": "Thanksgiving",
+          "explain": "A US holiday on the fourth Thursday of November, centered on a family meal.",
           "aliases": []
         },
         {
-          "term": "SNAP",
-          "explain": "The US government food aid program, once called food stamps.",
+          "term": "food bank",
+          "explain": "A charity that collects food and gives it free to people who need it.",
           "aliases": [
-            "food stamps"
+            "food banks"
           ]
         },
         {
-          "term": "child tax credit",
-          "explain": "A tax break for families with children; a bigger version was paid during the pandemic.",
+          "term": "senior center",
+          "explain": "A community place offering meals and activities for older people.",
+          "aliases": []
+        },
+        {
+          "term": "Farm Bureau",
+          "explain": "The American Farm Bureau Federation, a farmers' group that tracks food prices.",
           "aliases": []
         }
       ]
@@ -794,43 +814,40 @@
       "id": "wd-soc-4",
       "section": "world",
       "category": "society",
-      "headline": "Two years after Syria's war, land mines are killing children who return to the fields",
-      "dek": "Nearly 1,000 children have been killed or hurt by explosives since Assad fell. Syria had the second-most mine casualties in the world in 2025.",
-      "caveman": "Land mines are bombs hidden in the ground that explode when someone steps near them. During Syria's 13-year civil war, both government forces and rebels laid them, often without maps. Since Bashar al-Assad's government fell in December 2024, many families have been going home to old front-line villages and farms. On Sunday, 11-year-old Alaa was looking after her family's goats near her home in north-west Syria when an explosion killed her and badly hurt her 10-year-old brother. Her father said demining teams had visited and people thought the fields were safe. The UN Mine Action Service says nearly 1,000 children have now been killed or hurt by explosives since Assad's fall, and 2,701 people in total. A report published Tuesday by the International Campaign to Ban Landmines found 1,602 casualties in Syria in 2025, up more than 50%, second only to Myanmar. More than 60% of the casualties recorded by the Halo Trust, a mine-clearing charity, happened during farming or herding. \"People are taking risks out of desperation,\" said the Halo Trust's Syria programme manager.",
-      "why_it_matters": "Wars do not end when the fighting stops. Explosives left behind keep hurting people, especially children, for years.",
-      "camps": "Everyone agrees mine clearing is urgent. The debate is over money and speed: aid groups say they need far more funding and time, while families who need to farm to survive cannot wait.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
-      "published": "2026-11-24",
+      "headline": "AI data centers are fuelling an illegal tin-mining rush in the Amazon",
+      "dek": "Demand for cassiterite, a tin ore, has drawn criminal miners onto protected Indigenous land. Police even found links to a 90s pop star.",
+      "caveman": "Tin is a metal used to join parts in electronics, including the computers in AI data centers and electric cars. Much of it comes from a rock called cassiterite, which is common in Brazil. As demand grows, prices rise, and that draws illegal miners into the Amazon rainforest. Criminal groups dig without caring about the environment, including on protected Indigenous land like the Yanomami territory, which was already badly harmed by illegal gold mining. People working on this say the tin rush is 'more devastating than gold'. Brazilian police investigating an illegal export network found a connection to Alexandre Pires, a famous pagode singer from the 1990s. He is now under investigation in an operation called Gold Disc. His agent was caught in a message saying he once sent 'crushed rock' because he had no cassiterite. World use of refined tin rose 3% last year.",
+      "why_it_matters": "The tech we use every day has a hidden cost far away. Without clean supply chains, the AI and green-energy boom can destroy forests and Indigenous communities.",
+      "camps": "Environmental and Indigenous groups want tech companies to prove where their metals come from and want stronger policing. Industry says most tin is legal and supply-chain checks are improving; Brazil's government says it is cracking down, but the area is huge and hard to patrol.",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
+      "published": "2026-11-25",
       "image": "images/wd-soc-4.jpg",
-      "image_alt": "A deminer in protective gear works on cleared explosives in a field in Syria",
-      "image_credit": "Image: PA",
+      "image_alt": "A man holds out a handful of cassiterite ore at a mining site in Brazil",
+      "image_credit": "Photograph: Alan Chaves/AFP/Getty Images",
       "terms": [
         {
-          "term": "land mine",
-          "explain": "A hidden bomb in the ground that goes off when someone steps on or near it.",
+          "term": "cassiterite",
+          "explain": "A dark rock that is the main source of tin.",
+          "aliases": []
+        },
+        {
+          "term": "Indigenous",
+          "explain": "The first peoples of a land, like the Yanomami in the Amazon.",
           "aliases": [
-            "landmine",
-            "mines"
+            "Yanomami"
           ]
         },
         {
-          "term": "explosive ordnance",
-          "explain": "Bombs, shells and other weapons that can still explode, including ones that failed to go off.",
+          "term": "supply chain",
+          "explain": "All the steps and companies involved in getting a product from raw material to buyer.",
           "aliases": [
-            "explosive remnants of war"
+            "supply chains"
           ]
         },
         {
-          "term": "demining",
-          "explain": "Finding and safely removing land mines.",
-          "aliases": [
-            "mine clearance"
-          ]
-        },
-        {
-          "term": "casualties",
-          "explain": "People killed or injured.",
+          "term": "pagode",
+          "explain": "A popular style of Brazilian samba music.",
           "aliases": []
         }
       ]
